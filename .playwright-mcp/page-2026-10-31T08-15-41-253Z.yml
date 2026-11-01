@@ -1,0 +1,349 @@
+- generic [active] [ref=f103e1]:
+  - generic [ref=f103e2]:
+    - banner [ref=f103e3]:
+      - generic [ref=f103e4]:
+        - link [ref=f103e5] [cursor=pointer]:
+          - /url: /
+          - img "we work remotely" [ref=f103e6]
+        - navigation [ref=f103e7]:
+          - list [ref=f103e8]:
+            - listitem [ref=f103e9]:
+              - link "Global Payroll" [ref=f103e10] [cursor=pointer]:
+                - /url: https://www.toptal.com/hireglobal/wwr-partnership?utm_source=weworkremotely&utm_medium=referral&utm_campaign=hireglobal_nav_link
+            - listitem [ref=f103e11]:
+              - link "Find Jobs" [ref=f103e12] [cursor=pointer]:
+                - /url: "#"
+                - text: Find Jobs
+                - generic [aria-hidden] [ref=f103e13]: 
+              - text:    
+            - listitem [ref=f103e14]:
+              - link "Community" [ref=f103e15] [cursor=pointer]:
+                - /url: "#"
+                - text: Community
+                - generic [aria-hidden] [ref=f103e16]: 
+              - text:    
+            - listitem [ref=f103e17]:
+              - link "Career Services" [ref=f103e18] [cursor=pointer]:
+                - /url: "#"
+                - text: Career Services
+                - generic [aria-hidden] [ref=f103e19]: 
+            - listitem [ref=f103e20]:
+              - link "About" [ref=f103e21] [cursor=pointer]:
+                - /url: "#"
+                - text: About
+                - generic [aria-hidden] [ref=f103e22]: 
+              - text: 
+            - listitem [ref=f103e23]:
+              - generic [ref=f103e24]:
+                - generic [aria-hidden] [ref=f103e25]: 
+                - textbox "Search" [ref=f103e26]
+            - listitem
+            - listitem [ref=f103e27]:
+              - link "Sign in" [ref=f103e28] [cursor=pointer]:
+                - /url: /account/sign_in?utm_content=sign-in-cta&utm_source=wwr-accounts-nav-top
+            - listitem [ref=f103e29]:
+              - link "Post a job" [ref=f103e30] [cursor=pointer]:
+                - /url: /remote-jobs/find-your-plan?utm_source=wwr-accounts-nav-top
+    - text:               
+    - generic [ref=f103e32]:
+      - generic [ref=f103e33]:
+        - generic [ref=f103e34]:
+          - link "All jobs" [ref=f103e35] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f103e36]: /
+          - link "Full-Stack Programming" [ref=f103e37] [cursor=pointer]:
+            - /url: /categories/remote-full-stack-programming-jobs
+          - generic [ref=f103e38]: /
+          - link "Software engineer" [ref=f103e39] [cursor=pointer]:
+            - /url: /listings/sticker-mule-software-engineer-3
+        - generic [ref=f103e40]:
+          - link:
+            - /url: /company/sticker-mule
+          - generic [ref=f103e41]:
+            - heading "Software engineer" [level=1] [ref=f103e42]
+            - paragraph [ref=f103e44]:
+              - generic [aria-hidden] [ref=f103e45]: 
+              - generic [ref=f103e46]: Posted 20 days ago
+            - generic [ref=f103e47]:
+              - strong [ref=f103e49]: Sticker Mule is the Internet’s best printing company.
+              - generic [ref=f103e50]:
+                - text: We support thousands of customers by hiring the best people in the world. Our team works from 17 countries in 4 continents and is united by a desire to do great work while maintaining a stress-free work environment that’s designed to attract like-minded people who
+                - link "enjoy our culture" [ref=f103e51] [cursor=pointer]:
+                  - /url: https://www.stickermule.com/careers#culture
+                - text: .
+            - generic [ref=f103e52]:
+              - link "Apply now" [ref=f103e55] [cursor=pointer]:
+                - /url: https://jobs.ashbyhq.com/stickermule/6db27241-e2d4-4f35-a2c4-b58d84621843?utm_source=4
+              - link "AI Auto-Apply" [ref=f103e56] [cursor=pointer]:
+                - /url: /career-services/job-copilot
+                - generic [aria-hidden] [ref=f103e57]: 
+                - text: AI Auto-Apply
+              - button "Save job" [ref=f103e58] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f103e59]: 
+                - text: Save job
+      - generic [ref=f103e60]:
+        - generic [ref=f103e62]:
+          - paragraph [ref=f103e63]: Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for that matter, can match what we're doing. We're privately owned, profitable, and doing 9-figures in annual revenue with no meddlesome investors.
+          - heading [level=2] [ref=f103e65]:
+            - strong [ref=f103e66]: How we work
+          - list [ref=f103e67]:
+            - listitem [ref=f103e68]:
+              - paragraph [ref=f103e69]: Small, autonomous teams that own products end-to-end.
+            - listitem [ref=f103e70]:
+              - paragraph [ref=f103e71]: Prioritize what matters right now and pivot instantly when needed.
+            - listitem [ref=f103e72]:
+              - paragraph [ref=f103e73]: Ship across web and mobile from the same codebase. We use Go, TypeScript, React, Expo, GraphQL, Postgres, and run on GCP.
+            - listitem [ref=f103e74]:
+              - paragraph [ref=f103e75]: Use AI aggressively to push the limit of what we can do.
+            - listitem [ref=f103e76]:
+              - paragraph [ref=f103e77]: Move fast, build for the masses, and deprioritize edge cases.
+            - listitem [ref=f103e78]:
+              - paragraph [ref=f103e79]: Fully remote from 40+ countries and collaborate using Asana and Slack.
+          - heading [level=2] [ref=f103e81]:
+            - strong [ref=f103e82]: Requirements
+          - list [ref=f103e83]:
+            - listitem [ref=f103e84]:
+              - paragraph [ref=f103e85]: You are an exceptional full-stack software engineer.
+            - listitem [ref=f103e86]:
+              - paragraph [ref=f103e87]: You use AI aggressively and write well in English.
+              - paragraph [ref=f103e88]
+          - heading [level=2] [ref=f103e89]:
+            - strong [ref=f103e90]: What you will work on
+          - paragraph [ref=f103e91]:
+            - text: You'll help build and scale
+            - strong [ref=f103e92]: Sticker Mule
+            - strong [ref=f103e93]: Pro
+            - text: "— a suite of software tools for creators and businesses:"
+          - list [ref=f103e94]:
+            - listitem [ref=f103e95]:
+              - paragraph [ref=f103e96]: Stores (Shopify alternative)
+            - listitem [ref=f103e97]:
+              - paragraph [ref=f103e98]: AI tools (internal and customer-facing)
+            - listitem [ref=f103e99]:
+              - paragraph [ref=f103e100]: Notify (Mailchimp alternative)
+            - listitem [ref=f103e101]:
+              - paragraph [ref=f103e102]: Reply (Zendesk alternative)
+            - listitem [ref=f103e103]:
+              - paragraph [ref=f103e104]: Hire Me (Contra alternative)
+            - listitem [ref=f103e105]:
+              - paragraph [ref=f103e106]: Mobile apps
+          - heading [level=2] [ref=f103e108]:
+            - strong [ref=f103e109]: Compensation
+          - list [ref=f103e110]:
+            - listitem [ref=f103e111]:
+              - paragraph [ref=f103e112]: "Salary: $150,000–$250,000 USD"
+            - listitem [ref=f103e113]:
+              - paragraph [ref=f103e114]: $20,000 signing bonus
+            - listitem [ref=f103e115]:
+              - paragraph [ref=f103e116]: 4 weeks vacation + country-specific holidays
+            - listitem [ref=f103e117]:
+              - paragraph [ref=f103e118]: Fully remote
+          - separator [ref=f103e119]
+        - generic [ref=f103e120]:
+          - generic [ref=f103e121]:
+            - link [ref=f103e122] [cursor=pointer]:
+              - /url: /company/sticker-mule
+            - generic [ref=f103e123]:
+              - heading [level=3] [ref=f103e125]:
+                - text: Sticker Mule
+                - img "Star Icon" [ref=f103e126]
+              - link "View company" [ref=f103e127] [cursor=pointer]:
+                - /url: /company/sticker-mule
+                - generic [aria-hidden] [ref=f103e129]: 
+              - paragraph [ref=f103e130]: "Jobs posted: 88"
+          - generic [ref=f103e131]:
+            - heading "About the job" [level=2] [ref=f103e132]
+            - list [ref=f103e133]:
+              - listitem [ref=f103e134]:
+                - text: Posted on
+                - generic [ref=f103e135]: 20 days ago
+              - listitem [ref=f103e136]:
+                - text: Apply before
+                - generic [ref=f103e137]: Nov 10th, 2026
+              - listitem [ref=f103e138]:
+                - text: Job type
+                - link [ref=f103e139] [cursor=pointer]:
+                  - /url: /categories/remote-full-stack-programming-jobs
+                  - generic [ref=f103e140]:
+                    - generic [aria-hidden] [ref=f103e141]: 
+                    - text: Full-Time
+              - listitem [ref=f103e142]:
+                - text: Salary
+                - link "$100,000 or more USD" [ref=f103e143] [cursor=pointer]:
+                  - /url: /remote-jobs/salary/100k-plus
+              - listitem [ref=f103e145]:
+                - text: Category
+                - link "Full-Stack Programming" [ref=f103e146] [cursor=pointer]:
+                  - /url: /categories/remote-full-stack-programming-jobs
+              - listitem [ref=f103e148]:
+                - text: Region
+                - link "Anywhere in the World" [ref=f103e150] [cursor=pointer]:
+                  - /url: /100-percent-remote-jobs
+              - listitem
+              - listitem [ref=f103e152]:
+                - text: Skills
+                - generic [ref=f103e153]:
+                  - link "TypeScript" [ref=f103e154] [cursor=pointer]:
+                    - /url: /remote-jobs-typescript
+                  - link "Go" [ref=f103e156] [cursor=pointer]:
+                    - /url: /remote-jobs-go
+            - generic [ref=f103e158]:
+              - link "Apply now" [ref=f103e161] [cursor=pointer]:
+                - /url: https://jobs.ashbyhq.com/stickermule/6db27241-e2d4-4f35-a2c4-b58d84621843?utm_source=4
+              - generic [ref=f103e162]: or
+              - link "Auto-Apply with AI" [ref=f103e166] [cursor=pointer]:
+                - /url: /career-services/job-copilot
+                - generic [aria-hidden] [ref=f103e167]: 
+                - text: Auto-Apply with AI
+              - paragraph [ref=f103e168]: No forms. Just smart, optimized applications.
+          - complementary [ref=f103e169]:
+            - img "Wispr Flow Ad - Job Page promoted banner" [ref=f103e171]
+            - generic [ref=f103e172]:
+              - generic [ref=f103e173]:
+                - paragraph [ref=f103e174]: VOICE DICTATION
+                - heading "Talk. Don't type." [level=3] [ref=f103e175]
+                - paragraph [ref=f103e176]: Write cover letters and job applications just by speaking.
+              - generic [ref=f103e177]:
+                - img "Wispr Flow Ad - Job Page logo" [ref=f103e178]
+                - link "Try it free" [ref=f103e179] [cursor=pointer]:
+                  - /url: /listing_ads/16/click?pk=4acf3b765897b2d94ccc87086ffc636da446c435d2f0f31b67e119d5eac9461b&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxNiwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6Im1haW4iLCJ0cmFja2VyX2RpZ2VzdCI6Ijk2Y2E0MDE3ZTZmMzIzMzg2ZGRlYTBjZWYzYmZiYzBhZTcwOWUzZWU3MWNkMTkxZDc4ZTFiODM4MThkMGU1ODUiLCJwYWdlX2tleSI6IjRhY2YzYjc2NTg5N2IyZDk0Y2NjODcwODZmZmM2MzZkYTQ0NmM0MzVkMmYwZjMxYjY3ZTExOWQ1ZWFjOTQ2MWIiLCJub25jZSI6IjliM2M3M2NkNDY0Yzk2ZmU4NzM0NzhjYjQ4NjM4NzFkIn0sImV4cCI6IjIwMjYtMTAtMzFUMjA6MTU6MzkuNjg3WiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--34436f420b8174ccc5fa707542ab88b14e1160b1&target=main
+              - paragraph [ref=f103e180]: •Promoted
+      - article [ref=f103e183]:
+        - heading [level=2] [ref=f103e184]:
+          - text: Related Jobs
+          - link "Remote Full-Stack Programming jobs →" [ref=f103e186] [cursor=pointer]:
+            - /url: /categories/remote-full-stack-programming-jobs
+            - text: Remote Full-Stack Programming jobs
+            - generic [ref=f103e187]: →
+        - list [ref=f103e188]:
+          - listitem [ref=f103e189]:
+            - generic:
+              - link "Toggl is hiring a remote Senior Full Stack at We Work Remotely.":
+                - /url: /company/toggl
+                - img "Toggl is hiring a remote Senior Full Stack at We Work Remotely." [ref=f103e191] [cursor=pointer]
+            - 'link "Senior Full Stack 4d Boosted listing Toggl HQ: Tallinn, Estonia Boosted Featured Top 100 Full-Time $75,000 - $99,999 USD Anywhere in the World" [ref=f103e192] [cursor=pointer]':
+              - /url: /remote-jobs/toggl-senior-full-stack
+              - generic [ref=f103e193]:
+                - generic [ref=f103e194]:
+                  - heading "Senior Full Stack" [level=3] [ref=f103e195]:
+                    - img [aria-hidden] [ref=f103e197]:  
+                  - generic [ref=f103e198]:
+                    - paragraph [ref=f103e199]: 4d
+                    - generic [aria-hidden] [ref=f103e200]: 
+                    - generic [ref=f103e201]: Boosted listing
+                - paragraph [ref=f103e202]: Toggl
+                - paragraph [ref=f103e203]:
+                  - generic [ref=f103e204]:
+                    - generic [aria-hidden] [ref=f103e205]: 
+                    - text: "HQ:"
+                  - text: Tallinn, Estonia
+                - generic [ref=f103e206]:
+                  - paragraph [ref=f103e207]: Boosted
+                  - paragraph [ref=f103e208]: Featured
+                  - paragraph [ref=f103e209]:
+                    - generic [aria-hidden] [ref=f103e210]: 
+                    - text: Top 100
+                  - paragraph [ref=f103e211]: Full-Time
+                  - paragraph [ref=f103e212]: $75,000 - $99,999 USD
+                  - paragraph [ref=f103e213]: Anywhere in the World
+          - listitem [ref=f103e214]:
+            - generic:
+              - link "Samsara is hiring a remote Staff Software Engineer at We Work Remotely.":
+                - /url: /company/samsara
+                - img "Samsara is hiring a remote Staff Software Engineer at We Work Remotely." [ref=f103e216] [cursor=pointer]
+            - link [ref=f103e217] [cursor=pointer]:
+              - /url: /remote-jobs/samsara-staff-software-engineer
+              - generic [ref=f103e218]:
+                - generic [ref=f103e219]:
+                  - heading "Staff Software Engineer" [level=3] [ref=f103e220]:
+                    - img [aria-hidden] [ref=f103e222]:  
+                  - paragraph [ref=f103e224]: 15d
+                - paragraph [ref=f103e225]: Samsara
+                - paragraph [ref=f103e226]:
+                  - generic [ref=f103e227]:
+                    - generic [aria-hidden] [ref=f103e228]: 
+                    - text: "HQ:"
+                  - text: Remote
+                - generic [ref=f103e229]:
+                  - paragraph [ref=f103e230]: Featured
+                  - paragraph [ref=f103e231]: Full-Time
+                  - paragraph [ref=f103e232]: $100,000 or more USD
+                  - paragraph [ref=f103e233]: 🇺🇸 United States of America
+          - listitem [ref=f103e234]:
+            - generic:
+              - link "Sticker Mule is hiring a remote SI agent engineer at We Work Remotely.":
+                - /url: /company/sticker-mule
+                - img "Sticker Mule is hiring a remote SI agent engineer at We Work Remotely." [ref=f103e236] [cursor=pointer]
+            - 'link "SI agent engineer 15d Boosted listing Sticker Mule HQ: New York, NY Boosted Featured Top 100 Full-Time $100,000 or more USD Anywhere in the World" [ref=f103e237] [cursor=pointer]':
+              - /url: /remote-jobs/sticker-mule-si-agent-engineer
+              - generic [ref=f103e238]:
+                - generic [ref=f103e239]:
+                  - heading "SI agent engineer" [level=3] [ref=f103e240]:
+                    - img [aria-hidden] [ref=f103e242]:  
+                  - generic [ref=f103e243]:
+                    - paragraph [ref=f103e244]: 15d
+                    - generic [aria-hidden] [ref=f103e245]: 
+                    - generic [ref=f103e246]: Boosted listing
+                - paragraph [ref=f103e247]: Sticker Mule
+                - paragraph [ref=f103e248]:
+                  - generic [ref=f103e249]:
+                    - generic [aria-hidden] [ref=f103e250]: 
+                    - text: "HQ:"
+                  - text: New York, NY
+                - generic [ref=f103e251]:
+                  - paragraph [ref=f103e252]: Boosted
+                  - paragraph [ref=f103e253]: Featured
+                  - paragraph [ref=f103e254]:
+                    - generic [aria-hidden] [ref=f103e255]: 
+                    - text: Top 100
+                  - paragraph [ref=f103e256]: Full-Time
+                  - paragraph [ref=f103e257]: $100,000 or more USD
+                  - paragraph [ref=f103e258]: Anywhere in the World
+  - contentinfo [ref=f103e259]:
+    - generic [ref=f103e260]:
+      - link [ref=f103e262] [cursor=pointer]:
+        - /url: "#"
+        - img "footer logo" [ref=f103e263]
+      - generic [ref=f103e264]:
+        - link "Top 100 Companies" [ref=f103e265] [cursor=pointer]:
+          - /url: /top-remote-companies
+        - link "Blog" [ref=f103e266] [cursor=pointer]:
+          - /url: /blog
+        - link "Remote Hiring Guide" [ref=f103e267] [cursor=pointer]:
+          - /url: /remote-work-hiring-guide
+        - link "FAQ" [ref=f103e268] [cursor=pointer]:
+          - /url: /frequently-asked-questions
+        - link "Events" [ref=f103e269] [cursor=pointer]:
+          - /url: /blog?category=events
+        - link "RSS" [ref=f103e270] [cursor=pointer]:
+          - /url: /remote-job-rss-feed
+      - generic [ref=f103e271]:
+        - generic [aria-hidden] [ref=f103e272]: 
+        - paragraph [ref=f103e273]: 42,782 Remote jobs posted
+    - generic [ref=f103e274]:
+      - generic [ref=f103e275]: © 2026 We Work Remotely
+      - generic [ref=f103e276]:
+        - generic [ref=f103e277]:
+          - link "Contact Support" [ref=f103e278] [cursor=pointer]:
+            - /url: mailto:support@weworkremotely.com
+          - link "Terms" [ref=f103e279] [cursor=pointer]:
+            - /url: /terms-and-conditions
+          - link "Guidelines" [ref=f103e280] [cursor=pointer]:
+            - /url: /community-guidelines
+          - link "Privacy" [ref=f103e281] [cursor=pointer]:
+            - /url: /privacy
+          - link "Why Choose WWR?" [ref=f103e282] [cursor=pointer]:
+            - /url: /post-a-remote-job
+        - generic [ref=f103e283]:
+          - link [ref=f103e284] [cursor=pointer]:
+            - /url: https://www.facebook.com/weworkremotely/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-fb&utm_medium=footer-network-fb
+            - generic [aria-hidden] [ref=f103e285]: 
+          - link [ref=f103e286] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/18527028/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-linkedin&utm_medium=footer-network-linkedin
+            - generic [aria-hidden] [ref=f103e287]: 
+          - link [ref=f103e288] [cursor=pointer]:
+            - /url: https://www.instagram.com/weworkremotelycom/?hl=en&utm_campaign=footer-network-ig&utm_medium=footer-network-ig
+            - generic [aria-hidden] [ref=f103e289]: 
+          - link [ref=f103e290] [cursor=pointer]:
+            - /url: https://twitter.com/weworkremotely/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-twitter&utm_medium=footer-network-twitter
+            - generic [aria-hidden] [ref=f103e291]: 

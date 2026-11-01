@@ -1,0 +1,496 @@
+- generic [active] [ref=f24e1]:
+  - generic [ref=f24e2]:
+    - text:              
+    - banner [ref=f24e3]:
+      - navigation [ref=f24e4]:
+        - link [ref=f24e5] [cursor=pointer]:
+          - /url: /
+          - img "we work remotely" [ref=f24e6]
+        - generic [ref=f24e7]:
+          - link "Sign in" [ref=f24e9] [cursor=pointer]:
+            - /url: /account/sign_in?utm_content=sign-in-employer-cta&utm_source=wwr-accounts-nav-mobile
+          - generic [ref=f24e10] [cursor=pointer]
+        - generic [ref=f24e14]:
+          - generic [ref=f24e15]:
+            - generic [ref=f24e17]:
+              - generic [aria-hidden] [ref=f24e18]: 
+              - textbox "Search" [ref=f24e19]
+            - list [ref=f24e20]:
+              - listitem [ref=f24e21]:
+                - link "Global Payroll" [ref=f24e22] [cursor=pointer]:
+                  - /url: https://www.toptal.com/hireglobal/wwr-partnership?utm_source=weworkremotely&utm_medium=referral&utm_campaign=hireglobal_nav_link
+              - listitem [ref=f24e23]:
+                - button "Jobs" [ref=f24e24] [cursor=pointer]:
+                  - text: Jobs
+                  - generic [aria-hidden] [ref=f24e25]: 
+                - region "Jobs":
+                  - list [ref=f24e26]:
+                    - listitem [ref=f24e27]:
+                      - link "Top Trending Remote Jobs" [ref=f24e28] [cursor=pointer]:
+                        - /url: /top-trending-remote-jobs
+                      - text: New!
+                    - listitem [ref=f24e29]:
+                      - link "All Jobs" [ref=f24e30] [cursor=pointer]:
+                        - /url: /
+                    - listitem [ref=f24e31]:
+                      - button "Search by Vertical" [ref=f24e32] [cursor=pointer]:
+                        - text: Search by Vertical
+                        - generic [aria-hidden] [ref=f24e33]: 
+                      - region "Search by Vertical":
+                        - list [ref=f24e34]:
+                          - listitem [ref=f24e35]:
+                            - button "Programming" [ref=f24e36] [cursor=pointer]:
+                              - text: Programming
+                              - generic [aria-hidden] [ref=f24e37]: 
+                            - region "Programming":
+                              - list [ref=f24e38]:
+                                - listitem [ref=f24e39]:
+                                  - link "Full-Stack Programming" [ref=f24e40] [cursor=pointer]:
+                                    - /url: /categories/remote-full-stack-programming-jobs
+                                - listitem [ref=f24e41]:
+                                  - link "Front-End Programming" [ref=f24e42] [cursor=pointer]:
+                                    - /url: /categories/remote-front-end-programming-jobs
+                                - listitem [ref=f24e43]:
+                                  - link "Back-End Programming" [ref=f24e44] [cursor=pointer]:
+                                    - /url: /categories/remote-back-end-programming-jobs
+                                - listitem [ref=f24e45]:
+                                  - link "Software Development" [ref=f24e46] [cursor=pointer]:
+                                    - /url: /remote-software-developer-jobs
+                          - listitem [ref=f24e47]:
+                            - button "Design" [ref=f24e48] [cursor=pointer]:
+                              - text: Design
+                              - generic [aria-hidden] [ref=f24e49]: 
+                            - region "Design":
+                              - list [ref=f24e50]:
+                                - listitem [ref=f24e51]:
+                                  - link "All Design Jobs" [ref=f24e52] [cursor=pointer]:
+                                    - /url: /categories/remote-design-jobs
+                                - listitem [ref=f24e53]:
+                                  - link "Product Design" [ref=f24e54] [cursor=pointer]:
+                                    - /url: /categories/remote-product-design-jobs
+                                - listitem [ref=f24e55]:
+                                  - link "UX/UI Design" [ref=f24e56] [cursor=pointer]:
+                                    - /url: /categories/remote-ux-ui-design-jobs
+                          - listitem [ref=f24e57]:
+                            - link "Devops and Sysadmin" [ref=f24e58] [cursor=pointer]:
+                              - /url: /categories/remote-devops-sysadmin-jobs
+                          - listitem [ref=f24e59]:
+                            - link "Management and Finance" [ref=f24e60] [cursor=pointer]:
+                              - /url: /categories/remote-management-and-finance-jobs
+                          - listitem [ref=f24e61]:
+                            - link "Product" [ref=f24e62] [cursor=pointer]:
+                              - /url: /categories/remote-product-jobs
+                          - listitem [ref=f24e63]:
+                            - link "Customer Support" [ref=f24e64] [cursor=pointer]:
+                              - /url: /categories/remote-customer-support-jobs
+                          - listitem [ref=f24e65]:
+                            - link "Sales and Marketing" [ref=f24e66] [cursor=pointer]:
+                              - /url: /categories/remote-sales-and-marketing-jobs
+                    - listitem [ref=f24e67]:
+                      - button "Search by Engagement type" [ref=f24e68] [cursor=pointer]:
+                        - text: Search by Engagement type
+                        - generic [aria-hidden] [ref=f24e69]: 
+                      - region "Search by Engagement type":
+                        - list [ref=f24e70]:
+                          - listitem [ref=f24e71]:
+                            - link "Full-Time" [ref=f24e72] [cursor=pointer]:
+                              - /url: /remote-full-time-jobs
+                          - listitem [ref=f24e73]:
+                            - link "Contract" [ref=f24e74] [cursor=pointer]:
+                              - /url: /remote-contract-jobs
+                    - listitem [ref=f24e75]:
+                      - link "All Other Jobs" [ref=f24e76] [cursor=pointer]:
+                        - /url: /categories/all-other-remote-jobs
+                    - listitem [ref=f24e77]:
+                      - link "Top 100 Remote Companies" [ref=f24e78] [cursor=pointer]:
+                        - /url: /top-remote-companies
+              - listitem [ref=f24e79]:
+                - button "Community" [ref=f24e80] [cursor=pointer]:
+                  - text: Community
+                  - generic [aria-hidden] [ref=f24e81]: 
+                - region "Community":
+                  - list [ref=f24e82]:
+                    - listitem [ref=f24e83]:
+                      - link "Blog" [ref=f24e84] [cursor=pointer]:
+                        - /url: /blog
+                    - listitem [ref=f24e85]:
+                      - link "Remote Work Trends" [ref=f24e86] [cursor=pointer]:
+                        - /url: /remote-work-trends
+                    - listitem [ref=f24e87]:
+                      - link "Remote Work Community New!" [ref=f24e88] [cursor=pointer]:
+                        - /url: https://community.weworkremotely.com/c/start-here?post_login_redirect=https%3A%2F%2Fcommunity.weworkremotely.com%2F%3Futm_source%3Dwebsite%26utm_medium%3Ddirect%26utm_campaign%3DCommunity_Circle%26utm_content%3Dbanner_circle
+                    - listitem [ref=f24e89]:
+                      - link [ref=f24e90] [cursor=pointer]:
+                        - /url: https://twitter.com/weworkremotely/?utm_content=nav-network&utm_source=we-work-remotely&utm_campaign=nav-network-twitter&utm_medium=nav-network-twitter
+                        - generic [aria-hidden] [ref=f24e91]: 
+                      - link [ref=f24e92] [cursor=pointer]:
+                        - /url: https://www.instagram.com/weworkremotelycom/?utm_content=nav-network&utm_source=we-work-remotely&utm_campaign=nav-network-fb&utm_medium=nav-network-fb
+                        - generic [aria-hidden] [ref=f24e93]: 
+                      - link [ref=f24e94] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/18527028/?utm_content=nav-network&utm_source=we-work-remotely&utm_campaign=nav-network-linkedin&utm_medium=nav-network-linkedin
+                        - generic [aria-hidden] [ref=f24e95]: 
+                      - link [ref=f24e96] [cursor=pointer]:
+                        - /url: https://www.facebook.com/weworkremotely/?utm_content=nav-network&utm_source=we-work-remotely&utm_campaign=nav-network-fb&utm_medium=nav-network-fb
+                        - generic [aria-hidden] [ref=f24e97]: 
+              - listitem [ref=f24e98]:
+                - button "Career Services" [ref=f24e99] [cursor=pointer]:
+                  - text: Career Services
+                  - generic [aria-hidden] [ref=f24e100]: 
+                - region "Career Services":
+                  - list [ref=f24e101]:
+                    - listitem [ref=f24e102]:
+                      - link "Free ATS Resume Review" [ref=f24e103] [cursor=pointer]:
+                        - /url: https://weworkremotely.com/career-services/toptal-resume
+                    - listitem [ref=f24e104]:
+                      - link "Online Courses New!" [ref=f24e105] [cursor=pointer]:
+                        - /url: /job-seekers/courses
+                    - listitem [ref=f24e106]:
+                      - link "AI Job Search" [ref=f24e107] [cursor=pointer]:
+                        - /url: /career-services/job-copilot
+              - listitem [ref=f24e108]:
+                - button "About" [ref=f24e109] [cursor=pointer]:
+                  - text: About
+                  - generic [aria-hidden] [ref=f24e110]: 
+                - region "About":
+                  - list [ref=f24e111]:
+                    - listitem [ref=f24e112]:
+                      - link "Why Choose WWR?" [ref=f24e113] [cursor=pointer]:
+                        - /url: /post-a-remote-job
+                    - listitem [ref=f24e114]:
+                      - link "Mega Placements New!" [ref=f24e115] [cursor=pointer]:
+                        - /url: /mega-placements
+                    - listitem [ref=f24e116]:
+                      - link "Frequently Asked Questions" [ref=f24e117] [cursor=pointer]:
+                        - /url: /frequently-asked-questions
+                    - listitem [ref=f24e118]:
+                      - link "Save with Bundles" [ref=f24e119] [cursor=pointer]:
+                        - /url: /bundles?utm_source=wwr-nav
+                        - text: Save with Bundles
+                        - generic [aria-hidden] [ref=f24e120]: 
+          - link "Post a job" [ref=f24e122] [cursor=pointer]:
+            - /url: /remote-jobs/find-your-plan?utm_content=post-job-cta&utm_source=wwr-accounts-nav-mobile
+      - text: 
+    - generic [ref=f24e124]:
+      - generic [ref=f24e125]:
+        - generic [ref=f24e126]:
+          - link "All jobs" [ref=f24e127] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f24e128]: /
+          - link "Full-Stack Programming" [ref=f24e129] [cursor=pointer]:
+            - /url: /categories/remote-full-stack-programming-jobs
+          - generic [ref=f24e130]: /
+          - 'link "FULL TIME: Software Engineer Position - React and Rest" [ref=f24e131] [cursor=pointer]':
+            - /url: /listings/yooli-full-time-software-engineer-position-react-and-rest-1
+        - generic [ref=f24e132]:
+          - link [ref=f24e133] [cursor=pointer]:
+            - /url: /company/yooli
+          - generic [ref=f24e135]:
+            - 'heading "FULL TIME: Software Engineer Position - React and Rest" [level=1] [ref=f24e136]'
+            - paragraph [ref=f24e138]:
+              - generic [aria-hidden] [ref=f24e139]: 
+              - generic [ref=f24e140]: Posted 27 days ago
+            - generic [ref=f24e141]: Yooli™ is a groundbreaking platform designed to optimise how healthcare practices operate. Yooli™ empowers providers with tools to streamline workflows, improve efficiency, and enhance patient care delivery.
+            - generic [ref=f24e143]:
+              - link "Apply now" [ref=f24e146] [cursor=pointer]:
+                - /url: /job-seekers/account/register?alert=Create+an+account+to+view+full+job+details.
+                - generic [aria-hidden] [ref=f24e147]: 
+              - link "AI Auto-Apply" [ref=f24e149] [cursor=pointer]:
+                - /url: /career-services/job-copilot
+                - generic [aria-hidden] [ref=f24e150]: 
+                - text: AI Auto-Apply
+              - button "Save job" [ref=f24e151] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f24e152]: 
+                - text: Save job
+      - generic [ref=f24e153]:
+        - generic [ref=f24e155]:
+          - strong [ref=f24e157]: Job description
+          - list [ref=f24e158]:
+            - listitem [ref=f24e159]:
+              - text: We are seeking a highly skilled
+              - strong [ref=f24e160]: Senior Software Engineer
+              - text: to join our team and contribute to the transformative tech evolution in healthcare.
+            - listitem [ref=f24e161]: This critical role involves developing, integrating, and optimising our backend and database systems.
+            - listitem [ref=f24e162]: You will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation.
+          - strong [ref=f24e165]: "Your Role:"
+          - list [ref=f24e166]:
+            - listitem [ref=f24e167]:
+              - text: Develop and maintain robust backend services using
+              - strong [ref=f24e168]: NestJS
+              - text: and
+              - strong [ref=f24e169]: Node.js
+              - text: ", ensuring top-tier performance and security."
+            - listitem [ref=f24e170]:
+              - text: Design and manage efficient
+              - strong [ref=f24e171]: REST API
+              - text: endpoints to optimise interactions with our SQL database.
+            - listitem [ref=f24e172]: Collaborate with cross-functional teams to define, design, and deploy new features, focusing on backend logic and database performance.
+            - listitem [ref=f24e173]: Ensure the scalability, security, and responsiveness of backend services.
+            - listitem [ref=f24e174]: Uphold rigorous data protection standards and implement industry-leading security measures.
+            - listitem [ref=f24e175]: Participate in code reviews to uphold high coding standards and foster continuous improvement within the development team.
+          - strong [ref=f24e178]: "What Youll Bring:"
+          - strong [ref=f24e180]: "Essential Skills & Experience:"
+          - list [ref=f24e181]:
+            - listitem [ref=f24e182]:
+              - text: At least
+              - strong [ref=f24e183]: 7 years of experience
+              - text: "with:"
+            - listitem [ref=f24e184]:
+              - strong [ref=f24e185]: React
+            - listitem [ref=f24e186]:
+              - strong [ref=f24e187]: React Vite
+            - listitem [ref=f24e188]:
+              - strong [ref=f24e189]: REST API development
+            - listitem [ref=f24e190]:
+              - text: Strong knowledge and hands-on experience with
+              - strong [ref=f24e191]: SQL
+              - text: .
+            - listitem [ref=f24e192]:
+              - text: Proficiency in
+              - strong [ref=f24e193]: Prisma
+              - text: for database management.
+            - listitem [ref=f24e194]:
+              - text: A minimum of
+              - strong [ref=f24e195]: 5 years of experience
+              - text: in
+              - strong [ref=f24e196]: REST API development
+              - text: using the
+              - strong [ref=f24e197]: NestJS framework
+              - text: .
+            - listitem [ref=f24e198]:
+              - text: Expertise in backend development, specifically with
+              - strong [ref=f24e199]: NestJS
+              - text: ","
+              - strong [ref=f24e200]: Node.js
+              - text: ","
+              - strong [ref=f24e201]: REST APIs
+              - text: ", and"
+              - strong [ref=f24e202]: PostgreSQL
+              - text: .
+            - listitem [ref=f24e203]:
+              - text: Experience in developing single-page applications using
+              - strong [ref=f24e204]: ReactJS
+              - text: .
+            - listitem [ref=f24e205]:
+              - text: Strong understanding of
+              - strong [ref=f24e206]: TypeScript
+              - text: and
+              - strong [ref=f24e207]: Object-Oriented Programming (OOP)
+              - text: principles.
+            - listitem [ref=f24e208]:
+              - text: Solid grasp of commonly used
+              - strong [ref=f24e209]: data structures
+              - text: .
+            - listitem [ref=f24e210]:
+              - text: Proven experience with
+              - strong [ref=f24e211]: cloud hosting services
+              - text: (preferably AWS) and integrating them into development workflows.
+            - listitem [ref=f24e212]: Exceptional problem-solving skills and meticulous attention to detail.
+            - listitem [ref=f24e213]: A proven ability to thrive in collaborative, remote work environments, showcasing excellent communication skills and a commitment to team success.
+            - listitem [ref=f24e214]: A portfolio demonstrating relevant projects.
+          - strong [ref=f24e217]: "Nice-to-Haves:"
+          - list [ref=f24e218]:
+            - listitem [ref=f24e219]:
+              - text: Experience with
+              - strong [ref=f24e220]: CI/CD pipelines
+              - text: and version control systems like
+              - strong [ref=f24e221]: Git
+              - text: .
+            - listitem [ref=f24e222]:
+              - text: Familiarity with
+              - strong [ref=f24e223]: agile development methodologies
+              - text: and project management tools.
+            - listitem [ref=f24e224]:
+              - text: Knowledge of
+              - strong [ref=f24e225]: Redux
+              - text: for state management.
+            - listitem [ref=f24e226]:
+              - text: A degree in
+              - strong [ref=f24e227]: Computer Science
+              - text: or a related field.
+          - separator [ref=f24e228]
+        - generic [ref=f24e229]:
+          - generic [ref=f24e230]:
+            - link [ref=f24e231] [cursor=pointer]:
+              - /url: /company/yooli
+            - generic [ref=f24e233]:
+              - heading [level=3] [ref=f24e235]:
+                - text: Yooli
+                - img "Star Icon" [ref=f24e236]
+              - link "View company" [ref=f24e237] [cursor=pointer]:
+                - /url: /company/yooli
+                - generic [aria-hidden] [ref=f24e239]: 
+              - paragraph [ref=f24e240]: "Jobs posted: 3"
+          - generic [ref=f24e241]:
+            - heading "About the job" [level=2] [ref=f24e242]
+            - list [ref=f24e243]:
+              - listitem [ref=f24e244]:
+                - text: Posted on
+                - generic [ref=f24e245]: 27 days ago
+              - listitem [ref=f24e246]:
+                - text: Apply before
+                - generic [ref=f24e247]: Nov 3th, 2026
+              - listitem [ref=f24e248]:
+                - text: Job type
+                - link [ref=f24e249] [cursor=pointer]:
+                  - /url: /categories/remote-full-stack-programming-jobs
+                  - generic [ref=f24e250]:
+                    - generic [aria-hidden] [ref=f24e251]: 
+                    - text: Full-Time
+              - listitem [ref=f24e252]:
+                - text: Category
+                - link "Full-Stack Programming" [ref=f24e253] [cursor=pointer]:
+                  - /url: /categories/remote-full-stack-programming-jobs
+              - listitem [ref=f24e255]:
+                - text: Region
+                - link "Anywhere in the World" [ref=f24e257] [cursor=pointer]:
+                  - /url: /100-percent-remote-jobs
+              - listitem
+            - generic [ref=f24e259]:
+              - link "Apply now" [ref=f24e262] [cursor=pointer]:
+                - /url: /job-seekers/account/register?alert=Create+an+account+to+view+full+job+details.
+                - generic [aria-hidden] [ref=f24e263]: 
+                - text: Apply now
+              - generic [ref=f24e264]: or
+              - link "Auto-Apply with AI" [ref=f24e268] [cursor=pointer]:
+                - /url: /career-services/job-copilot
+                - generic [aria-hidden] [ref=f24e269]: 
+                - text: Auto-Apply with AI
+              - paragraph [ref=f24e270]: No forms. Just smart, optimized applications.
+          - complementary [ref=f24e271]:
+            - img "Wispr Flow Ad - Job Page promoted banner" [ref=f24e273]
+            - generic [ref=f24e274]:
+              - generic [ref=f24e275]:
+                - paragraph [ref=f24e276]: VOICE DICTATION
+                - heading "Talk. Don't type." [level=3] [ref=f24e277]
+                - paragraph [ref=f24e278]: Write cover letters and job applications just by speaking.
+              - generic [ref=f24e279]:
+                - img "Wispr Flow Ad - Job Page logo"
+                - link "Try it free" [ref=f24e280] [cursor=pointer]:
+                  - /url: /listing_ads/16/click?pk=e4c4f31bfd64c4d50607897ea421da9faac0885011f1e4096166de360ecb772d&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxNiwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6Im1haW4iLCJ0cmFja2VyX2RpZ2VzdCI6Ijk2Y2E0MDE3ZTZmMzIzMzg2ZGRlYTBjZWYzYmZiYzBhZTcwOWUzZWU3MWNkMTkxZDc4ZTFiODM4MThkMGU1ODUiLCJwYWdlX2tleSI6ImU0YzRmMzFiZmQ2NGM0ZDUwNjA3ODk3ZWE0MjFkYTlmYWFjMDg4NTAxMWYxZTQwOTYxNjZkZTM2MGVjYjc3MmQiLCJub25jZSI6ImY3NjEyNWNmYzYyMjAyNGJkMzVhZmZiYTg0ZDg5YjhmIn0sImV4cCI6IjIwMjYtMTAtMzFUMTk6NDY6MTEuNzYxWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--35132f333612860d64c80ee963a797dcfe99a4a5&target=main
+              - paragraph [ref=f24e281]: •Promoted
+      - article [ref=f24e284]:
+        - heading [level=2] [ref=f24e285]:
+          - text: Related Jobs
+          - link "Remote Full-Stack Programming jobs →" [ref=f24e287] [cursor=pointer]:
+            - /url: /categories/remote-full-stack-programming-jobs
+            - text: Remote Full-Stack Programming jobs
+            - generic [ref=f24e288]: →
+        - list [ref=f24e289]:
+          - listitem [ref=f24e290]:
+            - generic:
+              - link "Toggl is hiring a remote Senior Full Stack at We Work Remotely.":
+                - /url: /company/toggl
+                - img "Toggl is hiring a remote Senior Full Stack at We Work Remotely." [ref=f24e292] [cursor=pointer]
+            - link "Senior Full Stack 4d Boosted listing Toggl Boosted Featured Top 100 Full-Time $75,000 - $99,999 USD Anywhere in the World" [ref=f24e293] [cursor=pointer]:
+              - /url: /remote-jobs/toggl-senior-full-stack
+              - generic [ref=f24e294]:
+                - generic [ref=f24e295]:
+                  - heading "Senior Full Stack" [level=3] [ref=f24e296]:
+                    - img [aria-hidden] [ref=f24e298]:  
+                  - generic [ref=f24e299]:
+                    - paragraph [ref=f24e300]: 4d
+                    - generic [aria-hidden] [ref=f24e301]: 
+                    - generic [ref=f24e302]: Boosted listing
+                - paragraph [ref=f24e303]: Toggl
+                - text: 
+                - generic [ref=f24e304]:
+                  - paragraph [ref=f24e305]: Boosted
+                  - paragraph [ref=f24e306]: Featured
+                  - paragraph [ref=f24e307]:
+                    - generic [aria-hidden] [ref=f24e308]: 
+                    - text: Top 100
+                  - paragraph [ref=f24e309]: Full-Time
+                  - paragraph [ref=f24e310]: $75,000 - $99,999 USD
+                  - paragraph [ref=f24e311]: Anywhere in the World
+          - listitem [ref=f24e312]:
+            - generic:
+              - link "Samsara is hiring a remote Staff Software Engineer at We Work Remotely.":
+                - /url: /company/samsara
+                - img "Samsara is hiring a remote Staff Software Engineer at We Work Remotely." [ref=f24e314] [cursor=pointer]
+            - link [ref=f24e315] [cursor=pointer]:
+              - /url: /remote-jobs/samsara-staff-software-engineer
+              - generic [ref=f24e316]:
+                - generic [ref=f24e317]:
+                  - heading "Staff Software Engineer" [level=3] [ref=f24e318]:
+                    - img [aria-hidden] [ref=f24e320]:  
+                  - paragraph [ref=f24e322]: 15d
+                - paragraph [ref=f24e323]: Samsara
+                - text: 
+                - generic [ref=f24e324]:
+                  - paragraph [ref=f24e325]: Featured
+                  - paragraph [ref=f24e326]: Full-Time
+                  - paragraph [ref=f24e327]: $100,000 or more USD
+                  - paragraph [ref=f24e328]: 🇺🇸 United States of America
+          - listitem [ref=f24e329]:
+            - generic:
+              - link "Sticker Mule is hiring a remote SI agent engineer at We Work Remotely.":
+                - /url: /company/sticker-mule
+                - img "Sticker Mule is hiring a remote SI agent engineer at We Work Remotely." [ref=f24e331] [cursor=pointer]
+            - link "SI agent engineer 15d Boosted listing Sticker Mule Boosted Featured Top 100 Full-Time $100,000 or more USD Anywhere in the World" [ref=f24e332] [cursor=pointer]:
+              - /url: /remote-jobs/sticker-mule-si-agent-engineer
+              - generic [ref=f24e333]:
+                - generic [ref=f24e334]:
+                  - heading "SI agent engineer" [level=3] [ref=f24e335]:
+                    - img [aria-hidden] [ref=f24e337]:  
+                  - generic [ref=f24e338]:
+                    - paragraph [ref=f24e339]: 15d
+                    - generic [aria-hidden] [ref=f24e340]: 
+                    - generic [ref=f24e341]: Boosted listing
+                - paragraph [ref=f24e342]: Sticker Mule
+                - text: 
+                - generic [ref=f24e343]:
+                  - paragraph [ref=f24e344]: Boosted
+                  - paragraph [ref=f24e345]: Featured
+                  - paragraph [ref=f24e346]:
+                    - generic [aria-hidden] [ref=f24e347]: 
+                    - text: Top 100
+                  - paragraph [ref=f24e348]: Full-Time
+                  - paragraph [ref=f24e349]: $100,000 or more USD
+                  - paragraph [ref=f24e350]: Anywhere in the World
+  - contentinfo [ref=f24e351]:
+    - generic [ref=f24e352]:
+      - link [ref=f24e354] [cursor=pointer]:
+        - /url: "#"
+        - img "footer logo" [ref=f24e355]
+      - generic [ref=f24e356]:
+        - link "Top 100 Companies" [ref=f24e357] [cursor=pointer]:
+          - /url: /top-remote-companies
+        - link "Blog" [ref=f24e358] [cursor=pointer]:
+          - /url: /blog
+        - link "Remote Hiring Guide" [ref=f24e359] [cursor=pointer]:
+          - /url: /remote-work-hiring-guide
+        - link "FAQ" [ref=f24e360] [cursor=pointer]:
+          - /url: /frequently-asked-questions
+        - link "Events" [ref=f24e361] [cursor=pointer]:
+          - /url: /blog?category=events
+        - link "RSS" [ref=f24e362] [cursor=pointer]:
+          - /url: /remote-job-rss-feed
+      - generic [ref=f24e363]:
+        - generic [aria-hidden] [ref=f24e364]: 
+        - paragraph [ref=f24e365]: 42,782 Remote jobs posted
+    - generic [ref=f24e367]:
+      - generic [ref=f24e368]:
+        - text: © 2026 We Work Remotely
+        - link "Contact Support" [ref=f24e369] [cursor=pointer]:
+          - /url: mailto:support@weworkremotely.com
+        - link "Terms" [ref=f24e370] [cursor=pointer]:
+          - /url: /terms-and-conditions
+        - link "Guidelines" [ref=f24e371] [cursor=pointer]:
+          - /url: /community-guidelines
+        - link "Privacy" [ref=f24e372] [cursor=pointer]:
+          - /url: /privacy
+        - link "Why Choose WWR?" [ref=f24e373] [cursor=pointer]:
+          - /url: /post-a-remote-job
+      - generic [ref=f24e374]:
+        - link [ref=f24e375] [cursor=pointer]:
+          - /url: https://www.facebook.com/weworkremotely/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-fb&utm_medium=footer-network-fb
+          - generic [aria-hidden] [ref=f24e376]: 
+        - link [ref=f24e377] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/18527028/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-linkedin&utm_medium=footer-network-linkedin
+          - generic [aria-hidden] [ref=f24e378]: 
+        - link [ref=f24e379] [cursor=pointer]:
+          - /url: https://www.instagram.com/weworkremotelycom/?hl=en&utm_campaign=footer-network-ig&utm_medium=footer-network-ig
+          - generic [aria-hidden] [ref=f24e380]: 
+        - link [ref=f24e381] [cursor=pointer]:
+          - /url: https://twitter.com/weworkremotely/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-twitter&utm_medium=footer-network-twitter
+          - generic [aria-hidden] [ref=f24e382]: 

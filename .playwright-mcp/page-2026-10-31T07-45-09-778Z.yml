@@ -1,0 +1,55 @@
+- generic [active] [ref=f2e1]:
+  - link "Start hiring vetted developers from Claude Code or ChatGPT" [ref=f2e2]:
+    - /url: https://docs.lemon.io/lemon.io-mcp
+  - banner [ref=f2e7]:
+    - generic [ref=f2e8]:
+      - link "Lemon.io" [ref=f2e10]:
+        - /url: https://lemon.io/
+      - generic [ref=f2e14]:
+        - button "Menu" [ref=f2e15]
+        - link "Start hiring" [ref=f2e18]:
+          - /url: https://magic.lemon.io/welcome?from=header
+  - main [ref=f2e23]:
+    - generic [ref=f2e27]:
+      - generic [ref=f2e28]:
+        - heading "Page not found" [level=1] [ref=f2e29]
+        - paragraph [ref=f2e30]: Looks like this page took a different route. Let's get you back on track.
+      - link "Back to home" [ref=f2e31]:
+        - /url: https://lemon.io/
+  - contentinfo [ref=f2e36]:
+    - generic [ref=f2e37]:
+      - generic [ref=f2e39]:
+        - group [ref=f2e40]:
+          - generic "Hire by role" [ref=f2e41] [cursor=pointer]
+        - group [ref=f2e46]:
+          - generic "Hire by region" [ref=f2e47] [cursor=pointer]
+        - group [ref=f2e52]:
+          - generic "Lemon.io services" [ref=f2e53] [cursor=pointer]
+        - group [ref=f2e58]:
+          - generic "Resources" [ref=f2e59] [cursor=pointer]
+        - group [ref=f2e64]:
+          - generic "Company" [ref=f2e65] [cursor=pointer]
+        - group [ref=f2e70]:
+          - generic "Socials" [ref=f2e71] [cursor=pointer]
+      - generic [ref=f2e76]:
+        - link "Log in" [ref=f2e77]:
+          - /url: https://app.lemon.io/auth/login
+        - generic [ref=f2e82]:
+          - link "Find jobs" [ref=f2e83]:
+            - /url: https://me.lemon.io/escape-the-matrix?from=footer
+          - link "Start hiring" [ref=f2e85]:
+            - /url: https://magic.lemon.io/welcome?from=footer
+        - list [ref=f2e87]:
+          - listitem [ref=f2e88]:
+            - link "Terms of use" [ref=f2e89]:
+              - /url: /terms-of-use/
+          - listitem [ref=f2e90]:
+            - link "Privacy Policy" [ref=f2e91]:
+              - /url: /privacy-policy/
+    - generic [ref=f2e92]:
+      - paragraph [ref=f2e93]: Copyright © Lemon.io, 2026
+      - paragraph [ref=f2e94]: "2093 Philadelphia Pike #7666, Claymont, Delaware 19703, USA"
+      - generic [ref=f2e95]:
+        - generic [ref=f2e96]: Made by
+        - link "Ozero Design (opens in a new tab)" [ref=f2e97]:
+          - /url: https://www.ozero.design

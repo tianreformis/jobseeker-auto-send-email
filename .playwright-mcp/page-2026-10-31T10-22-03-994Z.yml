@@ -1,0 +1,28 @@
+- table [ref=e3]:
+  - rowgroup [ref=e4]:
+    - row [ref=e5]:
+      - cell [ref=e6]:
+        - table [ref=e7]:
+          - rowgroup [ref=e8]:
+            - row [ref=e9]:
+              - cell [ref=e10]:
+                - link [ref=e11] [cursor=pointer]:
+                  - /url: https://news.ycombinator.com
+              - cell [ref=e13]:
+                - link "Hacker News" [ref=e16] [cursor=pointer]:
+                  - /url: /news
+    - row [ref=e17]
+    - row [ref=e18]:
+      - cell "Sorry, we're not able to serve your requests this quickly." [ref=e19]
+    - row [ref=e20]
+    - row [ref=e21]:
+      - cell [ref=e22]:
+        - link "reload" [ref=e23] [cursor=pointer]:
+          - /url: javascript:window.location.reload();
+    - row [ref=e24]
+    - row [ref=e25]:
+      - cell [ref=e26]:
+        - table [ref=e27]:
+          - rowgroup [ref=e28]:
+            - row [ref=e29]:
+              - cell [ref=e30]

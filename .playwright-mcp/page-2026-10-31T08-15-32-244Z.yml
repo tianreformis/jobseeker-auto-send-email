@@ -1,0 +1,166 @@
+- generic [active] [ref=f98e1]:
+  - generic [ref=f98e2]:
+    - link "Global Payroll" [ref=f98e3] [cursor=pointer]:
+      - /url: https://www.toptal.com/hireglobal/remoteok-partnership?utm_source=remoteok&utm_medium=referral&utm_campaign=global_payroll&utm_content=nav
+    - link "Build your resume" [ref=f98e4] [cursor=pointer]:
+      - /url: https://www.toptal.com/resume
+    - link "Health insurance" [ref=f98e6] [cursor=pointer]:
+      - /url: /nomad-health-individual
+    - link "Post a job →" [ref=f98e7] [cursor=pointer]:
+      - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=top
+    - link "Log in" [ref=f98e8] [cursor=pointer]:
+      - /url: /login
+  - generic [ref=f98e10]:
+    - generic [ref=f98e11]:
+      - paragraph [ref=f98e12]:
+        - text: "Post a job to reach 18,100,000+ remote workers on the #1 Remote Job Platform"
+        - generic [ref=f98e13]:
+          - text: You can also
+          - link "hire freelance talent" [ref=f98e14] [cursor=pointer]:
+            - /url: https://www.toptal.com/
+          - text: on demand, pre-screened and thoroughly vetted.
+      - link "Post a remote job →" [ref=f98e15] [cursor=pointer]:
+        - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=center
+    - table [ref=f98e17]:
+      - rowgroup [ref=f98e18]:
+        - row [ref=f98e19]:
+          - columnheader "💵 Salary 🎪 Benefits 🦴 Sort by 💼 Executive 🎧 Customer Support 🚥 Marketing ♾️ Ops 👨‍🏫 Education 🚑 Medical 💰 Finance 🤓 Engineer" [ref=f98e20]:
+            - textbox "🔍 Search" [ref=f98e25]
+            - textbox "🌏 Location" [ref=f98e27]
+            - generic [ref=f98e28]: 💵 Salary
+            - generic [ref=f98e30]: 🎪 Benefits
+            - combobox [ref=f98e32]:
+              - option "🦴 Sort by" [selected]
+              - option "🆕 Latest jobs"
+              - option "💵 Highest paid"
+              - option "👀 Most viewed"
+              - option "✅ Most applied"
+              - option "🔥 Hottest"
+              - option "🎪 Most benefits"
+            - generic [ref=f98e33]:
+              - generic [ref=f98e34]: 💼 Executive
+              - generic [ref=f98e35]: 🎧 Customer Support
+              - generic [ref=f98e36]: 🚥 Marketing
+              - generic [ref=f98e37]: ♾️ Ops
+              - generic [ref=f98e38]: 👨‍🏫 Education
+              - generic [ref=f98e39]: 🚑 Medical
+              - generic [ref=f98e40]: 💰 Finance
+              - generic [ref=f98e41]: 🤓 Engineer
+      - rowgroup [ref=f98e42]:
+        - row [ref=f98e43] [cursor=pointer]:
+          - cell [ref=f98e44]:
+            - link [ref=f98e45]:
+              - /url: /remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
+              - img "Wrapbook" [ref=f98e46]
+          - cell "Senior Software Engineer II Applied AI Wrapbook 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f98e47]:
+            - link [ref=f98e48]:
+              - /url: /remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
+              - heading "Senior Software Engineer II Applied AI" [level=2] [ref=f98e49]
+            - heading "Wrapbook" [level=3] [ref=f98e51]
+            - generic [ref=f98e52]: 🌏 Worldwide
+            - generic [ref=f98e53]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f98e54]:
+            - link "Remote Developer Jobs" [ref=f98e55]:
+              - /url: /remote-dev-jobs
+              - heading "Developer" [level=3] [ref=f98e57]
+            - link "Remote Design Jobs" [ref=f98e58]:
+              - /url: /remote-design-jobs
+              - heading "Design" [level=3] [ref=f98e60]
+            - link "Remote Amazon Jobs" [ref=f98e61]:
+              - /url: /remote-amazon-jobs
+              - heading "Amazon" [level=3] [ref=f98e63]
+            - link "Remote Sys Admin Jobs" [ref=f98e64]:
+              - /url: /remote-sys-admin-jobs
+              - heading "Sys Admin" [level=3] [ref=f98e66]
+            - link "Remote Backend Jobs" [ref=f98e67]:
+              - /url: /remote-backend-jobs
+              - heading "Backend" [level=3] [ref=f98e69]
+            - link "Remote InfoSec Jobs" [ref=f98e70]:
+              - /url: /remote-infosec-jobs
+              - heading "InfoSec" [level=3] [ref=f98e72]
+            - link "Remote Python Jobs" [ref=f98e73]:
+              - /url: /remote-python-jobs
+              - heading "Python" [level=3] [ref=f98e75]
+            - link "Remote Education Jobs" [ref=f98e76]:
+              - /url: /remote-education-jobs
+              - heading "Edu" [level=3] [ref=f98e78]
+            - link "Remote Technical Jobs" [ref=f98e79]:
+              - /url: /remote-technical-jobs
+              - heading "Technical" [level=3] [ref=f98e81]
+            - link "Remote Customer Support Jobs" [ref=f98e82]:
+              - /url: /remote-customer-support-jobs
+              - heading "Customer Support" [level=3] [ref=f98e84]
+          - cell [ref=f98e85]:
+            - time [ref=f98e86]: 16d
+          - cell [ref=f98e87]:
+            - link "Apply":
+              - /url: /l/1137527
+              - paragraph [ref=f98e89]: Apply
+        - row [ref=f98e90]:
+          - cell [ref=f98e91]:
+            - generic [ref=f98e92]:
+              - generic [ref=f98e93]:
+                - generic [ref=f98e94]:
+                  - link [ref=f98e95] [cursor=pointer]:
+                    - /url: /company/wrapbook
+                    - img "Wrapbook" [ref=f98e96]
+                  - link [ref=f98e97] [cursor=pointer]:
+                    - /url: /company/wrapbook
+                    - heading "Wrapbook" [level=2] [ref=f98e98]
+                  - link "Apply now" [ref=f98e99] [cursor=pointer]:
+                    - /url: /l/1137527
+                  - paragraph [ref=f98e100]:
+                    - strong [ref=f98e101]: "Share this job:"
+                    - textbox [ref=f98e102]: https://remoteok.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527?ref=sh
+                    - generic [ref=f98e103]:
+                      - text: Get a
+                      - link "rok.co" [ref=f98e104] [cursor=pointer]:
+                        - /url: https://rok.co/hire-remotely
+                      - text: short link
+                - generic [ref=f98e105]:
+                  - text: Wrapbook is hiring a
+                  - heading "Remote Senior Software Engineer II Applied AI" [level=1] [ref=f98e106]
+                - generic [ref=f98e107]:
+                  - paragraph [ref=f98e108]: "About Us:Wrapbook is the AI platform for production finance. We’re building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and commercials, Wrapbook is trusted by teams at Netflix, Paramount, Anonymous Content, and more. With backing from Andreessen Horowitz, Bessemer Venture Partners, and Jeffrey Katzenberg's WndrCo, our team of 350+ is using AI to transform how finance teams work and empower them to do more with less.The Opportunity: Senior Software Engineer II, Applied AI (Remote - USA / Canada) We are looking for a Senior Software Engineer II, Applied AI to join our Agentic Systems team, where you'll build AI agents that automate workflows for teams across Wrapbook. You'll partner directly with internal teams like Marketing, Sales, Support, Operations and Finance to find high-leverage processes, then design, ship and iterate on agents that take real work off their plates. This is a chance to define how a 400+ person company runs on AI. You'll see the impact of your work every day, while shaping the patterns, tools and standards for how we build agents at Wrapbook.What You’ll Do:* Design and build production-grade AI agents with LangGraph that automate multi-step workflows for internal teams across Wrapbook"
+                  - list [ref=f98e109]:
+                    - listitem [ref=f98e110]: Deploy, run and scale agents on Amazon Bedrock AgentCore, using its runtime, memory, identity and gateway capabilities to make them secure and reliable, while tracking what they cost to run and keeping it efficient as usage grows
+                    - listitem [ref=f98e111]: Partner with internal teams to find high-impact workflows, draw out requirements from people who can't hand you a spec, and turn them into agent-driven solutions, explaining clearly what each agent can and can't reliably do
+                    - listitem [ref=f98e112]: Integrate agents with Wrapbook's internal systems, APIs and third-party tools so they can take real actions, not just answer questions
+                    - listitem [ref=f98e113]: Build evaluation, observability and guardrail frameworks to measure agent quality, catch failures and keep humans in the loop where it matters
+                    - listitem [ref=f98e114]: Establish reusable patterns, shared tools and best practices that let the Agentic Systems team ship new agents quickly and consistently
+                    - listitem [ref=f98e115]: Own agents end to end, from prototype to production, measuring their impact on the teams they serve and iterating based on usage data and feedback
+                    - listitem [ref=f98e116]: Drive adoption through clear documentation, training and enablement, so teams understand what each agent does, trust it and know how to get the most from it
+                  - paragraph [ref=f98e117]: What You’ll Have:* 6+ years of back-end development experience with Python, TypeScript/Node.js or Java, with a track record of delivering systems built for security, scalability, availability and performance
+                  - list [ref=f98e118]:
+                    - listitem [ref=f98e119]: "Hands-on experience building and shipping LLM-powered agents or workflows (with models such as Claude, GPT, Llama or Mistral), including prompting, tool use and structured outputs. You can walk us through one you built: how it was designed, what broke and how you fixed it"
+                    - listitem [ref=f98e120]: Production experience with at least one agent or LLM framework, such as LangGraph, LangChain, LlamaIndex or AutoGen, and a solid understanding of AI architectures like RAG, reranking and multi-agent orchestration. Experience with LangGraph specifically is a plus
+                    - listitem [ref=f98e121]: "A security-first mindset: you think about data access, permissions and failure modes in everything you build, especially when agents can take real actions"
+                    - listitem [ref=f98e122]: Strong product sense and communication skills, with the ability to work directly with non-technical teams to understand their workflows and turn them into reliable automation
+                    - listitem [ref=f98e123]: "Comfort with ambiguity and an ownership mentality: you can take a loosely defined problem from idea to production on your own"
+                    - listitem [ref=f98e124]: "Nice to have: experience running AWS workloads in production and knowing how to design for, deploy on and get the most out of Amazon's services, ideally including Amazon Bedrock AgentCore"
+                  - paragraph [ref=f98e125]: Why Join Us:At Wrapbook, creativity meets technology — and not just in the product.In addition to a competitive salary and all the benefits you can expect from a fast-growing technology company, you’ll get access to a team of creative problem solvers and the chance to see your contributions make large impacts Benefits include:* Unlimited Paid Time Off
+                  - list [ref=f98e126]:
+                    - listitem [ref=f98e127]: Work from anywhere in Canada and USA
+                    - listitem [ref=f98e128]: Health and Dental benefits
+                    - listitem [ref=f98e129]: Up to $1,500 USD/ $2,025 CAD towards IT set up for your home
+                    - listitem [ref=f98e130]: Up to 2% matching RRSP / 401K
+                    - listitem [ref=f98e131]: Learning and Development opportunities
+                    - listitem [ref=f98e132]: Up to $50 USD/ $67.50 CAD towards Internet/Cell phone service
+                  - paragraph [ref=f98e133]: Our Pledge to Fostering an Inclusive and Safe Workplace:Wrapbook pledges to be a harassment- and discrimination-free space for everyone, regardless of age, disability, ethnicity, gender identity or expression, nationality, neurotype, personal appearance, political affiliation, professional background, race, religion, or sexual identity or orientation.Apply NowHave we got your attention? Submit your application today and a member of our Talent team will be in touch with you shortly!#LI-Remote
+                  - heading "Benefits" [level=1] [ref=f98e134]
+                  - code [ref=f98e136]: 💰 401(k)
+                  - paragraph [ref=f98e137]: 🏖 Paid time off
+              - link "Apply for this job" [ref=f98e139] [cursor=pointer]:
+                - /url: /l/1137527
+        - row [ref=f98e140]:
+          - cell [ref=f98e141]:
+            - heading "Related jobs" [level=2] [ref=f98e142]
+        - row [ref=f98e143]:
+          - cell [ref=f98e144]
+  - generic [ref=f98e145]:
+    - text: © 2026 Remote OK|
+    - link "Terms of Service" [ref=f98e146] [cursor=pointer]:
+      - /url: /legal
+    - text: "|"
+    - link "Privacy Policy" [ref=f98e147] [cursor=pointer]:
+      - /url: /privacy

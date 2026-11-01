@@ -1,0 +1,248 @@
+- generic [active] [ref=f96e1]:
+  - generic [ref=f96e2]:
+    - link "Global Payroll" [ref=f96e3] [cursor=pointer]:
+      - /url: https://www.toptal.com/hireglobal/remoteok-partnership?utm_source=remoteok&utm_medium=referral&utm_campaign=global_payroll&utm_content=nav
+    - link "Build your resume" [ref=f96e4] [cursor=pointer]:
+      - /url: https://www.toptal.com/resume
+    - link "Health insurance" [ref=f96e6] [cursor=pointer]:
+      - /url: /nomad-health-individual
+    - link "Post a job →" [ref=f96e7] [cursor=pointer]:
+      - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=top
+    - link "Log in" [ref=f96e8] [cursor=pointer]:
+      - /url: /login
+  - generic [ref=f96e10]:
+    - generic [ref=f96e11]:
+      - paragraph [ref=f96e12]:
+        - text: "Post a job to reach 18,100,000+ remote workers on the #1 Remote Job Platform"
+        - generic [ref=f96e13]:
+          - text: You can also
+          - link "hire freelance talent" [ref=f96e14] [cursor=pointer]:
+            - /url: https://www.toptal.com/
+          - text: on demand, pre-screened and thoroughly vetted.
+      - link "Post a remote job →" [ref=f96e15] [cursor=pointer]:
+        - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=center
+    - table [ref=f96e17]:
+      - rowgroup [ref=f96e18]:
+        - row [ref=f96e19]:
+          - columnheader "💵 Salary 🎪 Benefits 🦴 Sort by 💼 Executive 🎧 Customer Support 🚥 Marketing ♾️ Ops 👨‍🏫 Education 🚑 Medical 💰 Finance 🤓 Engineer" [ref=f96e20]:
+            - textbox "🔍 Search" [ref=f96e25]
+            - textbox "🌏 Location" [ref=f96e27]
+            - generic [ref=f96e28]: 💵 Salary
+            - generic [ref=f96e30]: 🎪 Benefits
+            - combobox [ref=f96e32]:
+              - option "🦴 Sort by" [selected]
+              - option "🆕 Latest jobs"
+              - option "💵 Highest paid"
+              - option "👀 Most viewed"
+              - option "✅ Most applied"
+              - option "🔥 Hottest"
+              - option "🎪 Most benefits"
+            - generic [ref=f96e33]:
+              - generic [ref=f96e34]: 💼 Executive
+              - generic [ref=f96e35]: 🎧 Customer Support
+              - generic [ref=f96e36]: 🚥 Marketing
+              - generic [ref=f96e37]: ♾️ Ops
+              - generic [ref=f96e38]: 👨‍🏫 Education
+              - generic [ref=f96e39]: 🚑 Medical
+              - generic [ref=f96e40]: 💰 Finance
+              - generic [ref=f96e41]: 🤓 Engineer
+      - rowgroup [ref=f96e42]:
+        - row [ref=f96e43] [cursor=pointer]:
+          - cell [ref=f96e44]:
+            - link [ref=f96e45]:
+              - /url: /remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475
+              - img "Lemon.io" [ref=f96e46]
+          - cell "Senior React Full stack Developer Lemon.io 🇺🇸 United States 🇨🇦 Canada 💃 Latin America 🇪🇺 Europe 🏄 Oceania 🇯🇵 Japan 🇸🇬 Singapore 🇰🇷 South Korea 🇵🇭 Philippines 🇮🇩 Indonesia 🇲🇾 Malaysia 🇻🇳 Vietnam 🇹🇭 Thailand 🇮🇱 Israel 🇲🇦 Morocco 🇿🇦 South Africa 💰 $80k - $200k" [ref=f96e47]:
+            - link [ref=f96e48]:
+              - /url: /remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475
+              - heading "Senior React Full stack Developer" [level=2] [ref=f96e49]
+            - heading "Lemon.io" [level=3] [ref=f96e51]
+            - link "🇺🇸 United States" [ref=f96e53]:
+              - /url: /remote-jobs-in-united-states
+            - link "🇨🇦 Canada" [ref=f96e55]:
+              - /url: /remote-jobs-in-canada
+            - generic [ref=f96e56]: 💃 Latin America
+            - generic [ref=f96e57]: 🇪🇺 Europe
+            - generic [ref=f96e58]: 🏄 Oceania
+            - link "🇯🇵 Japan" [ref=f96e60]:
+              - /url: /remote-jobs-in-japan
+            - link "🇸🇬 Singapore" [ref=f96e62]:
+              - /url: /remote-jobs-in-singapore
+            - link "🇰🇷 South Korea" [ref=f96e64]:
+              - /url: /remote-jobs-in-south-korea
+            - link "🇵🇭 Philippines" [ref=f96e66]:
+              - /url: /remote-jobs-in-philippines
+            - link "🇮🇩 Indonesia" [ref=f96e68]:
+              - /url: /remote-jobs-in-indonesia
+            - link "🇲🇾 Malaysia" [ref=f96e70]:
+              - /url: /remote-jobs-in-malaysia
+            - link "🇻🇳 Vietnam" [ref=f96e72]:
+              - /url: /remote-jobs-in-vietnam
+            - link "🇹🇭 Thailand" [ref=f96e74]:
+              - /url: /remote-jobs-in-thailand
+            - link "🇮🇱 Israel" [ref=f96e76]:
+              - /url: /remote-jobs-in-israel
+            - link "🇲🇦 Morocco" [ref=f96e78]:
+              - /url: /remote-jobs-in-morocco
+            - link "🇿🇦 South Africa" [ref=f96e80]:
+              - /url: /remote-jobs-in-south-africa
+            - generic [ref=f96e81]: 💰 $80k - $200k
+          - cell [ref=f96e82]:
+            - link "Remote Developer Jobs" [ref=f96e83]:
+              - /url: /remote-dev-jobs
+              - heading "Developer" [level=3] [ref=f96e85]
+            - link "Remote Engineer Jobs" [ref=f96e86]:
+              - /url: /remote-engineer-jobs
+              - heading "Engineer" [level=3] [ref=f96e88]
+            - link "Remote Remote Jobs" [ref=f96e89]:
+              - /url: /remote-remote-jobs
+              - heading "Remote" [level=3] [ref=f96e91]
+            - link "Remote Python Jobs" [ref=f96e92]:
+              - /url: /remote-python-jobs
+              - heading "Python" [level=3] [ref=f96e94]
+            - link "Remote AWS Jobs" [ref=f96e95]:
+              - /url: /remote-aws-jobs
+              - heading "AWS" [level=3] [ref=f96e97]
+            - link "Remote GCP Jobs" [ref=f96e98]:
+              - /url: /remote-gcp-jobs
+              - heading "GCP" [level=3] [ref=f96e100]
+            - link "Remote JavaScript Jobs" [ref=f96e101]:
+              - /url: /remote-javascript-jobs
+              - heading "JavaScript" [level=3] [ref=f96e103]
+            - link "Remote React Jobs" [ref=f96e104]:
+              - /url: /remote-react-jobs
+              - heading "React" [level=3] [ref=f96e106]
+            - link "Remote Node Jobs" [ref=f96e107]:
+              - /url: /remote-node-jobs
+              - heading "Node" [level=3] [ref=f96e109]
+            - link "Remote Ruby Jobs" [ref=f96e110]:
+              - /url: /remote-ruby-jobs
+              - heading "Ruby" [level=3] [ref=f96e112]
+          - cell [ref=f96e113]:
+            - time [ref=f96e114]: 22d
+          - cell [ref=f96e115]:
+            - link "Apply":
+              - /url: /l/1137475
+              - paragraph [ref=f96e117]: Apply
+        - row [ref=f96e118]:
+          - cell [ref=f96e119]:
+            - generic [ref=f96e120]:
+              - generic [ref=f96e121]:
+                - generic [ref=f96e122]:
+                  - link [ref=f96e123] [cursor=pointer]:
+                    - /url: /company/lemon-io
+                    - img "Lemon.io" [ref=f96e124]
+                  - link [ref=f96e125] [cursor=pointer]:
+                    - /url: /company/lemon-io
+                    - heading "Lemon.io" [level=2] [ref=f96e126]
+                  - paragraph [ref=f96e127]:
+                    - link "lemon.io" [ref=f96e128] [cursor=pointer]:
+                      - /url: https://lemon.io
+                  - link "Apply now" [ref=f96e129] [cursor=pointer]:
+                    - /url: /l/1137475
+                  - paragraph [ref=f96e130]:
+                    - strong [ref=f96e131]: "Share this job:"
+                    - textbox [ref=f96e132]: https://remoteok.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475?ref=sh
+                    - generic [ref=f96e133]:
+                      - text: Get a
+                      - link "rok.co" [ref=f96e134] [cursor=pointer]:
+                        - /url: https://rok.co/hire-remotely
+                      - text: short link
+                  - paragraph [ref=f96e136]: "Also hiring:"
+                  - link "Senior DevOps Engineer" [ref=f96e138] [cursor=pointer]:
+                    - /url: /remote-jobs/remote-senior-devops-engineer-lemon-io-1137557
+                - generic [ref=f96e139]:
+                  - text: Lemon.io is hiring a
+                  - heading "Remote Senior React Full stack Developer" [level=1] [ref=f96e140]
+                - generic [ref=f96e141]:
+                  - paragraph [ref=f96e142]:
+                    - text: Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than
+                    - link "Lemon.io" [ref=f96e143] [cursor=pointer]:
+                      - /url: https://lemon.io/for-developers/?utm_source=remoteok&utm_medium=job_ad&utm_campaign=supply_en_react_node/python/ruby_oct_2026_job_ad
+                    - text: — the marketplace that connects you with hand-picked startups in the US and Europe.
+                  - paragraph [ref=f96e144]:
+                    - strong [ref=f96e145]: "What we offer:"
+                  - list [ref=f96e146]:
+                    - listitem [ref=f96e147]: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.
+                    - listitem [ref=f96e148]: No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.
+                    - listitem [ref=f96e149]: We'll manually find the best project for you according to your skills and preferences.
+                    - listitem [ref=f96e150]: Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.
+                    - listitem [ref=f96e151]: We respect your seniority so you can expect no micromanagement or screen trackers.
+                    - listitem [ref=f96e152]: Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
+                    - listitem [ref=f96e153]: We will support you from the time you submit the application throughout all cooperation stages.
+                    - listitem [ref=f96e154]: Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
+                    - listitem [ref=f96e155]: Through our community, we will connect you with the best developers from more than 75 countries.
+                  - heading [level=3] [ref=f96e156]:
+                    - strong [ref=f96e157]: "Requirements for the Senior React & Python Position:"
+                  - list [ref=f96e158]:
+                    - listitem [ref=f96e159]: 4+ years of software development experience.
+                  - paragraph [ref=f96e160]: "Commercial experience:"
+                  - list [ref=f96e161]:
+                    - listitem [ref=f96e162]:
+                      - paragraph [ref=f96e163]: React.js 3+ years & Python 3+ years
+                      - paragraph [ref=f96e164]: ORReact.js 2+ years & Python 5+ yearsORReact.js 5+ years & Python 2+ years
+                    - listitem [ref=f96e165]:
+                      - paragraph [ref=f96e166]: Experience with AWS, GCP, or Azure is required.
+                  - heading [level=3] [ref=f96e167]:
+                    - strong [ref=f96e168]: "Requirements for the Senior Node & React Position:"
+                  - list [ref=f96e169]:
+                    - listitem [ref=f96e170]: 5+ years of software development experience
+                  - paragraph [ref=f96e171]:
+                    - strong [ref=f96e172]: "Commercial experience:"
+                  - list [ref=f96e173]:
+                    - listitem [ref=f96e174]:
+                      - text: "React.js: 3+ years, Node.js: 5+ years, and Next.js: 2+ years"
+                      - strong [ref=f96e175]: OR
+                      - text: "React.js: 5+ years, Node.js: 3+ years, and Next.js: 2+ years"
+                    - listitem [ref=f96e176]: Expertise in TypeScript, AWS and AI-assisted coding is a must.
+                  - heading [level=3] [ref=f96e177]:
+                    - strong [ref=f96e178]: "Requirements for the Senior Ruby & React Position:"
+                  - list [ref=f96e179]:
+                    - listitem [ref=f96e180]: 5+ years of software development experience
+                  - paragraph [ref=f96e181]:
+                    - strong [ref=f96e182]: "Commercial experience:"
+                  - list [ref=f96e183]:
+                    - listitem [ref=f96e184]:
+                      - text: "React.js: 2+ years, Ruby: 5+ years"
+                      - strong [ref=f96e185]: OR
+                      - text: "React.js: 5+ years, Ruby: 2+ years"
+                    - listitem [ref=f96e186]: Experience with AWS, GCP, or Azure is required.
+                  - paragraph [ref=f96e187]:
+                    - strong [ref=f96e188]: "Other requirements:"
+                  - list [ref=f96e189]:
+                    - listitem [ref=f96e190]: "Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture."
+                    - listitem [ref=f96e191]: Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
+                    - listitem [ref=f96e192]: Strong self-organizational skills — ability to work full-time remotely with no supervision.
+                    - listitem [ref=f96e193]: Reliability — we want to trust you and expect that you won’t let us and the client down.
+                    - listitem [ref=f96e194]: Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.
+                  - paragraph [ref=f96e195]:
+                    - text: Sounds good for you? Apply now and join the
+                    - link "Lemon.io" [ref=f96e196] [cursor=pointer]:
+                      - /url: https://lemon.io/for-developers/?utm_source=remoteok&utm_medium=job_ad&utm_campaign=supply_en_react_node/python/ruby_oct_2026_job_ad
+                    - text: community!
+                  - paragraph [ref=f96e197]:
+                    - strong [ref=f96e198]: NOT YOUR TECH STACK?
+                  - paragraph [ref=f96e199]: We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, React & Golang, Golang, React & Java, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Angular, Python & Node, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.
+                  - paragraph [ref=f96e200]: We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
+                  - paragraph [ref=f96e201]: We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).
+                  - heading "Salary and compensation" [level=2] [ref=f96e202]
+                  - text: $80,000 — $200,000/year
+                  - heading "Benefits" [level=2] [ref=f96e203]
+                  - paragraph [ref=f96e204]: 🌎 Distributed team
+                  - paragraph [ref=f96e205]: ⏰ Async
+                  - paragraph [ref=f96e206]: 🚫 No politics at work
+                  - paragraph [ref=f96e207]: 🎅 We hire old (and young)
+              - link "Apply for this job" [ref=f96e209] [cursor=pointer]:
+                - /url: /l/1137475
+        - row [ref=f96e210]:
+          - cell [ref=f96e211]:
+            - heading "Related jobs" [level=2] [ref=f96e212]
+        - row [ref=f96e213]:
+          - cell [ref=f96e214]
+  - generic [ref=f96e215]:
+    - text: © 2026 Remote OK|
+    - link "Terms of Service" [ref=f96e216] [cursor=pointer]:
+      - /url: /legal
+    - text: "|"
+    - link "Privacy Policy" [ref=f96e217] [cursor=pointer]:
+      - /url: /privacy

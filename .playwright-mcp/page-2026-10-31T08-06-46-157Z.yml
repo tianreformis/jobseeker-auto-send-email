@@ -1,0 +1,356 @@
+- generic [active] [ref=f36e1]:
+  - navigation [ref=f36e2]:
+    - generic [ref=f36e3]:
+      - link "Homepage" [ref=f36e5] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f36e6]:
+        - button "Unlock All Jobs" [ref=f36e7] [cursor=pointer]
+        - generic [ref=f36e12]:
+          - button "Log in" [ref=f36e13] [cursor=pointer]
+          - button "For Employers" [ref=f36e14] [cursor=pointer]
+  - generic [ref=f36e15]:
+    - generic [ref=f36e16]:
+      - generic [ref=f36e17]:
+        - text: Back to
+        - link "Remote jobs" [ref=f36e18] [cursor=pointer]:
+          - /url: /remote-jobs
+        - text: ">"
+        - link "Software Development" [ref=f36e19] [cursor=pointer]:
+          - /url: /remote-jobs/software-development
+      - heading "[Hiring] Software Engineer, AI Coding Tasks @Askable" [level=1] [ref=f36e20]
+      - paragraph [ref=f36e21]: "Oct 17, 2026 - Askable is hiring a remote Software Engineer, AI Coding Tasks. 💸 Salary: $1000 per task. 📍Location: Worldwide."
+      - generic [ref=f36e24]:
+        - generic [ref=f36e25]:
+          - paragraph [ref=f36e26]: We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want.
+          - paragraph [ref=f36e27]
+          - paragraph [ref=f36e28]: "You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models."
+          - paragraph [ref=f36e29]
+          - paragraph [ref=f36e30]: Remote, any location. US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week.
+          - paragraph [ref=f36e31]
+          - paragraph [ref=f36e32]: How it works
+          - paragraph [ref=f36e33]
+          - list [ref=f36e34]:
+            - listitem [ref=f36e35]: Apply. Complete a short screener interview and upload your resume.
+            - listitem [ref=f36e36]: Propose. Once you're selected, pick a change from a repository you know and submit a short proposal. We approve it or suggest a better candidate.
+            - listitem [ref=f36e37]: Build. In our platform, set up the repository as it was before the change, then write the brief, the correct solution and the grading checks.
+            - listitem [ref=f36e38]: Stress-test. Try lazy, incorrect and shortcut solutions and make sure your checks catch them.
+            - listitem [ref=f36e39]: Model testing. Run your task against leading AI models until strong models often fail but a skilled engineer can clearly solve it.
+            - listitem [ref=f36e40]: Review. A reviewer checks your task and you revise it. Most tasks take more than one round.
+            - listitem [ref=f36e41]: Next task. Once your task is accepted, start another.
+          - paragraph [ref=f36e42]
+          - paragraph [ref=f36e43]: Requirements
+          - paragraph [ref=f36e44]
+          - list [ref=f36e45]:
+            - listitem [ref=f36e46]: 2+ years of professional software engineering
+            - listitem [ref=f36e47]: Code merged into a public open-source repository, ideally one you know well. A private codebase you own may also qualify (not employer or client code)
+            - listitem [ref=f36e48]: Strong in at least one of Python, TypeScript, Go, Rust, Java or C++
+            - listitem [ref=f36e49]: Solid with Docker, Linux, Git and automated testing
+            - listitem [ref=f36e50]: Regular use of an AI coding tool
+            - listitem [ref=f36e51]: Experience writing tests, rubrics or evaluation criteria, ideally for AI models
+            - listitem [ref=f36e52]: You can explain a change clearly and concisely, in your own words
+            - listitem [ref=f36e53]: At least 10 hours a week, starting now
+            - listitem [ref=f36e54]: A secure personal or work computer (no public or shared machines)
+          - paragraph [ref=f36e55]
+          - paragraph [ref=f36e56]: Nice to have
+          - paragraph [ref=f36e57]
+          - list [ref=f36e58]:
+            - listitem [ref=f36e59]: Deep expertise in one area, such as databases, compilers, distributed systems, security or infrastructure
+            - listitem [ref=f36e60]: Experience building agent tasks or RL environments
+          - paragraph [ref=f36e61]
+          - paragraph [ref=f36e62]: Terms
+          - paragraph [ref=f36e63]
+          - list [ref=f36e64]:
+            - listitem [ref=f36e65]: US$1,000 for each task that passes our quality review, paid directly to you
+            - listitem [ref=f36e66]: Once your proposal is qualified, you sign Askable's contract and accept its terms
+            - listitem [ref=f36e67]: The work is used for AI training. The change and your solution must be your own, and you must be free to license them to us
+            - listitem [ref=f36e68]: "Don't publish the work anywhere: no public pull request or public fork"
+          - paragraph [ref=f36e69]
+          - paragraph [ref=f36e70]: Apply at https://www.askable.com/experts/roles/senior-software-engineer
+        - generic [ref=f36e71]:
+          - text: About The Company
+          - generic [ref=f36e72]:
+            - generic [ref=f36e76]:
+              - link "Askable" [ref=f36e77] [cursor=pointer]:
+                - /url: https://remotive.com/remote-companies/askable-885093
+              - generic [ref=f36e78]: Askable is the evidence layer for the AI-powered enterprise.
+            - generic [ref=f36e79]:
+              - paragraph [ref=f36e80]: Askable is the evidence layer for the AI-powered enterprise. It continuously captures, structures and makes real human insight queryable before anyone needs to ask a question, using AI moderated research with millions of verified participants from its own network.
+              - paragraph [ref=f36e81]
+              - paragraph [ref=f36e82]
+              - paragraph [ref=f36e83]: Every finding traces back to a verified participant and a real session. Teams can query that evidence in seconds through Ask AI or directly inside tools like Claude, Copilot and Cursor through MCP.
+              - link "Read more →" [ref=f36e84] [cursor=pointer]:
+                - /url: https://remotive.com/remote-companies/askable-885093
+      - generic [ref=f36e85]:
+        - generic [ref=f36e86]:
+          - generic [ref=f36e87]: More Software Development jobs in Worldwide
+          - list [ref=f36e89]:
+            - listitem [ref=f36e90] [cursor=pointer]:
+              - generic [ref=f36e91]:
+                - generic [ref=f36e93]:
+                  - link "Head of Engineering • Lemon.io" [ref=f36e95]:
+                    - /url: https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134
+                    - generic [ref=f36e96]: Head of Engineering
+                    - generic [ref=f36e97]: •
+                    - generic [ref=f36e98]: Lemon.io
+                  - generic [ref=f36e99]:
+                    - link "Software Development" [ref=f36e101]:
+                      - /url: /remote-jobs/software-development
+                    - link "full-time" [ref=f36e103]:
+                      - /url: /remote-jobs/et-full-time
+                    - generic [ref=f36e104]: Worldwide
+                - generic [ref=f36e105]: Featured
+            - listitem [ref=f36e107] [cursor=pointer]:
+              - generic [ref=f36e108]:
+                - generic [ref=f36e111]:
+                  - link "Full-Stack Developer • Fluence International, Inc." [ref=f36e113]:
+                    - /url: https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165
+                    - generic [ref=f36e114]: Full-Stack Developer
+                    - generic [ref=f36e115]: •
+                    - generic [ref=f36e116]: Fluence International, Inc.
+                  - generic [ref=f36e117]:
+                    - link "Software Development" [ref=f36e119]:
+                      - /url: /remote-jobs/software-development
+                    - link "contract" [ref=f36e121]:
+                      - /url: /remote-jobs/et-contract
+                    - generic [ref=f36e122]: $3.5k–$5k/month
+                    - generic [ref=f36e123]: Worldwide
+                - generic [ref=f36e124]: New
+            - listitem [ref=f36e126] [cursor=pointer]:
+              - generic [ref=f36e127]:
+                - generic [ref=f36e129]:
+                  - link "Senior Full Stack Developer • Be.change Consulting" [ref=f36e131]:
+                    - /url: https://remotive.com/remote/jobs/software-development/senior-full-stack-developer-6438675
+                    - generic [ref=f36e132]: Senior Full Stack Developer
+                    - generic [ref=f36e133]: •
+                    - generic [ref=f36e134]: Be.change Consulting
+                  - generic [ref=f36e135]:
+                    - link "Software Development" [ref=f36e137]:
+                      - /url: /remote-jobs/software-development
+                    - link "full-time" [ref=f36e139]:
+                      - /url: /remote-jobs/et-full-time
+                    - generic [ref=f36e140]: Worldwide
+                - generic [ref=f36e141]: New
+            - listitem [ref=f36e143] [cursor=pointer]:
+              - generic [ref=f36e144]:
+                - generic [ref=f36e146]:
+                  - link "Senior Backend Developer • Sumsub" [ref=f36e148]:
+                    - /url: https://remotive.com/remote/jobs/software-development/senior-backend-developer-6438978
+                    - generic [ref=f36e149]: Senior Backend Developer
+                    - generic [ref=f36e150]: •
+                    - generic [ref=f36e151]: Sumsub
+                  - generic [ref=f36e152]:
+                    - link "Software Development" [ref=f36e154]:
+                      - /url: /remote-jobs/software-development
+                    - link "full-time" [ref=f36e156]:
+                      - /url: /remote-jobs/et-full-time
+                    - link "senior" [ref=f36e158]:
+                      - /url: /remote-jobs/cl-senior
+                    - generic [ref=f36e159]: Worldwide
+                - generic [ref=f36e160]: New
+            - listitem [ref=f36e162] [cursor=pointer]:
+              - generic [ref=f36e163]:
+                - generic [ref=f36e165]:
+                  - link "Lead Oracle Integration Cloud Developer • Cynet Systems" [ref=f36e167]:
+                    - /url: https://remotive.com/remote/jobs/software-development/lead-oracle-integration-cloud-developer-6442274
+                    - generic [ref=f36e168]: Lead Oracle Integration Cloud Developer
+                    - generic [ref=f36e169]: •
+                    - generic [ref=f36e170]: Cynet Systems
+                  - generic [ref=f36e171]:
+                    - link "Software Development" [ref=f36e173]:
+                      - /url: /remote-jobs/software-development
+                    - link "contract" [ref=f36e175]:
+                      - /url: /remote-jobs/et-contract
+                    - link "mid-level" [ref=f36e177]:
+                      - /url: /remote-jobs/cl-mid-level
+                    - generic [ref=f36e178]: $55.00 - $60.00..
+                    - generic [ref=f36e179]: Worldwide
+                - generic [ref=f36e180]: New
+            - listitem [ref=f36e182] [cursor=pointer]:
+              - generic [ref=f36e183]:
+                - generic [ref=f36e185]:
+                  - link "Backend NestJs Developer • Productiv Team" [ref=f36e187]:
+                    - /url: https://remotive.com/remote/jobs/software-development/backend-nestjs-developer-6440750
+                    - generic [ref=f36e188]: Backend NestJs Developer
+                    - generic [ref=f36e189]: •
+                    - generic [ref=f36e190]: Productiv Team
+                  - generic [ref=f36e191]:
+                    - link "Software Development" [ref=f36e193]:
+                      - /url: /remote-jobs/software-development
+                    - link "full-time" [ref=f36e195]:
+                      - /url: /remote-jobs/et-full-time
+                    - link "senior" [ref=f36e197]:
+                      - /url: /remote-jobs/cl-senior
+                    - generic [ref=f36e198]: Worldwide
+                - generic [ref=f36e199]: New
+        - link "View more similar jobs" [ref=f36e201] [cursor=pointer]:
+          - /url: /join
+      - generic [ref=f36e205]:
+        - text: Kickstart Your Job Search
+        - link "⚡ 18,637 remote jobs added this week You're seeing 0.4% of available roles Unlock 130,000+ jobs →" [ref=f36e207] [cursor=pointer]:
+          - /url: /join
+          - generic [ref=f36e208]:
+            - generic [ref=f36e210]:
+              - paragraph [ref=f36e211]: ⚡ 18,637 remote jobs added this week
+              - paragraph [ref=f36e212]: You're seeing 0.4% of available roles
+            - generic [ref=f36e213]: Unlock 130,000+ jobs →
+      - 'link "Meet JobCopilot: Your Personal Al Job Hunter Automatically Apply to Remote Jobs Try it now →" [ref=f36e215] [cursor=pointer]':
+        - /url: https://remotive.com/job-copilot
+        - generic [ref=f36e216]:
+          - generic [ref=f36e218]:
+            - paragraph [ref=f36e219]: "Meet JobCopilot: Your Personal Al Job Hunter"
+            - paragraph [ref=f36e220]: Automatically Apply to Remote Jobs
+          - generic [ref=f36e221]: Try it now →
+      - generic [ref=f36e224]:
+        - text: Back to
+        - link "Remote jobs" [ref=f36e225] [cursor=pointer]:
+          - /url: /remote-jobs
+        - text: ">"
+        - link "Software Development" [ref=f36e226] [cursor=pointer]:
+          - /url: /remote-jobs/software-development
+    - generic [ref=f36e228]:
+      - generic [ref=f36e232]: Software Engineer, AI Coding Tasks
+      - link "@Askable" [ref=f36e233] [cursor=pointer]:
+        - /url: https://remotive.com/remote-companies/askable-885093
+      - generic [ref=f36e234]:
+        - generic [ref=f36e235]:
+          - link "Software Development" [ref=f36e237] [cursor=pointer]:
+            - /url: /remote-jobs/software-development
+          - table [ref=f36e238]:
+            - rowgroup [ref=f36e239]:
+              - row [ref=f36e240]:
+                - cell "Salary $1000 per task" [ref=f36e241]:
+                  - generic [ref=f36e242]:
+                    - generic [ref=f36e243]: Salary
+                    - generic [ref=f36e244]: $1000 per task
+                - cell "Remote Location worldwide Worldwide" [ref=f36e245]:
+                  - generic [ref=f36e246]:
+                    - generic [ref=f36e247]: Remote Location
+                    - generic [ref=f36e249]:
+                      - img "worldwide" [ref=f36e250]
+                      - link "Worldwide" [ref=f36e251] [cursor=pointer]:
+                        - /url: /remote-jobs?location=Worldwide
+              - row [ref=f36e252]:
+                - cell "Employment Type contract" [ref=f36e253]:
+                  - generic [ref=f36e254]:
+                    - generic [ref=f36e255]: Employment Type
+                    - link "contract" [ref=f36e256] [cursor=pointer]:
+                      - /url: /remote-jobs?employment-type=contract
+                - cell "Posted 2wks ago" [ref=f36e257]:
+                  - generic [ref=f36e258]:
+                    - generic [ref=f36e259]: Posted
+                    - generic [ref=f36e260]: 2wks ago
+        - generic [ref=f36e262]:
+          - text: 🙈 Does this job need an edit?
+          - button "Let us know!" [ref=f36e263] [cursor=pointer]
+      - button "Apply for this position" [ref=f36e264] [cursor=pointer]
+      - link "Unlock 130,000+ Remote Jobs" [ref=f36e267] [cursor=pointer]:
+        - /url: /join
+      - generic [ref=f36e268]:
+        - text: ️
+        - table [ref=f36e269]:
+          - rowgroup [ref=f36e270]:
+            - row [ref=f36e271]:
+              - cell "👋" [ref=f36e272]
+              - cell [ref=f36e273]:
+                - text: Please mention that you come from
+                - strong [ref=f36e274]: Remotive
+                - text: when applying for this job.
+            - row [ref=f36e275]:
+              - cell [ref=f36e276]:
+                - img "worldwide" [ref=f36e277]
+              - cell [ref=f36e278]:
+                - text: "Be aware of the location restriction for this remote position:"
+                - strong [ref=f36e280]: Worldwide
+            - row [ref=f36e281]:
+              - cell "‼" [ref=f36e282]
+              - cell [ref=f36e283]:
+                - text: Beware of
+                - strong [ref=f36e284]: scams
+                - text: "! When applying for jobs, you should NEVER have to pay anything."
+                - link "Learn more." [ref=f36e285] [cursor=pointer]:
+                  - /url: https://remotive.com/blog/how-to-avoid-job-scams
+  - generic [ref=f36e286]:
+    - generic [ref=f36e287]:
+      - generic [ref=f36e288]:
+        - link "Remotive" [ref=f36e289] [cursor=pointer]:
+          - /url: /
+        - list [ref=f36e290]:
+          - listitem [ref=f36e291]:
+            - link "Blog" [ref=f36e292] [cursor=pointer]:
+              - /url: https://remotive.com/blog
+          - listitem [ref=f36e293]:
+            - link "About" [ref=f36e294] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=f36e295]:
+            - link "Press" [ref=f36e296] [cursor=pointer]:
+              - /url: https://support.remotive.com/en/category/l3ahqd/
+          - listitem [ref=f36e297]:
+            - link "Sponsorship" [ref=f36e298] [cursor=pointer]:
+              - /url: https://support.remotive.com/en/article/ycrtby/
+          - listitem [ref=f36e299]:
+            - link "Reviews & Success Stories" [ref=f36e300] [cursor=pointer]:
+              - /url: /reviews-success-stories
+          - listitem [ref=f36e301]:
+            - link "Remotive Affiliate Program" [ref=f36e302] [cursor=pointer]:
+              - /url: /affiliate-program
+          - listitem [ref=f36e303]:
+            - link "Terms of Use" [ref=f36e304] [cursor=pointer]:
+              - /url: https://remotive.com/terms-of-use
+            - text: "&"
+            - link "Privacy Policy" [ref=f36e305] [cursor=pointer]:
+              - /url: https://remotive.com/privacy-policy
+      - generic [ref=f36e306]:
+        - generic [ref=f36e307]: Find Remote Jobs
+        - list [ref=f36e308]:
+          - listitem [ref=f36e309]:
+            - link "Join Remotive" [ref=f36e310] [cursor=pointer]:
+              - /url: /join
+          - listitem [ref=f36e311]:
+            - link "Remote Job Search Tips" [ref=f36e312] [cursor=pointer]:
+              - /url: /blog/tag/job-search-tips/
+          - listitem [ref=f36e313]:
+            - link "Remote Work Statistics Hiring Trends" [ref=f36e314] [cursor=pointer]:
+              - /url: https://remotive.com/blog/remote-work-statistics-hiring-trends
+          - listitem [ref=f36e315]:
+            - link "Remotive Jobs Public API" [ref=f36e316] [cursor=pointer]:
+              - /url: /remote-jobs/api
+            - text: "&"
+            - link "RSS Feeds" [ref=f36e317] [cursor=pointer]:
+              - /url: /remote-jobs/rss-feed
+          - listitem [ref=f36e319]:
+            - link "Remote Jobs Index" [ref=f36e320] [cursor=pointer]:
+              - /url: /remote-jobs-index
+      - generic [ref=f36e321]:
+        - generic [ref=f36e322]: Hiring Remotely
+        - list [ref=f36e323]:
+          - listitem [ref=f36e324]:
+            - link "Why Remotive?" [ref=f36e325] [cursor=pointer]:
+              - /url: /hire
+          - listitem [ref=f36e326]:
+            - link "Post a Remote Job" [ref=f36e327] [cursor=pointer]:
+              - /url: /job/post/new
+          - listitem [ref=f36e328]:
+            - link "Remote Hiring Tips" [ref=f36e329] [cursor=pointer]:
+              - /url: /blog/tag/hiring-remotely/
+          - listitem [ref=f36e330]:
+            - link "Help Center for Recruiters" [ref=f36e331] [cursor=pointer]:
+              - /url: https://support.remotive.com
+    - generic [ref=f36e332]:
+      - paragraph [ref=f36e334]: © 2014-2026, made Remotely with ❤️
+      - generic [ref=f36e336]:
+        - link "LinkedIn" [ref=f36e337] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/remotive.io/
+        - link "Twitter" [ref=f36e340] [cursor=pointer]:
+          - /url: https://twitter.com/remotiveio/
+        - link "Reddit" [ref=f36e343] [cursor=pointer]:
+          - /url: https://www.reddit.com/r/remotivejobs/
+        - link "Telegram" [ref=f36e346] [cursor=pointer]:
+          - /url: https://t.me/remotejobsenglish/
+        - link "Facebook" [ref=f36e349] [cursor=pointer]:
+          - /url: https://www.facebook.com/remotivedotcom/
+        - link "Instagram" [ref=f36e352] [cursor=pointer]:
+          - /url: https://www.instagram.com/remotiveio/
+        - link "Slack Community" [ref=f36e355] [cursor=pointer]:
+          - /url: /accelerator?utm_medium=footerslack
+        - link "Email us" [ref=f36e358] [cursor=pointer]:
+          - /url: mailto:hello@remotive.com

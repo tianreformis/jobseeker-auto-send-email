@@ -1,0 +1,641 @@
+- generic [active] [ref=f12e1]:
+  - generic [ref=f12e2]:
+    - text:              
+    - banner [ref=f12e3]:
+      - navigation [ref=f12e4]:
+        - link [ref=f12e5] [cursor=pointer]:
+          - /url: /
+          - img "we work remotely" [ref=f12e6]
+        - generic [ref=f12e7]:
+          - link "Sign in" [ref=f12e9] [cursor=pointer]:
+            - /url: /account/sign_in?utm_content=sign-in-employer-cta&utm_source=wwr-accounts-nav-mobile
+          - generic [ref=f12e10] [cursor=pointer]
+        - generic [ref=f12e14]:
+          - generic [ref=f12e15]:
+            - generic [ref=f12e17]:
+              - generic [aria-hidden] [ref=f12e18]: 
+              - textbox "Search" [ref=f12e19]
+            - list [ref=f12e20]:
+              - listitem [ref=f12e21]:
+                - link "Global Payroll" [ref=f12e22] [cursor=pointer]:
+                  - /url: https://www.toptal.com/hireglobal/wwr-partnership?utm_source=weworkremotely&utm_medium=referral&utm_campaign=hireglobal_nav_link
+              - listitem [ref=f12e23]:
+                - button "Jobs" [ref=f12e24] [cursor=pointer]:
+                  - text: Jobs
+                  - generic [aria-hidden] [ref=f12e25]: 
+                - region "Jobs":
+                  - list [ref=f12e26]:
+                    - listitem [ref=f12e27]:
+                      - link "Top Trending Remote Jobs" [ref=f12e28] [cursor=pointer]:
+                        - /url: /top-trending-remote-jobs
+                      - text: New!
+                    - listitem [ref=f12e29]:
+                      - link "All Jobs" [ref=f12e30] [cursor=pointer]:
+                        - /url: /
+                    - listitem [ref=f12e31]:
+                      - button "Search by Vertical" [ref=f12e32] [cursor=pointer]:
+                        - text: Search by Vertical
+                        - generic [aria-hidden] [ref=f12e33]: 
+                      - region "Search by Vertical":
+                        - list [ref=f12e34]:
+                          - listitem [ref=f12e35]:
+                            - button "Programming" [ref=f12e36] [cursor=pointer]:
+                              - text: Programming
+                              - generic [aria-hidden] [ref=f12e37]: 
+                            - region "Programming":
+                              - list [ref=f12e38]:
+                                - listitem [ref=f12e39]:
+                                  - link "Full-Stack Programming" [ref=f12e40] [cursor=pointer]:
+                                    - /url: /categories/remote-full-stack-programming-jobs
+                                - listitem [ref=f12e41]:
+                                  - link "Front-End Programming" [ref=f12e42] [cursor=pointer]:
+                                    - /url: /categories/remote-front-end-programming-jobs
+                                - listitem [ref=f12e43]:
+                                  - link "Back-End Programming" [ref=f12e44] [cursor=pointer]:
+                                    - /url: /categories/remote-back-end-programming-jobs
+                                - listitem [ref=f12e45]:
+                                  - link "Software Development" [ref=f12e46] [cursor=pointer]:
+                                    - /url: /remote-software-developer-jobs
+                          - listitem [ref=f12e47]:
+                            - button "Design" [ref=f12e48] [cursor=pointer]:
+                              - text: Design
+                              - generic [aria-hidden] [ref=f12e49]: 
+                            - region "Design":
+                              - list [ref=f12e50]:
+                                - listitem [ref=f12e51]:
+                                  - link "All Design Jobs" [ref=f12e52] [cursor=pointer]:
+                                    - /url: /categories/remote-design-jobs
+                                - listitem [ref=f12e53]:
+                                  - link "Product Design" [ref=f12e54] [cursor=pointer]:
+                                    - /url: /categories/remote-product-design-jobs
+                                - listitem [ref=f12e55]:
+                                  - link "UX/UI Design" [ref=f12e56] [cursor=pointer]:
+                                    - /url: /categories/remote-ux-ui-design-jobs
+                          - listitem [ref=f12e57]:
+                            - link "Devops and Sysadmin" [ref=f12e58] [cursor=pointer]:
+                              - /url: /categories/remote-devops-sysadmin-jobs
+                          - listitem [ref=f12e59]:
+                            - link "Management and Finance" [ref=f12e60] [cursor=pointer]:
+                              - /url: /categories/remote-management-and-finance-jobs
+                          - listitem [ref=f12e61]:
+                            - link "Product" [ref=f12e62] [cursor=pointer]:
+                              - /url: /categories/remote-product-jobs
+                          - listitem [ref=f12e63]:
+                            - link "Customer Support" [ref=f12e64] [cursor=pointer]:
+                              - /url: /categories/remote-customer-support-jobs
+                          - listitem [ref=f12e65]:
+                            - link "Sales and Marketing" [ref=f12e66] [cursor=pointer]:
+                              - /url: /categories/remote-sales-and-marketing-jobs
+                    - listitem [ref=f12e67]:
+                      - button "Search by Engagement type" [ref=f12e68] [cursor=pointer]:
+                        - text: Search by Engagement type
+                        - generic [aria-hidden] [ref=f12e69]: 
+                      - region "Search by Engagement type":
+                        - list [ref=f12e70]:
+                          - listitem [ref=f12e71]:
+                            - link "Full-Time" [ref=f12e72] [cursor=pointer]:
+                              - /url: /remote-full-time-jobs
+                          - listitem [ref=f12e73]:
+                            - link "Contract" [ref=f12e74] [cursor=pointer]:
+                              - /url: /remote-contract-jobs
+                    - listitem [ref=f12e75]:
+                      - link "All Other Jobs" [ref=f12e76] [cursor=pointer]:
+                        - /url: /categories/all-other-remote-jobs
+                    - listitem [ref=f12e77]:
+                      - link "Top 100 Remote Companies" [ref=f12e78] [cursor=pointer]:
+                        - /url: /top-remote-companies
+              - listitem [ref=f12e79]:
+                - button "Community" [ref=f12e80] [cursor=pointer]:
+                  - text: Community
+                  - generic [aria-hidden] [ref=f12e81]: 
+                - region "Community":
+                  - list [ref=f12e82]:
+                    - listitem [ref=f12e83]:
+                      - link "Blog" [ref=f12e84] [cursor=pointer]:
+                        - /url: /blog
+                    - listitem [ref=f12e85]:
+                      - link "Remote Work Trends" [ref=f12e86] [cursor=pointer]:
+                        - /url: /remote-work-trends
+                    - listitem [ref=f12e87]:
+                      - link "Remote Work Community New!" [ref=f12e88] [cursor=pointer]:
+                        - /url: https://community.weworkremotely.com/c/start-here?post_login_redirect=https%3A%2F%2Fcommunity.weworkremotely.com%2F%3Futm_source%3Dwebsite%26utm_medium%3Ddirect%26utm_campaign%3DCommunity_Circle%26utm_content%3Dbanner_circle
+                    - listitem [ref=f12e89]:
+                      - link [ref=f12e90] [cursor=pointer]:
+                        - /url: https://twitter.com/weworkremotely/?utm_content=nav-network&utm_source=we-work-remotely&utm_campaign=nav-network-twitter&utm_medium=nav-network-twitter
+                        - generic [aria-hidden] [ref=f12e91]: 
+                      - link [ref=f12e92] [cursor=pointer]:
+                        - /url: https://www.instagram.com/weworkremotelycom/?utm_content=nav-network&utm_source=we-work-remotely&utm_campaign=nav-network-fb&utm_medium=nav-network-fb
+                        - generic [aria-hidden] [ref=f12e93]: 
+                      - link [ref=f12e94] [cursor=pointer]:
+                        - /url: https://www.linkedin.com/company/18527028/?utm_content=nav-network&utm_source=we-work-remotely&utm_campaign=nav-network-linkedin&utm_medium=nav-network-linkedin
+                        - generic [aria-hidden] [ref=f12e95]: 
+                      - link [ref=f12e96] [cursor=pointer]:
+                        - /url: https://www.facebook.com/weworkremotely/?utm_content=nav-network&utm_source=we-work-remotely&utm_campaign=nav-network-fb&utm_medium=nav-network-fb
+                        - generic [aria-hidden] [ref=f12e97]: 
+              - listitem [ref=f12e98]:
+                - button "Career Services" [ref=f12e99] [cursor=pointer]:
+                  - text: Career Services
+                  - generic [aria-hidden] [ref=f12e100]: 
+                - region "Career Services":
+                  - list [ref=f12e101]:
+                    - listitem [ref=f12e102]:
+                      - link "Free ATS Resume Review" [ref=f12e103] [cursor=pointer]:
+                        - /url: https://weworkremotely.com/career-services/toptal-resume
+                    - listitem [ref=f12e104]:
+                      - link "Online Courses New!" [ref=f12e105] [cursor=pointer]:
+                        - /url: /job-seekers/courses
+                    - listitem [ref=f12e106]:
+                      - link "AI Job Search" [ref=f12e107] [cursor=pointer]:
+                        - /url: /career-services/job-copilot
+              - listitem [ref=f12e108]:
+                - button "About" [ref=f12e109] [cursor=pointer]:
+                  - text: About
+                  - generic [aria-hidden] [ref=f12e110]: 
+                - region "About":
+                  - list [ref=f12e111]:
+                    - listitem [ref=f12e112]:
+                      - link "Why Choose WWR?" [ref=f12e113] [cursor=pointer]:
+                        - /url: /post-a-remote-job
+                    - listitem [ref=f12e114]:
+                      - link "Mega Placements New!" [ref=f12e115] [cursor=pointer]:
+                        - /url: /mega-placements
+                    - listitem [ref=f12e116]:
+                      - link "Frequently Asked Questions" [ref=f12e117] [cursor=pointer]:
+                        - /url: /frequently-asked-questions
+                    - listitem [ref=f12e118]:
+                      - link "Save with Bundles" [ref=f12e119] [cursor=pointer]:
+                        - /url: /bundles?utm_source=wwr-nav
+                        - text: Save with Bundles
+                        - generic [aria-hidden] [ref=f12e120]: 
+          - link "Post a job" [ref=f12e122] [cursor=pointer]:
+            - /url: /remote-jobs/find-your-plan?utm_content=post-job-cta&utm_source=wwr-accounts-nav-mobile
+      - text: 
+    - generic [ref=f12e124]:
+      - generic [ref=f12e125]:
+        - generic [ref=f12e126]:
+          - link "All jobs" [ref=f12e127] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f12e128]: /
+          - link "Full-Stack Programming" [ref=f12e129] [cursor=pointer]:
+            - /url: /categories/remote-full-stack-programming-jobs
+          - generic [ref=f12e130]: /
+          - link "Senior React Full-stack Developer" [ref=f12e131] [cursor=pointer]:
+            - /url: /listings/lemon-io-senior-react-full-stack-developer-7
+        - generic [ref=f12e132]:
+          - link:
+            - /url: /company/lemon-io
+          - generic [ref=f12e133]:
+            - heading "Senior React Full-stack Developer" [level=1] [ref=f12e134]
+            - paragraph [ref=f12e136]:
+              - generic [aria-hidden] [ref=f12e137]: 
+              - generic [ref=f12e138]: Posted 22 days ago
+            - generic [ref=f12e140]:
+              - link "Lemon.io" [ref=f12e141] [cursor=pointer]:
+                - /url: https://lemon.io/for-developers/?utm_source=weworkremotely&utm_medium=job_ad&utm_campaign=supply_en_react_node/python/ruby_oct_2026_job_ad
+              - text: — the marketplace that connects you with hand-picked startups in the US and Europe.
+            - generic [ref=f12e142]:
+              - link "Apply now" [ref=f12e145] [cursor=pointer]:
+                - /url: /job-seekers/account/login?alert=Sign+in+to+verify+your+eligibility+for+this+geolocked+position.
+              - link "AI Auto-Apply" [ref=f12e146] [cursor=pointer]:
+                - /url: /career-services/job-copilot
+                - generic [aria-hidden] [ref=f12e147]: 
+                - text: AI Auto-Apply
+              - button "Save job" [ref=f12e148] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e149]: 
+                - text: Save job
+      - generic [ref=f12e150]:
+        - generic [ref=f12e152]:
+          - paragraph [ref=f12e153]:
+            - text: Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than
+            - link "Lemon.io" [ref=f12e154] [cursor=pointer]:
+              - /url: https://lemon.io/for-developers/?utm_source=weworkremotely&utm_medium=job_ad&utm_campaign=supply_en_react_node/python/ruby_oct_2026_job_ad
+            - text: — the marketplace that connects you with hand-picked startups in the US and Europe.
+          - paragraph [ref=f12e155]:
+            - strong [ref=f12e156]: "What we offer:"
+          - list [ref=f12e157]:
+            - listitem [ref=f12e158]: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.
+            - listitem [ref=f12e159]: No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.
+            - listitem [ref=f12e160]: We'll manually find the best project for you according to your skills and preferences.
+            - listitem [ref=f12e161]: Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.
+            - listitem [ref=f12e162]: We respect your seniority so you can expect no micromanagement or screen trackers.
+            - listitem [ref=f12e163]: Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
+            - listitem [ref=f12e164]: We will support you from the time you submit the application throughout all cooperation stages.
+            - listitem [ref=f12e165]: Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
+            - listitem [ref=f12e166]: Through our community, we will connect you with the best developers from more than 75 countries.
+          - heading [level=3] [ref=f12e167]:
+            - strong [ref=f12e168]: "Requirements for the Senior React & Python Position:"
+          - list [ref=f12e169]:
+            - listitem [ref=f12e170]: 4+ years of software development experience.
+          - paragraph [ref=f12e171]: "Commercial experience:"
+          - list [ref=f12e172]:
+            - listitem [ref=f12e173]:
+              - paragraph [ref=f12e174]: React.js 3+ years & Python 3+ years
+              - paragraph [ref=f12e175]: ORReact.js 2+ years & Python 5+ yearsORReact.js 5+ years & Python 2+ years
+            - listitem [ref=f12e176]:
+              - paragraph [ref=f12e177]: Experience with AWS, GCP, or Azure is required.
+          - heading [level=3] [ref=f12e178]:
+            - strong [ref=f12e179]: "Requirements for the Senior Node & React Position:"
+          - list [ref=f12e180]:
+            - listitem [ref=f12e181]: 5+ years of software development experience
+          - paragraph [ref=f12e182]:
+            - strong [ref=f12e183]: "Commercial experience:"
+          - list [ref=f12e184]:
+            - listitem [ref=f12e185]:
+              - text: "React.js: 3+ years, Node.js: 5+ years, and Next.js: 2+ years"
+              - strong [ref=f12e186]: OR
+              - text: "React.js: 5+ years, Node.js: 3+ years, and Next.js: 2+ years"
+            - listitem [ref=f12e187]: Expertise in TypeScript, AWS and AI-assisted coding is a must.
+          - heading [level=3] [ref=f12e188]:
+            - strong [ref=f12e189]: "Requirements for the Senior Ruby & React Position:"
+          - list [ref=f12e190]:
+            - listitem [ref=f12e191]: 5+ years of software development experience
+          - paragraph [ref=f12e192]:
+            - strong [ref=f12e193]: "Commercial experience:"
+          - list [ref=f12e194]:
+            - listitem [ref=f12e195]:
+              - text: "React.js: 2+ years, Ruby: 5+ years"
+              - strong [ref=f12e196]: OR
+              - text: "React.js: 5+ years, Ruby: 2+ years"
+            - listitem [ref=f12e197]: Experience with AWS, GCP, or Azure is required.
+          - paragraph [ref=f12e198]:
+            - strong [ref=f12e199]: "Other requirements:"
+          - list [ref=f12e200]:
+            - listitem [ref=f12e201]: "Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture."
+            - listitem [ref=f12e202]: Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
+            - listitem [ref=f12e203]: Strong self-organizational skills — ability to work full-time remotely with no supervision.
+            - listitem [ref=f12e204]: Reliability — we want to trust you and expect that you won’t let us and the client down.
+            - listitem [ref=f12e205]: Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.
+          - paragraph [ref=f12e206]:
+            - text: Sounds good for you? Apply now and join the
+            - link "Lemon.io" [ref=f12e207] [cursor=pointer]:
+              - /url: https://lemon.io/for-developers/?utm_source=weworkremotely&utm_medium=job_ad&utm_campaign=supply_en_react_node/python/ruby_oct_2026_job_ad
+            - text: community!
+          - paragraph [ref=f12e208]:
+            - strong [ref=f12e209]: NOT YOUR TECH STACK?
+          - paragraph [ref=f12e210]: We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, React & Golang, Golang, React & Java, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Angular, Python & Node, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.
+          - paragraph [ref=f12e211]: We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
+          - paragraph [ref=f12e212]: We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).
+          - paragraph [ref=f12e213]
+          - separator [ref=f12e214]
+        - generic [ref=f12e215]:
+          - generic [ref=f12e216]:
+            - link [ref=f12e217] [cursor=pointer]:
+              - /url: /company/lemon-io
+            - generic [ref=f12e218]:
+              - heading [level=3] [ref=f12e220]:
+                - text: Lemon.io
+                - img "Star Icon" [ref=f12e221]
+              - link "View company" [ref=f12e222] [cursor=pointer]:
+                - /url: /company/lemon-io
+                - generic [aria-hidden] [ref=f12e224]: 
+              - paragraph [ref=f12e225]: "Jobs posted: 129"
+          - generic [ref=f12e226]:
+            - heading [level=2] [ref=f12e227]:
+              - text: About the job
+              - generic [aria-hidden] [ref=f12e229] [cursor=pointer]: 
+            - list [ref=f12e230]:
+              - listitem [ref=f12e231]:
+                - text: Posted on
+                - generic [ref=f12e232]: 22 days ago
+              - listitem [ref=f12e233]:
+                - text: Apply before
+                - generic [ref=f12e234]: Nov 8th, 2026
+              - listitem [ref=f12e235]:
+                - text: Job type
+                - link [ref=f12e236] [cursor=pointer]:
+                  - /url: /categories/remote-full-stack-programming-jobs
+                  - generic [ref=f12e237]:
+                    - generic [aria-hidden] [ref=f12e238]: 
+                    - text: Full-Time
+              - listitem [ref=f12e239]:
+                - text: Category
+                - link "Full-Stack Programming" [ref=f12e240] [cursor=pointer]:
+                  - /url: /categories/remote-full-stack-programming-jobs
+              - listitem [ref=f12e242]:
+                - text: Country
+                - generic [aria-hidden] [ref=f12e244] [cursor=pointer]: 
+                - generic [ref=f12e245]:
+                  - link "🇦🇩 Andorra" [ref=f12e246] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-andorra
+                  - link "🇦🇱 Albania" [ref=f12e248] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-albania
+                  - link "🇦🇷 Argentina" [ref=f12e250] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-argentina
+                  - link "🇦🇹 Austria" [ref=f12e252] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-austria
+                  - link "🇦🇺 Australia" [ref=f12e254] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-australia
+                  - link "🇧🇦 Bosnia and Herzegovina" [ref=f12e256] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-bosnia-and-herzegovina
+                  - link "🇧🇪 Belgium" [ref=f12e258] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-belgium
+                  - link "🇧🇬 Bulgaria" [ref=f12e260] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-bulgaria
+                  - link "🇧🇴 Bolivia (Plurinational State of)" [ref=f12e262] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-bolivia-plurinational-state-of
+                  - link "🇧🇷 Brazil" [ref=f12e264] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-brazil
+                  - link "🇧🇿 Belize" [ref=f12e266] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-belize
+                  - link "🇨🇦 Canada" [ref=f12e268] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-canada
+                  - link "🇨🇭 Switzerland" [ref=f12e270] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-switzerland
+                  - link "🇨🇱 Chile" [ref=f12e272] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-chile
+                  - link "🇨🇴 Colombia" [ref=f12e274] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-colombia
+                  - link "🇨🇷 Costa Rica" [ref=f12e276] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-costa-rica
+                  - link "🇨🇾 Cyprus" [ref=f12e278] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-cyprus
+                  - link "🇨🇿 Czechia" [ref=f12e280] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-czechia
+                  - link "🇩🇪 Germany" [ref=f12e282] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-germany
+                  - link "🇩🇰 Denmark" [ref=f12e284] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-denmark
+                  - link "🇩🇴 Dominican Republic" [ref=f12e286] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-dominican-republic
+                  - link "🇪🇨 Ecuador" [ref=f12e288] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-ecuador
+                  - link "🇪🇪 Estonia" [ref=f12e290] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-estonia
+                  - link "🇪🇸 Spain" [ref=f12e292] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-spain
+                  - link "🇫🇮 Finland" [ref=f12e294] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-finland
+                  - link "🇫🇷 France" [ref=f12e296] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-france
+                  - link "🇬🇧 United Kingdom of Great Britain and Northern Ireland" [ref=f12e298] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-united-kingdom-of-great-britain-and-northern-ireland
+                  - link "🇬🇷 Greece" [ref=f12e300] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-greece
+                  - link "🇬🇹 Guatemala" [ref=f12e302] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-guatemala
+                  - link "🇭🇳 Honduras" [ref=f12e304] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-honduras
+                  - link "🇭🇷 Croatia" [ref=f12e306] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-croatia
+                  - link "🇭🇹 Haiti" [ref=f12e308] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-haiti
+                  - link "🇭🇺 Hungary" [ref=f12e310] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-hungary
+                  - link "🇮🇩 Indonesia" [ref=f12e312] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-indonesia
+                  - link "🇮🇪 Ireland" [ref=f12e314] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-ireland
+                  - link "🇮🇱 Israel" [ref=f12e316] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-israel
+                  - link "🇮🇹 Italy" [ref=f12e318] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-italy
+                  - link "🇯🇲 Jamaica" [ref=f12e320] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-jamaica
+                  - link "🇯🇵 Japan" [ref=f12e322] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-japan
+                  - link "🇰🇷 Korea (Republic of)" [ref=f12e324] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-korea-republic-of
+                  - link "🇱🇹 Lithuania" [ref=f12e326] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-lithuania
+                  - link "🇱🇺 Luxembourg" [ref=f12e328] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-luxembourg
+                  - link "🇱🇻 Latvia" [ref=f12e330] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-latvia
+                  - link "🇲🇦 Morocco" [ref=f12e332] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-morocco
+                  - link "🇲🇩 Moldova (Republic of)" [ref=f12e334] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-moldova-republic-of
+                  - link "🇲🇪 Montenegro" [ref=f12e336] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-montenegro
+                  - link "🇲🇰 North Macedonia" [ref=f12e338] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-north-macedonia
+                  - link "🇲🇹 Malta" [ref=f12e340] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-malta
+                  - link "🇲🇽 Mexico" [ref=f12e342] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-mexico
+                  - link "🇲🇾 Malaysia" [ref=f12e344] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-malaysia
+                  - link "🇳🇱 Netherlands" [ref=f12e346] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-netherlands
+                  - link "🇳🇴 Norway" [ref=f12e348] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-norway
+                  - link "🇳🇿 New Zealand" [ref=f12e350] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-new-zealand
+                  - link "🇵🇦 Panama" [ref=f12e352] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-panama
+                  - link "🇵🇪 Peru" [ref=f12e354] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-peru
+                  - link "🇵🇬 Papua New Guinea" [ref=f12e356] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-papua-new-guinea
+                  - link "🇵🇭 Philippines" [ref=f12e358] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-philippines
+                  - link "🇵🇱 Poland" [ref=f12e360] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-poland
+                  - link "🇵🇷 Puerto Rico" [ref=f12e362] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-puerto-rico
+                  - link "🇵🇹 Portugal" [ref=f12e364] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-portugal
+                  - link "🇵🇾 Paraguay" [ref=f12e366] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-paraguay
+                  - link "🇷🇴 Romania" [ref=f12e368] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-romania
+                  - link "🇸🇪 Sweden" [ref=f12e370] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-sweden
+                  - link "🇸🇬 Singapore" [ref=f12e372] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-singapore
+                  - link "🇸🇮 Slovenia" [ref=f12e374] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-slovenia
+                  - link "🇸🇰 Slovakia" [ref=f12e376] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-slovakia
+                  - link "🇸🇻 El Salvador" [ref=f12e378] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-el-salvador
+                  - link "🇹🇭 Thailand" [ref=f12e380] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-thailand
+                  - link "🇺🇦 Ukraine" [ref=f12e382] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-ukraine
+                  - link "🇺🇸 United States of America" [ref=f12e384] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-united-states-of-america
+                  - link "🇺🇾 Uruguay" [ref=f12e386] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-uruguay
+                  - link "🇻🇳 Viet Nam" [ref=f12e388] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-viet-nam
+                  - link "🇿🇦 South Africa" [ref=f12e390] [cursor=pointer]:
+                    - /url: /jobs-in-remote-location-south-africa
+              - listitem [ref=f12e392]:
+                - text: Skills
+                - generic [ref=f12e393]:
+                  - link "AWS" [ref=f12e394] [cursor=pointer]:
+                    - /url: /remote-jobs-aws
+                  - link "Azure" [ref=f12e396] [cursor=pointer]:
+                    - /url: /remote-jobs-azure
+                  - link "Node.js" [ref=f12e398] [cursor=pointer]:
+                    - /url: /remote-jobs-node-js
+                  - link "Python" [ref=f12e400] [cursor=pointer]:
+                    - /url: /remote-jobs-python
+                  - link "React" [ref=f12e402] [cursor=pointer]:
+                    - /url: /remote-jobs-react
+                  - link "Ruby" [ref=f12e404] [cursor=pointer]:
+                    - /url: /remote-jobs-ruby
+                  - link "Ruby on Rails" [ref=f12e406] [cursor=pointer]:
+                    - /url: /remote-jobs-ruby-on-rails
+                  - link "Engineer" [ref=f12e408] [cursor=pointer]:
+                    - /url: /remote-jobs-engineer
+                  - link "Developer" [ref=f12e410] [cursor=pointer]:
+                    - /url: /remote-jobs-developer
+                  - link "Full Stack Dev" [ref=f12e412] [cursor=pointer]:
+                    - /url: /remote-jobs-full-stack-dev
+                  - link "Full Time" [ref=f12e414] [cursor=pointer]:
+                    - /url: /remote-jobs-full-time
+                  - link "English" [ref=f12e416] [cursor=pointer]:
+                    - /url: /remote-jobs-english
+                  - link "GCP" [ref=f12e418] [cursor=pointer]:
+                    - /url: /remote-jobs-gcp
+                  - link "TypeScript" [ref=f12e420] [cursor=pointer]:
+                    - /url: /remote-jobs-typescript
+            - generic [ref=f12e422]:
+              - link "Apply now" [ref=f12e425] [cursor=pointer]:
+                - /url: /job-seekers/account/login?alert=Sign+in+to+verify+your+eligibility+for+this+geolocked+position.
+              - generic [ref=f12e426]: or
+              - link "Auto-Apply with AI" [ref=f12e430] [cursor=pointer]:
+                - /url: /career-services/job-copilot
+                - generic [aria-hidden] [ref=f12e431]: 
+                - text: Auto-Apply with AI
+              - paragraph [ref=f12e432]: No forms. Just smart, optimized applications.
+          - complementary [ref=f12e433]:
+            - img "Wispr Flow Ad - Job Page promoted banner" [ref=f12e435]
+            - generic [ref=f12e436]:
+              - generic [ref=f12e437]:
+                - paragraph [ref=f12e438]: VOICE DICTATION
+                - heading "Talk. Don't type." [level=3] [ref=f12e439]
+                - paragraph [ref=f12e440]: Write cover letters and job applications just by speaking.
+              - generic [ref=f12e441]:
+                - img "Wispr Flow Ad - Job Page logo"
+                - link "Try it free" [ref=f12e442] [cursor=pointer]:
+                  - /url: /listing_ads/16/click?pk=15140dafa2c063a1453af16e80670450f730dcef063d72e3b0e46d6df5344555&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxNiwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6Im1haW4iLCJ0cmFja2VyX2RpZ2VzdCI6Ijk2Y2E0MDE3ZTZmMzIzMzg2ZGRlYTBjZWYzYmZiYzBhZTcwOWUzZWU3MWNkMTkxZDc4ZTFiODM4MThkMGU1ODUiLCJwYWdlX2tleSI6IjE1MTQwZGFmYTJjMDYzYTE0NTNhZjE2ZTgwNjcwNDUwZjczMGRjZWYwNjNkNzJlM2IwZTQ2ZDZkZjUzNDQ1NTUiLCJub25jZSI6IjczOTY4NGZkZGIwZTZhN2M0ZTYwNGY1MDI4ZjA3ZWVlIn0sImV4cCI6IjIwMjYtMTAtMzFUMTk6NDU6NDMuMzAwWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--b2a8a2680495d82099f8007dcd3cfbf14cf23563&target=main
+              - paragraph [ref=f12e443]: •Promoted
+      - article [ref=f12e446]:
+        - heading [level=2] [ref=f12e447]:
+          - text: Related Jobs
+          - link "Remote Full-Stack Programming jobs →" [ref=f12e449] [cursor=pointer]:
+            - /url: /categories/remote-full-stack-programming-jobs
+            - text: Remote Full-Stack Programming jobs
+            - generic [ref=f12e450]: →
+        - list [ref=f12e451]:
+          - listitem [ref=f12e452]:
+            - generic:
+              - link "Toggl is hiring a remote Senior Full Stack at We Work Remotely.":
+                - /url: /company/toggl
+                - img "Toggl is hiring a remote Senior Full Stack at We Work Remotely." [ref=f12e454] [cursor=pointer]
+            - link "Senior Full Stack 4d Boosted listing Toggl Boosted Featured Top 100 Full-Time $75,000 - $99,999 USD Anywhere in the World" [ref=f12e455] [cursor=pointer]:
+              - /url: /remote-jobs/toggl-senior-full-stack
+              - generic [ref=f12e456]:
+                - generic [ref=f12e457]:
+                  - heading "Senior Full Stack" [level=3] [ref=f12e458]:
+                    - img [aria-hidden] [ref=f12e460]:  
+                  - generic [ref=f12e461]:
+                    - paragraph [ref=f12e462]: 4d
+                    - generic [aria-hidden] [ref=f12e463]: 
+                    - generic [ref=f12e464]: Boosted listing
+                - paragraph [ref=f12e465]: Toggl
+                - text: 
+                - generic [ref=f12e466]:
+                  - paragraph [ref=f12e467]: Boosted
+                  - paragraph [ref=f12e468]: Featured
+                  - paragraph [ref=f12e469]:
+                    - generic [aria-hidden] [ref=f12e470]: 
+                    - text: Top 100
+                  - paragraph [ref=f12e471]: Full-Time
+                  - paragraph [ref=f12e472]: $75,000 - $99,999 USD
+                  - paragraph [ref=f12e473]: Anywhere in the World
+          - listitem [ref=f12e474]:
+            - generic:
+              - link "Samsara is hiring a remote Staff Software Engineer at We Work Remotely.":
+                - /url: /company/samsara
+                - img "Samsara is hiring a remote Staff Software Engineer at We Work Remotely." [ref=f12e476] [cursor=pointer]
+            - link [ref=f12e477] [cursor=pointer]:
+              - /url: /remote-jobs/samsara-staff-software-engineer
+              - generic [ref=f12e478]:
+                - generic [ref=f12e479]:
+                  - heading "Staff Software Engineer" [level=3] [ref=f12e480]:
+                    - img [aria-hidden] [ref=f12e482]:  
+                  - paragraph [ref=f12e484]: 15d
+                - paragraph [ref=f12e485]: Samsara
+                - text: 
+                - generic [ref=f12e486]:
+                  - paragraph [ref=f12e487]: Featured
+                  - paragraph [ref=f12e488]: Full-Time
+                  - paragraph [ref=f12e489]: $100,000 or more USD
+                  - paragraph [ref=f12e490]: 🇺🇸 United States of America
+          - listitem [ref=f12e491]:
+            - generic:
+              - link "Sticker Mule is hiring a remote SI agent engineer at We Work Remotely.":
+                - /url: /company/sticker-mule
+                - img "Sticker Mule is hiring a remote SI agent engineer at We Work Remotely." [ref=f12e493] [cursor=pointer]
+            - link "SI agent engineer 15d Boosted listing Sticker Mule Boosted Featured Top 100 Full-Time $100,000 or more USD Anywhere in the World" [ref=f12e494] [cursor=pointer]:
+              - /url: /remote-jobs/sticker-mule-si-agent-engineer
+              - generic [ref=f12e495]:
+                - generic [ref=f12e496]:
+                  - heading "SI agent engineer" [level=3] [ref=f12e497]:
+                    - img [aria-hidden] [ref=f12e499]:  
+                  - generic [ref=f12e500]:
+                    - paragraph [ref=f12e501]: 15d
+                    - generic [aria-hidden] [ref=f12e502]: 
+                    - generic [ref=f12e503]: Boosted listing
+                - paragraph [ref=f12e504]: Sticker Mule
+                - text: 
+                - generic [ref=f12e505]:
+                  - paragraph [ref=f12e506]: Boosted
+                  - paragraph [ref=f12e507]: Featured
+                  - paragraph [ref=f12e508]:
+                    - generic [aria-hidden] [ref=f12e509]: 
+                    - text: Top 100
+                  - paragraph [ref=f12e510]: Full-Time
+                  - paragraph [ref=f12e511]: $100,000 or more USD
+                  - paragraph [ref=f12e512]: Anywhere in the World
+  - contentinfo [ref=f12e513]:
+    - generic [ref=f12e514]:
+      - link [ref=f12e516] [cursor=pointer]:
+        - /url: "#"
+        - img "footer logo" [ref=f12e517]
+      - generic [ref=f12e518]:
+        - link "Top 100 Companies" [ref=f12e519] [cursor=pointer]:
+          - /url: /top-remote-companies
+        - link "Blog" [ref=f12e520] [cursor=pointer]:
+          - /url: /blog
+        - link "Remote Hiring Guide" [ref=f12e521] [cursor=pointer]:
+          - /url: /remote-work-hiring-guide
+        - link "FAQ" [ref=f12e522] [cursor=pointer]:
+          - /url: /frequently-asked-questions
+        - link "Events" [ref=f12e523] [cursor=pointer]:
+          - /url: /blog?category=events
+        - link "RSS" [ref=f12e524] [cursor=pointer]:
+          - /url: /remote-job-rss-feed
+      - generic [ref=f12e525]:
+        - generic [aria-hidden] [ref=f12e526]: 
+        - paragraph [ref=f12e527]: 42,782 Remote jobs posted
+    - generic [ref=f12e529]:
+      - generic [ref=f12e530]:
+        - text: © 2026 We Work Remotely
+        - link "Contact Support" [ref=f12e531] [cursor=pointer]:
+          - /url: mailto:support@weworkremotely.com
+        - link "Terms" [ref=f12e532] [cursor=pointer]:
+          - /url: /terms-and-conditions
+        - link "Guidelines" [ref=f12e533] [cursor=pointer]:
+          - /url: /community-guidelines
+        - link "Privacy" [ref=f12e534] [cursor=pointer]:
+          - /url: /privacy
+        - link "Why Choose WWR?" [ref=f12e535] [cursor=pointer]:
+          - /url: /post-a-remote-job
+      - generic [ref=f12e536]:
+        - link [ref=f12e537] [cursor=pointer]:
+          - /url: https://www.facebook.com/weworkremotely/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-fb&utm_medium=footer-network-fb
+          - generic [aria-hidden] [ref=f12e538]: 
+        - link [ref=f12e539] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/18527028/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-linkedin&utm_medium=footer-network-linkedin
+          - generic [aria-hidden] [ref=f12e540]: 
+        - link [ref=f12e541] [cursor=pointer]:
+          - /url: https://www.instagram.com/weworkremotelycom/?hl=en&utm_campaign=footer-network-ig&utm_medium=footer-network-ig
+          - generic [aria-hidden] [ref=f12e542]: 
+        - link [ref=f12e543] [cursor=pointer]:
+          - /url: https://twitter.com/weworkremotely/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-twitter&utm_medium=footer-network-twitter
+          - generic [aria-hidden] [ref=f12e544]: 

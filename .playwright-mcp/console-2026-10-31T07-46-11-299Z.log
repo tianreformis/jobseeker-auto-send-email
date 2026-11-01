@@ -1,0 +1,12 @@
+[    1547ms] [LOG] [NAV] Script loaded and running @ :0
+[    1673ms] [WARNING] [Meta Pixel] - Invalid parameter format for currency. Please refer https://developers.facebook.com/docs/meta-pixel/reference/ for valid parameter specifications. @ https://connect.facebook.net/en_US/fbevents.js:205
+[    1979ms] [WARNING] [TikTok Pixel] - Invalid Event Name Format
+Issue: 1 event name was rejected for not following TikTok format requirements.
+Suggestion: Go to your source code and update these event types according to TikTok format requirements. See https://ads.tiktok.com/help/article/custom-events?lang=en for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MTJjYzk1MmQ1MQ.js:0
+[    2662ms] [WARNING] [TikTok Pixel] - Invalid Event Name Format
+Issue: 1 event name was rejected for not following TikTok format requirements.
+Suggestion: Go to your source code and update these event types according to TikTok format requirements. See https://ads.tiktok.com/help/article/custom-events?lang=en for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MTJjYzk1MmQ1MQ.js:0
+[    2665ms] [LOG] Job details pushed to dataLayer: [Object, Object, Object, Object] @ :2
+[    3022ms] [ERROR] Not signed in with the identity provider. @ https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1:0
+[    6074ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://ps.eyeota.net/match?bid=d9gd6vu&uid=1e4839c3835048fbfa4a4f1c489f65cd&gdpr=0&gdpr_consent=:0
+[   18036ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://accounts.google.com/gsi/client:88

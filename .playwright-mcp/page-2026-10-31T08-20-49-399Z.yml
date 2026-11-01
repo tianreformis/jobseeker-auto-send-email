@@ -1,0 +1,189 @@
+- generic [active] [ref=f302e1]:
+  - generic [ref=f302e2]:
+    - link "Global Payroll" [ref=f302e3] [cursor=pointer]:
+      - /url: https://www.toptal.com/hireglobal/remoteok-partnership?utm_source=remoteok&utm_medium=referral&utm_campaign=global_payroll&utm_content=nav
+    - link "Build your resume" [ref=f302e4] [cursor=pointer]:
+      - /url: https://www.toptal.com/resume
+    - link "Health insurance" [ref=f302e6] [cursor=pointer]:
+      - /url: /nomad-health-individual
+    - link "Post a job →" [ref=f302e7] [cursor=pointer]:
+      - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=top
+    - link "Log in" [ref=f302e8] [cursor=pointer]:
+      - /url: /login
+  - generic [ref=f302e10]:
+    - generic [ref=f302e11]:
+      - paragraph [ref=f302e12]:
+        - text: "Post a job to reach 18,100,000+ remote workers on the #1 Remote Job Platform"
+        - generic [ref=f302e13]:
+          - text: You can also
+          - link "hire freelance talent" [ref=f302e14] [cursor=pointer]:
+            - /url: https://www.toptal.com/
+          - text: on demand, pre-screened and thoroughly vetted.
+      - link "Post a remote job →" [ref=f302e15] [cursor=pointer]:
+        - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=center
+    - table [ref=f302e17]:
+      - rowgroup [ref=f302e18]:
+        - row [ref=f302e19]:
+          - columnheader "💵 Salary 🎪 Benefits 🦴 Sort by 💼 Executive 🎧 Customer Support 🚥 Marketing ♾️ Ops 👨‍🏫 Education 🚑 Medical 💰 Finance 🤓 Engineer" [ref=f302e20]:
+            - textbox "🔍 Search" [ref=f302e25]
+            - textbox "🌏 Location" [ref=f302e27]
+            - generic [ref=f302e28]: 💵 Salary
+            - generic [ref=f302e30]: 🎪 Benefits
+            - combobox [ref=f302e32]:
+              - option "🦴 Sort by" [selected]
+              - option "🆕 Latest jobs"
+              - option "💵 Highest paid"
+              - option "👀 Most viewed"
+              - option "✅ Most applied"
+              - option "🔥 Hottest"
+              - option "🎪 Most benefits"
+            - generic [ref=f302e33]:
+              - generic [ref=f302e34]: 💼 Executive
+              - generic [ref=f302e35]: 🎧 Customer Support
+              - generic [ref=f302e36]: 🚥 Marketing
+              - generic [ref=f302e37]: ♾️ Ops
+              - generic [ref=f302e38]: 👨‍🏫 Education
+              - generic [ref=f302e39]: 🚑 Medical
+              - generic [ref=f302e40]: 💰 Finance
+              - generic [ref=f302e41]: 🤓 Engineer
+      - rowgroup [ref=f302e42]:
+        - row [ref=f302e43] [cursor=pointer]:
+          - cell [ref=f302e44]:
+            - link [ref=f302e45]:
+              - /url: /remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
+              - paragraph [ref=f302e47]: A
+          - cell "Software Engineer AI Coding Tasks verified Askable 🌏 Worldwide 💰 $10k - $10k ⏰ Temporary" [ref=f302e48]:
+            - link [ref=f302e49]:
+              - /url: /remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
+              - heading "Software Engineer AI Coding Tasks" [level=2] [ref=f302e50]
+            - generic [ref=f302e51]: verified
+            - heading "Askable" [level=3] [ref=f302e53]
+            - generic [ref=f302e54]: 🌏 Worldwide
+            - generic [ref=f302e55]: 💰 $10k - $10k
+            - generic [ref=f302e56]: ⏰ Temporary
+          - cell [ref=f302e57]:
+            - link "Remote Developer Jobs" [ref=f302e58]:
+              - /url: /remote-dev-jobs
+              - heading "Developer" [level=3] [ref=f302e60]
+            - link "Remote Python Jobs" [ref=f302e61]:
+              - /url: /remote-python-jobs
+              - heading "Python" [level=3] [ref=f302e63]
+            - link "Remote JavaScript Jobs" [ref=f302e64]:
+              - /url: /remote-javascript-jobs
+              - heading "JavaScript" [level=3] [ref=f302e66]
+            - link "Remote Typescript Jobs" [ref=f302e67]:
+              - /url: /remote-typescript-jobs
+              - heading "Typescript" [level=3] [ref=f302e69]
+            - link "Remote Golang Jobs" [ref=f302e70]:
+              - /url: /remote-golang-jobs
+              - heading "Golang" [level=3] [ref=f302e72]
+            - link "Remote Java Jobs" [ref=f302e73]:
+              - /url: /remote-java-jobs
+              - heading "Java" [level=3] [ref=f302e75]
+            - link "Remote C Plus Plus Jobs" [ref=f302e76]:
+              - /url: /remote-c-plus-plus-jobs
+              - heading "C Plus Plus" [level=3] [ref=f302e78]
+          - cell [ref=f302e79]:
+            - time [ref=f302e80]: 14d
+          - cell [ref=f302e81]:
+            - link "Apply":
+              - /url: /l/1137538
+              - paragraph [ref=f302e83]: Apply
+        - row [ref=f302e84]:
+          - cell [ref=f302e85]:
+            - generic [ref=f302e86]:
+              - generic [ref=f302e87]:
+                - generic [ref=f302e88]:
+                  - link [ref=f302e89] [cursor=pointer]:
+                    - /url: /company/askable
+                    - heading "Askable" [level=2] [ref=f302e90]
+                  - paragraph [ref=f302e91]:
+                    - link "askable.com" [ref=f302e92] [cursor=pointer]:
+                      - /url: https://askable.com
+                  - link "Apply now" [ref=f302e93] [cursor=pointer]:
+                    - /url: /l/1137538
+                  - paragraph [ref=f302e94]:
+                    - strong [ref=f302e95]: "Share this job:"
+                    - textbox [ref=f302e96]: https://remoteok.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538?ref=sh
+                    - generic [ref=f302e97]:
+                      - text: Get a
+                      - link "rok.co" [ref=f302e98] [cursor=pointer]:
+                        - /url: https://rok.co/hire-remotely
+                      - text: short link
+                - generic [ref=f302e99]:
+                  - text: Askable is hiring a
+                  - heading "Remote Software Engineer AI Coding Tasks" [level=1] [ref=f302e100]
+                - generic [ref=f302e101]:
+                  - paragraph [ref=f302e102]: We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want.
+                  - paragraph [ref=f302e103]: "You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models."
+                  - paragraph [ref=f302e104]: Remote, any location. US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week.
+                  - paragraph [ref=f302e105]
+                  - paragraph [ref=f302e106]:
+                    - strong [ref=f302e107]: How it works
+                  - list [ref=f302e108]:
+                    - listitem [ref=f302e109]:
+                      - strong [ref=f302e110]: Apply.
+                      - text: Complete a short screener interview and upload your resume.
+                    - listitem [ref=f302e111]:
+                      - strong [ref=f302e112]: Propose.
+                      - text: Once you're selected, pick a change from a repository you know and submit a short proposal. We approve it or suggest a better candidate.
+                    - listitem [ref=f302e113]:
+                      - strong [ref=f302e114]: Build.
+                      - text: In our platform, set up the repository as it was before the change, then write the brief, the correct solution and the grading checks.
+                    - listitem [ref=f302e115]:
+                      - strong [ref=f302e116]: Stress-test.
+                      - text: Try lazy, incorrect and shortcut solutions and make sure your checks catch them.
+                    - listitem [ref=f302e117]:
+                      - strong [ref=f302e118]: Model testing.
+                      - text: Run your task against leading AI models until strong models often fail but a skilled engineer can clearly solve it.
+                    - listitem [ref=f302e119]:
+                      - strong [ref=f302e120]: Review.
+                      - text: A reviewer checks your task and you revise it. Most tasks take more than one round.
+                    - listitem [ref=f302e121]:
+                      - strong [ref=f302e122]: Next task.
+                      - text: Once your task is accepted, start another.
+                  - paragraph [ref=f302e123]
+                  - paragraph [ref=f302e124]:
+                    - strong [ref=f302e125]: Requirements
+                  - list [ref=f302e126]:
+                    - listitem [ref=f302e127]: 2+ years of professional software engineering
+                    - listitem [ref=f302e128]: Code merged into a public open-source repository, ideally one you know well. A private codebase you own may also qualify (not employer or client code)
+                    - listitem [ref=f302e129]: Strong in at least one of Python, TypeScript, Go, Rust, Java or C++
+                    - listitem [ref=f302e130]: Solid with Docker, Linux, Git and automated testing
+                    - listitem [ref=f302e131]: Regular use of an AI coding tool
+                    - listitem [ref=f302e132]: Experience writing tests, rubrics or evaluation criteria, ideally for AI models
+                    - listitem [ref=f302e133]: You can explain a change clearly and concisely, in your own words
+                    - listitem [ref=f302e134]: At least 10 hours a week, starting now
+                    - listitem [ref=f302e135]: A secure personal or work computer (no public or shared machines)
+                  - paragraph [ref=f302e136]
+                  - paragraph [ref=f302e137]:
+                    - strong [ref=f302e138]: Nice to have
+                  - list [ref=f302e139]:
+                    - listitem [ref=f302e140]: Deep expertise in one area, such as databases, compilers, distributed systems, security or infrastructure
+                    - listitem [ref=f302e141]: Experience building agent tasks or RL environments
+                  - paragraph [ref=f302e142]
+                  - paragraph [ref=f302e143]:
+                    - strong [ref=f302e144]: Terms
+                  - list [ref=f302e145]:
+                    - listitem [ref=f302e146]: US$1,000 for each task that passes our quality review, paid directly to you
+                    - listitem [ref=f302e147]: Once your proposal is qualified, you sign Askable's contract and accept its terms
+                    - listitem [ref=f302e148]: The work is used for AI training. The change and your solution must be your own, and you must be free to license them to us
+                    - listitem [ref=f302e149]: "Don't publish the work anywhere: no public pull request or public fork"
+                  - paragraph [ref=f302e150]
+                  - paragraph [ref=f302e151]: Apply at https://www.askable.com/experts/roles/senior-software-engineer
+                  - heading "Salary and compensation" [level=2] [ref=f302e152]
+                  - text: $10,000 — $10,000/year
+              - link "Apply for this job" [ref=f302e154] [cursor=pointer]:
+                - /url: /l/1137538
+        - row [ref=f302e155]:
+          - cell [ref=f302e156]:
+            - heading "Related jobs" [level=2] [ref=f302e157]
+        - row [ref=f302e158]:
+          - cell [ref=f302e159]
+  - generic [ref=f302e160]:
+    - text: © 2026 Remote OK|
+    - link "Terms of Service" [ref=f302e161] [cursor=pointer]:
+      - /url: /legal
+    - text: "|"
+    - link "Privacy Policy" [ref=f302e162] [cursor=pointer]:
+      - /url: /privacy

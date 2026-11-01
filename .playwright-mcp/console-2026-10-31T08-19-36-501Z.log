@@ -1,0 +1,11 @@
+[      16ms] [INFO] Banner not shown: beforeinstallpromptevent.preventDefault() called. The page must call beforeinstallpromptevent.prompt() to show the banner. @ https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133:0
+[     848ms] [LOG] [NAV] Script loaded and running @ :0
+[     955ms] [WARNING] [Meta Pixel] - Invalid parameter format for currency. Please refer https://developers.facebook.com/docs/meta-pixel/reference/ for valid parameter specifications. @ https://connect.facebook.net/en_US/fbevents.js:205
+[    1136ms] [WARNING] [TikTok Pixel] - Invalid Event Name Format
+Issue: 1 event name was rejected for not following TikTok format requirements.
+Suggestion: Go to your source code and update these event types according to TikTok format requirements. See https://ads.tiktok.com/help/article/custom-events?lang=en for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MTJjYzk1MmQ1MQ.js:0
+[    1220ms] [WARNING] [TikTok Pixel] - Invalid Event Name Format
+Issue: 1 event name was rejected for not following TikTok format requirements.
+Suggestion: Go to your source code and update these event types according to TikTok format requirements. See https://ads.tiktok.com/help/article/custom-events?lang=en for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MTJjYzk1MmQ1MQ.js:0
+[    1223ms] [LOG] Job details pushed to dataLayer: [Object, Object, Object, Object] @ :2
+[    1308ms] [ERROR] Not signed in with the identity provider. @ https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect:0

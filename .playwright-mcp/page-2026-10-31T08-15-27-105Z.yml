@@ -1,0 +1,141 @@
+- generic [active] [ref=f90e1]:
+  - generic [ref=f90e2]:
+    - link "Global Payroll" [ref=f90e3] [cursor=pointer]:
+      - /url: https://www.toptal.com/hireglobal/remoteok-partnership?utm_source=remoteok&utm_medium=referral&utm_campaign=global_payroll&utm_content=nav
+    - link "Build your resume" [ref=f90e4] [cursor=pointer]:
+      - /url: https://www.toptal.com/resume
+    - link "Health insurance" [ref=f90e6] [cursor=pointer]:
+      - /url: /nomad-health-individual
+    - link "Post a job →" [ref=f90e7] [cursor=pointer]:
+      - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=top
+    - link "Log in" [ref=f90e8] [cursor=pointer]:
+      - /url: /login
+  - generic [ref=f90e10]:
+    - generic [ref=f90e11]:
+      - paragraph [ref=f90e12]:
+        - text: "Post a job to reach 18,100,000+ remote workers on the #1 Remote Job Platform"
+        - generic [ref=f90e13]:
+          - text: You can also
+          - link "hire freelance talent" [ref=f90e14] [cursor=pointer]:
+            - /url: https://www.toptal.com/
+          - text: on demand, pre-screened and thoroughly vetted.
+      - link "Post a remote job →" [ref=f90e15] [cursor=pointer]:
+        - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=center
+    - table [ref=f90e17]:
+      - rowgroup [ref=f90e18]:
+        - row [ref=f90e19]:
+          - columnheader "💵 Salary 🎪 Benefits 🦴 Sort by 💼 Executive 🎧 Customer Support 🚥 Marketing ♾️ Ops 👨‍🏫 Education 🚑 Medical 💰 Finance 🤓 Engineer" [ref=f90e20]:
+            - textbox "🔍 Search" [ref=f90e25]
+            - textbox "🌏 Location" [ref=f90e27]
+            - generic [ref=f90e28]: 💵 Salary
+            - generic [ref=f90e30]: 🎪 Benefits
+            - combobox [ref=f90e32]:
+              - option "🦴 Sort by" [selected]
+              - option "🆕 Latest jobs"
+              - option "💵 Highest paid"
+              - option "👀 Most viewed"
+              - option "✅ Most applied"
+              - option "🔥 Hottest"
+              - option "🎪 Most benefits"
+            - generic [ref=f90e33]:
+              - generic [ref=f90e34]: 💼 Executive
+              - generic [ref=f90e35]: 🎧 Customer Support
+              - generic [ref=f90e36]: 🚥 Marketing
+              - generic [ref=f90e37]: ♾️ Ops
+              - generic [ref=f90e38]: 👨‍🏫 Education
+              - generic [ref=f90e39]: 🚑 Medical
+              - generic [ref=f90e40]: 💰 Finance
+              - generic [ref=f90e41]: 🤓 Engineer
+      - rowgroup [ref=f90e42]:
+        - row [ref=f90e43] [cursor=pointer]:
+          - cell [ref=f90e44]:
+            - link [ref=f90e45]:
+              - /url: /remote-jobs/remote-senior-frontend-engineer-b2spin-1137562
+              - img "B2spin" [ref=f90e46]
+          - cell "Senior Frontend Engineer B2spin 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f90e47]:
+            - link [ref=f90e48]:
+              - /url: /remote-jobs/remote-senior-frontend-engineer-b2spin-1137562
+              - heading "Senior Frontend Engineer" [level=2] [ref=f90e49]
+            - heading "B2spin" [level=3] [ref=f90e51]
+            - generic [ref=f90e52]: 🌏 Probably worldwide
+            - generic [ref=f90e53]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f90e54]:
+            - link "Remote Front End Jobs" [ref=f90e55]:
+              - /url: /remote-front-end-jobs
+              - heading "Front End" [level=3] [ref=f90e57]
+            - link "Remote Design Jobs" [ref=f90e58]:
+              - /url: /remote-design-jobs
+              - heading "Design" [level=3] [ref=f90e60]
+            - link "Remote React Jobs" [ref=f90e61]:
+              - /url: /remote-react-jobs
+              - heading "React" [level=3] [ref=f90e63]
+            - link "Remote Embedded Jobs" [ref=f90e64]:
+              - /url: /remote-embedded-jobs
+              - heading "Embedded" [level=3] [ref=f90e66]
+            - link "Remote Sys Admin Jobs" [ref=f90e67]:
+              - /url: /remote-sys-admin-jobs
+              - heading "Sys Admin" [level=3] [ref=f90e69]
+            - link "Remote Game Developer Jobs" [ref=f90e70]:
+              - /url: /remote-game-dev-jobs
+              - heading "Game Developer" [level=3] [ref=f90e72]
+            - link "Remote Technical Jobs" [ref=f90e73]:
+              - /url: /remote-technical-jobs
+              - heading "Technical" [level=3] [ref=f90e75]
+            - link "Remote Developer Jobs" [ref=f90e76]:
+              - /url: /remote-dev-jobs
+              - heading "Developer" [level=3] [ref=f90e78]
+            - link "Remote Testing Jobs" [ref=f90e79]:
+              - /url: /remote-testing-jobs
+              - heading "Testing" [level=3] [ref=f90e81]
+            - link "Remote Marketing Jobs" [ref=f90e82]:
+              - /url: /remote-marketing-jobs
+              - heading "Marketing" [level=3] [ref=f90e84]
+          - cell [ref=f90e85]:
+            - time [ref=f90e86]: 8d
+          - cell [ref=f90e87]:
+            - link "Apply":
+              - /url: /l/1137562
+              - paragraph [ref=f90e89]: Apply
+        - row [ref=f90e90]:
+          - cell [ref=f90e91]:
+            - generic [ref=f90e92]:
+              - generic [ref=f90e93]:
+                - generic [ref=f90e94]:
+                  - link [ref=f90e95] [cursor=pointer]:
+                    - /url: /company/b2spin
+                    - img "B2spin" [ref=f90e96]
+                  - link [ref=f90e97] [cursor=pointer]:
+                    - /url: /company/b2spin
+                    - heading "B2spin" [level=2] [ref=f90e98]
+                  - link "Apply now" [ref=f90e99] [cursor=pointer]:
+                    - /url: /l/1137562
+                  - paragraph [ref=f90e100]:
+                    - strong [ref=f90e101]: "Share this job:"
+                    - textbox [ref=f90e102]: https://remoteok.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562?ref=sh
+                    - generic [ref=f90e103]:
+                      - text: Get a
+                      - link "rok.co" [ref=f90e104] [cursor=pointer]:
+                        - /url: https://rok.co/hire-remotely
+                      - text: short link
+                - generic [ref=f90e105]:
+                  - text: B2spin is hiring a
+                  - heading "Remote Senior Frontend Engineer" [level=1] [ref=f90e106]
+                - generic [ref=f90e107]:
+                  - paragraph [ref=f90e108]: "About B2Spin We are B2Spin, and we are dedicated to delivering the best Free-to-Play Social Casino and gaming experiences by creating captivating, engaging, and unique products that are accessible to everyone. We have built a team of talented professionals from all over the globe, who are working to continually improve the experiences of our players. We are not looking to just be part of the industry, but to revolutionize it.AI-Driven Engineering CultureWe are actively building an AI-driven engineering organization with a clear and deliberate stance: artificial intelligence is a core part of how we build and deliver software — not an experiment, not a trend, and not an optional add-on."
+                  - paragraph [ref=f90e109]: "AI is embedded into our engineering workflows, from system design and prototyping to refactoring, testing, and code review. We expect engineers to be fully comfortable working in AI-driven environments and to treat AI as a primary productivity multiplier. Strong engineering judgment, architectural ownership, and accountability remain essential—AI amplifies our engineers, it doesn’t replace responsibility for technical decisions.What you will be doing: • Write well-designed, testable, and scalable code that performs flawlessly in production; • Take part in the full development cycle from sprint planning to release cycles; • Ensure smooth development and cooperation between dev teams and product owners; • Build customer-facing consumer web and mobile applications for global audiences; • Implement third-party integrations including external APIs and analytics; • Optimize for SEO performance and PageSpeed improvements.What we are looking for: • Strong commercial experience in React, TypeScript and Next.js; • Motivation to grow into cross-platform development (web and mobile). • End-to-end thinking across frontend, backend, and infrastructure. Willingness to contribute beyond frontend scope when needed. • Solid expertise with HTML/CSS, including responsive and cross-browser development; • Experience with third-party integrations (external APIs, analytics); • Proven track record with SEO optimizations and PageSpeed improvements; • Strong UI/UX experience with Figma; • Good English skills in speaking and writing (B2+).Why you will love it:High Pace, High Growth, Real Impact — You’ll thrive in our culture of rapid development, continuous learning, and meaningful outcomes. Work remotely with full flexibility, enjoy generous leave policies, and be part of company events that build genuine connections. Every line of code you write directly impacts millions of users worldwide, and you’ll see your contributions shape the future of social gaming while advancing your career in a supportive, ego-free environment.Benefits:Generous Leave Policy: Take advantage of paid time off, encompassing both vacation and sick leave, to ensure you can recharge and recover when needed. Take your time on bank holidays as well.Continuously Development: Get an opportunity to join a fast-growing business where the sky’s the limit.Company Events: Engage in our vibrant company culture through a variety of informal events designed to foster camaraderie and teamwork.Full Remote Work: Enjoy the flexibility of working remotely from wherever you feel most productive."
+                  - heading "Benefits" [level=1] [ref=f90e110]
+                  - code [ref=f90e112]: 🏖 Paid time off
+              - link "Apply for this job" [ref=f90e114] [cursor=pointer]:
+                - /url: /l/1137562
+        - row [ref=f90e115]:
+          - cell [ref=f90e116]:
+            - heading "Related jobs" [level=2] [ref=f90e117]
+        - row [ref=f90e118]:
+          - cell [ref=f90e119]
+  - generic [ref=f90e120]:
+    - text: © 2026 Remote OK|
+    - link "Terms of Service" [ref=f90e121] [cursor=pointer]:
+      - /url: /legal
+    - text: "|"
+    - link "Privacy Policy" [ref=f90e122] [cursor=pointer]:
+      - /url: /privacy

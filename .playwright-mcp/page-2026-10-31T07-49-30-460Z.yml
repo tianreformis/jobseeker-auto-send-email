@@ -1,0 +1,427 @@
+- generic [active] [ref=f33e1]:
+  - navigation [ref=f33e2]:
+    - generic [ref=f33e3]:
+      - link "Homepage" [ref=f33e5] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f33e6]:
+        - button "Unlock All Jobs" [ref=f33e7] [cursor=pointer]
+        - generic [ref=f33e12]:
+          - button "Log in" [ref=f33e13] [cursor=pointer]
+          - button "For Employers" [ref=f33e14] [cursor=pointer]
+  - generic [ref=f33e15]:
+    - generic [ref=f33e16]:
+      - generic [ref=f33e17]:
+        - text: Back to
+        - link "Remote jobs" [ref=f33e18] [cursor=pointer]:
+          - /url: /remote-jobs
+        - text: ">"
+        - link "Software Development" [ref=f33e19] [cursor=pointer]:
+          - /url: /remote-jobs/software-development
+      - heading "[Hiring] Tech Lead Full-Stack Rails Engineer @Mitre Media" [level=1] [ref=f33e20]
+      - paragraph [ref=f33e21]: "Oct 14, 2026 - Mitre Media is hiring a remote Tech Lead Full-Stack Rails Engineer. 💸 Salary: $170k - $200k. 📍Location: USA, Canada, USA timezones."
+      - generic [ref=f33e24]:
+        - generic [ref=f33e25]:
+          - paragraph [ref=f33e26]: About Mitre Media
+          - paragraph [ref=f33e27]: Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time.
+          - paragraph [ref=f33e28]: Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect!
+          - paragraph [ref=f33e29]: About the Role
+          - paragraph [ref=f33e30]: As a Full-Stack Rails Tech Lead, you’ll architect and implement LLM-powered web applications within our microservices-based Rails 8 platform. Reporting directly to our CTO, you’ll collaborate with a small, high-impact team to deliver user experiences across Dividend.com, MutualFunds.com and other brands within our portfolio. This role combines expert Ruby on Rails skills with AI integration expertise, requiring you to leverage LLMs in your development workflow, state management and user interactions.
+          - paragraph [ref=f33e31]: You’ll work in a remote-first hybrid environment, which encourages in person collaboration, using ShapeUp to manage projects that trade-off on-time delivery for de-scoped outcomes. As a technical leader, you'll have a seat at the table shaping system architecture, implementing core features all while embracing an entrepreneurial mindset and a “get things done” mentality.
+          - paragraph [ref=f33e32]: Responsibilities
+          - list [ref=f33e33]:
+            - listitem [ref=f33e34]:
+              - paragraph [ref=f33e35]: Architect and maintain Rails applications (Rails 8)
+            - listitem [ref=f33e36]:
+              - paragraph [ref=f33e37]: Integrate LLMs into our microservices architecture for state management and real-time user experiences.
+            - listitem [ref=f33e38]:
+              - paragraph [ref=f33e39]: Enhance front-end experiences with Hotwire, StimulusJS, or React, ensuring seamless AI-driven interactions.
+            - listitem [ref=f33e40]:
+              - paragraph [ref=f33e41]: Optimize LLM inference for low latency and cost, using caching and asynchronous processing.
+          - paragraph [ref=f33e42]: Required Technical Skills
+          - paragraph [ref=f33e43]: Back-End
+          - list [ref=f33e44]:
+            - listitem [ref=f33e45]:
+              - paragraph [ref=f33e46]: Ruby (5+ years, expert-level)
+            - listitem [ref=f33e47]:
+              - paragraph [ref=f33e48]: Ruby on Rails (Rails 6-8 preferred)
+            - listitem [ref=f33e49]:
+              - paragraph [ref=f33e50]: PostgreSQL (or MySQL)
+            - listitem [ref=f33e51]:
+              - paragraph [ref=f33e52]: Elasticsearch
+            - listitem [ref=f33e53]:
+              - paragraph [ref=f33e54]: Redis
+            - listitem [ref=f33e55]:
+              - paragraph [ref=f33e56]: Docker
+          - paragraph [ref=f33e57]: Front-End
+          - list [ref=f33e58]:
+            - listitem [ref=f33e59]:
+              - paragraph [ref=f33e60]: StimulusJS or JavaScript ES6
+            - listitem [ref=f33e61]:
+              - paragraph [ref=f33e62]: Tailwind CSS
+            - listitem [ref=f33e63]:
+              - paragraph [ref=f33e64]: HTML
+            - listitem [ref=f33e65]:
+              - paragraph [ref=f33e66]: HTTP
+          - paragraph [ref=f33e67]: AI Integration
+          - list [ref=f33e68]:
+            - listitem [ref=f33e69]:
+              - paragraph [ref=f33e70]: Experience integrating AI/ML models (e.g., LLMs, NLP) with web applications
+            - listitem [ref=f33e71]:
+              - paragraph [ref=f33e72]: Familiarity with LLM frameworks (e.g., LangChain, Hugging Face) or APIs (e.g., xAI, Anthropic)
+          - paragraph [ref=f33e73]: Nice-to-Have Technical Skills
+          - list [ref=f33e74]:
+            - listitem [ref=f33e75]:
+              - paragraph [ref=f33e76]: Kubernetes for microservices orchestration
+            - listitem [ref=f33e77]:
+              - paragraph [ref=f33e78]: React for advanced front-end components
+            - listitem [ref=f33e79]:
+              - paragraph [ref=f33e80]: Graph databases for complex financial data
+            - listitem [ref=f33e81]:
+              - paragraph [ref=f33e82]: Contributions to open-source RoR or AI projects
+          - paragraph [ref=f33e83]: Required Soft Skills
+          - list [ref=f33e84]:
+            - listitem [ref=f33e85]:
+              - paragraph [ref=f33e86]: Entrepreneurial mindset with a passion for AI and FinTech
+            - listitem [ref=f33e87]:
+              - paragraph [ref=f33e88]: Natural leader who mentors and inspires teammates
+            - listitem [ref=f33e89]:
+              - paragraph [ref=f33e90]: Problem-solver with a “get things done” mentality
+            - listitem [ref=f33e91]:
+              - paragraph [ref=f33e92]: Excellent communication, thriving in remote and cross-team collaboration
+            - listitem [ref=f33e93]:
+              - paragraph [ref=f33e94]: Attention to detail, ensuring clean, maintainable code
+            - listitem [ref=f33e95]:
+              - paragraph [ref=f33e96]: Team player comfortable as an individual contributor
+          - paragraph [ref=f33e97]: Why Join Us?
+          - list [ref=f33e98]:
+            - listitem [ref=f33e99]:
+              - paragraph [ref=f33e100]: "Impactful Work: Build AI-powered tools that help millions of investors make informed decisions from data-driven insights."
+            - listitem [ref=f33e101]:
+              - paragraph [ref=f33e102]: "Cutting-Edge Tech: Work with Rails 8, LLMs, and modern tools like Hotwire, Databricks, and xAI’s API in a microservices architecture."
+            - listitem [ref=f33e103]:
+              - paragraph [ref=f33e104]: "Autonomy and Influence: Collaborate directly with our CEO and CTO to shape our AI-driven platform, with freedom to innovate."
+            - listitem [ref=f33e105]:
+              - paragraph [ref=f33e106]: "Competitive Compensation: $160,000–$200,000 CAD/USD (based on experience) and benefits."
+            - listitem [ref=f33e107]:
+              - paragraph [ref=f33e108]: "Remote Flexibility: Remote-first (±3 hours from ET) with hybrid in office collaboration in Toronto or NYC"
+            - listitem [ref=f33e109]:
+              - paragraph [ref=f33e110]: "Growth Opportunities: Budget for AI and Rails conferences (e.g., NeurIPS, RailsConf), plus access to cutting-edge AI tools for experimentation."
+            - listitem [ref=f33e111]:
+              - paragraph [ref=f33e112]: "Dynamic Culture: Join a small, no-ego team passionate about trust, innovation, and making a difference in FinTech."
+          - paragraph [ref=f33e113]: About Mitre Media’s AI-Driven Platform
+          - paragraph [ref=f33e114]:
+            - text: Mitre Media powers premium financial brands like
+            - link "Dividend.com" [ref=f33e115] [cursor=pointer]:
+              - /url: http://dividend.com/
+            - text: and
+            - link "MutualFunds.com" [ref=f33e116] [cursor=pointer]:
+              - /url: http://mutualfunds.com/
+            - text: with the Mitre Platform. This platform integrates traditional content management, financial data, first-party data, ad revenue, and subscription tools, all enhanced by LLMs for rich, user-focused experiences. Our data-derived insights delight users, while our advertising solutions deliver unmatched performance for partners like BlackRock and Vanguard, leveraging advanced targeting and first-party data.
+          - paragraph [ref=f33e117]: How to Apply
+          - paragraph [ref=f33e118]
+          - paragraph [ref=f33e119]:
+            - generic [ref=f33e120]: Submit your resume, GitHub profile, and a brief note on why you’re excited about building AI-driven FinTech to jobs@mitremedia.com.
+        - generic [ref=f33e121]:
+          - text: About The Company
+          - generic [ref=f33e122]:
+            - generic [ref=f33e125]:
+              - link "Mitre Media" [ref=f33e126] [cursor=pointer]:
+                - /url: https://remotive.com/remote-companies/mitre-media-145706
+              - generic [ref=f33e127]: "Mitre Media owns and operates premium financial media brands Dividend.com, MutualFunds.com, MunicipalBonds.com, 529s.com, 401ks.com and Propelor. Our brands help financial advisors and individual investors make informed investment decisions about stocks, bonds, ETFs, mutual funds and 529 accounts.Powering our brands is the Mitre Platform, which was created to incorporate traditional content management, financial data, first party data, ad revenue generation and subscription software capabilities all within rich media experiences that delight and retain users.Ad Partners: Our brands attract financial advisors and individual investors deeper in the investment purchasing funnel than competitors. By combining our highly relevant audience with industry leading 1st party data, advanced targeting and innovative executions, our channel delivers unrivaled marketing program performance at scale for the world’s leading financial brands."
+            - generic [ref=f33e128]:
+              - paragraph [ref=f33e129]: Mitre Media owns and operates premium financial media brands Dividend.com, MutualFunds.com, MunicipalBonds.com, 529s.com, 401ks.com and Propelor. Our brands help financial advisors and individual investors make informed investment decisions about stocks, bonds, ETFs, mutual funds and 529 accounts.
+              - paragraph [ref=f33e130]
+              - paragraph [ref=f33e131]: Powering our brands is the Mitre Platform, which was created to incorporate traditional content management, financial data, first party data, ad revenue generation and subscription software capabilities all within rich media experiences that delight and retain users.
+              - paragraph [ref=f33e132]
+              - paragraph [ref=f33e133]: "Ad Partners: Our brands attract financial advisors and individual investors deeper in the investment purchasing funnel than competitors. By combining our highly relevant audience with industry leading 1st party data, advanced targeting and innovative executions, our channel delivers unrivaled marketing program performance at scale for the world’s leading financial brands."
+              - link "Read more →" [ref=f33e134] [cursor=pointer]:
+                - /url: https://remotive.com/remote-companies/mitre-media-145706
+      - generic [ref=f33e135]:
+        - generic [ref=f33e136]:
+          - generic [ref=f33e137]: More Software Development jobs in USA, Canada, or USA timezones
+          - list [ref=f33e139]:
+            - listitem [ref=f33e140] [cursor=pointer]:
+              - generic [ref=f33e141]:
+                - generic [ref=f33e143]:
+                  - link "Senior Back-end Developer • Lemon.io" [ref=f33e145]:
+                    - /url: https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135
+                    - generic [ref=f33e146]: Senior Back-end Developer
+                    - generic [ref=f33e147]: •
+                    - generic [ref=f33e148]: Lemon.io
+                  - generic [ref=f33e149]:
+                    - link "Software Development" [ref=f33e151]:
+                      - /url: /remote-jobs/software-development
+                    - link "full-time" [ref=f33e153]:
+                      - /url: /remote-jobs/et-full-time
+                    - link "senior" [ref=f33e155]:
+                      - /url: /remote-jobs/cl-senior
+                    - generic [ref=f33e156]: Europe
+                    - generic [ref=f33e157]: USA
+                    - generic [ref=f33e158]: Canada
+                    - generic [ref=f33e159]: +4 more
+                - generic [ref=f33e160]: Featured
+            - listitem [ref=f33e162] [cursor=pointer]:
+              - generic [ref=f33e163]:
+                - generic [ref=f33e165]:
+                  - link "Head of Engineering • Lemon.io" [ref=f33e167]:
+                    - /url: https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134
+                    - generic [ref=f33e168]: Head of Engineering
+                    - generic [ref=f33e169]: •
+                    - generic [ref=f33e170]: Lemon.io
+                  - generic [ref=f33e171]:
+                    - link "Software Development" [ref=f33e173]:
+                      - /url: /remote-jobs/software-development
+                    - link "full-time" [ref=f33e175]:
+                      - /url: /remote-jobs/et-full-time
+                    - generic [ref=f33e176]: Worldwide
+                - generic [ref=f33e177]: Featured
+            - listitem [ref=f33e179] [cursor=pointer]:
+              - generic [ref=f33e180]:
+                - generic [ref=f33e183]:
+                  - link "Full-Stack Developer • Fluence International, Inc." [ref=f33e185]:
+                    - /url: https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165
+                    - generic [ref=f33e186]: Full-Stack Developer
+                    - generic [ref=f33e187]: •
+                    - generic [ref=f33e188]: Fluence International, Inc.
+                  - generic [ref=f33e189]:
+                    - link "Software Development" [ref=f33e191]:
+                      - /url: /remote-jobs/software-development
+                    - link "contract" [ref=f33e193]:
+                      - /url: /remote-jobs/et-contract
+                    - generic [ref=f33e194]: $3.5k–$5k/month
+                    - generic [ref=f33e195]: Worldwide
+                - generic [ref=f33e196]: New
+            - listitem [ref=f33e198] [cursor=pointer]:
+              - generic [ref=f33e199]:
+                - generic [ref=f33e201]:
+                  - link "Technical Cloud Architect • Bright Vision Technologies" [ref=f33e203]:
+                    - /url: https://remotive.com/remote/jobs/software-development/technical-cloud-architect-6442406
+                    - generic [ref=f33e204]: Technical Cloud Architect
+                    - generic [ref=f33e205]: •
+                    - generic [ref=f33e206]: Bright Vision Technologies
+                  - generic [ref=f33e207]:
+                    - link "Software Development" [ref=f33e209]:
+                      - /url: /remote-jobs/software-development
+                    - link "full-time" [ref=f33e211]:
+                      - /url: /remote-jobs/et-full-time
+                    - link "senior" [ref=f33e213]:
+                      - /url: /remote-jobs/cl-senior
+                    - generic [ref=f33e214]: $100,000–$150,0..
+                    - generic [ref=f33e215]: USA
+                - generic [ref=f33e216]: New
+            - listitem [ref=f33e218] [cursor=pointer]:
+              - generic [ref=f33e219]:
+                - generic [ref=f33e221]:
+                  - link "Senior .NET Azure Integration Developer • Inabia Software & Consulting" [ref=f33e223]:
+                    - /url: https://remotive.com/remote/jobs/software-development/senior-net-azure-integration-developer-6439196
+                    - generic [ref=f33e224]: Senior .NET Azure Integration Developer
+                    - generic [ref=f33e225]: •
+                    - generic [ref=f33e226]: Inabia Software & Consulting
+                  - generic [ref=f33e227]:
+                    - link "Software Development" [ref=f33e229]:
+                      - /url: /remote-jobs/software-development
+                    - link "contract" [ref=f33e231]:
+                      - /url: /remote-jobs/et-contract
+                    - link "mid-level" [ref=f33e233]:
+                      - /url: /remote-jobs/cl-mid-level
+                    - generic [ref=f33e234]: USA
+                - generic [ref=f33e235]: New
+            - listitem [ref=f33e237] [cursor=pointer]:
+              - generic [ref=f33e238]:
+                - generic [ref=f33e240]:
+                  - link "Staff Platform Engineer • Redox" [ref=f33e242]:
+                    - /url: https://remotive.com/remote/jobs/software-development/staff-platform-engineer-6441621
+                    - generic [ref=f33e243]: Staff Platform Engineer
+                    - generic [ref=f33e244]: •
+                    - generic [ref=f33e245]: Redox
+                  - generic [ref=f33e246]:
+                    - link "Software Development" [ref=f33e248]:
+                      - /url: /remote-jobs/software-development
+                    - link "full-time" [ref=f33e250]:
+                      - /url: /remote-jobs/et-full-time
+                    - link "lead" [ref=f33e252]:
+                      - /url: /remote-jobs/cl-lead
+                    - generic [ref=f33e253]: $185,000 - $210..
+                    - generic [ref=f33e254]: USA
+                - generic [ref=f33e255]: New
+        - link "View more similar jobs" [ref=f33e257] [cursor=pointer]:
+          - /url: /join
+      - generic [ref=f33e261]:
+        - text: Kickstart Your Job Search
+        - link "⚡ 19,049 remote jobs added this week You're seeing 0.4% of available roles Unlock 130,000+ jobs →" [ref=f33e263] [cursor=pointer]:
+          - /url: /join
+          - generic [ref=f33e264]:
+            - generic [ref=f33e266]:
+              - paragraph [ref=f33e267]: ⚡ 19,049 remote jobs added this week
+              - paragraph [ref=f33e268]: You're seeing 0.4% of available roles
+            - generic [ref=f33e269]: Unlock 130,000+ jobs →
+      - 'link "Meet JobCopilot: Your Personal Al Job Hunter Automatically Apply to Remote Jobs Try it now →" [ref=f33e271] [cursor=pointer]':
+        - /url: https://remotive.com/job-copilot
+        - generic [ref=f33e272]:
+          - generic [ref=f33e274]:
+            - paragraph [ref=f33e275]: "Meet JobCopilot: Your Personal Al Job Hunter"
+            - paragraph [ref=f33e276]: Automatically Apply to Remote Jobs
+          - generic [ref=f33e277]: Try it now →
+      - generic [ref=f33e280]:
+        - text: Back to
+        - link "Remote jobs" [ref=f33e281] [cursor=pointer]:
+          - /url: /remote-jobs
+        - text: ">"
+        - link "Software Development" [ref=f33e282] [cursor=pointer]:
+          - /url: /remote-jobs/software-development
+    - generic [ref=f33e284]:
+      - generic [ref=f33e287]: Tech Lead Full-Stack Rails Engineer
+      - link "@Mitre Media" [ref=f33e288] [cursor=pointer]:
+        - /url: https://remotive.com/remote-companies/mitre-media-145706
+      - generic [ref=f33e289]:
+        - generic [ref=f33e290]:
+          - link "Software Development" [ref=f33e292] [cursor=pointer]:
+            - /url: /remote-jobs/software-development
+          - table [ref=f33e293]:
+            - rowgroup [ref=f33e294]:
+              - row [ref=f33e295]:
+                - cell "Salary $170k - $200k" [ref=f33e296]:
+                  - generic [ref=f33e297]:
+                    - generic [ref=f33e298]: Salary
+                    - generic [ref=f33e299]: $170k - $200k
+                - cell "Remote Location remote in USA USA remote in Canada Canada remote in USA timezones USA timezones" [ref=f33e300]:
+                  - generic [ref=f33e301]:
+                    - generic [ref=f33e302]: Remote Location
+                    - generic [ref=f33e303]:
+                      - generic [ref=f33e304]:
+                        - img "remote in USA" [ref=f33e305]
+                        - link "USA" [ref=f33e306] [cursor=pointer]:
+                          - /url: /remote-jobs?location=USA
+                      - generic [ref=f33e307]:
+                        - img "remote in Canada" [ref=f33e308]
+                        - link "Canada" [ref=f33e309] [cursor=pointer]:
+                          - /url: /remote-jobs?location=Canada
+                      - generic [ref=f33e310]:
+                        - img "remote in USA timezones" [ref=f33e311]
+                        - link "USA timezones" [ref=f33e312] [cursor=pointer]:
+                          - /url: /remote-jobs?location=USA timezones
+              - row [ref=f33e313]:
+                - cell "Employment Type full-time" [ref=f33e314]:
+                  - generic [ref=f33e315]:
+                    - generic [ref=f33e316]: Employment Type
+                    - link "full-time" [ref=f33e317] [cursor=pointer]:
+                      - /url: /remote-jobs?employment-type=full-time
+                - cell "Posted 2wks ago" [ref=f33e318]:
+                  - generic [ref=f33e319]:
+                    - generic [ref=f33e320]: Posted
+                    - generic [ref=f33e321]: 2wks ago
+        - generic [ref=f33e323]:
+          - text: 🙈 Does this job need an edit?
+          - button "Let us know!" [ref=f33e324] [cursor=pointer]
+      - button "Apply for this position" [ref=f33e325] [cursor=pointer]
+      - link "Unlock 130,000+ Remote Jobs" [ref=f33e328] [cursor=pointer]:
+        - /url: /join
+      - generic [ref=f33e329]:
+        - text: ️
+        - table [ref=f33e330]:
+          - rowgroup [ref=f33e331]:
+            - row [ref=f33e332]:
+              - cell "👋" [ref=f33e333]
+              - cell [ref=f33e334]:
+                - text: Please mention that you come from
+                - strong [ref=f33e335]: Remotive
+                - text: when applying for this job.
+            - row [ref=f33e336]:
+              - cell [ref=f33e337]:
+                - img "remote" [ref=f33e338]
+              - cell [ref=f33e339]:
+                - text: "Be aware of the location restriction for this remote position:"
+                - strong [ref=f33e341]: USA, Canada, USA timezones
+            - row [ref=f33e342]:
+              - cell "‼" [ref=f33e343]
+              - cell [ref=f33e344]:
+                - text: Beware of
+                - strong [ref=f33e345]: scams
+                - text: "! When applying for jobs, you should NEVER have to pay anything."
+                - link "Learn more." [ref=f33e346] [cursor=pointer]:
+                  - /url: https://remotive.com/blog/how-to-avoid-job-scams
+  - generic [ref=f33e347]:
+    - generic [ref=f33e348]:
+      - generic [ref=f33e349]:
+        - link "Remotive" [ref=f33e350] [cursor=pointer]:
+          - /url: /
+        - list [ref=f33e351]:
+          - listitem [ref=f33e352]:
+            - link "Blog" [ref=f33e353] [cursor=pointer]:
+              - /url: https://remotive.com/blog
+          - listitem [ref=f33e354]:
+            - link "About" [ref=f33e355] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=f33e356]:
+            - link "Press" [ref=f33e357] [cursor=pointer]:
+              - /url: https://support.remotive.com/en/category/l3ahqd/
+          - listitem [ref=f33e358]:
+            - link "Sponsorship" [ref=f33e359] [cursor=pointer]:
+              - /url: https://support.remotive.com/en/article/ycrtby/
+          - listitem [ref=f33e360]:
+            - link "Reviews & Success Stories" [ref=f33e361] [cursor=pointer]:
+              - /url: /reviews-success-stories
+          - listitem [ref=f33e362]:
+            - link "Remotive Affiliate Program" [ref=f33e363] [cursor=pointer]:
+              - /url: /affiliate-program
+          - listitem [ref=f33e364]:
+            - link "Terms of Use" [ref=f33e365] [cursor=pointer]:
+              - /url: https://remotive.com/terms-of-use
+            - text: "&"
+            - link "Privacy Policy" [ref=f33e366] [cursor=pointer]:
+              - /url: https://remotive.com/privacy-policy
+      - generic [ref=f33e367]:
+        - generic [ref=f33e368]: Find Remote Jobs
+        - list [ref=f33e369]:
+          - listitem [ref=f33e370]:
+            - link "Join Remotive" [ref=f33e371] [cursor=pointer]:
+              - /url: /join
+          - listitem [ref=f33e372]:
+            - link "Remote Job Search Tips" [ref=f33e373] [cursor=pointer]:
+              - /url: /blog/tag/job-search-tips/
+          - listitem [ref=f33e374]:
+            - link "Remote Work Statistics Hiring Trends" [ref=f33e375] [cursor=pointer]:
+              - /url: https://remotive.com/blog/remote-work-statistics-hiring-trends
+          - listitem [ref=f33e376]:
+            - link "Remotive Jobs Public API" [ref=f33e377] [cursor=pointer]:
+              - /url: /remote-jobs/api
+            - text: "&"
+            - link "RSS Feeds" [ref=f33e378] [cursor=pointer]:
+              - /url: /remote-jobs/rss-feed
+          - listitem [ref=f33e380]:
+            - link "Remote Jobs Index" [ref=f33e381] [cursor=pointer]:
+              - /url: /remote-jobs-index
+      - generic [ref=f33e382]:
+        - generic [ref=f33e383]: Hiring Remotely
+        - list [ref=f33e384]:
+          - listitem [ref=f33e385]:
+            - link "Why Remotive?" [ref=f33e386] [cursor=pointer]:
+              - /url: /hire
+          - listitem [ref=f33e387]:
+            - link "Post a Remote Job" [ref=f33e388] [cursor=pointer]:
+              - /url: /job/post/new
+          - listitem [ref=f33e389]:
+            - link "Remote Hiring Tips" [ref=f33e390] [cursor=pointer]:
+              - /url: /blog/tag/hiring-remotely/
+          - listitem [ref=f33e391]:
+            - link "Help Center for Recruiters" [ref=f33e392] [cursor=pointer]:
+              - /url: https://support.remotive.com
+    - generic [ref=f33e393]:
+      - paragraph [ref=f33e395]: © 2014-2026, made Remotely with ❤️
+      - generic [ref=f33e397]:
+        - link "LinkedIn" [ref=f33e398] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/remotive.io/
+        - link "Twitter" [ref=f33e401] [cursor=pointer]:
+          - /url: https://twitter.com/remotiveio/
+        - link "Reddit" [ref=f33e404] [cursor=pointer]:
+          - /url: https://www.reddit.com/r/remotivejobs/
+        - link "Telegram" [ref=f33e407] [cursor=pointer]:
+          - /url: https://t.me/remotejobsenglish/
+        - link "Facebook" [ref=f33e410] [cursor=pointer]:
+          - /url: https://www.facebook.com/remotivedotcom/
+        - link "Instagram" [ref=f33e413] [cursor=pointer]:
+          - /url: https://www.instagram.com/remotiveio/
+        - link "Slack Community" [ref=f33e416] [cursor=pointer]:
+          - /url: /accelerator?utm_medium=footerslack
+        - link "Email us" [ref=f33e419] [cursor=pointer]:
+          - /url: mailto:hello@remotive.com

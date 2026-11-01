@@ -1,0 +1,35 @@
+- generic [active] [ref=f34e1]:
+  - generic [ref=f34e4]:
+    - generic [ref=f34e10]:
+      - img "Logo" [ref=f34e11]
+      - generic [ref=f34e12]: TianEduAI
+    - generic [ref=f34e18]:
+      - banner [ref=f34e19]:
+        - generic [ref=f34e20]:
+          - button "Toggle Sidebar" [ref=f34e21]
+          - img "Logo" [ref=f34e23]
+          - heading "TianEduAI" [level=1] [ref=f34e24]
+        - generic [ref=f34e25]:
+          - button [ref=f34e26] [cursor=pointer]
+          - button "Chat Baru" [ref=f34e29]
+      - main [ref=f34e31]:
+        - generic [ref=f34e32]:
+          - img "Logo" [ref=f34e33]
+          - heading "Halo, Learner! Selamat datang di TianEduAI" [level=2] [ref=f34e34]
+          - paragraph [ref=f34e35]: Asisten AI khusus pendidikan. Tanyakan apapun tentang pelajaran, sains, programming, dan topik edukatif lainnya.
+          - generic [ref=f34e36]:
+            - button "Jelaskan hukum Newton dengan contoh" [ref=f34e37]
+            - button "Apa itu fungsi dalam programming?" [ref=f34e38]
+            - button "Bagaimana cara kerja fotosintesis?" [ref=f34e39]
+            - button "Jelaskan konsep integral dalam kalkulus" [ref=f34e40]
+      - generic [ref=f34e42]:
+        - generic [ref=f34e44]:
+          - text: "Model:"
+          - strong [ref=f34e45]: Otomatis (Model 1)
+        - generic [ref=f34e47]:
+          - button "🟣 Otomatis (Model 1)" [ref=f34e48]:
+            - generic [ref=f34e49]: 🟣
+            - generic [ref=f34e50]: Otomatis (Model 1)
+          - textbox "Tanyakan tentang pelajaran, sains, programming..." [ref=f34e51]
+          - button [disabled]
+  - alert [ref=f34e52]

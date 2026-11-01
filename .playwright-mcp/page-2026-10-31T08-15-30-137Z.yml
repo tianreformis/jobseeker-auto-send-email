@@ -1,0 +1,213 @@
+- generic [active] [ref=f94e1]:
+  - generic [ref=f94e2]:
+    - link "Global Payroll" [ref=f94e3] [cursor=pointer]:
+      - /url: https://www.toptal.com/hireglobal/remoteok-partnership?utm_source=remoteok&utm_medium=referral&utm_campaign=global_payroll&utm_content=nav
+    - link "Build your resume" [ref=f94e4] [cursor=pointer]:
+      - /url: https://www.toptal.com/resume
+    - link "Health insurance" [ref=f94e6] [cursor=pointer]:
+      - /url: /nomad-health-individual
+    - link "Post a job →" [ref=f94e7] [cursor=pointer]:
+      - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=top
+    - link "Log in" [ref=f94e8] [cursor=pointer]:
+      - /url: /login
+  - generic [ref=f94e10]:
+    - generic [ref=f94e11]:
+      - paragraph [ref=f94e12]:
+        - text: "Post a job to reach 18,100,000+ remote workers on the #1 Remote Job Platform"
+        - generic [ref=f94e13]:
+          - text: You can also
+          - link "hire freelance talent" [ref=f94e14] [cursor=pointer]:
+            - /url: https://www.toptal.com/
+          - text: on demand, pre-screened and thoroughly vetted.
+      - link "Post a remote job →" [ref=f94e15] [cursor=pointer]:
+        - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=center
+    - table [ref=f94e17]:
+      - rowgroup [ref=f94e18]:
+        - row [ref=f94e19]:
+          - columnheader "💵 Salary 🎪 Benefits 🦴 Sort by 💼 Executive 🎧 Customer Support 🚥 Marketing ♾️ Ops 👨‍🏫 Education 🚑 Medical 💰 Finance 🤓 Engineer" [ref=f94e20]:
+            - textbox "🔍 Search" [ref=f94e25]
+            - textbox "🌏 Location" [ref=f94e27]
+            - generic [ref=f94e28]: 💵 Salary
+            - generic [ref=f94e30]: 🎪 Benefits
+            - combobox [ref=f94e32]:
+              - option "🦴 Sort by" [selected]
+              - option "🆕 Latest jobs"
+              - option "💵 Highest paid"
+              - option "👀 Most viewed"
+              - option "✅ Most applied"
+              - option "🔥 Hottest"
+              - option "🎪 Most benefits"
+            - generic [ref=f94e33]:
+              - generic [ref=f94e34]: 💼 Executive
+              - generic [ref=f94e35]: 🎧 Customer Support
+              - generic [ref=f94e36]: 🚥 Marketing
+              - generic [ref=f94e37]: ♾️ Ops
+              - generic [ref=f94e38]: 👨‍🏫 Education
+              - generic [ref=f94e39]: 🚑 Medical
+              - generic [ref=f94e40]: 💰 Finance
+              - generic [ref=f94e41]: 🤓 Engineer
+      - rowgroup [ref=f94e42]:
+        - row [ref=f94e43] [cursor=pointer]:
+          - cell [ref=f94e44]:
+            - link [ref=f94e45]:
+              - /url: /remote-jobs/remote-senior-software-engineer-klardaten-1137571
+              - paragraph [ref=f94e47]: K
+          - cell "Senior Software Engineer verified Klardaten 🇩🇪 Germany 🇦🇹 Austria 🇧🇪 Belgium 🇧🇬 Bulgaria 🇭🇷 Croatia 🇨🇾 Cyprus 🇨🇿 Czechia 🇩🇰 Denmark 🇪🇪 Estonia 🇫🇮 Finland 🇫🇷 France 🇬🇷 Greece 🇭🇺 Hungary 🇮🇪 Ireland 🇮🇹 Italy 🇱🇻 Latvia 🇱🇹 Lithuania 🇱🇺 Luxembourg 🇲🇹 Malta 🇳🇱 Netherlands 🇵🇱 Poland 🇵🇹 Portugal 🇷🇴 Romania 🇸🇰 Slovakia 🇸🇮 Slovenia 🇪🇸 Spain 🇸🇪 Sweden 💰 $80k - $100k" [ref=f94e48]:
+            - link [ref=f94e49]:
+              - /url: /remote-jobs/remote-senior-software-engineer-klardaten-1137571
+              - heading "Senior Software Engineer" [level=2] [ref=f94e50]
+            - generic [ref=f94e51]: verified
+            - heading "Klardaten" [level=3] [ref=f94e53]
+            - link "🇩🇪 Germany" [ref=f94e55]:
+              - /url: /remote-jobs-in-germany
+            - link "🇦🇹 Austria" [ref=f94e57]:
+              - /url: /remote-jobs-in-austria
+            - link "🇧🇪 Belgium" [ref=f94e59]:
+              - /url: /remote-jobs-in-belgium
+            - link "🇧🇬 Bulgaria" [ref=f94e61]:
+              - /url: /remote-jobs-in-bulgaria
+            - link "🇭🇷 Croatia" [ref=f94e63]:
+              - /url: /remote-jobs-in-croatia
+            - link "🇨🇾 Cyprus" [ref=f94e65]:
+              - /url: /remote-jobs-in-cyprus
+            - link "🇨🇿 Czechia" [ref=f94e67]:
+              - /url: /remote-jobs-in-czechia
+            - link "🇩🇰 Denmark" [ref=f94e69]:
+              - /url: /remote-jobs-in-denmark
+            - link "🇪🇪 Estonia" [ref=f94e71]:
+              - /url: /remote-jobs-in-estonia
+            - link "🇫🇮 Finland" [ref=f94e73]:
+              - /url: /remote-jobs-in-finland
+            - link "🇫🇷 France" [ref=f94e75]:
+              - /url: /remote-jobs-in-france
+            - link "🇬🇷 Greece" [ref=f94e77]:
+              - /url: /remote-jobs-in-greece
+            - link "🇭🇺 Hungary" [ref=f94e79]:
+              - /url: /remote-jobs-in-hungary
+            - link "🇮🇪 Ireland" [ref=f94e81]:
+              - /url: /remote-jobs-in-ireland
+            - link "🇮🇹 Italy" [ref=f94e83]:
+              - /url: /remote-jobs-in-italy
+            - link "🇱🇻 Latvia" [ref=f94e85]:
+              - /url: /remote-jobs-in-latvia
+            - link "🇱🇹 Lithuania" [ref=f94e87]:
+              - /url: /remote-jobs-in-lithuania
+            - link "🇱🇺 Luxembourg" [ref=f94e89]:
+              - /url: /remote-jobs-in-luxembourg
+            - link "🇲🇹 Malta" [ref=f94e91]:
+              - /url: /remote-jobs-in-malta
+            - link "🇳🇱 Netherlands" [ref=f94e93]:
+              - /url: /remote-jobs-in-netherlands
+            - link "🇵🇱 Poland" [ref=f94e95]:
+              - /url: /remote-jobs-in-poland
+            - link "🇵🇹 Portugal" [ref=f94e97]:
+              - /url: /remote-jobs-in-portugal
+            - link "🇷🇴 Romania" [ref=f94e99]:
+              - /url: /remote-jobs-in-romania
+            - link "🇸🇰 Slovakia" [ref=f94e101]:
+              - /url: /remote-jobs-in-slovakia
+            - link "🇸🇮 Slovenia" [ref=f94e103]:
+              - /url: /remote-jobs-in-slovenia
+            - link "🇪🇸 Spain" [ref=f94e105]:
+              - /url: /remote-jobs-in-spain
+            - link "🇸🇪 Sweden" [ref=f94e107]:
+              - /url: /remote-jobs-in-sweden
+            - generic [ref=f94e108]: 💰 $80k - $100k
+          - cell [ref=f94e109]:
+            - link "Remote Developer Jobs" [ref=f94e110]:
+              - /url: /remote-dev-jobs
+              - heading "Developer" [level=3] [ref=f94e112]
+            - link "Remote Senior Jobs" [ref=f94e113]:
+              - /url: /remote-senior-jobs
+              - heading "Senior" [level=3] [ref=f94e115]
+            - link "Remote JavaScript Jobs" [ref=f94e116]:
+              - /url: /remote-javascript-jobs
+              - heading "JavaScript" [level=3] [ref=f94e118]
+            - link "Remote Typescript Jobs" [ref=f94e119]:
+              - /url: /remote-typescript-jobs
+              - heading "Typescript" [level=3] [ref=f94e121]
+            - link "Remote Full Stack Jobs" [ref=f94e122]:
+              - /url: /remote-full-stack-jobs
+              - heading "Full Stack" [level=3] [ref=f94e124]
+            - link "Remote API Jobs" [ref=f94e125]:
+              - /url: /remote-api-jobs
+              - heading "API" [level=3] [ref=f94e127]
+          - cell [ref=f94e128]:
+            - time [ref=f94e129]: 6d
+          - cell [ref=f94e130]:
+            - link "Apply":
+              - /url: /l/1137571
+              - paragraph [ref=f94e132]: Apply
+        - row [ref=f94e133]:
+          - cell [ref=f94e134]:
+            - generic [ref=f94e135]:
+              - generic [ref=f94e136]:
+                - generic [ref=f94e137]:
+                  - link [ref=f94e138] [cursor=pointer]:
+                    - /url: /company/klardaten
+                    - heading "Klardaten" [level=2] [ref=f94e139]
+                  - paragraph [ref=f94e140]:
+                    - link "klardaten.com" [ref=f94e141] [cursor=pointer]:
+                      - /url: https://klardaten.com
+                  - link "Apply now" [ref=f94e142] [cursor=pointer]:
+                    - /url: /l/1137571
+                  - paragraph [ref=f94e143]:
+                    - strong [ref=f94e144]: "Share this job:"
+                    - textbox [ref=f94e145]: https://remoteok.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571?ref=sh
+                    - generic [ref=f94e146]:
+                      - text: Get a
+                      - link "rok.co" [ref=f94e147] [cursor=pointer]:
+                        - /url: https://rok.co/hire-remotely
+                      - text: short link
+                - generic [ref=f94e148]:
+                  - text: Klardaten is hiring a
+                  - heading "Remote Senior Software Engineer" [level=1] [ref=f94e149]
+                - generic [ref=f94e150]:
+                  - paragraph [ref=f94e151]: Klardaten connects DATEV with other software and AI applications. We’re hiring 1–2 senior engineers to own product development, DATEV integrations and automation.
+                  - paragraph [ref=f94e152]:
+                    - strong [ref=f94e153]: Based in the EU · Remote or Berlin · Full time · Permanent or contract · Start as soon as possible
+                  - heading "Own the outcome" [level=2] [ref=f94e154]
+                  - paragraph [ref=f94e155]: Once we agree on a general goal, you independently work out what to build and how to deliver it. You investigate the problem, define the scope, make technical decisions and carry the work through implementation, testing, deployment and follow-up.
+                  - heading "What you will do" [level=2] [ref=f94e156]
+                  - list [ref=f94e157]:
+                    - listitem [ref=f94e158]: Turn general product goals into clear requirements, a practical scope and technical decisions.
+                    - listitem [ref=f94e159]: Build product features, DATEV integrations and automations across frontend and backend.
+                    - listitem [ref=f94e160]: Own testing, deployment and ongoing improvement, including resolving problems in production.
+                    - listitem [ref=f94e161]: Find answers, resolve blockers and keep the founders informed. Raise decisions that need discussion early.
+                  - heading "Examples of goals" [level=2] [ref=f94e162]
+                  - list [ref=f94e163]:
+                    - listitem [ref=f94e164]: Make connecting a DATEV environment easier and reduce manual setup.
+                    - listitem [ref=f94e165]: Give customers access to a new DATEV data area through our API and MCP server.
+                    - listitem [ref=f94e166]: Turn a recurring manual workflow into a reliable automation that users can review.
+                  - heading "What you bring" [level=2] [ref=f94e167]
+                  - list [ref=f94e168]:
+                    - listitem [ref=f94e169]: Strong production TypeScript experience across frontend and backend.
+                    - listitem [ref=f94e170]: Experience independently shipping and maintaining software from a general goal, without detailed specifications, predefined tickets or day-to-day task management.
+                    - listitem [ref=f94e171]: Practical experience with APIs, databases, authentication and reliable error handling for integrations and automations.
+                    - listitem [ref=f94e172]: Testing, deployment and production debugging skills, and the ability to verify AI-generated code and results.
+                    - listitem [ref=f94e173]: Clear written and spoken English for day-to-day collaboration.
+                  - paragraph [ref=f94e174]: C#/.NET, DATEV integration experience and German are helpful.
+                  - heading "How we work" [level=2] [ref=f94e175]
+                  - paragraph [ref=f94e176]: You work directly with the founders and the team. We provide business context and agree on goals and priorities. You take ownership of reaching them, communicate progress and use your judgment about when to proceed and when a decision needs discussion.
+                  - heading "Compensation" [level=2] [ref=f94e177]
+                  - paragraph [ref=f94e178]: "Gross annual salary: €72,000–90,000, depending on experience. Full-time contractors are also welcome."
+                  - heading "Salary and compensation" [level=2] [ref=f94e179]
+                  - text: $80,000 — $100,000/year
+                  - heading "Benefits" [level=2] [ref=f94e180]
+                  - paragraph [ref=f94e181]: 🌎 Distributed team
+                  - paragraph [ref=f94e182]: ⏰ Async
+                  - paragraph [ref=f94e183]: 👀 No monitoring system
+              - link "Apply for this job" [ref=f94e185] [cursor=pointer]:
+                - /url: /l/1137571
+        - row [ref=f94e186]:
+          - cell [ref=f94e187]:
+            - heading "Related jobs" [level=2] [ref=f94e188]
+        - row [ref=f94e189]:
+          - cell [ref=f94e190]
+  - generic [ref=f94e191]:
+    - text: © 2026 Remote OK|
+    - link "Terms of Service" [ref=f94e192] [cursor=pointer]:
+      - /url: /legal
+    - text: "|"
+    - link "Privacy Policy" [ref=f94e193] [cursor=pointer]:
+      - /url: /privacy

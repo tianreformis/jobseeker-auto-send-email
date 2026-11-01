@@ -1,0 +1,754 @@
+- generic [active] [ref=f7e1]:
+  - banner [ref=f7e2]:
+    - heading "Leanpub Header" [level=2] [ref=f7e3]
+    - generic [ref=f7e4]:
+      - heading "Leanpub Navigation" [level=2] [ref=f7e5]
+      - link "Skip to main content" [ref=f7e6] [cursor=pointer]:
+        - /url: "#main"
+      - link "Leanpub Homepage" [ref=f7e8] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f7e9]: Go to Leanpub.com
+        - strong [ref=f7e12]: Leanpub
+      - generic [ref=f7e13]:
+        - button "Open search" [ref=f7e14] [cursor=pointer]
+        - 'button "Theme: Light mode. Click for Dark mode" [ref=f7e17] [cursor=pointer]'
+        - link "Shopping cart" [ref=f7e20] [cursor=pointer]:
+          - /url: /shopping_cart
+        - button [ref=f7e23] [cursor=pointer]
+    - generic [aria-hidden]:
+      - dialog:
+        - generic:
+          - generic [aria-hidden]:
+            - generic [aria-hidden]:
+              - group:
+                - generic:
+                  - generic: Filter
+                  - combobox [disabled]
+                  - textbox [disabled]:
+                    - /placeholder: Search Leanpub
+                  - button [disabled]
+          - button
+  - navigation [ref=f7e26]:
+    - generic [ref=f7e28]:
+      - link "Featured" [ref=f7e29] [cursor=pointer]:
+        - /url: /
+      - link "All" [ref=f7e30] [cursor=pointer]:
+        - /url: /store
+      - link "Books" [ref=f7e31] [cursor=pointer]:
+        - /url: /store/books
+      - link "Bundles" [ref=f7e32] [cursor=pointer]:
+        - /url: /store/bundles
+      - link "Courses" [ref=f7e33] [cursor=pointer]:
+        - /url: /store/courses
+      - link "Tracks" [ref=f7e34] [cursor=pointer]:
+        - /url: /store/tracks
+  - main [ref=f7e35]:
+    - generic [ref=f7e36]:
+      - generic [ref=f7e37]:
+        - heading "The AI-Driven Educator" [level=1] [ref=f7e38]
+        - paragraph [ref=f7e39]: A Step-by-Step Guide for Teachers to Automate Administration and Inspire Learning.
+      - generic [ref=f7e40]:
+        - generic [ref=f7e41]:
+          - generic [ref=f7e42]:
+            - img "The AI-Driven Educator" [ref=f7e43]
+            - generic [ref=f7e45]:
+              - progressbar [ref=f7e46]
+              - generic [ref=f7e48]:
+                - generic [ref=f7e49]: This book is 100% complete
+                - generic [ref=f7e50]: Last updated on 2026-10-16
+            - link "Visit Kristian Reformis's author profile" [ref=f7e56] [cursor=pointer]:
+              - /url: /u/tianreformis
+              - text: Kristian Reformis
+          - paragraph [ref=f7e59]: Stop working like a machine. Start teaching like a human. Discover the secrets to saving 10+ hours a week using AI. Your classroom transformation starts here!
+        - generic [ref=f7e61]:
+          - generic [ref=f7e63]:
+            - generic [ref=f7e66]:
+              - generic [ref=f7e67]:
+                - paragraph [ref=f7e69]: Minimum price
+                - paragraph [ref=f7e70]: $9.99
+              - generic [ref=f7e71]:
+                - button [ref=f7e72]:
+                  - paragraph [ref=f7e73]: Suggested price
+                - paragraph [ref=f7e76]: $14.99
+            - generic [ref=f7e77]:
+              - generic [ref=f7e78]:
+                - heading "You pay" [level=2] [ref=f7e79]
+                - generic "w_you_pay" [ref=f7e80]:
+                  - generic [ref=f7e81]: $14.99
+                  - slider [ref=f7e83]
+              - generic [ref=f7e84]:
+                - heading "Author earns" [level=2] [ref=f7e85]
+                - generic "Author earns" [ref=f7e86]:
+                  - generic [ref=f7e87]: $11.99
+                  - slider [ref=f7e89]
+            - generic [ref=f7e90]:
+              - generic [ref=f7e91]:
+                - generic [ref=f7e92]: You pay
+                - generic [ref=f7e94]:
+                  - generic: $
+                  - textbox "You pay" [ref=f7e95]:
+                    - /placeholder: "14.99"
+                    - text: "14.99"
+              - generic [ref=f7e96]:
+                - button "Add The AI-Driven Educator to Cart" [ref=f7e98]: Add to Cart
+                - button "Add The AI-Driven Educator to Wishlist" [ref=f7e100]: Add to Wishlist
+          - generic [ref=f7e102]:
+            - generic [ref=f7e103]: PDF
+            - generic [ref=f7e106]: EPUB
+            - generic [ref=f7e109]: WEB
+            - generic [ref=f7e112]: APP
+          - button "Table of Contents" [ref=f7e116]
+    - list [ref=f7e122]:
+      - listitem [ref=f7e123]:
+        - link "About" [ref=f7e124] [cursor=pointer]:
+          - /url: /the-ai-driven-educator#about
+      - listitem [ref=f7e126]:
+        - link "Author" [ref=f7e127] [cursor=pointer]:
+          - /url: /the-ai-driven-educator#author
+      - listitem [ref=f7e129]:
+        - link "Contents" [ref=f7e130] [cursor=pointer]:
+          - /url: /the-ai-driven-educator#table-of-contents
+    - region [ref=f7e132]:
+      - generic [ref=f7e133]:
+        - heading "About" [level=2] [ref=f7e134]
+        - paragraph [ref=f7e136]: About the Book
+      - generic [ref=f7e141]:
+        - paragraph [ref=f7e143]:
+          - text: "\"Are you a teacher struggling with an endless mountain of paperwork, lesson planning, and grading? You’re not alone. In"
+          - strong [ref=f7e145]: The AI-Driven Educator
+          - text: ", Kristian Reformis bridges the gap between complex technology and classroom reality. This book is a practical roadmap designed specifically for teachers who want to leverage Artificial Intelligence to save hours of administrative work every week. From mastering prompt engineering to creating AI-resistant assessments, you will discover how to turn AI into your most powerful teaching assistant, allowing you to focus back on what truly matters: your students.\""
+        - generic [ref=f7e147]:
+          - generic [ref=f7e148]:
+            - heading "Share this book" [level=3] [ref=f7e149]
+            - generic [ref=f7e152]:
+              - link "Share on Twitter" [ref=f7e153] [cursor=pointer]:
+                - /url: https://twitter.com/intent/tweet?text=The%20AI-Driven%20Educator&url=leanpub.com/the-ai-driven-educator&hashtags=undefined
+              - link "Share on Facebook" [ref=f7e156] [cursor=pointer]:
+                - /url: https://www.facebook.com/sharer/sharer.php?display=popup&quote=The%20AI-Driven%20Educator on Leanpub&u=leanpub.com/the-ai-driven-educator&href=leanpub.com/the-ai-driven-educator
+          - generic [ref=f7e159]:
+            - heading "Categories" [level=3] [ref=f7e160]
+            - link "Computers and Programming" [ref=f7e163] [cursor=pointer]:
+              - /url: /store/books?category=computer_programming
+          - generic [ref=f7e164]:
+            - heading "Feedback" [level=3] [ref=f7e165]
+            - link "Contact the author" [ref=f7e167] [cursor=pointer]:
+              - /url: /contact_author/the-ai-driven-educator
+    - region [ref=f7e168]:
+      - generic [ref=f7e169]:
+        - heading "Author" [level=2] [ref=f7e170]
+        - paragraph [ref=f7e172]: About the Author
+      - generic [ref=f7e176]:
+        - link "Visit Kristian Reformis's author profile" [ref=f7e178] [cursor=pointer]:
+          - /url: /u/tianreformis
+        - generic [ref=f7e180]:
+          - link "Visit Kristian Reformis's author profile" [ref=f7e181] [cursor=pointer]:
+            - /url: /u/tianreformis
+            - text: Kristian Reformis
+          - generic [ref=f7e182]:
+            - link "Twitter" [ref=f7e183] [cursor=pointer]:
+              - /url: https://twitter.com/tianreformis
+            - link "GitHub" [ref=f7e186] [cursor=pointer]:
+              - /url: https://github.com/tianreformis
+            - link "Instagram" [ref=f7e189] [cursor=pointer]:
+              - /url: https://instagram.com/tianreformis
+            - link "LinkedIn" [ref=f7e192] [cursor=pointer]:
+              - /url: https://linkedin.com/in/kristian-reformis-1148291b2
+          - generic [ref=f7e195]:
+            - paragraph [ref=f7e196]:
+              - strong [ref=f7e198]: Kristian Reformis
+              - text: is a dedicated IT educator and tech enthusiast with a mission to bridge the gap between complex technology and modern pedagogy. With years of experience in the classroom, he has seen firsthand the challenges teachers face in an increasingly digital world.
+            - paragraph [ref=f7e199]: "Known as \"The Reformist Teacher,\" Kristian specializes in making advanced IT concepts—from coding to Artificial Intelligence—accessible and actionable for educators of all backgrounds. He believes that technology should not be a burden to teachers, but a powerful catalyst that allows them to focus on what truly matters: inspiring the next generation."
+            - paragraph [ref=f7e200]:
+              - text: When he isn’t exploring the latest AI tools or developing digital solutions for schools, Kristian enjoys sharing his insights on educational reform and the future of work.
+              - emphasis [ref=f7e202]: The AI-Driven Educator
+              - text: is his latest contribution to empowering teachers worldwide to reclaim their time and transform their classrooms.
+    - generic [ref=f7e203]:
+      - generic [ref=f7e204]:
+        - heading "Contents" [level=2] [ref=f7e205]
+        - paragraph [ref=f7e207]: Table of Contents
+      - article [ref=f7e210]:
+        - generic [ref=f7e211]:
+          - heading "Preface" [level=3] [ref=f7e212]
+          - list [ref=f7e213]:
+            - listitem [ref=f7e214]: A short honesty note
+            - listitem [ref=f7e215]: How to use this book
+            - listitem [ref=f7e216]: What you will need
+        - generic [ref=f7e217]:
+          - 'heading "Chapter 1: The New Frontier of Education" [level=3] [ref=f7e218]'
+          - list [ref=f7e219]:
+            - listitem [ref=f7e220]: What you will learn
+            - listitem [ref=f7e221]: A typical scenario
+            - listitem [ref=f7e222]: The core idea in plain words
+            - listitem [ref=f7e223]: "Step by step: myths first, then your first small try"
+            - listitem [ref=f7e224]: How to check and improve the AI output
+            - listitem [ref=f7e225]: Common mistakes
+            - listitem [ref=f7e226]: Chapter checklist
+            - listitem [ref=f7e227]: Summary and try it yourself
+        - generic [ref=f7e228]:
+          - 'heading "Chapter 2: How AI Tools Work, and Where They Fail" [level=3] [ref=f7e229]'
+          - list [ref=f7e230]:
+            - listitem [ref=f7e231]: What you will learn
+            - listitem [ref=f7e232]: A typical scenario
+            - listitem [ref=f7e233]: The core idea in plain words
+            - listitem [ref=f7e234]: "Step by step: learn the failure modes in 30 minutes"
+            - listitem [ref=f7e235]: How to check and improve the AI output
+            - listitem [ref=f7e236]: Common mistakes
+            - listitem [ref=f7e237]: Chapter checklist
+            - listitem [ref=f7e238]: Summary and try it yourself
+        - generic [ref=f7e239]:
+          - 'heading "Chapter 3: Prompt Engineering for Teachers" [level=3] [ref=f7e240]'
+          - list [ref=f7e241]:
+            - listitem [ref=f7e242]: What you will learn
+            - listitem [ref=f7e243]: A typical scenario
+            - listitem [ref=f7e244]: The core idea in plain words
+            - listitem [ref=f7e245]: "Step by step: from vague to useful"
+            - listitem [ref=f7e246]: How to check and improve the AI output
+            - listitem [ref=f7e247]: Common mistakes
+            - listitem [ref=f7e248]: Chapter checklist
+            - listitem [ref=f7e249]: Summary and try it yourself
+        - generic [ref=f7e250]:
+          - 'heading "Chapter 4: Instant Lesson Planning and Curriculum Design" [level=3] [ref=f7e251]'
+          - list [ref=f7e252]:
+            - listitem [ref=f7e253]: What you will learn
+            - listitem [ref=f7e254]: A typical scenario
+            - listitem [ref=f7e255]: The core idea in plain words
+            - listitem [ref=f7e256]: Step by step
+            - listitem [ref=f7e257]: How to check and improve the AI output
+            - listitem [ref=f7e258]: Common mistakes
+            - listitem [ref=f7e259]: Chapter checklist
+            - listitem [ref=f7e260]: Summary and try it yourself
+        - generic [ref=f7e261]:
+          - 'heading "Chapter 5: Automating Administration" [level=3] [ref=f7e262]'
+          - list [ref=f7e263]:
+            - listitem [ref=f7e264]: What you will learn
+            - listitem [ref=f7e265]: A typical scenario
+            - listitem [ref=f7e266]: The core idea in plain words
+            - listitem [ref=f7e267]: Step by step
+            - listitem [ref=f7e268]: How to check and improve the AI output
+            - listitem [ref=f7e269]: Common mistakes
+            - listitem [ref=f7e270]: Chapter checklist
+            - listitem [ref=f7e271]: Summary and try it yourself
+        - generic [ref=f7e272]:
+          - 'heading "Chapter 6: Assessments and Feedback" [level=3] [ref=f7e273]'
+          - list [ref=f7e274]:
+            - listitem [ref=f7e275]: What you will learn
+            - listitem [ref=f7e276]: A typical scenario
+            - listitem [ref=f7e277]: The core idea in plain words
+            - listitem [ref=f7e278]: Step by step
+            - listitem [ref=f7e279]: How to check and improve the AI output
+            - listitem [ref=f7e280]: Common mistakes
+            - listitem [ref=f7e281]: Chapter checklist
+            - listitem [ref=f7e282]: Summary and try it yourself
+        - generic [ref=f7e283]:
+          - 'heading "Chapter 7: Visuals and Interactive Media" [level=3] [ref=f7e284]'
+          - list [ref=f7e285]:
+            - listitem [ref=f7e286]: What you will learn
+            - listitem [ref=f7e287]: A typical scenario
+            - listitem [ref=f7e288]: The core idea in plain words
+            - listitem [ref=f7e289]: Step by step
+            - listitem [ref=f7e290]: How to check and improve the AI output
+            - listitem [ref=f7e291]: Common mistakes
+            - listitem [ref=f7e292]: Chapter checklist
+            - listitem [ref=f7e293]: Summary and try it yourself
+        - generic [ref=f7e294]:
+          - 'heading "Chapter 8: Personalizing Learning and Inclusion" [level=3] [ref=f7e295]'
+          - list [ref=f7e296]:
+            - listitem [ref=f7e297]: What you will learn
+            - listitem [ref=f7e298]: A typical scenario
+            - listitem [ref=f7e299]: The core idea in plain words
+            - listitem [ref=f7e300]: Step by step
+            - listitem [ref=f7e301]: How to check and improve the AI output
+            - listitem [ref=f7e302]: Common mistakes
+            - listitem [ref=f7e303]: Chapter checklist
+            - listitem [ref=f7e304]: Summary and try it yourself
+        - generic [ref=f7e305]:
+          - 'heading "Chapter 9: Teaching Students to Use AI Well" [level=3] [ref=f7e306]'
+          - list [ref=f7e307]:
+            - listitem [ref=f7e308]: What you will learn
+            - listitem [ref=f7e309]: A typical scenario
+            - listitem [ref=f7e310]: The core idea in plain words
+            - listitem [ref=f7e311]: Step by step
+            - listitem [ref=f7e312]: How to check and improve the AI output
+            - listitem [ref=f7e313]: Common mistakes
+            - listitem [ref=f7e314]: Chapter checklist
+            - listitem [ref=f7e315]: Summary and try it yourself
+        - generic [ref=f7e316]:
+          - 'heading "Chapter 10: Ethics, Integrity, and the Human Touch" [level=3] [ref=f7e317]'
+          - list [ref=f7e318]:
+            - listitem [ref=f7e319]: What you will learn
+            - listitem [ref=f7e320]: A typical scenario
+            - listitem [ref=f7e321]: The core idea in plain words
+            - listitem [ref=f7e322]: Step by step
+            - listitem [ref=f7e323]: How to check and improve the AI output
+            - listitem [ref=f7e324]: Common mistakes
+            - listitem [ref=f7e325]: Chapter checklist
+            - listitem [ref=f7e326]: Summary and try it yourself
+        - generic [ref=f7e327]:
+          - 'heading "Chapter 11: Privacy, Student Data, and Safety" [level=3] [ref=f7e328]'
+          - list [ref=f7e329]:
+            - listitem [ref=f7e330]: What you will learn
+            - listitem [ref=f7e331]: A typical scenario
+            - listitem [ref=f7e332]: The core idea in plain words
+            - listitem [ref=f7e333]: Step by step
+            - listitem [ref=f7e334]: How to check and improve the AI output
+            - listitem [ref=f7e335]: Common mistakes
+            - listitem [ref=f7e336]: Chapter checklist
+            - listitem [ref=f7e337]: Summary and try it yourself
+        - generic [ref=f7e338]:
+          - 'heading "Chapter 12: Your AI Toolkit: The Educator’s Tech Stack" [level=3] [ref=f7e339]'
+          - list [ref=f7e340]:
+            - listitem [ref=f7e341]: What you will learn
+            - listitem [ref=f7e342]: A typical scenario
+            - listitem [ref=f7e343]: The core idea in plain words
+            - listitem [ref=f7e344]: Step by step
+            - listitem [ref=f7e345]: How to check and improve the AI output
+            - listitem [ref=f7e346]: Common mistakes
+            - listitem [ref=f7e347]: Chapter checklist
+            - listitem [ref=f7e348]: Summary and try it yourself
+        - generic [ref=f7e349]:
+          - 'heading "Chapter 13: Building Small Tools with AI (Optional)" [level=3] [ref=f7e350]'
+          - list [ref=f7e351]:
+            - listitem [ref=f7e352]: What you will learn
+            - listitem [ref=f7e353]: A typical scenario
+            - listitem [ref=f7e354]: The core idea in plain words
+            - listitem [ref=f7e355]: Step by step
+            - listitem [ref=f7e356]: How to check and improve the AI output
+            - listitem [ref=f7e357]: Common mistakes
+            - listitem [ref=f7e358]: Chapter checklist
+            - listitem [ref=f7e359]: Summary and try it yourself
+        - generic [ref=f7e360]:
+          - 'heading "Chapter 14: Your 30-Day Plan and Staying Current" [level=3] [ref=f7e361]'
+          - list [ref=f7e362]:
+            - listitem [ref=f7e363]: What you will learn
+            - listitem [ref=f7e364]: A typical scenario
+            - listitem [ref=f7e365]: The core idea in plain words
+            - listitem [ref=f7e366]: "Step by step: the 30 days"
+            - listitem [ref=f7e367]: How to check and improve the AI output
+            - listitem [ref=f7e368]: How to follow AI change without hype
+            - listitem [ref=f7e369]: Common mistakes
+            - listitem [ref=f7e370]: Chapter checklist
+            - listitem [ref=f7e371]: Summary and try it yourself
+        - generic [ref=f7e372]:
+          - 'heading "Appendix A: Prompt Library by Task" [level=3] [ref=f7e373]'
+          - list [ref=f7e374]:
+            - listitem [ref=f7e375]: A.1 Lesson planning (Chapter 4)
+            - listitem [ref=f7e376]: A.2 Explaining and analogies (Chapters 3, 7, 8)
+            - listitem [ref=f7e377]: A.3 Administration (Chapter 5)
+            - listitem [ref=f7e378]: A.4 Assessment and feedback (Chapter 6)
+            - listitem [ref=f7e379]: A.5 Differentiation and language support (Chapter 8)
+            - listitem [ref=f7e380]: A.6 Visuals and media (Chapter 7)
+            - listitem [ref=f7e381]: A.7 Student AI use (Chapter 9)
+            - listitem [ref=f7e382]: A.8 Revision helpers (any chapter)
+            - listitem [ref=f7e383]: A note on safe use
+        - generic [ref=f7e384]:
+          - 'heading "Appendix B: Templates" [level=3] [ref=f7e385]'
+          - list [ref=f7e386]:
+            - listitem [ref=f7e387]: B.1 Lesson plan (one period)
+            - listitem [ref=f7e388]: B.2 Parent email (routine message)
+            - listitem [ref=f7e389]: B.3 Report comment (2–3 sentences)
+            - listitem [ref=f7e390]: B.4 Grading rubric (4 levels)
+            - listitem [ref=f7e391]: B.5 Classroom AI agreement (one page)
+            - listitem [ref=f7e392]: B.6 Simple school AI-use policy outline (starting draft, not legal text)
+            - listitem [ref=f7e393]: B.7 Meeting notes to task list
+            - listitem [ref=f7e394]: Using these templates well
+        - generic [ref=f7e395]:
+          - 'heading "Appendix C: Checklists" [level=3] [ref=f7e396]'
+          - list [ref=f7e397]:
+            - listitem [ref=f7e398]: C.1 Before using any AI output (Chapters 1–4)
+            - listitem [ref=f7e399]: C.2 Before sharing anything with students (Chapters 6–9)
+            - listitem [ref=f7e400]: C.3 Tool evaluation — 10 minutes (Chapter 12)
+            - listitem [ref=f7e401]: C.4 Privacy pass — before every prompt (Chapter 11)
+            - listitem [ref=f7e402]: C.5 Monthly review — 30 minutes (Chapter 14)
+        - generic [ref=f7e403]:
+          - 'heading "Appendix D: Troubleshooting" [level=3] [ref=f7e404]'
+          - list [ref=f7e405]:
+            - listitem [ref=f7e406]: D.1 The answer is generic and useless
+            - listitem [ref=f7e407]: D.2 Facts look right but are wrong
+            - listitem [ref=f7e408]: D.3 Minutes do not add up / steps do not follow
+            - listitem [ref=f7e409]: D.4 Reading level is too high (or sounds babyish)
+            - listitem [ref=f7e410]: D.5 Examples feel one-sided
+            - listitem [ref=f7e411]: D.6 The rubric is vague or measures the wrong thing
+            - listitem [ref=f7e412]: D.7 Feedback notes sound polished but say nothing
+            - listitem [ref=f7e413]: D.8 A tool changed its price, limits, or features
+            - listitem [ref=f7e414]: D.9 Students may have used AI against the task rules
+            - listitem [ref=f7e415]: D.10 Something private was pasted by mistake
+            - listitem [ref=f7e416]: D.11 The draft is fine but I am exhausted by revising
+        - heading "Glossary" [level=3] [ref=f7e418]
+      - button "Show more" [ref=f7e420]
+    - article [ref=f7e421]:
+      - generic [ref=f7e423]:
+        - heading "The Leanpub 60 Day 100% Happiness Guarantee" [level=2] [ref=f7e424]
+        - paragraph [ref=f7e425]:
+          - text: Within
+          - strong [ref=f7e426]: 60 days of purchase
+          - text: you can get a
+          - strong [ref=f7e427]: 100% refund
+          - text: on any Leanpub purchase, in
+          - strong [ref=f7e428]: two clicks
+          - text: .
+          - link "See full terms..." [ref=f7e429] [cursor=pointer]:
+            - /url: /refunds
+    - article [ref=f7e430]:
+      - generic [ref=f7e432]:
+        - heading "Earn $8 on a $10 Purchase, and $16 on a $20 Purchase" [level=2] [ref=f7e433]
+        - paragraph [ref=f7e434]:
+          - text: We pay
+          - strong [ref=f7e435]: 80% royalties
+          - text: on purchases of
+          - strong [ref=f7e436]: $7.99 or more
+          - text: ", and"
+          - strong [ref=f7e437]: 80% royalties minus a 50 cent flat fee
+          - text: on purchases between
+          - strong [ref=f7e438]: $0.99 and $7.98
+          - text: .
+          - strong [ref=f7e439]: You earn $8 on a $10 sale, and $16 on a $20 sale
+          - text: . So, if we sell
+          - strong [ref=f7e440]: 5000 non-refunded copies of your book for $20
+          - text: ", you'll earn"
+          - strong [ref=f7e441]: $80,000
+          - text: .(Yes, some authors have already earned much more than that on Leanpub.)
+          - strong [ref=f7e442]:
+            - link "Learn more about writing on Leanpub" [ref=f7e443] [cursor=pointer]:
+              - /url: /authors
+    - article [ref=f7e444]:
+      - generic [ref=f7e446]:
+        - heading "Free Updates. DRM Free." [level=2] [ref=f7e447]
+        - paragraph [ref=f7e448]: If you buy a Leanpub book, you get free updates for as long as the author updates the book! Many authors use Leanpub to publish their books in-progress, while they are writing them. All readers get free updates, regardless of when they bought the book or how much they paid (including free).Most Leanpub books are available in PDF (for computers) and EPUB (for phones, tablets and Kindle). The formats that a book includes are shown at the top right corner of this page.Finally, Leanpub books don't have any DRM copy-protection nonsense, so you can easily read them on any supported device.
+        - paragraph [ref=f7e449]:
+          - link "Learn more about Leanpub's ebook formats and where to read them" [ref=f7e450] [cursor=pointer]:
+            - /url: https://help.leanpub.com/reader-help/what-formats-do-leanpub-books-come-in
+    - article [ref=f7e451]:
+      - generic [ref=f7e453]:
+        - heading "Write and Publish on Leanpub" [level=2] [ref=f7e454]
+        - paragraph [ref=f7e455]: "You can use Leanpub to easily write, publish and sell in-progress and completed ebooks and online courses!Leanpub is a powerful platform for serious authors, combining a simple, elegant writing and publishing workflow with a store focused on selling in-progress ebooks.Leanpub is a magical typewriter for authors: just write in plain text, and to publish your ebook, just click a button. (Or, if you are producing your ebook your own way, you can even upload your own PDF and/or EPUB files and then publish with one click!) It really is that easy."
+        - link "Learn more about writing on Leanpub" [ref=f7e456] [cursor=pointer]:
+          - /url: /authors
+  - contentinfo [ref=f7e457]:
+    - heading "Footer" [level=2] [ref=f7e458]
+    - navigation "Breadcrumb" [ref=f7e459]:
+      - list [ref=f7e460]:
+        - listitem [ref=f7e461]:
+          - link "Store" [ref=f7e462] [cursor=pointer]:
+            - /url: /store
+        - listitem [ref=f7e463]:
+          - generic [aria-hidden] [ref=f7e464]: /
+          - link "Books" [ref=f7e465] [cursor=pointer]:
+            - /url: /store/books
+        - listitem [ref=f7e466]:
+          - generic [aria-hidden] [ref=f7e467]: /
+          - link "Computers and Programming" [ref=f7e468] [cursor=pointer]:
+            - /url: /store/books/c/computer_programming
+        - listitem [ref=f7e469]:
+          - generic [aria-hidden] [ref=f7e470]: /
+          - generic [ref=f7e471]: The AI-Driven Educator
+    - generic [ref=f7e473]:
+      - heading "Publish Early, Publish Often" [level=3] [ref=f7e478]
+      - generic [ref=f7e479]:
+        - heading "Links" [level=3] [ref=f7e480]
+        - generic [ref=f7e481]:
+          - generic [ref=f7e482]:
+            - heading "Store" [level=3] [ref=f7e483]
+            - separator [ref=f7e484]
+            - list [ref=f7e485]:
+              - listitem [ref=f7e486]:
+                - list [ref=f7e487]:
+                  - listitem [ref=f7e488]:
+                    - link "Featured" [ref=f7e489] [cursor=pointer]:
+                      - /url: /
+                  - listitem [ref=f7e490]:
+                    - link "Books" [ref=f7e491] [cursor=pointer]:
+                      - /url: /store/books
+                  - listitem [ref=f7e492]:
+                    - link "Bundles" [ref=f7e493] [cursor=pointer]:
+                      - /url: /store/bundles
+                  - listitem [ref=f7e494]:
+                    - link "Courses" [ref=f7e495] [cursor=pointer]:
+                      - /url: /store/courses
+                  - listitem [ref=f7e496]:
+                    - link "Tracks" [ref=f7e497] [cursor=pointer]:
+                      - /url: /store/tracks
+                  - listitem [ref=f7e498]:
+                    - link "Topics" [ref=f7e499] [cursor=pointer]:
+                      - /url: /topics
+                  - listitem [ref=f7e500]:
+                    - link "Podcast" [ref=f7e501] [cursor=pointer]:
+                      - /url: /podcasts/leanpub
+                  - listitem [ref=f7e502]:
+                    - link "Use a Coupon" [ref=f7e503] [cursor=pointer]:
+                      - /url: /coupon
+                  - listitem [ref=f7e504]:
+                    - link "Redeem a Token" [ref=f7e505] [cursor=pointer]:
+                      - /url: /redeem
+            - heading "Services" [level=3] [ref=f7e506]
+            - separator [ref=f7e507]
+            - generic [ref=f7e508]:
+              - heading "AI tools" [level=4] [ref=f7e509]
+              - list [ref=f7e510]:
+                - listitem [ref=f7e511]:
+                  - link "GhostAI" [ref=f7e512] [cursor=pointer]:
+                    - /url: /services/ghost_ai
+                - listitem [ref=f7e513]:
+                  - link "AudiobookAI" [ref=f7e514] [cursor=pointer]:
+                    - /url: /services/audiobook_ai
+                - listitem [ref=f7e515]:
+                  - link "TranslateAI" [ref=f7e516] [cursor=pointer]:
+                    - /url: /services/translate_ai
+                - listitem [ref=f7e517]:
+                  - link "CourseAI" [ref=f7e518] [cursor=pointer]:
+                    - /url: /services/course_ai
+                - listitem [ref=f7e519]:
+                  - link "ImportAI" [ref=f7e520] [cursor=pointer]:
+                    - /url: /services/import_ai
+                - listitem [ref=f7e521]:
+                  - link "IndexAI" [ref=f7e522] [cursor=pointer]:
+                    - /url: /services/index_ai
+                - listitem [ref=f7e523]:
+                  - link "AccessibilityAI" [ref=f7e524] [cursor=pointer]:
+                    - /url: /services/accessibility_ai
+            - generic [ref=f7e525]:
+              - heading "Premium services" [level=4] [ref=f7e526]
+              - list [ref=f7e527]:
+                - listitem [ref=f7e528]:
+                  - link "GhostAI Accelerator" [ref=f7e529] [cursor=pointer]:
+                    - /url: /services/ghostai_accelerator
+                - listitem [ref=f7e530]:
+                  - link "Publish on Amazon" [ref=f7e531] [cursor=pointer]:
+                    - /url: /services/publish_on_amazon
+                - listitem [ref=f7e532]:
+                  - link "GlobalAuthor" [ref=f7e533] [cursor=pointer]:
+                    - /url: /services/global_author
+                - listitem [ref=f7e534]:
+                  - link "PodcastBook" [ref=f7e535] [cursor=pointer]:
+                    - /url: /services/podcast_book
+                - listitem [ref=f7e536]:
+                  - link "NewsletterBook" [ref=f7e537] [cursor=pointer]:
+                    - /url: /services/newsletter_book
+                - listitem [ref=f7e538]:
+                  - link "ConferenceBook" [ref=f7e539] [cursor=pointer]:
+                    - /url: /services/conference_book
+            - generic [ref=f7e540]:
+              - link "Ghostwriting" [ref=f7e541] [cursor=pointer]:
+                - /url: /services/ghostwriting
+              - list [ref=f7e542]:
+                - listitem [ref=f7e543]:
+                  - link "The Founder Book" [ref=f7e544] [cursor=pointer]:
+                    - /url: /services/founder_book
+                - listitem [ref=f7e545]:
+                  - link "The Expert Book" [ref=f7e546] [cursor=pointer]:
+                    - /url: /services/expert_book
+                - listitem [ref=f7e547]:
+                  - link "The Authority Book" [ref=f7e548] [cursor=pointer]:
+                    - /url: /services/authority_book
+                - listitem [ref=f7e549]:
+                  - link "The Executive Book" [ref=f7e550] [cursor=pointer]:
+                    - /url: /services/executive_book
+            - generic [ref=f7e551]:
+              - heading "Marketing" [level=4] [ref=f7e552]
+              - list [ref=f7e553]:
+                - listitem [ref=f7e554]:
+                  - link "Newsletter Sponsorships" [ref=f7e555] [cursor=pointer]:
+                    - /url: /marketing/newsletter_sponsorships
+                - listitem [ref=f7e556]:
+                  - link "Shelf Spot and Newsletter Bundle" [ref=f7e557] [cursor=pointer]:
+                    - /url: /marketing/shelf_spots
+          - generic [ref=f7e558]:
+            - heading "Authors" [level=3] [ref=f7e559]
+            - separator [ref=f7e560]
+            - list [ref=f7e561]:
+              - listitem [ref=f7e562]:
+                - list [ref=f7e563]:
+                  - listitem [ref=f7e564]:
+                    - link "Author Memberships" [ref=f7e565] [cursor=pointer]:
+                      - /url: /authors
+                  - listitem [ref=f7e566]:
+                    - link "Create Book" [ref=f7e567] [cursor=pointer]:
+                      - /url: /authors/create/book
+                  - listitem [ref=f7e568]:
+                    - link "Create Bundle" [ref=f7e569] [cursor=pointer]:
+                      - /url: /authors/create/bundle
+                  - listitem [ref=f7e570]:
+                    - link "Create Course" [ref=f7e571] [cursor=pointer]:
+                      - /url: /authors/create/course
+                  - listitem [ref=f7e572]:
+                    - link "Create Track" [ref=f7e573] [cursor=pointer]:
+                      - /url: /authors/create/track
+            - heading "Events" [level=3] [ref=f7e574]
+            - separator [ref=f7e575]
+            - list [ref=f7e576]:
+              - listitem [ref=f7e577]:
+                - list [ref=f7e578]:
+                  - listitem [ref=f7e579]:
+                    - link "Book Weekend" [ref=f7e580] [cursor=pointer]:
+                      - /url: /events/book_weekend?lp_src=footer
+            - heading "Author Support" [level=3] [ref=f7e581]
+            - separator [ref=f7e582]
+            - list [ref=f7e583]:
+              - listitem [ref=f7e584]:
+                - list [ref=f7e585]:
+                  - listitem [ref=f7e586]:
+                    - link "Author FAQ" [ref=f7e587] [cursor=pointer]:
+                      - /url: https://help.leanpub.com/en/articles/4405350-leanpub-author-faq
+                  - listitem [ref=f7e588]:
+                    - link "Author Help Center" [ref=f7e589] [cursor=pointer]:
+                      - /url: https://help.leanpub.com/author-help
+                  - listitem [ref=f7e590]:
+                    - link "Leanpub Authors Forum" [ref=f7e591] [cursor=pointer]:
+                      - /url: /forum/authors
+                  - listitem [ref=f7e592]:
+                    - link "The Leanpub Manual" [ref=f7e593] [cursor=pointer]:
+                      - /url: /read/manual
+                  - listitem [ref=f7e594]:
+                    - link "The LFM Manual" [ref=f7e595] [cursor=pointer]:
+                      - /url: /read/lfm
+                  - listitem [ref=f7e596]:
+                    - link "The Markua Manual" [ref=f7e597] [cursor=pointer]:
+                      - /url: /read/markua
+                  - listitem [ref=f7e598]:
+                    - link "API Docs" [ref=f7e599] [cursor=pointer]:
+                      - /url: /help/api
+                  - listitem [ref=f7e600]:
+                    - link "Leanpub CLI" [ref=f7e601] [cursor=pointer]:
+                      - /url: /help/cli
+            - heading "More" [level=3] [ref=f7e602]
+            - separator [ref=f7e603]
+            - list [ref=f7e604]:
+              - listitem [ref=f7e605]:
+                - list [ref=f7e606]:
+                  - listitem [ref=f7e607]:
+                    - link "Partner Program" [ref=f7e608] [cursor=pointer]:
+                      - /url: /partner_program
+                  - listitem [ref=f7e609]:
+                    - link "Causes" [ref=f7e610] [cursor=pointer]:
+                      - /url: /causes
+                  - listitem [ref=f7e611]:
+                    - link "Accessibility" [ref=f7e612] [cursor=pointer]:
+                      - /url: /accessibility
+            - heading "About" [level=3] [ref=f7e613]
+            - separator [ref=f7e614]
+            - list [ref=f7e615]:
+              - listitem [ref=f7e616]:
+                - list [ref=f7e617]:
+                  - listitem [ref=f7e618]:
+                    - link "About Leanpub" [ref=f7e619] [cursor=pointer]:
+                      - /url: /about
+                  - listitem [ref=f7e620]:
+                    - link "Contact" [ref=f7e621] [cursor=pointer]:
+                      - /url: /contact
+                  - listitem [ref=f7e622]:
+                    - link "Press" [ref=f7e623] [cursor=pointer]:
+                      - /url: /press
+          - generic [ref=f7e624]:
+            - heading "Readers" [level=3] [ref=f7e625]
+            - separator [ref=f7e626]
+            - list [ref=f7e627]:
+              - listitem [ref=f7e628]:
+                - list [ref=f7e629]:
+                  - listitem [ref=f7e630]:
+                    - link "Reader Memberships" [ref=f7e631] [cursor=pointer]:
+                      - /url: /readers/membership
+                  - listitem [ref=f7e632]:
+                    - link "Buy Credits" [ref=f7e633] [cursor=pointer]:
+                      - /url: /readers/credits
+                  - listitem [ref=f7e634]:
+                    - link "Reader FAQ" [ref=f7e635] [cursor=pointer]:
+                      - /url: https://help.leanpub.com/en/articles/3788293-the-leanpub-faq
+                  - listitem [ref=f7e636]:
+                    - link "Help Center" [ref=f7e637] [cursor=pointer]:
+                      - /url: https://help.leanpub.com/en/
+            - heading "Organizations" [level=3] [ref=f7e638]
+            - separator [ref=f7e639]
+            - list [ref=f7e640]:
+              - listitem [ref=f7e641]:
+                - list [ref=f7e642]:
+                  - listitem [ref=f7e643]:
+                    - link "Organization Memberships" [ref=f7e644] [cursor=pointer]:
+                      - /url: /organizations
+                  - listitem [ref=f7e645]:
+                    - link "Publisher Memberships" [ref=f7e646] [cursor=pointer]:
+                      - /url: /organizations/publisher_memberships
+                  - listitem [ref=f7e647]:
+                    - link "Buy Credits" [ref=f7e648] [cursor=pointer]:
+                      - /url: /organizations/credits
+                  - listitem [ref=f7e649]:
+                    - link "Your Organization" [ref=f7e650] [cursor=pointer]:
+                      - /url: /organizations/your_organization
+            - heading "Why Leanpub" [level=3] [ref=f7e651]
+            - separator [ref=f7e652]
+            - list [ref=f7e653]:
+              - listitem [ref=f7e654]:
+                - list [ref=f7e655]:
+                  - listitem [ref=f7e656]:
+                    - link "Why Leanpub" [ref=f7e657] [cursor=pointer]:
+                      - /url: /why
+                  - listitem [ref=f7e658]:
+                    - link "Books Die Alone (2026)" [ref=f7e659] [cursor=pointer]:
+                      - /url: /books_die_alone?lp_src=footer
+                  - listitem [ref=f7e660]:
+                    - link "The Most Painful Compliment (2026)" [ref=f7e661] [cursor=pointer]:
+                      - /url: /the_most_painful_compliment
+                  - listitem [ref=f7e662]:
+                    - link "Leanpub at Sixteen (2026)" [ref=f7e663] [cursor=pointer]:
+                      - /url: /leanpub_at_sixteen
+                  - listitem [ref=f7e664]:
+                    - link "AI Services (2024)" [ref=f7e665] [cursor=pointer]:
+                      - /url: /ai_services
+                  - listitem [ref=f7e666]:
+                    - link "Imagine a world... (2022)" [ref=f7e667] [cursor=pointer]:
+                      - /url: /imagine_a_world
+                  - listitem [ref=f7e668]:
+                    - link "The Lean Publishing Definition (2013)" [ref=f7e669] [cursor=pointer]:
+                      - /url: /definition
+                  - listitem [ref=f7e670]:
+                    - link "The Lean Publishing Manifesto (2010)" [ref=f7e671] [cursor=pointer]:
+                      - /url: /manifesto
+                  - listitem [ref=f7e672]:
+                    - link "Podcast" [ref=f7e673] [cursor=pointer]:
+                      - /url: /podcasts/leanpub
+                  - listitem [ref=f7e674]:
+                    - link "Blog" [ref=f7e675] [cursor=pointer]:
+                      - /url: https://leanpub.com/blog
+            - heading "Legal" [level=3] [ref=f7e676]
+            - separator [ref=f7e677]
+            - list [ref=f7e678]:
+              - listitem [ref=f7e679]:
+                - list [ref=f7e680]:
+                  - listitem [ref=f7e681]:
+                    - link "Terms of Service" [ref=f7e682] [cursor=pointer]:
+                      - /url: /terms
+                  - listitem [ref=f7e683]:
+                    - link "Copyright Policy" [ref=f7e684] [cursor=pointer]:
+                      - /url: /takedown
+                  - listitem [ref=f7e685]:
+                    - link "Privacy Policy" [ref=f7e686] [cursor=pointer]:
+                      - /url: /privacy
+                  - listitem [ref=f7e687]:
+                    - link "Refund Policy" [ref=f7e688] [cursor=pointer]:
+                      - /url: /refunds
+            - heading "Security" [level=3] [ref=f7e689]
+            - separator [ref=f7e690]
+            - list [ref=f7e691]:
+              - listitem [ref=f7e692]:
+                - list [ref=f7e693]:
+                  - listitem [ref=f7e694]:
+                    - link "Fraud Warnings" [ref=f7e695] [cursor=pointer]:
+                      - /url: /fraud
+      - region [ref=f7e696]:
+        - heading "Copyright" [level=3] [ref=f7e697]
+        - separator [ref=f7e698]
+        - article [ref=f7e699]:
+          - paragraph [ref=f7e700]:
+            - text: Leanpub is copyright © 2010-2026
+            - link "Ruboss Technology Corp" [ref=f7e701] [cursor=pointer]:
+              - /url: http://ruboss.com/
+            - text: .
+          - paragraph [ref=f7e702]: All rights reserved.
+      - generic [ref=f7e703]:
+        - link "Download the Leanpub app on the App Store" [ref=f7e704] [cursor=pointer]:
+          - /url: /app/go?ct=footer
+          - img "Download Leanpub on the App Store" [ref=f7e705]
+        - link "Get the Leanpub app on Google Play" [ref=f7e706] [cursor=pointer]:
+          - /url: /app/go?ct=footer&store=play
+          - img "Get Leanpub on Google Play" [ref=f7e707]
+  - region "Notifications Alt+T"
+  - generic:
+    - progressbar

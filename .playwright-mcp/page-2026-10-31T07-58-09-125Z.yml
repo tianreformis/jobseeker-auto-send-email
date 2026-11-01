@@ -1,0 +1,181 @@
+- generic [active] [ref=f35e1]:
+  - main [ref=f35e2]:
+    - generic [ref=f35e3]:
+      - navigation [ref=f35e4]:
+        - generic [ref=f35e5]:
+          - link "Pedago.ai" [ref=f35e6] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f35e10]:
+            - link "Login" [ref=f35e11] [cursor=pointer]:
+              - /url: /login
+            - link "Daftar" [ref=f35e12] [cursor=pointer]:
+              - /url: /register
+      - generic [ref=f35e16]:
+        - generic [ref=f35e17]: Didukung oleh AI Generatif Terbaru
+        - heading "Buat RPP Pembelajaran Mendalam Dalam Hitungan Menit" [level=1] [ref=f35e22]:
+          - text: Buat RPP Pembelajaran Mendalam
+          - generic [ref=f35e23]: Dalam Hitungan Menit
+        - paragraph [ref=f35e24]: Generator RPP otomatis sesuai format resmi Kemendikdasmen. Hemat waktu, fokus mengajar.
+        - generic [ref=f35e25]:
+          - link "Buat RPP Sekarang" [ref=f35e26] [cursor=pointer]:
+            - /url: /login
+          - link "Lihat Fitur" [ref=f35e29] [cursor=pointer]:
+            - /url: "#fitur"
+        - generic [ref=f35e33]:
+          - generic [ref=f35e34]: Gratis untuk Guru
+          - generic [ref=f35e39]: Format Resmi Kemendikdasmen
+          - generic [ref=f35e44]: Export ke Word
+      - generic [ref=f35e52]:
+        - generic [ref=f35e53]:
+          - generic [ref=f35e54]: 1K+
+          - generic [ref=f35e55]: RPP Dibuat
+        - generic [ref=f35e56]:
+          - generic [ref=f35e57]: 100+
+          - generic [ref=f35e58]: Guru Terdaftar
+        - generic [ref=f35e59]:
+          - generic [ref=f35e60]: 98%
+          - generic [ref=f35e61]: Kepuasan
+        - generic [ref=f35e62]:
+          - generic [ref=f35e63]: "34"
+          - generic [ref=f35e64]: Provinsi
+      - generic [ref=f35e66]:
+        - generic [ref=f35e67]:
+          - text: Fitur Unggulan
+          - heading "Semua yang Guru Butuhkan" [level=2] [ref=f35e68]
+          - paragraph [ref=f35e69]: Platform lengkap untuk membuat dan mengelola dokumen pembelajaran
+        - generic [ref=f35e70]:
+          - generic [ref=f35e71]:
+            - heading "Generate Otomatis dengan AI" [level=3] [ref=f35e76]
+            - paragraph [ref=f35e77]: Buat RPP lengkap hanya dengan mengisi beberapa informasi dasar. AI akan menyusun seluruh dokumen.
+          - generic [ref=f35e78]:
+            - heading "Program Tahunan & Semester" [level=3] [ref=f35e82]
+            - paragraph [ref=f35e83]: Buat Prota dan Prosem sekali klik, sinkron otomatis dengan RPP yang dibuat.
+          - generic [ref=f35e84]:
+            - heading "Format Resmi Kemendikdasmen" [level=3] [ref=f35e88]
+            - paragraph [ref=f35e89]: Semua dokumen mengikuti template dan standar terbaru dari Kementerian Pendidikan.
+          - generic [ref=f35e90]:
+            - heading "Export ke Word & PDF" [level=3] [ref=f35e96]
+            - paragraph [ref=f35e97]: Unduh dokumen dalam format .docx siap cetak atau PDF untuk distribusi digital.
+          - generic [ref=f35e98]:
+            - heading "Simpan & Kelola RPP" [level=3] [ref=f35e104]
+            - paragraph [ref=f35e105]: Dashboard terpusat untuk menyimpan, mengedit, dan mengelola semua RPP Anda.
+          - generic [ref=f35e106]:
+            - heading "Template Siap Pakai" [level=3] [ref=f35e112]
+            - paragraph [ref=f35e113]: Puluhan template RPP untuk berbagai mata pelajaran, fase, dan jenjang pendidikan.
+      - generic [ref=f35e115]:
+        - generic [ref=f35e116]:
+          - text: Cara Kerja
+          - heading "3 Langkah Mudah" [level=2] [ref=f35e117]
+          - paragraph [ref=f35e118]: Dari input hingga dokumen siap cetak dalam hitungan menit
+        - generic [ref=f35e119]:
+          - generic [ref=f35e120]:
+            - generic [ref=f35e121]: "1"
+            - heading "Isi Informasi Dasar" [level=3] [ref=f35e122]
+            - paragraph [ref=f35e123]: Masukkan mata pelajaran, fase, kelas, dan topik pembelajaran yang diinginkan.
+          - generic [ref=f35e124]:
+            - generic [ref=f35e125]: "2"
+            - heading "AI Generate RPP" [level=3] [ref=f35e126]
+            - paragraph [ref=f35e127]: AI memproses input dan menghasilkan RPP lengkap sesuai format Kemendikdasmen.
+          - generic [ref=f35e128]:
+            - generic [ref=f35e129]: "3"
+            - heading "Edit & Export" [level=3] [ref=f35e130]
+            - paragraph [ref=f35e131]: Sesuaikan hasil generate, simpan, dan unduh dalam format Word atau PDF.
+      - generic [ref=f35e133]:
+        - generic [ref=f35e134]:
+          - text: Konsep
+          - heading "Pembelajaran Mendalam" [level=2] [ref=f35e135]
+          - paragraph [ref=f35e136]: Tiga pilar utama dalam pendekatan pembelajaran mendalam
+        - generic [ref=f35e137]:
+          - generic [ref=f35e138]:
+            - heading "BERKESADARAN" [level=3] [ref=f35e144]
+            - paragraph [ref=f35e145]: Peserta didik menyadari proses belajar, mengembangkan metakognisi, dan meningkatkan kesadaran diri terhadap kemajuan pembelajaran.
+          - generic [ref=f35e146]:
+            - heading "BERMAKNA" [level=3] [ref=f35e150]
+            - paragraph [ref=f35e151]: Pembelajaran dikaitkan dengan konteks kehidupan nyata, pengalaman peserta didik, dan relevansi praktis di luar kelas.
+          - generic [ref=f35e152]:
+            - heading "MENGGEMBIRAKAN" [level=3] [ref=f35e156]
+            - paragraph [ref=f35e157]: Suasana belajar yang menyenangkan, interaktif, dan memotivasi peserta didik untuk terus belajar dengan antusias.
+      - generic [ref=f35e159]:
+        - generic [ref=f35e160]:
+          - text: Testimoni
+          - heading "Dipercaya Ribuan Guru" [level=2] [ref=f35e161]
+        - generic [ref=f35e162]:
+          - generic [ref=f35e163]:
+            - paragraph [ref=f35e175]: "\"Sangat membantu! RPP yang dihasilkan sesuai format resmi dan bisa langsung dipakai. Hemat waktu berjam-jam.\""
+            - generic [ref=f35e183]:
+              - generic [ref=f35e184]: Ibu Sari
+              - generic [ref=f35e185]: Guru SD, Jakarta
+          - generic [ref=f35e186]:
+            - paragraph [ref=f35e198]: "\"Fitur generate Prota sangat memudahkan perencanaan tahunan. Tinggal klik, semua tersusun rapi.\""
+            - generic [ref=f35e206]:
+              - generic [ref=f35e207]: Bapak Ahmad
+              - generic [ref=f35e208]: Guru SMP, Bandung
+          - generic [ref=f35e209]:
+            - paragraph [ref=f35e221]: "\"Export ke Word-nya rapi banget, tinggal edit sedikit langsung cetak. Sangat direkomendasikan!\""
+            - generic [ref=f35e229]:
+              - generic [ref=f35e230]: Ibu Dewi
+              - generic [ref=f35e231]: Guru SMA, Surabaya
+      - generic [ref=f35e233]:
+        - generic [ref=f35e234]:
+          - text: Harga
+          - heading "Pilih Paket yang Cocok" [level=2] [ref=f35e235]
+          - paragraph [ref=f35e236]: Mulai gratis, upgrade kapan saja
+        - generic [ref=f35e237]:
+          - generic [ref=f35e238]:
+            - heading "Gratis" [level=3] [ref=f35e239]
+            - generic [ref=f35e240]: Rp 0/bulan
+            - list [ref=f35e241]:
+              - listitem [ref=f35e242]: 1 RPP per hari
+              - listitem [ref=f35e246]: 1 Prota per hari
+              - listitem [ref=f35e250]: 1 Ujian per hari
+              - listitem [ref=f35e254]: Export PDF & Word
+            - link "Mulai Gratis" [ref=f35e258] [cursor=pointer]:
+              - /url: /login
+          - generic [ref=f35e259]:
+            - generic [ref=f35e260]: POPULER
+            - heading "Premium" [level=3] [ref=f35e261]
+            - generic [ref=f35e262]: Rp 30K/bulan
+            - list [ref=f35e263]:
+              - listitem [ref=f35e264]: RPP unlimited
+              - listitem [ref=f35e268]: Generate Prota & Promes
+              - listitem [ref=f35e272]: Ujian & Bank Soal unlimited
+              - listitem [ref=f35e276]: Generate Soal dengan AI
+              - listitem [ref=f35e280]: Export Word & PDF
+              - listitem [ref=f35e284]: Custom RPP & analisis
+            - link "Upgrade Premium" [ref=f35e288] [cursor=pointer]:
+              - /url: /login
+          - generic [ref=f35e289]:
+            - generic [ref=f35e290]: HEMAT 30RB
+            - heading "Premium Tahunan" [level=3] [ref=f35e291]
+            - generic [ref=f35e292]: Rp 330K/tahun
+            - list [ref=f35e293]:
+              - listitem [ref=f35e294]: Semua fitur Premium
+              - listitem [ref=f35e298]: Ujian & bank soal unlimited
+              - listitem [ref=f35e302]: Dashboard admin
+              - listitem [ref=f35e306]: Support prioritas
+            - link "Hubungi Kami" [ref=f35e310] [cursor=pointer]:
+              - /url: /login
+      - generic [ref=f35e312]:
+        - heading "Siap Mempermudah Pembuatan RPP?" [level=2] [ref=f35e313]
+        - paragraph [ref=f35e314]: Bergabung dengan ribuan guru yang sudah menghemat waktu dengan PedagoAI
+        - link "Login Sekarang - Gratis" [ref=f35e315] [cursor=pointer]:
+          - /url: /login
+      - generic [ref=f35e319]:
+        - generic [ref=f35e320]:
+          - text: FAQ
+          - heading "Pertanyaan Umum" [level=2] [ref=f35e321]
+        - generic [ref=f35e322]:
+          - generic [ref=f35e323]:
+            - heading "Apakah RPP yang dihasilkan sesuai format resmi?" [level=3] [ref=f35e324]
+            - paragraph [ref=f35e325]: Ya, semua RPP mengikuti format terbaru dari Kemendikdasmen untuk Pembelajaran Mendalam (RPM).
+          - generic [ref=f35e326]:
+            - heading "Berapa lama waktu yang dibutuhkan untuk generate RPP?" [level=3] [ref=f35e327]
+            - paragraph [ref=f35e328]: Rata-rata 30-60 detik per RPP, tergantung kompleksitas dan panjang dokumen.
+          - generic [ref=f35e329]:
+            - heading "Bisa edit RPP setelah di-generate?" [level=3] [ref=f35e330]
+            - paragraph [ref=f35e331]: Tentu! Anda bisa mengedit semua RPP yang telah dibuat melalui dashboard kapan saja.
+          - generic [ref=f35e332]:
+            - heading "Apakah data RPP saya aman?" [level=3] [ref=f35e333]
+            - paragraph [ref=f35e334]: Ya, semua data disimpan dengan enkripsi dan hanya dapat diakses oleh akun Anda.
+  - region "Notifications alt+T"
+  - alert [ref=f35e335]

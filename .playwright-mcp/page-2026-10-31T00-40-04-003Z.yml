@@ -1,0 +1,451 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - heading "Leanpub Header" [level=2] [ref=e3]
+    - generic [ref=e4]:
+      - heading "Leanpub Navigation" [level=2] [ref=e5]
+      - link "Skip to main content" [ref=e6] [cursor=pointer]:
+        - /url: "#main"
+      - link "Leanpub Homepage" [ref=e8] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e9]: Go to Leanpub.com
+        - strong [ref=e12]: Leanpub
+      - generic [ref=e13]:
+        - button "Open search" [ref=e14] [cursor=pointer]
+        - 'button "Theme: Light mode. Click for Dark mode" [ref=e17] [cursor=pointer]'
+        - link "Shopping cart" [ref=e20] [cursor=pointer]:
+          - /url: /shopping_cart
+        - button [ref=e23] [cursor=pointer]
+    - generic [aria-hidden]:
+      - dialog:
+        - generic:
+          - generic [aria-hidden]:
+            - generic [aria-hidden]:
+              - group:
+                - generic:
+                  - generic: Filter
+                  - combobox [disabled]
+                  - textbox [disabled]:
+                    - /placeholder: Search Leanpub
+                  - button [disabled]
+          - button
+  - main [ref=e26]:
+    - generic [ref=e29]:
+      - paragraph [ref=e30]: Author on Leanpub
+      - heading "Kristian Reformis" [level=1] [ref=e31]
+      - generic [ref=e32]:
+        - link "Twitter" [ref=e33] [cursor=pointer]:
+          - /url: https://twitter.com/tianreformis
+        - link "GitHub" [ref=e36] [cursor=pointer]:
+          - /url: https://github.com/tianreformis
+        - link "Instagram" [ref=e39] [cursor=pointer]:
+          - /url: https://instagram.com/tianreformis
+        - link "LinkedIn" [ref=e42] [cursor=pointer]:
+          - /url: https://linkedin.com/in/kristian-reformis-1148291b2
+      - link "See the books" [ref=e46] [cursor=pointer]:
+        - /url: /u/tianreformis#books
+      - generic [ref=e48]:
+        - term [ref=e49]: "12"
+        - definition [ref=e50]: books on Leanpub
+    - generic [ref=e53]:
+      - paragraph [ref=e54]: About
+      - heading "About Kristian Reformis" [level=2] [ref=e55]
+      - generic [ref=e57]:
+        - paragraph [ref=e58]:
+          - strong [ref=e60]: Kristian Reformis
+          - text: is a dedicated IT educator and tech enthusiast with a mission to bridge the gap between complex technology and modern pedagogy. With years of experience in the classroom, he has seen firsthand the challenges teachers face in an increasingly digital world.
+        - paragraph [ref=e61]: "Known as \"The Reformist Teacher,\" Kristian specializes in making advanced IT concepts—from coding to Artificial Intelligence—accessible and actionable for educators of all backgrounds. He believes that technology should not be a burden to teachers, but a powerful catalyst that allows them to focus on what truly matters: inspiring the next generation."
+        - paragraph [ref=e62]:
+          - text: When he isn’t exploring the latest AI tools or developing digital solutions for schools, Kristian enjoys sharing his insights on educational reform and the future of work.
+          - emphasis [ref=e64]: The AI-Driven Educator
+          - text: is his latest contribution to empowering teachers worldwide to reclaim their time and transform their classrooms.
+    - generic [ref=e67]:
+      - paragraph [ref=e68]: Books
+      - heading "Books by Kristian Reformis" [level=2] [ref=e69]
+      - paragraph [ref=e70]: 12 books by Kristian Reformis on Leanpub
+      - list [ref=e71]:
+        - listitem [ref=e72]:
+          - link [ref=e73] [cursor=pointer]:
+            - /url: /the-agents-md-cookbook
+            - paragraph [ref=e74]: The Agents.md Cookbook
+            - paragraph [ref=e75]: Kristian Reformis
+        - listitem [ref=e76]:
+          - link [ref=e77] [cursor=pointer]:
+            - /url: /the-agentic-security-playbook
+            - paragraph [ref=e78]: The Agentic Security Playbook
+            - paragraph [ref=e79]: Kristian Reformis
+        - listitem [ref=e80]:
+          - link [ref=e81] [cursor=pointer]:
+            - /url: /shipit-for-clients
+            - paragraph [ref=e82]: Ship It for Clients
+            - paragraph [ref=e83]: Kristian Reformis
+        - listitem [ref=e84]:
+          - link [ref=e85] [cursor=pointer]:
+            - /url: /the-ai-driven-educator
+            - paragraph [ref=e86]: The AI-Driven Educator
+            - paragraph [ref=e87]: Kristian Reformis
+        - listitem [ref=e88]:
+          - link [ref=e89] [cursor=pointer]:
+            - /url: /supplychain-security-for-solo-builders
+            - paragraph [ref=e90]: Supply Chain Security for Solo Builders
+            - paragraph [ref=e91]: Kristian Reformis
+        - listitem [ref=e92]:
+          - link [ref=e93] [cursor=pointer]:
+            - /url: /buildyourownfinancetracker
+            - paragraph [ref=e94]: Build Your Own Finance Tracker
+            - paragraph [ref=e95]: Kristian Reformis
+        - listitem [ref=e96]:
+          - link [ref=e97] [cursor=pointer]:
+            - /url: /the-ai-coding-failure-casebook
+            - paragraph [ref=e98]: The AI Coding Failure Casebook
+            - paragraph [ref=e99]: Kristian Reformis
+        - listitem [ref=e100]:
+          - link [ref=e101] [cursor=pointer]:
+            - /url: /buildyourschoolssoftwarewithai
+            - paragraph [ref=e102]: Build Your School's Software with AI
+            - paragraph [ref=e103]: Kristian Reformis
+        - listitem [ref=e104]:
+          - link [ref=e105] [cursor=pointer]:
+            - /url: /vibecoding-with-opencode-from-beginner-to-pro
+            - paragraph [ref=e106]: "Vibe Coding with OpenCode: From Beginner to Pro"
+            - paragraph [ref=e107]: Kristian Reformis
+        - listitem [ref=e108]:
+          - link [ref=e109] [cursor=pointer]:
+            - /url: /pythoneraaifullcookbook
+            - paragraph [ref=e110]: Python Era AI (Full Cookbook)
+            - paragraph [ref=e111]: Kristian Reformis
+        - listitem [ref=e112]:
+          - link [ref=e113] [cursor=pointer]:
+            - /url: /learnjavascriptin30daysprojects-basedapproach
+            - paragraph [ref=e114]: "Learn JavaScript in 30 Days: Projects-Based Approach"
+            - paragraph [ref=e115]: Kristian Reformis
+        - listitem [ref=e116]:
+          - link [ref=e117] [cursor=pointer]:
+            - /url: /cybersecuritybasicprotectyourselfonline
+            - paragraph [ref=e118]: "Cyber Security Basic : Protect Yourself Online"
+            - paragraph [ref=e119]: Kristian Reformis
+    - generic [ref=e122]:
+      - paragraph [ref=e123]: Courses
+      - heading "Unpublished courses" [level=2] [ref=e124]
+      - paragraph [ref=e125]: 1 course by Kristian Reformis on Leanpub
+      - list [ref=e126]:
+        - listitem [ref=e127]:
+          - link [ref=e128] [cursor=pointer]:
+            - /url: /c/leanpub/vibecodingforteachers
+            - paragraph [ref=e129]: Vibe Coding for Teachers
+            - paragraph [ref=e130]: Kristian Reformis
+    - generic [ref=e133]:
+      - heading "Find your next book on Leanpub." [level=2] [ref=e134]
+      - paragraph [ref=e135]: Thousands of books, courses, bundles and tracks, updated by their authors as they write.
+      - link "Browse the store" [ref=e136] [cursor=pointer]:
+        - /url: /store/books
+  - contentinfo [ref=e137]:
+    - heading "Footer" [level=2] [ref=e138]
+    - generic [ref=e140]:
+      - heading "Publish Early, Publish Often" [level=3] [ref=e145]
+      - generic [ref=e146]:
+        - heading "Links" [level=3] [ref=e147]
+        - generic [ref=e148]:
+          - generic [ref=e149]:
+            - heading "Store" [level=3] [ref=e150]
+            - separator [ref=e151]
+            - list [ref=e152]:
+              - listitem [ref=e153]:
+                - list [ref=e154]:
+                  - listitem [ref=e155]:
+                    - link "Featured" [ref=e156] [cursor=pointer]:
+                      - /url: /
+                  - listitem [ref=e157]:
+                    - link "Books" [ref=e158] [cursor=pointer]:
+                      - /url: /store/books
+                  - listitem [ref=e159]:
+                    - link "Bundles" [ref=e160] [cursor=pointer]:
+                      - /url: /store/bundles
+                  - listitem [ref=e161]:
+                    - link "Courses" [ref=e162] [cursor=pointer]:
+                      - /url: /store/courses
+                  - listitem [ref=e163]:
+                    - link "Tracks" [ref=e164] [cursor=pointer]:
+                      - /url: /store/tracks
+                  - listitem [ref=e165]:
+                    - link "Topics" [ref=e166] [cursor=pointer]:
+                      - /url: /topics
+                  - listitem [ref=e167]:
+                    - link "Podcast" [ref=e168] [cursor=pointer]:
+                      - /url: /podcasts/leanpub
+                  - listitem [ref=e169]:
+                    - link "Use a Coupon" [ref=e170] [cursor=pointer]:
+                      - /url: /coupon
+                  - listitem [ref=e171]:
+                    - link "Redeem a Token" [ref=e172] [cursor=pointer]:
+                      - /url: /redeem
+            - heading "Services" [level=3] [ref=e173]
+            - separator [ref=e174]
+            - generic [ref=e175]:
+              - heading "AI tools" [level=4] [ref=e176]
+              - list [ref=e177]:
+                - listitem [ref=e178]:
+                  - link "GhostAI" [ref=e179] [cursor=pointer]:
+                    - /url: /services/ghost_ai
+                - listitem [ref=e180]:
+                  - link "AudiobookAI" [ref=e181] [cursor=pointer]:
+                    - /url: /services/audiobook_ai
+                - listitem [ref=e182]:
+                  - link "TranslateAI" [ref=e183] [cursor=pointer]:
+                    - /url: /services/translate_ai
+                - listitem [ref=e184]:
+                  - link "CourseAI" [ref=e185] [cursor=pointer]:
+                    - /url: /services/course_ai
+                - listitem [ref=e186]:
+                  - link "ImportAI" [ref=e187] [cursor=pointer]:
+                    - /url: /services/import_ai
+                - listitem [ref=e188]:
+                  - link "IndexAI" [ref=e189] [cursor=pointer]:
+                    - /url: /services/index_ai
+                - listitem [ref=e190]:
+                  - link "AccessibilityAI" [ref=e191] [cursor=pointer]:
+                    - /url: /services/accessibility_ai
+            - generic [ref=e192]:
+              - heading "Premium services" [level=4] [ref=e193]
+              - list [ref=e194]:
+                - listitem [ref=e195]:
+                  - link "GhostAI Accelerator" [ref=e196] [cursor=pointer]:
+                    - /url: /services/ghostai_accelerator
+                - listitem [ref=e197]:
+                  - link "Publish on Amazon" [ref=e198] [cursor=pointer]:
+                    - /url: /services/publish_on_amazon
+                - listitem [ref=e199]:
+                  - link "GlobalAuthor" [ref=e200] [cursor=pointer]:
+                    - /url: /services/global_author
+                - listitem [ref=e201]:
+                  - link "PodcastBook" [ref=e202] [cursor=pointer]:
+                    - /url: /services/podcast_book
+                - listitem [ref=e203]:
+                  - link "NewsletterBook" [ref=e204] [cursor=pointer]:
+                    - /url: /services/newsletter_book
+                - listitem [ref=e205]:
+                  - link "ConferenceBook" [ref=e206] [cursor=pointer]:
+                    - /url: /services/conference_book
+            - generic [ref=e207]:
+              - link "Ghostwriting" [ref=e208] [cursor=pointer]:
+                - /url: /services/ghostwriting
+              - list [ref=e209]:
+                - listitem [ref=e210]:
+                  - link "The Founder Book" [ref=e211] [cursor=pointer]:
+                    - /url: /services/founder_book
+                - listitem [ref=e212]:
+                  - link "The Expert Book" [ref=e213] [cursor=pointer]:
+                    - /url: /services/expert_book
+                - listitem [ref=e214]:
+                  - link "The Authority Book" [ref=e215] [cursor=pointer]:
+                    - /url: /services/authority_book
+                - listitem [ref=e216]:
+                  - link "The Executive Book" [ref=e217] [cursor=pointer]:
+                    - /url: /services/executive_book
+            - generic [ref=e218]:
+              - heading "Marketing" [level=4] [ref=e219]
+              - list [ref=e220]:
+                - listitem [ref=e221]:
+                  - link "Newsletter Sponsorships" [ref=e222] [cursor=pointer]:
+                    - /url: /marketing/newsletter_sponsorships
+                - listitem [ref=e223]:
+                  - link "Shelf Spot and Newsletter Bundle" [ref=e224] [cursor=pointer]:
+                    - /url: /marketing/shelf_spots
+          - generic [ref=e225]:
+            - heading "Authors" [level=3] [ref=e226]
+            - separator [ref=e227]
+            - list [ref=e228]:
+              - listitem [ref=e229]:
+                - list [ref=e230]:
+                  - listitem [ref=e231]:
+                    - link "Author Memberships" [ref=e232] [cursor=pointer]:
+                      - /url: /authors
+                  - listitem [ref=e233]:
+                    - link "Create Book" [ref=e234] [cursor=pointer]:
+                      - /url: /authors/create/book
+                  - listitem [ref=e235]:
+                    - link "Create Bundle" [ref=e236] [cursor=pointer]:
+                      - /url: /authors/create/bundle
+                  - listitem [ref=e237]:
+                    - link "Create Course" [ref=e238] [cursor=pointer]:
+                      - /url: /authors/create/course
+                  - listitem [ref=e239]:
+                    - link "Create Track" [ref=e240] [cursor=pointer]:
+                      - /url: /authors/create/track
+            - heading "Events" [level=3] [ref=e241]
+            - separator [ref=e242]
+            - list [ref=e243]:
+              - listitem [ref=e244]:
+                - list [ref=e245]:
+                  - listitem [ref=e246]:
+                    - link "Book Weekend" [ref=e247] [cursor=pointer]:
+                      - /url: /events/book_weekend?lp_src=footer
+            - heading "Author Support" [level=3] [ref=e248]
+            - separator [ref=e249]
+            - list [ref=e250]:
+              - listitem [ref=e251]:
+                - list [ref=e252]:
+                  - listitem [ref=e253]:
+                    - link "Author FAQ" [ref=e254] [cursor=pointer]:
+                      - /url: https://help.leanpub.com/en/articles/4405350-leanpub-author-faq
+                  - listitem [ref=e255]:
+                    - link "Author Help Center" [ref=e256] [cursor=pointer]:
+                      - /url: https://help.leanpub.com/author-help
+                  - listitem [ref=e257]:
+                    - link "Leanpub Authors Forum" [ref=e258] [cursor=pointer]:
+                      - /url: /forum/authors
+                  - listitem [ref=e259]:
+                    - link "The Leanpub Manual" [ref=e260] [cursor=pointer]:
+                      - /url: /read/manual
+                  - listitem [ref=e261]:
+                    - link "The LFM Manual" [ref=e262] [cursor=pointer]:
+                      - /url: /read/lfm
+                  - listitem [ref=e263]:
+                    - link "The Markua Manual" [ref=e264] [cursor=pointer]:
+                      - /url: /read/markua
+                  - listitem [ref=e265]:
+                    - link "API Docs" [ref=e266] [cursor=pointer]:
+                      - /url: /help/api
+                  - listitem [ref=e267]:
+                    - link "Leanpub CLI" [ref=e268] [cursor=pointer]:
+                      - /url: /help/cli
+            - heading "More" [level=3] [ref=e269]
+            - separator [ref=e270]
+            - list [ref=e271]:
+              - listitem [ref=e272]:
+                - list [ref=e273]:
+                  - listitem [ref=e274]:
+                    - link "Partner Program" [ref=e275] [cursor=pointer]:
+                      - /url: /partner_program
+                  - listitem [ref=e276]:
+                    - link "Causes" [ref=e277] [cursor=pointer]:
+                      - /url: /causes
+                  - listitem [ref=e278]:
+                    - link "Accessibility" [ref=e279] [cursor=pointer]:
+                      - /url: /accessibility
+            - heading "About" [level=3] [ref=e280]
+            - separator [ref=e281]
+            - list [ref=e282]:
+              - listitem [ref=e283]:
+                - list [ref=e284]:
+                  - listitem [ref=e285]:
+                    - link "About Leanpub" [ref=e286] [cursor=pointer]:
+                      - /url: /about
+                  - listitem [ref=e287]:
+                    - link "Contact" [ref=e288] [cursor=pointer]:
+                      - /url: /contact
+                  - listitem [ref=e289]:
+                    - link "Press" [ref=e290] [cursor=pointer]:
+                      - /url: /press
+          - generic [ref=e291]:
+            - heading "Readers" [level=3] [ref=e292]
+            - separator [ref=e293]
+            - list [ref=e294]:
+              - listitem [ref=e295]:
+                - list [ref=e296]:
+                  - listitem [ref=e297]:
+                    - link "Reader Memberships" [ref=e298] [cursor=pointer]:
+                      - /url: /readers/membership
+                  - listitem [ref=e299]:
+                    - link "Buy Credits" [ref=e300] [cursor=pointer]:
+                      - /url: /readers/credits
+                  - listitem [ref=e301]:
+                    - link "Reader FAQ" [ref=e302] [cursor=pointer]:
+                      - /url: https://help.leanpub.com/en/articles/3788293-the-leanpub-faq
+                  - listitem [ref=e303]:
+                    - link "Help Center" [ref=e304] [cursor=pointer]:
+                      - /url: https://help.leanpub.com/en/
+            - heading "Organizations" [level=3] [ref=e305]
+            - separator [ref=e306]
+            - list [ref=e307]:
+              - listitem [ref=e308]:
+                - list [ref=e309]:
+                  - listitem [ref=e310]:
+                    - link "Organization Memberships" [ref=e311] [cursor=pointer]:
+                      - /url: /organizations
+                  - listitem [ref=e312]:
+                    - link "Publisher Memberships" [ref=e313] [cursor=pointer]:
+                      - /url: /organizations/publisher_memberships
+                  - listitem [ref=e314]:
+                    - link "Buy Credits" [ref=e315] [cursor=pointer]:
+                      - /url: /organizations/credits
+                  - listitem [ref=e316]:
+                    - link "Your Organization" [ref=e317] [cursor=pointer]:
+                      - /url: /organizations/your_organization
+            - heading "Why Leanpub" [level=3] [ref=e318]
+            - separator [ref=e319]
+            - list [ref=e320]:
+              - listitem [ref=e321]:
+                - list [ref=e322]:
+                  - listitem [ref=e323]:
+                    - link "Why Leanpub" [ref=e324] [cursor=pointer]:
+                      - /url: /why
+                  - listitem [ref=e325]:
+                    - link "Books Die Alone (2026)" [ref=e326] [cursor=pointer]:
+                      - /url: /books_die_alone?lp_src=footer
+                  - listitem [ref=e327]:
+                    - link "The Most Painful Compliment (2026)" [ref=e328] [cursor=pointer]:
+                      - /url: /the_most_painful_compliment
+                  - listitem [ref=e329]:
+                    - link "Leanpub at Sixteen (2026)" [ref=e330] [cursor=pointer]:
+                      - /url: /leanpub_at_sixteen
+                  - listitem [ref=e331]:
+                    - link "AI Services (2024)" [ref=e332] [cursor=pointer]:
+                      - /url: /ai_services
+                  - listitem [ref=e333]:
+                    - link "Imagine a world... (2022)" [ref=e334] [cursor=pointer]:
+                      - /url: /imagine_a_world
+                  - listitem [ref=e335]:
+                    - link "The Lean Publishing Definition (2013)" [ref=e336] [cursor=pointer]:
+                      - /url: /definition
+                  - listitem [ref=e337]:
+                    - link "The Lean Publishing Manifesto (2010)" [ref=e338] [cursor=pointer]:
+                      - /url: /manifesto
+                  - listitem [ref=e339]:
+                    - link "Podcast" [ref=e340] [cursor=pointer]:
+                      - /url: /podcasts/leanpub
+                  - listitem [ref=e341]:
+                    - link "Blog" [ref=e342] [cursor=pointer]:
+                      - /url: https://leanpub.com/blog
+            - heading "Legal" [level=3] [ref=e343]
+            - separator [ref=e344]
+            - list [ref=e345]:
+              - listitem [ref=e346]:
+                - list [ref=e347]:
+                  - listitem [ref=e348]:
+                    - link "Terms of Service" [ref=e349] [cursor=pointer]:
+                      - /url: /terms
+                  - listitem [ref=e350]:
+                    - link "Copyright Policy" [ref=e351] [cursor=pointer]:
+                      - /url: /takedown
+                  - listitem [ref=e352]:
+                    - link "Privacy Policy" [ref=e353] [cursor=pointer]:
+                      - /url: /privacy
+                  - listitem [ref=e354]:
+                    - link "Refund Policy" [ref=e355] [cursor=pointer]:
+                      - /url: /refunds
+            - heading "Security" [level=3] [ref=e356]
+            - separator [ref=e357]
+            - list [ref=e358]:
+              - listitem [ref=e359]:
+                - list [ref=e360]:
+                  - listitem [ref=e361]:
+                    - link "Fraud Warnings" [ref=e362] [cursor=pointer]:
+                      - /url: /fraud
+      - region [ref=e363]:
+        - heading "Copyright" [level=3] [ref=e364]
+        - separator [ref=e365]
+        - article [ref=e366]:
+          - paragraph [ref=e367]:
+            - text: Leanpub is copyright © 2010-2026
+            - link "Ruboss Technology Corp" [ref=e368] [cursor=pointer]:
+              - /url: http://ruboss.com/
+            - text: .
+          - paragraph [ref=e369]: All rights reserved.
+      - generic [ref=e370]:
+        - link "Download the Leanpub app on the App Store" [ref=e371] [cursor=pointer]:
+          - /url: /app/go?ct=footer
+          - img "Download Leanpub on the App Store" [ref=e372]
+        - link "Get the Leanpub app on Google Play" [ref=e373] [cursor=pointer]:
+          - /url: /app/go?ct=footer&store=play
+          - img "Get Leanpub on Google Play" [ref=e374]
+  - region "Notifications Alt+T"

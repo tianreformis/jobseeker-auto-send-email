@@ -1,0 +1,325 @@
+- generic [active] [ref=f181e1]:
+  - generic [ref=f181e2]:
+    - banner [ref=f181e3]:
+      - generic [ref=f181e4]:
+        - link [ref=f181e5] [cursor=pointer]:
+          - /url: /
+          - img "we work remotely" [ref=f181e6]
+        - navigation [ref=f181e7]:
+          - list [ref=f181e8]:
+            - listitem [ref=f181e9]:
+              - link "Global Payroll" [ref=f181e10] [cursor=pointer]:
+                - /url: https://www.toptal.com/hireglobal/wwr-partnership?utm_source=weworkremotely&utm_medium=referral&utm_campaign=hireglobal_nav_link
+            - listitem [ref=f181e11]:
+              - link "Find Jobs" [ref=f181e12] [cursor=pointer]:
+                - /url: "#"
+                - text: Find Jobs
+                - generic [aria-hidden] [ref=f181e13]: 
+              - text:    
+            - listitem [ref=f181e14]:
+              - link "Community" [ref=f181e15] [cursor=pointer]:
+                - /url: "#"
+                - text: Community
+                - generic [aria-hidden] [ref=f181e16]: 
+              - text:    
+            - listitem [ref=f181e17]:
+              - link "Career Services" [ref=f181e18] [cursor=pointer]:
+                - /url: "#"
+                - text: Career Services
+                - generic [aria-hidden] [ref=f181e19]: 
+            - listitem [ref=f181e20]:
+              - link "About" [ref=f181e21] [cursor=pointer]:
+                - /url: "#"
+                - text: About
+                - generic [aria-hidden] [ref=f181e22]: 
+              - text: 
+            - listitem [ref=f181e23]:
+              - generic [ref=f181e24]:
+                - generic [aria-hidden] [ref=f181e25]: 
+                - textbox "Search" [ref=f181e26]
+            - listitem
+            - listitem [ref=f181e27]:
+              - link "Sign in" [ref=f181e28] [cursor=pointer]:
+                - /url: /account/sign_in?utm_content=sign-in-cta&utm_source=wwr-accounts-nav-top
+            - listitem [ref=f181e29]:
+              - link "Post a job" [ref=f181e30] [cursor=pointer]:
+                - /url: /remote-jobs/find-your-plan?utm_source=wwr-accounts-nav-top
+    - text:               
+    - generic [ref=f181e32]:
+      - generic [ref=f181e33]:
+        - generic [ref=f181e34]:
+          - link "All jobs" [ref=f181e35] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f181e36]: /
+          - link "Full-Stack Programming" [ref=f181e37] [cursor=pointer]:
+            - /url: /categories/remote-full-stack-programming-jobs
+          - generic [ref=f181e38]: /
+          - link "Software Engineer, Backend" [ref=f181e39] [cursor=pointer]:
+            - /url: /listings/vercel-software-engineer-backend
+        - generic [ref=f181e40]:
+          - link:
+            - /url: /company/vercel
+          - generic [ref=f181e41]:
+            - heading "Software Engineer, Backend" [level=1] [ref=f181e42]
+            - paragraph [ref=f181e44]:
+              - generic [aria-hidden] [ref=f181e45]: 
+              - generic [ref=f181e46]: Posted 20 days ago
+            - generic [ref=f181e47]:
+              - link "Apply now" [ref=f181e50] [cursor=pointer]:
+                - /url: /job-seekers/account/register?alert=Create+an+account+to+view+full+job+details.
+                - generic [aria-hidden] [ref=f181e51]: 
+              - link "AI Auto-Apply" [ref=f181e53] [cursor=pointer]:
+                - /url: /career-services/job-copilot
+                - generic [aria-hidden] [ref=f181e54]: 
+                - text: AI Auto-Apply
+              - button "Save job" [ref=f181e55] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f181e56]: 
+                - text: Save job
+      - generic [ref=f181e57]:
+        - generic [ref=f181e59]:
+          - generic [ref=f181e60]:
+            - heading "About Vercel:" [level=2] [ref=f181e61]
+            - paragraph [ref=f181e62]: Vercel is the agentic infrastructure company, freeing people and agents to ship what's next. For more than a decade we've helped builders move from idea to production with speed, security, and exceptional developer experience.
+            - paragraph [ref=f181e63]: Now we're scaling our products for both agents and people to ship and run software, built in the open and trusted by OpenAI, PayPal, Ramp, Supreme, and millions of developers worldwide.
+          - heading "About the Role:" [level=2] [ref=f181e64]
+          - paragraph [ref=f181e65]: We are seeking a Backend leaning Software Engineer. In this role, you will play a pivotal role in designing, building, and maintaining scalable, high-performance systems. Leveraging JavaScript/TypeScript, Node.js, SQL and NoSQL cloud-native databases, and AWS, you will develop innovative solutions for user, group, and membership management while ensuring the highest levels of security and reliability.
+          - paragraph [ref=f181e66]: If you’re based within a pre-determined commuting distance of one of our offices (SF, NY, London, or Berlin), the role includes in-office anchor days on Monday, Tuesday, and Friday. If you're located beyond that distance, the role is fully remote. For location-specific details, please connect with our recruiting team.
+          - heading "What You Will Do:" [level=2] [ref=f181e67]
+          - list [ref=f181e68]:
+            - listitem [ref=f181e69]: Enable us to deliver secure, reliable, and scalable services that exceed industry standards and customer expectations.
+            - listitem [ref=f181e70]: Collaborate with cross-functional teams to deliver large-scale projects with cross-team dependencies.
+            - listitem [ref=f181e71]: Collaborate with peer teams to deliver solutions that meet industry standards and customer expectations.
+            - listitem [ref=f181e72]: Maintain and operate services at high scale, participating in scheduled on-call rotations to ensure reliability.
+            - listitem [ref=f181e73]: Implement identity synchronization and lifecycle management solutions using SCIM and other relevant standards.
+            - listitem [ref=f181e74]: Work with Infrastructure as Code (Terraform, AWS CloudFormation, Kubernetes, etc.) to deliver scalable, high-availability applications.
+            - listitem [ref=f181e75]: Build and maintain high-quality enterprise software using TypeScript, REST APIs, and JSON.
+          - heading "About You:" [level=2] [ref=f181e76]
+          - list [ref=f181e77]:
+            - listitem [ref=f181e78]: Proficiency in TypeScript/JavaScript, React, and Node.js.
+            - listitem [ref=f181e79]: Strong knowledge of security architecture, LDAP, Active Directory, SAML, SSO, OAuth2, OpenID Connect and web protocols like XML, SOAP, JSON, and REST.
+            - listitem [ref=f181e80]: Familiarity with access control models such as RBAC, ABAC and ReBAC.
+            - listitem [ref=f181e81]: Experience with SQL.
+            - listitem [ref=f181e82]: Practical experience developing and improving applications written in Node.js.
+            - listitem [ref=f181e83]: Exhibit excellent problem-solving abilities and effective communication skills, especially when collaborating with diverse teams.
+          - heading "Benefits & Compensation:" [level=2] [ref=f181e84]
+          - list [ref=f181e85]:
+            - listitem [ref=f181e86]: Competitive compensation package, including equity.
+            - listitem [ref=f181e87]: Inclusive Healthcare Package.
+            - listitem [ref=f181e88]: Learn and Grow - we provide mentorship and send you to events that help you build your network and skills.
+            - listitem [ref=f181e89]: Flexible Time Off.
+            - listitem [ref=f181e90]: We will provide you the gear you need to do your role, and a WFH budget for you to outfit your space as needed.
+          - paragraph [ref=f181e91]: The San Francisco, CA base pay range for this role is $196,000-$294,000. Actual salary will be based on job-related skills, experience, and location. Compensation outside of San Francisco may be adjusted based on employee location. The total compensation package may include benefits, equity-based compensation, and eligibility for a company bonus or variable pay program depending on the role. Your recruiter can share more details during the hiring process.
+          - paragraph [ref=f181e92]: "#LI-CL1"
+          - generic [ref=f181e93]:
+            - heading [level=2] [ref=f181e94]:
+              - strong [ref=f181e95]: "Disclosures:"
+            - list [ref=f181e96]:
+              - listitem [ref=f181e97]:
+                - strong [ref=f181e98]: "Privacy:"
+                - text: Please review our
+                - link "Job Applicant Privacy Policy" [ref=f181e100] [cursor=pointer]:
+                  - /url: https://vercel.com/legal/job-applicant-privacy-notice
+                - text: for more information on how we handle your data.
+              - listitem [ref=f181e101]:
+                - strong [ref=f181e102]: "Equal Opportunity:"
+                - text: Vercel is committed to fostering and empowering an inclusive community within our organization. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Vercel encourages everyone to apply for our available positions, even if they don't necessarily check every box on the job description.
+          - separator [ref=f181e103]
+        - generic [ref=f181e104]:
+          - generic [ref=f181e105]:
+            - link [ref=f181e106] [cursor=pointer]:
+              - /url: /company/vercel
+            - generic [ref=f181e107]:
+              - heading [level=3] [ref=f181e109]:
+                - text: Vercel
+                - img "Star Icon" [ref=f181e110]
+              - link "View company" [ref=f181e111] [cursor=pointer]:
+                - /url: /company/vercel
+                - generic [aria-hidden] [ref=f181e113]: 
+              - paragraph [ref=f181e114]: "Jobs posted: 14"
+          - generic [ref=f181e115]:
+            - heading "About the job" [level=2] [ref=f181e116]
+            - list [ref=f181e117]:
+              - listitem [ref=f181e118]:
+                - text: Posted on
+                - generic [ref=f181e119]: 20 days ago
+              - listitem [ref=f181e120]:
+                - text: Apply before
+                - generic [ref=f181e121]: Nov 10th, 2026
+              - listitem [ref=f181e122]:
+                - text: Job type
+                - link [ref=f181e123] [cursor=pointer]:
+                  - /url: /categories/remote-full-stack-programming-jobs
+                  - generic [ref=f181e124]:
+                    - generic [aria-hidden] [ref=f181e125]: 
+                    - text: Full-Time
+              - listitem [ref=f181e126]:
+                - text: Category
+                - link "Full-Stack Programming" [ref=f181e127] [cursor=pointer]:
+                  - /url: /categories/remote-full-stack-programming-jobs
+              - listitem [ref=f181e129]:
+                - text: Region
+                - link "Anywhere in the World" [ref=f181e131] [cursor=pointer]:
+                  - /url: /100-percent-remote-jobs
+              - listitem
+            - generic [ref=f181e133]:
+              - link "Apply now" [ref=f181e136] [cursor=pointer]:
+                - /url: /job-seekers/account/register?alert=Create+an+account+to+view+full+job+details.
+                - generic [aria-hidden] [ref=f181e137]: 
+                - text: Apply now
+              - generic [ref=f181e138]: or
+              - link "Auto-Apply with AI" [ref=f181e142] [cursor=pointer]:
+                - /url: /career-services/job-copilot
+                - generic [aria-hidden] [ref=f181e143]: 
+                - text: Auto-Apply with AI
+              - paragraph [ref=f181e144]: No forms. Just smart, optimized applications.
+          - complementary [ref=f181e145]:
+            - img "Wispr Flow Ad - Job Page promoted banner" [ref=f181e147]
+            - generic [ref=f181e148]:
+              - generic [ref=f181e149]:
+                - paragraph [ref=f181e150]: VOICE DICTATION
+                - heading "Talk. Don't type." [level=3] [ref=f181e151]
+                - paragraph [ref=f181e152]: Write cover letters and job applications just by speaking.
+              - generic [ref=f181e153]:
+                - img "Wispr Flow Ad - Job Page logo" [ref=f181e154]
+                - link "Try it free" [ref=f181e155] [cursor=pointer]:
+                  - /url: /listing_ads/16/click?pk=3c909c224a6345735db3da37f3c5de0ed1eee86cf03c74a476c9cdbf1f73052d&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxNiwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6Im1haW4iLCJ0cmFja2VyX2RpZ2VzdCI6Ijk2Y2E0MDE3ZTZmMzIzMzg2ZGRlYTBjZWYzYmZiYzBhZTcwOWUzZWU3MWNkMTkxZDc4ZTFiODM4MThkMGU1ODUiLCJwYWdlX2tleSI6IjNjOTA5YzIyNGE2MzQ1NzM1ZGIzZGEzN2YzYzVkZTBlZDFlZWU4NmNmMDNjNzRhNDc2YzljZGJmMWY3MzA1MmQiLCJub25jZSI6ImFiNGM1NTRmOWI1ZGMzNzdkOWE3MmYyNzY5NjE5MmI4In0sImV4cCI6IjIwMjYtMTAtMzFUMjA6MTk6MzguMjIwWiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--4866ba9da7a5c2197c8b4f8d2c2d13b0fdd996eb&target=main
+              - paragraph [ref=f181e156]: •Promoted
+      - article [ref=f181e159]:
+        - heading [level=2] [ref=f181e160]:
+          - text: Related Jobs
+          - link "Remote Full-Stack Programming jobs →" [ref=f181e162] [cursor=pointer]:
+            - /url: /categories/remote-full-stack-programming-jobs
+            - text: Remote Full-Stack Programming jobs
+            - generic [ref=f181e163]: →
+        - list [ref=f181e164]:
+          - listitem [ref=f181e165]:
+            - generic:
+              - link "Toggl is hiring a remote Senior Full Stack at We Work Remotely.":
+                - /url: /company/toggl
+                - img "Toggl is hiring a remote Senior Full Stack at We Work Remotely." [ref=f181e167] [cursor=pointer]
+            - 'link "Senior Full Stack 4d Boosted listing Toggl HQ: Tallinn, Estonia Boosted Featured Top 100 Full-Time $75,000 - $99,999 USD Anywhere in the World" [ref=f181e168] [cursor=pointer]':
+              - /url: /remote-jobs/toggl-senior-full-stack
+              - generic [ref=f181e169]:
+                - generic [ref=f181e170]:
+                  - heading "Senior Full Stack" [level=3] [ref=f181e171]:
+                    - img [aria-hidden] [ref=f181e173]:  
+                  - generic [ref=f181e174]:
+                    - paragraph [ref=f181e175]: 4d
+                    - generic [aria-hidden] [ref=f181e176]: 
+                    - generic [ref=f181e177]: Boosted listing
+                - paragraph [ref=f181e178]: Toggl
+                - paragraph [ref=f181e179]:
+                  - generic [ref=f181e180]:
+                    - generic [aria-hidden] [ref=f181e181]: 
+                    - text: "HQ:"
+                  - text: Tallinn, Estonia
+                - generic [ref=f181e182]:
+                  - paragraph [ref=f181e183]: Boosted
+                  - paragraph [ref=f181e184]: Featured
+                  - paragraph [ref=f181e185]:
+                    - generic [aria-hidden] [ref=f181e186]: 
+                    - text: Top 100
+                  - paragraph [ref=f181e187]: Full-Time
+                  - paragraph [ref=f181e188]: $75,000 - $99,999 USD
+                  - paragraph [ref=f181e189]: Anywhere in the World
+          - listitem [ref=f181e190]:
+            - generic:
+              - link "Samsara is hiring a remote Staff Software Engineer at We Work Remotely.":
+                - /url: /company/samsara
+                - img "Samsara is hiring a remote Staff Software Engineer at We Work Remotely." [ref=f181e192] [cursor=pointer]
+            - link [ref=f181e193] [cursor=pointer]:
+              - /url: /remote-jobs/samsara-staff-software-engineer
+              - generic [ref=f181e194]:
+                - generic [ref=f181e195]:
+                  - heading "Staff Software Engineer" [level=3] [ref=f181e196]:
+                    - img [aria-hidden] [ref=f181e198]:  
+                  - paragraph [ref=f181e200]: 15d
+                - paragraph [ref=f181e201]: Samsara
+                - paragraph [ref=f181e202]:
+                  - generic [ref=f181e203]:
+                    - generic [aria-hidden] [ref=f181e204]: 
+                    - text: "HQ:"
+                  - text: Remote
+                - generic [ref=f181e205]:
+                  - paragraph [ref=f181e206]: Featured
+                  - paragraph [ref=f181e207]: Full-Time
+                  - paragraph [ref=f181e208]: $100,000 or more USD
+                  - paragraph [ref=f181e209]: 🇺🇸 United States of America
+          - listitem [ref=f181e210]:
+            - generic:
+              - link "Sticker Mule is hiring a remote SI agent engineer at We Work Remotely.":
+                - /url: /company/sticker-mule
+                - img "Sticker Mule is hiring a remote SI agent engineer at We Work Remotely." [ref=f181e212] [cursor=pointer]
+            - 'link "SI agent engineer 15d Boosted listing Sticker Mule HQ: New York, NY Boosted Featured Top 100 Full-Time $100,000 or more USD Anywhere in the World" [ref=f181e213] [cursor=pointer]':
+              - /url: /remote-jobs/sticker-mule-si-agent-engineer
+              - generic [ref=f181e214]:
+                - generic [ref=f181e215]:
+                  - heading "SI agent engineer" [level=3] [ref=f181e216]:
+                    - img [aria-hidden] [ref=f181e218]:  
+                  - generic [ref=f181e219]:
+                    - paragraph [ref=f181e220]: 15d
+                    - generic [aria-hidden] [ref=f181e221]: 
+                    - generic [ref=f181e222]: Boosted listing
+                - paragraph [ref=f181e223]: Sticker Mule
+                - paragraph [ref=f181e224]:
+                  - generic [ref=f181e225]:
+                    - generic [aria-hidden] [ref=f181e226]: 
+                    - text: "HQ:"
+                  - text: New York, NY
+                - generic [ref=f181e227]:
+                  - paragraph [ref=f181e228]: Boosted
+                  - paragraph [ref=f181e229]: Featured
+                  - paragraph [ref=f181e230]:
+                    - generic [aria-hidden] [ref=f181e231]: 
+                    - text: Top 100
+                  - paragraph [ref=f181e232]: Full-Time
+                  - paragraph [ref=f181e233]: $100,000 or more USD
+                  - paragraph [ref=f181e234]: Anywhere in the World
+  - contentinfo [ref=f181e235]:
+    - generic [ref=f181e236]:
+      - link [ref=f181e238] [cursor=pointer]:
+        - /url: "#"
+        - img "footer logo" [ref=f181e239]
+      - generic [ref=f181e240]:
+        - link "Top 100 Companies" [ref=f181e241] [cursor=pointer]:
+          - /url: /top-remote-companies
+        - link "Blog" [ref=f181e242] [cursor=pointer]:
+          - /url: /blog
+        - link "Remote Hiring Guide" [ref=f181e243] [cursor=pointer]:
+          - /url: /remote-work-hiring-guide
+        - link "FAQ" [ref=f181e244] [cursor=pointer]:
+          - /url: /frequently-asked-questions
+        - link "Events" [ref=f181e245] [cursor=pointer]:
+          - /url: /blog?category=events
+        - link "RSS" [ref=f181e246] [cursor=pointer]:
+          - /url: /remote-job-rss-feed
+      - generic [ref=f181e247]:
+        - generic [aria-hidden] [ref=f181e248]: 
+        - paragraph [ref=f181e249]: 42,782 Remote jobs posted
+    - generic [ref=f181e250]:
+      - generic [ref=f181e251]: © 2026 We Work Remotely
+      - generic [ref=f181e252]:
+        - generic [ref=f181e253]:
+          - link "Contact Support" [ref=f181e254] [cursor=pointer]:
+            - /url: mailto:support@weworkremotely.com
+          - link "Terms" [ref=f181e255] [cursor=pointer]:
+            - /url: /terms-and-conditions
+          - link "Guidelines" [ref=f181e256] [cursor=pointer]:
+            - /url: /community-guidelines
+          - link "Privacy" [ref=f181e257] [cursor=pointer]:
+            - /url: /privacy
+          - link "Why Choose WWR?" [ref=f181e258] [cursor=pointer]:
+            - /url: /post-a-remote-job
+        - generic [ref=f181e259]:
+          - link [ref=f181e260] [cursor=pointer]:
+            - /url: https://www.facebook.com/weworkremotely/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-fb&utm_medium=footer-network-fb
+            - generic [aria-hidden] [ref=f181e261]: 
+          - link [ref=f181e262] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/18527028/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-linkedin&utm_medium=footer-network-linkedin
+            - generic [aria-hidden] [ref=f181e263]: 
+          - link [ref=f181e264] [cursor=pointer]:
+            - /url: https://www.instagram.com/weworkremotelycom/?hl=en&utm_campaign=footer-network-ig&utm_medium=footer-network-ig
+            - generic [aria-hidden] [ref=f181e265]: 
+          - link [ref=f181e266] [cursor=pointer]:
+            - /url: https://twitter.com/weworkremotely/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-twitter&utm_medium=footer-network-twitter
+            - generic [aria-hidden] [ref=f181e267]: 

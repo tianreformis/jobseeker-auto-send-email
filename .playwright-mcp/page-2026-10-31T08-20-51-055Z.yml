@@ -1,0 +1,371 @@
+- generic [active] [ref=f304e1]:
+  - navigation [ref=f304e2]:
+    - generic [ref=f304e3]:
+      - link "Homepage" [ref=f304e5] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f304e6]:
+        - button "Unlock All Jobs" [ref=f304e7] [cursor=pointer]
+        - generic [ref=f304e12]:
+          - button "Log in" [ref=f304e13] [cursor=pointer]
+          - button "For Employers" [ref=f304e14] [cursor=pointer]
+  - generic [ref=f304e15]:
+    - generic [ref=f304e16]:
+      - generic [ref=f304e17]:
+        - text: Back to
+        - link "Remote jobs" [ref=f304e18] [cursor=pointer]:
+          - /url: /remote-jobs
+        - text: ">"
+        - link "Software Development" [ref=f304e19] [cursor=pointer]:
+          - /url: /remote-jobs/software-development
+      - heading "[Hiring] Senior React Full-stack Developer @Lemon.io" [level=1] [ref=f304e20]
+      - paragraph [ref=f304e21]: "Oct 02, 2026 - Lemon.io is hiring a remote Senior React Full-stack Developer. 📍Location: Europe, USA, Canada, APAC."
+      - generic [ref=f304e24]:
+        - generic [ref=f304e25]:
+          - paragraph [ref=f304e26]:
+            - text: Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than
+            - link "Lemon.io" [ref=f304e27] [cursor=pointer]:
+              - /url: https://lemon.io/for-developers/?utm_source=remotive&utm_medium=job_ad&utm_campaign=supply_en_react/python_sep_2026_job_ad
+            - text: — the marketplace that connects you with hand-picked startups in the US and Europe.
+          - paragraph [ref=f304e28]:
+            - strong [ref=f304e29]
+          - paragraph [ref=f304e30]:
+            - strong [ref=f304e31]: "What we offer:"
+          - list [ref=f304e32]:
+            - listitem [ref=f304e33]: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers.
+            - listitem [ref=f304e34]: No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best.
+            - listitem [ref=f304e35]: We'll manually find the best project for you according to your skills and preferences.
+            - listitem [ref=f304e36]: Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours.
+            - listitem [ref=f304e37]: We respect your seniority so you can expect no micromanagement or screen trackers.
+            - listitem [ref=f304e38]: Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah?
+            - listitem [ref=f304e39]: We will support you from the time you submit the application throughout all cooperation stages.
+            - listitem [ref=f304e40]: Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do.
+          - paragraph [ref=f304e41]
+          - strong [ref=f304e43]: "Requirements for the Senior React & Python Position:"
+          - list [ref=f304e44]:
+            - listitem [ref=f304e45]: 4+ years of software development experience.
+          - paragraph [ref=f304e46]: "Commercial experience:"
+          - list [ref=f304e47]:
+            - listitem [ref=f304e48]:
+              - paragraph [ref=f304e49]: React.js 3+ years & Python 3+ years
+              - paragraph [ref=f304e50]: ORReact.js 2+ years & Python 5+ yearsORReact.js 5+ years & Python 2+ years
+            - listitem [ref=f304e51]:
+              - paragraph [ref=f304e52]: Experience with AWS, GCP, or Azure is required.
+          - paragraph [ref=f304e54]:
+            - strong [ref=f304e55]: "Other requirements:"
+          - list [ref=f304e56]:
+            - listitem [ref=f304e57]: "Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture."
+            - listitem [ref=f304e58]: Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls.
+            - listitem [ref=f304e59]: Strong self-organizational skills — ability to work full-time remotely with no supervision.
+            - listitem [ref=f304e60]: Reliability — we want to trust you and expect that you won’t let us and the client down.
+            - listitem [ref=f304e61]: Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly.
+          - paragraph [ref=f304e62]:
+            - strong [ref=f304e63]
+          - paragraph [ref=f304e64]:
+            - strong [ref=f304e65]: NOT YOUR TECH STACK?
+          - paragraph [ref=f304e66]
+          - paragraph [ref=f304e67]: We're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.
+          - paragraph [ref=f304e68]
+          - paragraph [ref=f304e69]: We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.
+          - paragraph
+          - paragraph [ref=f304e70]: We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).
+        - generic [ref=f304e71]:
+          - text: About The Company
+          - generic [ref=f304e72]:
+            - generic [ref=f304e75]:
+              - link "Lemon.io" [ref=f304e76] [cursor=pointer]:
+                - /url: https://remotive.com/remote-companies/lemon-io-139125
+              - generic [ref=f304e77]: Lemon.io is the marketplace that connects you with hand-picked startups in the US and Europe.
+            - paragraph [ref=f304e79]: Get a remote job that you will love with better compensation and career growth.
+      - generic [ref=f304e80]:
+        - generic [ref=f304e81]:
+          - generic [ref=f304e82]: More Software Development jobs in Europe and 3 other locations
+          - list [ref=f304e84]:
+            - listitem [ref=f304e85] [cursor=pointer]:
+              - generic [ref=f304e86]:
+                - generic [ref=f304e88]:
+                  - link "Senior Back-end Developer • Lemon.io" [ref=f304e90]:
+                    - /url: https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135
+                    - generic [ref=f304e91]: Senior Back-end Developer
+                    - generic [ref=f304e92]: •
+                    - generic [ref=f304e93]: Lemon.io
+                  - generic [ref=f304e94]:
+                    - link "Software Development" [ref=f304e96]:
+                      - /url: /remote-jobs/software-development
+                    - link "full-time" [ref=f304e98]:
+                      - /url: /remote-jobs/et-full-time
+                    - link "senior" [ref=f304e100]:
+                      - /url: /remote-jobs/cl-senior
+                    - generic [ref=f304e101]: Europe
+                    - generic [ref=f304e102]: USA
+                    - generic [ref=f304e103]: Canada
+                    - generic [ref=f304e104]: +4 more
+                - generic [ref=f304e105]: Featured
+            - listitem [ref=f304e107] [cursor=pointer]:
+              - generic [ref=f304e108]:
+                - generic [ref=f304e110]:
+                  - link "Head of Engineering • Lemon.io" [ref=f304e112]:
+                    - /url: https://remotive.com/remote-jobs/software-development/head-of-engineering-2091134
+                    - generic [ref=f304e113]: Head of Engineering
+                    - generic [ref=f304e114]: •
+                    - generic [ref=f304e115]: Lemon.io
+                  - generic [ref=f304e116]:
+                    - link "Software Development" [ref=f304e118]:
+                      - /url: /remote-jobs/software-development
+                    - link "full-time" [ref=f304e120]:
+                      - /url: /remote-jobs/et-full-time
+                    - generic [ref=f304e121]: Worldwide
+                - generic [ref=f304e122]: Featured
+            - listitem [ref=f304e124] [cursor=pointer]:
+              - generic [ref=f304e125]:
+                - generic [ref=f304e128]:
+                  - link "Full-Stack Developer • Fluence International, Inc." [ref=f304e130]:
+                    - /url: https://remotive.com/remote-jobs/software-development/full-stack-developer-2091165
+                    - generic [ref=f304e131]: Full-Stack Developer
+                    - generic [ref=f304e132]: •
+                    - generic [ref=f304e133]: Fluence International, Inc.
+                  - generic [ref=f304e134]:
+                    - link "Software Development" [ref=f304e136]:
+                      - /url: /remote-jobs/software-development
+                    - link "contract" [ref=f304e138]:
+                      - /url: /remote-jobs/et-contract
+                    - generic [ref=f304e139]: $3.5k–$5k/month
+                    - generic [ref=f304e140]: Worldwide
+                - generic [ref=f304e141]: New
+            - listitem [ref=f304e143] [cursor=pointer]:
+              - generic [ref=f304e144]:
+                - generic [ref=f304e146]:
+                  - link "Technical Cloud Architect • Bright Vision Technologies" [ref=f304e148]:
+                    - /url: https://remotive.com/remote/jobs/software-development/technical-cloud-architect-6442406
+                    - generic [ref=f304e149]: Technical Cloud Architect
+                    - generic [ref=f304e150]: •
+                    - generic [ref=f304e151]: Bright Vision Technologies
+                  - generic [ref=f304e152]:
+                    - link "Software Development" [ref=f304e154]:
+                      - /url: /remote-jobs/software-development
+                    - link "full-time" [ref=f304e156]:
+                      - /url: /remote-jobs/et-full-time
+                    - link "senior" [ref=f304e158]:
+                      - /url: /remote-jobs/cl-senior
+                    - generic [ref=f304e159]: $100,000–$150,0..
+                    - generic [ref=f304e160]: USA
+                - generic [ref=f304e161]: New
+            - listitem [ref=f304e163] [cursor=pointer]:
+              - generic [ref=f304e164]:
+                - generic [ref=f304e166]:
+                  - link "Senior .NET Azure Integration Developer • Inabia Software & Consulting" [ref=f304e168]:
+                    - /url: https://remotive.com/remote/jobs/software-development/senior-net-azure-integration-developer-6439196
+                    - generic [ref=f304e169]: Senior .NET Azure Integration Developer
+                    - generic [ref=f304e170]: •
+                    - generic [ref=f304e171]: Inabia Software & Consulting
+                  - generic [ref=f304e172]:
+                    - link "Software Development" [ref=f304e174]:
+                      - /url: /remote-jobs/software-development
+                    - link "contract" [ref=f304e176]:
+                      - /url: /remote-jobs/et-contract
+                    - link "mid-level" [ref=f304e178]:
+                      - /url: /remote-jobs/cl-mid-level
+                    - generic [ref=f304e179]: USA
+                - generic [ref=f304e180]: New
+            - listitem [ref=f304e182] [cursor=pointer]:
+              - generic [ref=f304e183]:
+                - generic [ref=f304e185]:
+                  - link "Staff Platform Engineer • Redox" [ref=f304e187]:
+                    - /url: https://remotive.com/remote/jobs/software-development/staff-platform-engineer-6441621
+                    - generic [ref=f304e188]: Staff Platform Engineer
+                    - generic [ref=f304e189]: •
+                    - generic [ref=f304e190]: Redox
+                  - generic [ref=f304e191]:
+                    - link "Software Development" [ref=f304e193]:
+                      - /url: /remote-jobs/software-development
+                    - link "full-time" [ref=f304e195]:
+                      - /url: /remote-jobs/et-full-time
+                    - link "lead" [ref=f304e197]:
+                      - /url: /remote-jobs/cl-lead
+                    - generic [ref=f304e198]: $185,000 - $210..
+                    - generic [ref=f304e199]: USA
+                - generic [ref=f304e200]: New
+        - link "View more similar jobs" [ref=f304e202] [cursor=pointer]:
+          - /url: /join
+      - generic [ref=f304e206]:
+        - text: Kickstart Your Job Search
+        - link "⚡ 19,049 remote jobs added this week You're seeing 0.4% of available roles Unlock 130,000+ jobs →" [ref=f304e208] [cursor=pointer]:
+          - /url: /join
+          - generic [ref=f304e209]:
+            - generic [ref=f304e211]:
+              - paragraph [ref=f304e212]: ⚡ 19,049 remote jobs added this week
+              - paragraph [ref=f304e213]: You're seeing 0.4% of available roles
+            - generic [ref=f304e214]: Unlock 130,000+ jobs →
+      - 'link "Meet JobCopilot: Your Personal Al Job Hunter Automatically Apply to Remote Jobs Try it now →" [ref=f304e216] [cursor=pointer]':
+        - /url: https://remotive.com/job-copilot
+        - generic [ref=f304e217]:
+          - generic [ref=f304e219]:
+            - paragraph [ref=f304e220]: "Meet JobCopilot: Your Personal Al Job Hunter"
+            - paragraph [ref=f304e221]: Automatically Apply to Remote Jobs
+          - generic [ref=f304e222]: Try it now →
+      - generic [ref=f304e225]:
+        - text: Back to
+        - link "Remote jobs" [ref=f304e226] [cursor=pointer]:
+          - /url: /remote-jobs
+        - text: ">"
+        - link "Software Development" [ref=f304e227] [cursor=pointer]:
+          - /url: /remote-jobs/software-development
+    - generic [ref=f304e229]:
+      - generic [ref=f304e232]: Senior React Full-stack Developer
+      - link "@Lemon.io" [ref=f304e233] [cursor=pointer]:
+        - /url: https://remotive.com/remote-companies/lemon-io-139125
+      - generic [ref=f304e234]:
+        - generic [ref=f304e235]:
+          - link "Software Development" [ref=f304e237] [cursor=pointer]:
+            - /url: /remote-jobs/software-development
+          - table [ref=f304e238]:
+            - rowgroup [ref=f304e239]:
+              - row [ref=f304e240]:
+                - cell "Salary -" [ref=f304e241]:
+                  - generic [ref=f304e242]:
+                    - generic [ref=f304e243]: Salary
+                    - generic [ref=f304e244]: "-"
+                - cell "Remote Location remote in Europe Europe remote in USA USA remote in Canada Canada remote in APAC APAC" [ref=f304e245]:
+                  - generic [ref=f304e246]:
+                    - generic [ref=f304e247]: Remote Location
+                    - generic [ref=f304e248]:
+                      - generic [ref=f304e249]:
+                        - img "remote in Europe" [ref=f304e250]
+                        - link "Europe" [ref=f304e251] [cursor=pointer]:
+                          - /url: /remote-jobs?location=Europe
+                      - generic [ref=f304e252]:
+                        - img "remote in USA" [ref=f304e253]
+                        - link "USA" [ref=f304e254] [cursor=pointer]:
+                          - /url: /remote-jobs?location=USA
+                      - generic [ref=f304e255]:
+                        - img "remote in Canada" [ref=f304e256]
+                        - link "Canada" [ref=f304e257] [cursor=pointer]:
+                          - /url: /remote-jobs?location=Canada
+                      - generic [ref=f304e258]:
+                        - img "remote in APAC" [ref=f304e259]
+                        - link "APAC" [ref=f304e260] [cursor=pointer]:
+                          - /url: /remote-jobs?location=APAC
+              - row [ref=f304e261]:
+                - cell "Employment Type full-time" [ref=f304e262]:
+                  - generic [ref=f304e263]:
+                    - generic [ref=f304e264]: Employment Type
+                    - link "full-time" [ref=f304e265] [cursor=pointer]:
+                      - /url: /remote-jobs?employment-type=full-time
+                - cell "Posted 4wks ago" [ref=f304e266]:
+                  - generic [ref=f304e267]:
+                    - generic [ref=f304e268]: Posted
+                    - generic [ref=f304e269]: 4wks ago
+        - generic [ref=f304e271]:
+          - text: 🙈 Does this job need an edit?
+          - button "Let us know!" [ref=f304e272] [cursor=pointer]
+      - button "Apply for this position" [ref=f304e273] [cursor=pointer]
+      - link "Unlock 130,000+ Remote Jobs" [ref=f304e276] [cursor=pointer]:
+        - /url: /join
+      - generic [ref=f304e277]:
+        - text: ️
+        - table [ref=f304e278]:
+          - rowgroup [ref=f304e279]:
+            - row [ref=f304e280]:
+              - cell "👋" [ref=f304e281]
+              - cell [ref=f304e282]:
+                - text: Please mention that you come from
+                - strong [ref=f304e283]: Remotive
+                - text: when applying for this job.
+            - row [ref=f304e284]:
+              - cell [ref=f304e285]:
+                - img "remote" [ref=f304e286]
+              - cell [ref=f304e287]:
+                - text: "Be aware of the location restriction for this remote position:"
+                - strong [ref=f304e289]: Europe, USA, Canada, APAC
+            - row [ref=f304e290]:
+              - cell "‼" [ref=f304e291]
+              - cell [ref=f304e292]:
+                - text: Beware of
+                - strong [ref=f304e293]: scams
+                - text: "! When applying for jobs, you should NEVER have to pay anything."
+                - link "Learn more." [ref=f304e294] [cursor=pointer]:
+                  - /url: https://remotive.com/blog/how-to-avoid-job-scams
+  - generic [ref=f304e295]:
+    - generic [ref=f304e296]:
+      - generic [ref=f304e297]:
+        - link "Remotive" [ref=f304e298] [cursor=pointer]:
+          - /url: /
+        - list [ref=f304e299]:
+          - listitem [ref=f304e300]:
+            - link "Blog" [ref=f304e301] [cursor=pointer]:
+              - /url: https://remotive.com/blog
+          - listitem [ref=f304e302]:
+            - link "About" [ref=f304e303] [cursor=pointer]:
+              - /url: /about
+          - listitem [ref=f304e304]:
+            - link "Press" [ref=f304e305] [cursor=pointer]:
+              - /url: https://support.remotive.com/en/category/l3ahqd/
+          - listitem [ref=f304e306]:
+            - link "Sponsorship" [ref=f304e307] [cursor=pointer]:
+              - /url: https://support.remotive.com/en/article/ycrtby/
+          - listitem [ref=f304e308]:
+            - link "Reviews & Success Stories" [ref=f304e309] [cursor=pointer]:
+              - /url: /reviews-success-stories
+          - listitem [ref=f304e310]:
+            - link "Remotive Affiliate Program" [ref=f304e311] [cursor=pointer]:
+              - /url: /affiliate-program
+          - listitem [ref=f304e312]:
+            - link "Terms of Use" [ref=f304e313] [cursor=pointer]:
+              - /url: https://remotive.com/terms-of-use
+            - text: "&"
+            - link "Privacy Policy" [ref=f304e314] [cursor=pointer]:
+              - /url: https://remotive.com/privacy-policy
+      - generic [ref=f304e315]:
+        - generic [ref=f304e316]: Find Remote Jobs
+        - list [ref=f304e317]:
+          - listitem [ref=f304e318]:
+            - link "Join Remotive" [ref=f304e319] [cursor=pointer]:
+              - /url: /join
+          - listitem [ref=f304e320]:
+            - link "Remote Job Search Tips" [ref=f304e321] [cursor=pointer]:
+              - /url: /blog/tag/job-search-tips/
+          - listitem [ref=f304e322]:
+            - link "Remote Work Statistics Hiring Trends" [ref=f304e323] [cursor=pointer]:
+              - /url: https://remotive.com/blog/remote-work-statistics-hiring-trends
+          - listitem [ref=f304e324]:
+            - link "Remotive Jobs Public API" [ref=f304e325] [cursor=pointer]:
+              - /url: /remote-jobs/api
+            - text: "&"
+            - link "RSS Feeds" [ref=f304e326] [cursor=pointer]:
+              - /url: /remote-jobs/rss-feed
+          - listitem [ref=f304e328]:
+            - link "Remote Jobs Index" [ref=f304e329] [cursor=pointer]:
+              - /url: /remote-jobs-index
+      - generic [ref=f304e330]:
+        - generic [ref=f304e331]: Hiring Remotely
+        - list [ref=f304e332]:
+          - listitem [ref=f304e333]:
+            - link "Why Remotive?" [ref=f304e334] [cursor=pointer]:
+              - /url: /hire
+          - listitem [ref=f304e335]:
+            - link "Post a Remote Job" [ref=f304e336] [cursor=pointer]:
+              - /url: /job/post/new
+          - listitem [ref=f304e337]:
+            - link "Remote Hiring Tips" [ref=f304e338] [cursor=pointer]:
+              - /url: /blog/tag/hiring-remotely/
+          - listitem [ref=f304e339]:
+            - link "Help Center for Recruiters" [ref=f304e340] [cursor=pointer]:
+              - /url: https://support.remotive.com
+    - generic [ref=f304e341]:
+      - paragraph [ref=f304e343]: © 2014-2026, made Remotely with ❤️
+      - generic [ref=f304e345]:
+        - link "LinkedIn" [ref=f304e346] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/remotive.io/
+        - link "Twitter" [ref=f304e349] [cursor=pointer]:
+          - /url: https://twitter.com/remotiveio/
+        - link "Reddit" [ref=f304e352] [cursor=pointer]:
+          - /url: https://www.reddit.com/r/remotivejobs/
+        - link "Telegram" [ref=f304e355] [cursor=pointer]:
+          - /url: https://t.me/remotejobsenglish/
+        - link "Facebook" [ref=f304e358] [cursor=pointer]:
+          - /url: https://www.facebook.com/remotivedotcom/
+        - link "Instagram" [ref=f304e361] [cursor=pointer]:
+          - /url: https://www.instagram.com/remotiveio/
+        - link "Slack Community" [ref=f304e364] [cursor=pointer]:
+          - /url: /accelerator?utm_medium=footerslack
+        - link "Email us" [ref=f304e367] [cursor=pointer]:
+          - /url: mailto:hello@remotive.com

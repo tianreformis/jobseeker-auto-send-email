@@ -1,0 +1,336 @@
+- generic [active] [ref=f65e1]:
+  - generic [ref=f65e2]:
+    - banner [ref=f65e3]:
+      - generic [ref=f65e4]:
+        - link [ref=f65e5] [cursor=pointer]:
+          - /url: /
+          - img "we work remotely" [ref=f65e6]
+        - navigation [ref=f65e7]:
+          - list [ref=f65e8]:
+            - listitem [ref=f65e9]:
+              - link "Global Payroll" [ref=f65e10] [cursor=pointer]:
+                - /url: https://www.toptal.com/hireglobal/wwr-partnership?utm_source=weworkremotely&utm_medium=referral&utm_campaign=hireglobal_nav_link
+            - listitem [ref=f65e11]:
+              - link "Find Jobs" [ref=f65e12] [cursor=pointer]:
+                - /url: "#"
+                - text: Find Jobs
+                - generic [aria-hidden] [ref=f65e13]: 
+              - text:    
+            - listitem [ref=f65e14]:
+              - link "Community" [ref=f65e15] [cursor=pointer]:
+                - /url: "#"
+                - text: Community
+                - generic [aria-hidden] [ref=f65e16]: 
+              - text:    
+            - listitem [ref=f65e17]:
+              - link "Career Services" [ref=f65e18] [cursor=pointer]:
+                - /url: "#"
+                - text: Career Services
+                - generic [aria-hidden] [ref=f65e19]: 
+            - listitem [ref=f65e20]:
+              - link "About" [ref=f65e21] [cursor=pointer]:
+                - /url: "#"
+                - text: About
+                - generic [aria-hidden] [ref=f65e22]: 
+              - text: 
+            - listitem [ref=f65e23]:
+              - generic [ref=f65e24]:
+                - generic [aria-hidden] [ref=f65e25]: 
+                - textbox "Search" [ref=f65e26]
+            - listitem
+            - listitem [ref=f65e27]:
+              - link "Sign in" [ref=f65e28] [cursor=pointer]:
+                - /url: /account/sign_in?utm_content=sign-in-cta&utm_source=wwr-accounts-nav-top
+            - listitem [ref=f65e29]:
+              - link "Post a job" [ref=f65e30] [cursor=pointer]:
+                - /url: /remote-jobs/find-your-plan?utm_source=wwr-accounts-nav-top
+    - text:               
+    - generic [ref=f65e32]:
+      - generic [ref=f65e33]:
+        - generic [ref=f65e34]:
+          - link "All jobs" [ref=f65e35] [cursor=pointer]:
+            - /url: /
+          - generic [ref=f65e36]: /
+          - link "Full-Stack Programming" [ref=f65e37] [cursor=pointer]:
+            - /url: /categories/remote-full-stack-programming-jobs
+          - generic [ref=f65e38]: /
+          - link "Senior Independent AI Engineer / Architect" [ref=f65e39] [cursor=pointer]:
+            - /url: /listings/a-team-senior-independent-ai-engineer-architect
+        - generic [ref=f65e40]:
+          - link [ref=f65e41] [cursor=pointer]:
+            - /url: /company/a-team
+          - generic [ref=f65e43]:
+            - heading "Senior Independent AI Engineer / Architect" [level=1] [ref=f65e44]
+            - paragraph [ref=f65e46]:
+              - generic [aria-hidden] [ref=f65e47]: 
+              - generic [ref=f65e48]: Posted 27 days ago
+            - paragraph [ref=f65e50]: A.Team helps companies build AI solutions and mission-critical products by assembling elite, flexible teams of product, engineering, design, and AI talent. Since 2020, more than 500 companies, from high-growth startups to enterprises like Lyft and HCA, have used A.Team to move faster on their most important initiatives.
+            - generic [ref=f65e51]:
+              - link "Apply now" [ref=f65e54] [cursor=pointer]:
+                - /url: /job-seekers/account/register?alert=Create+an+account+to+view+full+job+details.
+                - generic [aria-hidden] [ref=f65e55]: 
+              - link "AI Auto-Apply" [ref=f65e57] [cursor=pointer]:
+                - /url: /career-services/job-copilot
+                - generic [aria-hidden] [ref=f65e58]: 
+                - text: AI Auto-Apply
+              - button "Save job" [ref=f65e59] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f65e60]: 
+                - text: Save job
+      - generic [ref=f65e61]:
+        - generic [ref=f65e63]:
+          - paragraph [ref=f65e64]:
+            - strong [ref=f65e65]: Senior Independent AI Engineer / Architect
+          - paragraph [ref=f65e66]:
+            - emphasis [ref=f65e67]: Remote | Americas, Europe, or Israel
+          - paragraph [ref=f65e68]: Most AI engineers can find work.
+          - paragraph [ref=f65e69]: Finding work worth doing is harder.
+          - paragraph [ref=f65e70]: A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects working on production AI systems for startups, scale-ups, and global companies.
+          - paragraph [ref=f65e71]: Since 2020, builders in the network have earned more than $200M working with companies including Lyft, Google X, HCA, Unilever, Sightful, D-ID, and others.
+          - paragraph [ref=f65e72]:
+            - strong [ref=f65e73]: The Work
+          - paragraph [ref=f65e74]: You'll join small teams tackling problems that matter.
+          - paragraph [ref=f65e75]: Not demos.
+          - paragraph [ref=f65e76]: Not prototypes that never ship.
+          - paragraph [ref=f65e77]: Not another chatbot wrapper.
+          - paragraph [ref=f65e78]: Real systems. Real users. Real outcomes.
+          - paragraph [ref=f65e79]:
+            - strong [ref=f65e80]: "Recent work has included:"
+          - paragraph [ref=f65e81]: "- LLM-powered products and workflows- Agent architectures and orchestration systems- Retrieval, evaluation, and reliability infrastructure- Enterprise AI deployments- AI-native products built from zero to one- Machine learning platforms operating at scale"
+          - paragraph [ref=f65e82]: You'll work directly with founders, CTOs, and product leaders, helping shape both the technical approach and the outcome.
+          - paragraph [ref=f65e83]:
+            - strong [ref=f65e84]: Why Builders Join
+          - paragraph [ref=f65e85]: "Most independent engineers eventually run into the same problem:"
+          - paragraph [ref=f65e86]: The best opportunities rarely make it to the open market.
+          - paragraph [ref=f65e87]: A.Team exists to solve that.
+          - paragraph [ref=f65e88]: No bidding.
+          - paragraph [ref=f65e89]: No prospecting.
+          - paragraph [ref=f65e90]: No competing with thousands of other freelancers.
+          - paragraph [ref=f65e91]: Just access to ambitious companies, difficult problems, and experienced peers.
+          - paragraph [ref=f65e92]:
+            - strong [ref=f65e93]: Who Thrives Here
+          - paragraph [ref=f65e94]: People who have already shipped.
+          - paragraph [ref=f65e95]: Engineers who have deployed AI systems into production, understand the tradeoffs behind the hype, and know how to turn research into business value.
+          - paragraph [ref=f65e96]:
+            - emphasis [ref=f65e97]: "You might be an:"
+          - paragraph [ref=f65e98]: "- AI Architect- AI Engineer- MLOps- Deep Learning Engineer- Data Scientist- Applied AI Engineer- ML Engineer- AI Researcher- Staff+ Engineer focused on AI- Technical founder with deep AI experience"
+          - paragraph [ref=f65e99]: What matters is a track record of building and shipping.
+          - paragraph [ref=f65e100]:
+            - strong [ref=f65e101]: The Details
+          - list [ref=f65e102]:
+            - listitem [ref=f65e103]: "Typical rates: $120-$170/hr"
+            - listitem [ref=f65e104]: Remote (almost all roles)
+            - listitem [ref=f65e105]: You keep 100% of your rate
+          - paragraph [ref=f65e106]:
+            - strong [ref=f65e107]: Not a Fit
+          - list [ref=f65e108]:
+            - listitem [ref=f65e109]: Early-career engineers
+            - listitem [ref=f65e110]: People without production AI experience
+            - listitem [ref=f65e111]: Small gig seekers
+            - listitem [ref=f65e112]: Developers focused primarily on simple AI wrappers or templated implementations
+          - paragraph [ref=f65e113]:
+            - strong [ref=f65e114]: Apply
+          - paragraph [ref=f65e115]: Tell us what you've built.
+          - paragraph [ref=f65e116]: We'll take it from there.
+          - paragraph [ref=f65e117]:
+            - link "build.a.team/AI-Builders" [ref=f65e118] [cursor=pointer]:
+              - /url: http://a.team/ai-jobs?utm_source=wwr&utm_medium=post&utm_campaign=wwrai
+          - separator [ref=f65e119]
+        - generic [ref=f65e120]:
+          - generic [ref=f65e121]:
+            - link [ref=f65e122] [cursor=pointer]:
+              - /url: /company/a-team
+            - generic [ref=f65e124]:
+              - heading [level=3] [ref=f65e126]:
+                - text: A.Team
+                - img "Star Icon" [ref=f65e127]
+              - link "View company" [ref=f65e128] [cursor=pointer]:
+                - /url: /company/a-team
+                - generic [aria-hidden] [ref=f65e130]: 
+              - paragraph [ref=f65e131]: "Jobs posted: 8"
+          - generic [ref=f65e132]:
+            - heading "About the job" [level=2] [ref=f65e133]
+            - list [ref=f65e134]:
+              - listitem [ref=f65e135]:
+                - text: Posted on
+                - generic [ref=f65e136]: 27 days ago
+              - listitem [ref=f65e137]:
+                - text: Apply before
+                - generic [ref=f65e138]: Nov 3th, 2026
+              - listitem [ref=f65e139]:
+                - text: Job type
+                - link [ref=f65e140] [cursor=pointer]:
+                  - /url: /remote-contract-jobs
+                  - generic [ref=f65e141]:
+                    - generic [aria-hidden] [ref=f65e142]: 
+                    - text: Contract
+              - listitem [ref=f65e143]:
+                - text: Category
+                - link "Full-Stack Programming" [ref=f65e144] [cursor=pointer]:
+                  - /url: /categories/remote-full-stack-programming-jobs
+              - listitem [ref=f65e146]:
+                - text: Region
+                - link "Anywhere in the World" [ref=f65e148] [cursor=pointer]:
+                  - /url: /100-percent-remote-jobs
+              - listitem
+            - generic [ref=f65e150]:
+              - link "Apply now" [ref=f65e153] [cursor=pointer]:
+                - /url: /job-seekers/account/register?alert=Create+an+account+to+view+full+job+details.
+                - generic [aria-hidden] [ref=f65e154]: 
+                - text: Apply now
+              - generic [ref=f65e155]: or
+              - link "Auto-Apply with AI" [ref=f65e159] [cursor=pointer]:
+                - /url: /career-services/job-copilot
+                - generic [aria-hidden] [ref=f65e160]: 
+                - text: Auto-Apply with AI
+              - paragraph [ref=f65e161]: No forms. Just smart, optimized applications.
+          - complementary [ref=f65e162]:
+            - img "Wispr Flow Ad - Job Page promoted banner" [ref=f65e164]
+            - generic [ref=f65e165]:
+              - generic [ref=f65e166]:
+                - paragraph [ref=f65e167]: VOICE DICTATION
+                - heading "Talk. Don't type." [level=3] [ref=f65e168]
+                - paragraph [ref=f65e169]: Write cover letters and job applications just by speaking.
+              - generic [ref=f65e170]:
+                - img "Wispr Flow Ad - Job Page logo" [ref=f65e171]
+                - link "Try it free" [ref=f65e172] [cursor=pointer]:
+                  - /url: /listing_ads/16/click?pk=3c1765ca2d04c4b6b29ba451c8ee410a888fad13ef69df2bd02c89fede4bb8ba&t=eyJfcmFpbHMiOnsiZGF0YSI6eyJsaXN0aW5nX2FkX2lkIjoxNiwiZXZlbnQiOiJjbGljayIsInRhcmdldCI6Im1haW4iLCJ0cmFja2VyX2RpZ2VzdCI6Ijk2Y2E0MDE3ZTZmMzIzMzg2ZGRlYTBjZWYzYmZiYzBhZTcwOWUzZWU3MWNkMTkxZDc4ZTFiODM4MThkMGU1ODUiLCJwYWdlX2tleSI6IjNjMTc2NWNhMmQwNGM0YjZiMjliYTQ1MWM4ZWU0MTBhODg4ZmFkMTNlZjY5ZGYyYmQwMmM4OWZlZGU0YmI4YmEiLCJub25jZSI6IjE1NDE1NGJjNGU4Y2YzYjI3ZGQ3NjljODdkNjY3NGYwIn0sImV4cCI6IjIwMjYtMTAtMzFUMjA6MDc6MDIuNDM5WiIsInB1ciI6Imxpc3RpbmdfYWRfdHJhY2tpbmc6Y2xpY2sifX0%3D--28b6c27a3bb8c7516e9500c9fefb352f344b7577&target=main
+              - paragraph [ref=f65e173]: •Promoted
+      - article [ref=f65e176]:
+        - heading [level=2] [ref=f65e177]:
+          - text: Related Jobs
+          - link "Remote Full-Stack Programming jobs →" [ref=f65e179] [cursor=pointer]:
+            - /url: /categories/remote-full-stack-programming-jobs
+            - text: Remote Full-Stack Programming jobs
+            - generic [ref=f65e180]: →
+        - list [ref=f65e181]:
+          - listitem [ref=f65e182]:
+            - generic:
+              - link "Toggl is hiring a remote Senior Full Stack at We Work Remotely.":
+                - /url: /company/toggl
+                - img "Toggl is hiring a remote Senior Full Stack at We Work Remotely." [ref=f65e184] [cursor=pointer]
+            - 'link "Senior Full Stack 4d Boosted listing Toggl HQ: Tallinn, Estonia Boosted Featured Top 100 Full-Time $75,000 - $99,999 USD Anywhere in the World" [ref=f65e185] [cursor=pointer]':
+              - /url: /remote-jobs/toggl-senior-full-stack
+              - generic [ref=f65e186]:
+                - generic [ref=f65e187]:
+                  - heading "Senior Full Stack" [level=3] [ref=f65e188]:
+                    - img [aria-hidden] [ref=f65e190]:  
+                  - generic [ref=f65e191]:
+                    - paragraph [ref=f65e192]: 4d
+                    - generic [aria-hidden] [ref=f65e193]: 
+                    - generic [ref=f65e194]: Boosted listing
+                - paragraph [ref=f65e195]: Toggl
+                - paragraph [ref=f65e196]:
+                  - generic [ref=f65e197]:
+                    - generic [aria-hidden] [ref=f65e198]: 
+                    - text: "HQ:"
+                  - text: Tallinn, Estonia
+                - generic [ref=f65e199]:
+                  - paragraph [ref=f65e200]: Boosted
+                  - paragraph [ref=f65e201]: Featured
+                  - paragraph [ref=f65e202]:
+                    - generic [aria-hidden] [ref=f65e203]: 
+                    - text: Top 100
+                  - paragraph [ref=f65e204]: Full-Time
+                  - paragraph [ref=f65e205]: $75,000 - $99,999 USD
+                  - paragraph [ref=f65e206]: Anywhere in the World
+          - listitem [ref=f65e207]:
+            - generic:
+              - link "Samsara is hiring a remote Staff Software Engineer at We Work Remotely.":
+                - /url: /company/samsara
+                - img "Samsara is hiring a remote Staff Software Engineer at We Work Remotely." [ref=f65e209] [cursor=pointer]
+            - link [ref=f65e210] [cursor=pointer]:
+              - /url: /remote-jobs/samsara-staff-software-engineer
+              - generic [ref=f65e211]:
+                - generic [ref=f65e212]:
+                  - heading "Staff Software Engineer" [level=3] [ref=f65e213]:
+                    - img [aria-hidden] [ref=f65e215]:  
+                  - paragraph [ref=f65e217]: 15d
+                - paragraph [ref=f65e218]: Samsara
+                - paragraph [ref=f65e219]:
+                  - generic [ref=f65e220]:
+                    - generic [aria-hidden] [ref=f65e221]: 
+                    - text: "HQ:"
+                  - text: Remote
+                - generic [ref=f65e222]:
+                  - paragraph [ref=f65e223]: Featured
+                  - paragraph [ref=f65e224]: Full-Time
+                  - paragraph [ref=f65e225]: $100,000 or more USD
+                  - paragraph [ref=f65e226]: 🇺🇸 United States of America
+          - listitem [ref=f65e227]:
+            - generic:
+              - link "Sticker Mule is hiring a remote SI agent engineer at We Work Remotely.":
+                - /url: /company/sticker-mule
+                - img "Sticker Mule is hiring a remote SI agent engineer at We Work Remotely." [ref=f65e229] [cursor=pointer]
+            - 'link "SI agent engineer 15d Boosted listing Sticker Mule HQ: New York, NY Boosted Featured Top 100 Full-Time $100,000 or more USD Anywhere in the World" [ref=f65e230] [cursor=pointer]':
+              - /url: /remote-jobs/sticker-mule-si-agent-engineer
+              - generic [ref=f65e231]:
+                - generic [ref=f65e232]:
+                  - heading "SI agent engineer" [level=3] [ref=f65e233]:
+                    - img [aria-hidden] [ref=f65e235]:  
+                  - generic [ref=f65e236]:
+                    - paragraph [ref=f65e237]: 15d
+                    - generic [aria-hidden] [ref=f65e238]: 
+                    - generic [ref=f65e239]: Boosted listing
+                - paragraph [ref=f65e240]: Sticker Mule
+                - paragraph [ref=f65e241]:
+                  - generic [ref=f65e242]:
+                    - generic [aria-hidden] [ref=f65e243]: 
+                    - text: "HQ:"
+                  - text: New York, NY
+                - generic [ref=f65e244]:
+                  - paragraph [ref=f65e245]: Boosted
+                  - paragraph [ref=f65e246]: Featured
+                  - paragraph [ref=f65e247]:
+                    - generic [aria-hidden] [ref=f65e248]: 
+                    - text: Top 100
+                  - paragraph [ref=f65e249]: Full-Time
+                  - paragraph [ref=f65e250]: $100,000 or more USD
+                  - paragraph [ref=f65e251]: Anywhere in the World
+  - contentinfo [ref=f65e252]:
+    - generic [ref=f65e253]:
+      - link [ref=f65e255] [cursor=pointer]:
+        - /url: "#"
+        - img "footer logo" [ref=f65e256]
+      - generic [ref=f65e257]:
+        - link "Top 100 Companies" [ref=f65e258] [cursor=pointer]:
+          - /url: /top-remote-companies
+        - link "Blog" [ref=f65e259] [cursor=pointer]:
+          - /url: /blog
+        - link "Remote Hiring Guide" [ref=f65e260] [cursor=pointer]:
+          - /url: /remote-work-hiring-guide
+        - link "FAQ" [ref=f65e261] [cursor=pointer]:
+          - /url: /frequently-asked-questions
+        - link "Events" [ref=f65e262] [cursor=pointer]:
+          - /url: /blog?category=events
+        - link "RSS" [ref=f65e263] [cursor=pointer]:
+          - /url: /remote-job-rss-feed
+      - generic [ref=f65e264]:
+        - generic [aria-hidden] [ref=f65e265]: 
+        - paragraph [ref=f65e266]: 42,782 Remote jobs posted
+    - generic [ref=f65e267]:
+      - generic [ref=f65e268]: © 2026 We Work Remotely
+      - generic [ref=f65e269]:
+        - generic [ref=f65e270]:
+          - link "Contact Support" [ref=f65e271] [cursor=pointer]:
+            - /url: mailto:support@weworkremotely.com
+          - link "Terms" [ref=f65e272] [cursor=pointer]:
+            - /url: /terms-and-conditions
+          - link "Guidelines" [ref=f65e273] [cursor=pointer]:
+            - /url: /community-guidelines
+          - link "Privacy" [ref=f65e274] [cursor=pointer]:
+            - /url: /privacy
+          - link "Why Choose WWR?" [ref=f65e275] [cursor=pointer]:
+            - /url: /post-a-remote-job
+        - generic [ref=f65e276]:
+          - link [ref=f65e277] [cursor=pointer]:
+            - /url: https://www.facebook.com/weworkremotely/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-fb&utm_medium=footer-network-fb
+            - generic [aria-hidden] [ref=f65e278]: 
+          - link [ref=f65e279] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/18527028/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-linkedin&utm_medium=footer-network-linkedin
+            - generic [aria-hidden] [ref=f65e280]: 
+          - link [ref=f65e281] [cursor=pointer]:
+            - /url: https://www.instagram.com/weworkremotelycom/?hl=en&utm_campaign=footer-network-ig&utm_medium=footer-network-ig
+            - generic [aria-hidden] [ref=f65e282]: 
+          - link [ref=f65e283] [cursor=pointer]:
+            - /url: https://twitter.com/weworkremotely/?utm_content=footer-network&utm_source=we-work-remotely&utm_campaign=footer-network-twitter&utm_medium=footer-network-twitter
+            - generic [aria-hidden] [ref=f65e284]: 

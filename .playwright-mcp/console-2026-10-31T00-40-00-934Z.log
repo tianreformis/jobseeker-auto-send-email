@@ -1,0 +1,2 @@
+[    1798ms] [WARNING] browserTracingIntegration is not fully compatible with @sentry/react-router. Please use reactRouterTracingIntegration instead. @ https://leanpub.com/assets/entry.client-B6ZZg4Jn.js:24
+[    6099ms] [INFO] Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2 @ https://www.gstatic.com/recaptcha/releases/NhfdZHzre166o-vFZrWsq3yu/recaptcha__en.js:75

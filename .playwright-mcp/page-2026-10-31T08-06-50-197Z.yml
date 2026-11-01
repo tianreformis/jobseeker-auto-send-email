@@ -1,0 +1,168 @@
+- generic [active] [ref=f39e1]:
+  - generic [ref=f39e2]:
+    - link "Global Payroll" [ref=f39e3] [cursor=pointer]:
+      - /url: https://www.toptal.com/hireglobal/remoteok-partnership?utm_source=remoteok&utm_medium=referral&utm_campaign=global_payroll&utm_content=nav
+    - link "Build your resume" [ref=f39e4] [cursor=pointer]:
+      - /url: https://www.toptal.com/resume
+    - link "Health insurance" [ref=f39e6] [cursor=pointer]:
+      - /url: /nomad-health-individual
+    - link "Post a job →" [ref=f39e7] [cursor=pointer]:
+      - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=top
+    - link "Log in" [ref=f39e8] [cursor=pointer]:
+      - /url: /login
+  - generic [ref=f39e10]:
+    - generic [ref=f39e11]:
+      - paragraph [ref=f39e12]:
+        - text: "Post a job to reach 18,100,000+ remote workers on the #1 Remote Job Platform"
+        - generic [ref=f39e13]:
+          - text: You can also
+          - link "hire freelance talent" [ref=f39e14] [cursor=pointer]:
+            - /url: https://www.toptal.com/
+          - text: on demand, pre-screened and thoroughly vetted.
+      - link "Post a remote job →" [ref=f39e15] [cursor=pointer]:
+        - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=center
+    - table [ref=f39e17]:
+      - rowgroup [ref=f39e18]:
+        - row [ref=f39e19]:
+          - columnheader "💵 Salary 🎪 Benefits 🦴 Sort by 💼 Executive 🎧 Customer Support 🚥 Marketing ♾️ Ops 👨‍🏫 Education 🚑 Medical 💰 Finance 🤓 Engineer" [ref=f39e20]:
+            - textbox "🔍 Search" [ref=f39e25]
+            - textbox "🌏 Location" [ref=f39e27]
+            - generic [ref=f39e28]: 💵 Salary
+            - generic [ref=f39e30]: 🎪 Benefits
+            - combobox [ref=f39e32]:
+              - option "🦴 Sort by" [selected]
+              - option "🆕 Latest jobs"
+              - option "💵 Highest paid"
+              - option "👀 Most viewed"
+              - option "✅ Most applied"
+              - option "🔥 Hottest"
+              - option "🎪 Most benefits"
+            - generic [ref=f39e33]:
+              - generic [ref=f39e34]: 💼 Executive
+              - generic [ref=f39e35]: 🎧 Customer Support
+              - generic [ref=f39e36]: 🚥 Marketing
+              - generic [ref=f39e37]: ♾️ Ops
+              - generic [ref=f39e38]: 👨‍🏫 Education
+              - generic [ref=f39e39]: 🚑 Medical
+              - generic [ref=f39e40]: 💰 Finance
+              - generic [ref=f39e41]: 🤓 Engineer
+      - rowgroup [ref=f39e42]:
+        - row [ref=f39e43] [cursor=pointer]:
+          - cell [ref=f39e44]:
+            - link [ref=f39e45]:
+              - /url: /remote-jobs/remote-frontend-engineer-bjak-1137410
+              - img "Bjak" [ref=f39e46]
+          - cell "Frontend Engineer Bjak 🇮🇪 Ireland 🇪🇺 Europe 💰 Upgrade to Premium to see salary" [ref=f39e47]:
+            - link [ref=f39e48]:
+              - /url: /remote-jobs/remote-frontend-engineer-bjak-1137410
+              - heading "Frontend Engineer" [level=2] [ref=f39e49]
+            - heading "Bjak" [level=3] [ref=f39e51]
+            - link "🇮🇪 Ireland" [ref=f39e53]:
+              - /url: /remote-jobs-in-ireland
+            - generic [ref=f39e54]: 🇪🇺 Europe
+            - generic [ref=f39e55]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f39e56]:
+            - link "Remote Front End Jobs" [ref=f39e57]:
+              - /url: /remote-front-end-jobs
+              - heading "Front End" [level=3] [ref=f39e59]
+            - link "Remote Design Jobs" [ref=f39e60]:
+              - /url: /remote-design-jobs
+              - heading "Design" [level=3] [ref=f39e62]
+            - link "Remote React Jobs" [ref=f39e63]:
+              - /url: /remote-react-jobs
+              - heading "React" [level=3] [ref=f39e65]
+            - link "Remote GraphQL Jobs" [ref=f39e66]:
+              - /url: /remote-graphql-jobs
+              - heading "GraphQL" [level=3] [ref=f39e68]
+            - link "Remote React. JS Jobs" [ref=f39e69]:
+              - /url: /remote-react.js-jobs
+              - heading "React. JS" [level=3] [ref=f39e71]
+            - link "Remote Technical Jobs" [ref=f39e72]:
+              - /url: /remote-technical-jobs
+              - heading "Technical" [level=3] [ref=f39e74]
+            - link "Remote Web Developer Jobs" [ref=f39e75]:
+              - /url: /remote-web-dev-jobs
+              - heading "Web Developer" [level=3] [ref=f39e77]
+            - link "Remote JavaScript Jobs" [ref=f39e78]:
+              - /url: /remote-javascript-jobs
+              - heading "JavaScript" [level=3] [ref=f39e80]
+            - link "Remote CSS Jobs" [ref=f39e81]:
+              - /url: /remote-css-jobs
+              - heading "CSS" [level=3] [ref=f39e83]
+            - link "Remote Chatbot Jobs" [ref=f39e84]:
+              - /url: /remote-chatbot-jobs
+              - heading "Chatbot" [level=3] [ref=f39e86]
+          - cell [ref=f39e87]:
+            - time [ref=f39e88]: 1mo
+          - cell [ref=f39e89]:
+            - link "Apply":
+              - /url: /l/1137410
+              - paragraph [ref=f39e91]: Apply
+        - row [ref=f39e92]:
+          - cell [ref=f39e93]:
+            - generic [ref=f39e94]:
+              - generic [ref=f39e95]:
+                - generic [ref=f39e96]:
+                  - link [ref=f39e97] [cursor=pointer]:
+                    - /url: /company/bjak
+                    - img "Bjak" [ref=f39e98]
+                  - link [ref=f39e99] [cursor=pointer]:
+                    - /url: /company/bjak
+                    - heading "Bjak" [level=2] [ref=f39e100]
+                  - link "Apply now" [ref=f39e101] [cursor=pointer]:
+                    - /url: /l/1137410
+                  - paragraph [ref=f39e102]:
+                    - strong [ref=f39e103]: "Share this job:"
+                    - textbox [ref=f39e104]: https://remoteok.com/remote-jobs/remote-frontend-engineer-bjak-1137410?ref=sh
+                    - generic [ref=f39e105]:
+                      - text: Get a
+                      - link "rok.co" [ref=f39e106] [cursor=pointer]:
+                        - /url: https://rok.co/hire-remotely
+                      - text: short link
+                - generic [ref=f39e107]:
+                  - text: Bjak is hiring a
+                  - heading "Remote Frontend Engineer" [level=1] [ref=f39e108]
+                - generic [ref=f39e109]:
+                  - paragraph [ref=f39e110]: About ActAIThere are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to conversations, errands, organising and workflows, with minimal to no prompting. Our application focuses on achieving high reliability for long-running workflows, persistent context, and real-world task completion. We believe products will greatly reduce hallucinationsOur objective is to organise anyone's life. RoleAs a Web Frontend Engineer, you will build the core web experiences, including Chat, Notes, Calendar, Docs and Sheets.You will own complex, highly interactive product surfaces from architecture through implementation, working closely with product, design, backend and AI engineers to make AI a native part of how users communicate, write, organise and work. What You'll Own* Build major web experiences across Chat, Notes, Calendar, Docs, and Sheets.
+                  - list [ref=f39e111]:
+                    - listitem [ref=f39e112]: Develop complex interactions including real-time messaging, collaborative editing, rich-text editing, scheduling, tables, and spreadsheets.
+                    - listitem [ref=f39e113]: Build reusable frontend architecture and components that work consistently across ActAI applications.
+                    - listitem [ref=f39e114]: Integrate streaming AI responses, proactive actions, and model-driven experiences directly into product workflows.
+                    - listitem [ref=f39e115]: Own frontend performance, responsiveness, reliability and accessibility across browsers and devices.
+                    - listitem [ref=f39e116]: Work closely with product and design to take ideas from prototype to production quickly.
+                  - paragraph [ref=f39e117]: What We're Looking For* Strong experience building complex, production web applications using React, TypeScript and modern frontend technologies.
+                  - list [ref=f39e118]:
+                    - listitem [ref=f39e119]: Deep understanding of frontend architecture, state management, browser APIs, and performance.
+                    - listitem [ref=f39e120]: Experience building highly interactive products such as chat, collaboration, productivity, document editing, calendars, or workspaces.
+                    - listitem [ref=f39e121]: Experience with real-time systems, WebSockets, streaming APIs, or collaborative interfaces.
+                    - listitem [ref=f39e122]: Strong product and UI judgment with attention to interaction details.
+                    - listitem [ref=f39e123]: Able to independently own features from technical design through production.
+                  - paragraph [ref=f39e124]: Outcomes* Users can communicate, write, organise and collaborate seamlessly across Chat, Notes, Calendar, Docs and Sheets.
+                  - list [ref=f39e125]:
+                    - listitem [ref=f39e126]: Complex interactions such as group messaging, editing, scheduling and collaboration feel fast and reliable.
+                    - listitem [ref=f39e127]: AI capabilities are integrated naturally into product workflows rather than added as separate chatbot experiences.
+                    - listitem [ref=f39e128]: Frontend architecture remains fast, maintainable and reusable as ActAI expands into new applications and workflows.
+                  - paragraph [ref=f39e129]: Tech Stack* TypeScript
+                  - list [ref=f39e130]:
+                    - listitem [ref=f39e131]: React.js / Next.js
+                    - listitem [ref=f39e132]: HTML / CSS
+                    - listitem [ref=f39e133]: WebSockets / streaming APIs
+                    - listitem [ref=f39e134]: Node.js
+                    - listitem [ref=f39e135]: REST / GraphQL APIs
+                  - paragraph [ref=f39e136]: How We WorkThe best products today in the world were built by small, world-class teams. We are a high talent density and hands-on team. We make decisions collectively and move at rapid speed, striking a balance between shipping high-quality work and learning.Joining our team requires the ability to bring structure, exercise judgment and execute independently. Our goal is to put in the hands of our users a truly magical product. Interview ProcessIf there appears to be a fit, we'll reach out to schedule 3, but no more than 4 interviews.Applications are evaluated by our technical team members. Interviews will be conducted via virtual meetings and/or onsite.We value transparency and efficiency, so expect a prompt decision. If you've demonstrated the exceptional skills and mindset we're looking for, we'll extend an offer to join us and help bring practical AI benefits to billions of users globally.
+                  - heading "Location" [level=1] [ref=f39e137]
+                  - paragraph [ref=f39e138]: Ireland
+              - link "Apply for this job" [ref=f39e140] [cursor=pointer]:
+                - /url: /l/1137410
+        - row [ref=f39e141]:
+          - cell [ref=f39e142]:
+            - heading "Related jobs" [level=2] [ref=f39e143]
+        - row [ref=f39e144]:
+          - cell [ref=f39e145]
+  - generic [ref=f39e146]:
+    - text: © 2026 Remote OK|
+    - link "Terms of Service" [ref=f39e147] [cursor=pointer]:
+      - /url: /legal
+    - text: "|"
+    - link "Privacy Policy" [ref=f39e148] [cursor=pointer]:
+      - /url: /privacy

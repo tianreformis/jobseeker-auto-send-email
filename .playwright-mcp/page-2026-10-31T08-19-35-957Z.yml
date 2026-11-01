@@ -1,0 +1,1888 @@
+- generic [active] [ref=f172e1]:
+  - generic [ref=f172e2]:
+    - link "Global Payroll" [ref=f172e3] [cursor=pointer]:
+      - /url: https://www.toptal.com/hireglobal/remoteok-partnership?utm_source=remoteok&utm_medium=referral&utm_campaign=global_payroll&utm_content=nav
+    - link "Build your resume" [ref=f172e4] [cursor=pointer]:
+      - /url: https://www.toptal.com/resume
+    - link "Health insurance" [ref=f172e6] [cursor=pointer]:
+      - /url: /nomad-health-individual
+    - link "Post a job →" [ref=f172e7] [cursor=pointer]:
+      - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=top
+    - link "Log in" [ref=f172e8] [cursor=pointer]:
+      - /url: /login
+  - generic [ref=f172e10]:
+    - generic [ref=f172e11]:
+      - paragraph [ref=f172e12]:
+        - text: "Post a job to reach 18,100,000+ remote workers on the #1 Remote Job Platform"
+        - generic [ref=f172e13]:
+          - text: You can also
+          - link "hire freelance talent" [ref=f172e14] [cursor=pointer]:
+            - /url: https://www.toptal.com/
+          - text: on demand, pre-screened and thoroughly vetted.
+      - link "Post a remote job →" [ref=f172e15] [cursor=pointer]:
+        - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=center
+    - table [ref=f172e17]:
+      - rowgroup [ref=f172e18]:
+        - row [ref=f172e19]:
+          - columnheader "💵 Salary 🎪 Benefits 🦴 Sort by 💼 Executive 🎧 Customer Support 🚥 Marketing ♾️ Ops 👨‍🏫 Education 🚑 Medical 💰 Finance 🤓 Engineer" [ref=f172e20]:
+            - textbox "🔍 Search" [ref=f172e25]
+            - textbox "🌏 Location" [ref=f172e27]
+            - generic [ref=f172e28]: 💵 Salary
+            - generic [ref=f172e30]: 🎪 Benefits
+            - combobox [ref=f172e32]:
+              - option "🦴 Sort by" [selected]
+              - option "🆕 Latest jobs"
+              - option "💵 Highest paid"
+              - option "👀 Most viewed"
+              - option "✅ Most applied"
+              - option "🔥 Hottest"
+              - option "🎪 Most benefits"
+            - generic [ref=f172e33]:
+              - generic [ref=f172e34]: 💼 Executive
+              - generic [ref=f172e35]: 🎧 Customer Support
+              - generic [ref=f172e36]: 🚥 Marketing
+              - generic [ref=f172e37]: ♾️ Ops
+              - generic [ref=f172e38]: 👨‍🏫 Education
+              - generic [ref=f172e39]: 🚑 Medical
+              - generic [ref=f172e40]: 💰 Finance
+              - generic [ref=f172e41]: 🤓 Engineer
+      - rowgroup [ref=f172e42]:
+        - row [ref=f172e43] [cursor=pointer]:
+          - cell [ref=f172e44]:
+            - link [ref=f172e45]:
+              - /url: /remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
+              - paragraph [ref=f172e47]: A
+          - cell "Software Engineer AI Coding Tasks verified Askable 🌏 Worldwide 💰 $10k - $10k ⏰ Temporary" [ref=f172e48]:
+            - link [ref=f172e49]:
+              - /url: /remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
+              - heading "Software Engineer AI Coding Tasks" [level=2] [ref=f172e50]
+            - generic [ref=f172e51]: verified
+            - heading "Askable" [level=3] [ref=f172e53]
+            - generic [ref=f172e54]: 🌏 Worldwide
+            - generic [ref=f172e55]: 💰 $10k - $10k
+            - generic [ref=f172e56]: ⏰ Temporary
+          - cell [ref=f172e57]:
+            - link "Remote Developer Jobs" [ref=f172e58]:
+              - /url: /remote-dev-jobs
+              - heading "Developer" [level=3] [ref=f172e60]
+            - link "Remote Python Jobs" [ref=f172e61]:
+              - /url: /remote-python-jobs
+              - heading "Python" [level=3] [ref=f172e63]
+            - link "Remote JavaScript Jobs" [ref=f172e64]:
+              - /url: /remote-javascript-jobs
+              - heading "JavaScript" [level=3] [ref=f172e66]
+            - link "Remote Typescript Jobs" [ref=f172e67]:
+              - /url: /remote-typescript-jobs
+              - heading "Typescript" [level=3] [ref=f172e69]
+            - link "Remote Golang Jobs" [ref=f172e70]:
+              - /url: /remote-golang-jobs
+              - heading "Golang" [level=3] [ref=f172e72]
+            - link "Remote Java Jobs" [ref=f172e73]:
+              - /url: /remote-java-jobs
+              - heading "Java" [level=3] [ref=f172e75]
+            - link "Remote C Plus Plus Jobs" [ref=f172e76]:
+              - /url: /remote-c-plus-plus-jobs
+              - heading "C Plus Plus" [level=3] [ref=f172e78]
+          - cell [ref=f172e79]:
+            - time [ref=f172e80]: 14d
+          - cell [ref=f172e81]:
+            - link "Apply":
+              - /url: /l/1137538
+              - paragraph [ref=f172e83]: Apply
+        - row [ref=f172e84]:
+          - cell [ref=f172e85]:
+            - generic [ref=f172e86]:
+              - generic [ref=f172e87]:
+                - generic [ref=f172e88]:
+                  - link [ref=f172e89] [cursor=pointer]:
+                    - /url: /company/askable
+                    - heading "Askable" [level=2] [ref=f172e90]
+                  - paragraph [ref=f172e91]:
+                    - link "askable.com" [ref=f172e92] [cursor=pointer]:
+                      - /url: https://askable.com
+                  - link "Apply now" [ref=f172e93] [cursor=pointer]:
+                    - /url: /l/1137538
+                  - paragraph [ref=f172e94]:
+                    - strong [ref=f172e95]: "Share this job:"
+                    - textbox [ref=f172e96]: https://remoteok.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538?ref=sh
+                    - generic [ref=f172e97]:
+                      - text: Get a
+                      - link "rok.co" [ref=f172e98] [cursor=pointer]:
+                        - /url: https://rok.co/hire-remotely
+                      - text: short link
+                - generic [ref=f172e99]:
+                  - text: Askable is hiring a
+                  - heading "Remote Software Engineer AI Coding Tasks" [level=1] [ref=f172e100]
+                - generic [ref=f172e101]:
+                  - paragraph [ref=f172e102]: We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want.
+                  - paragraph [ref=f172e103]: "You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models."
+                  - paragraph [ref=f172e104]: Remote, any location. US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week.
+                  - paragraph [ref=f172e105]
+                  - paragraph [ref=f172e106]:
+                    - strong [ref=f172e107]: How it works
+                  - list [ref=f172e108]:
+                    - listitem [ref=f172e109]:
+                      - strong [ref=f172e110]: Apply.
+                      - text: Complete a short screener interview and upload your resume.
+                    - listitem [ref=f172e111]:
+                      - strong [ref=f172e112]: Propose.
+                      - text: Once you're selected, pick a change from a repository you know and submit a short proposal. We approve it or suggest a better candidate.
+                    - listitem [ref=f172e113]:
+                      - strong [ref=f172e114]: Build.
+                      - text: In our platform, set up the repository as it was before the change, then write the brief, the correct solution and the grading checks.
+                    - listitem [ref=f172e115]:
+                      - strong [ref=f172e116]: Stress-test.
+                      - text: Try lazy, incorrect and shortcut solutions and make sure your checks catch them.
+                    - listitem [ref=f172e117]:
+                      - strong [ref=f172e118]: Model testing.
+                      - text: Run your task against leading AI models until strong models often fail but a skilled engineer can clearly solve it.
+                    - listitem [ref=f172e119]:
+                      - strong [ref=f172e120]: Review.
+                      - text: A reviewer checks your task and you revise it. Most tasks take more than one round.
+                    - listitem [ref=f172e121]:
+                      - strong [ref=f172e122]: Next task.
+                      - text: Once your task is accepted, start another.
+                  - paragraph [ref=f172e123]
+                  - paragraph [ref=f172e124]:
+                    - strong [ref=f172e125]: Requirements
+                  - list [ref=f172e126]:
+                    - listitem [ref=f172e127]: 2+ years of professional software engineering
+                    - listitem [ref=f172e128]: Code merged into a public open-source repository, ideally one you know well. A private codebase you own may also qualify (not employer or client code)
+                    - listitem [ref=f172e129]: Strong in at least one of Python, TypeScript, Go, Rust, Java or C++
+                    - listitem [ref=f172e130]: Solid with Docker, Linux, Git and automated testing
+                    - listitem [ref=f172e131]: Regular use of an AI coding tool
+                    - listitem [ref=f172e132]: Experience writing tests, rubrics or evaluation criteria, ideally for AI models
+                    - listitem [ref=f172e133]: You can explain a change clearly and concisely, in your own words
+                    - listitem [ref=f172e134]: At least 10 hours a week, starting now
+                    - listitem [ref=f172e135]: A secure personal or work computer (no public or shared machines)
+                  - paragraph [ref=f172e136]
+                  - paragraph [ref=f172e137]:
+                    - strong [ref=f172e138]: Nice to have
+                  - list [ref=f172e139]:
+                    - listitem [ref=f172e140]: Deep expertise in one area, such as databases, compilers, distributed systems, security or infrastructure
+                    - listitem [ref=f172e141]: Experience building agent tasks or RL environments
+                  - paragraph [ref=f172e142]
+                  - paragraph [ref=f172e143]:
+                    - strong [ref=f172e144]: Terms
+                  - list [ref=f172e145]:
+                    - listitem [ref=f172e146]: US$1,000 for each task that passes our quality review, paid directly to you
+                    - listitem [ref=f172e147]: Once your proposal is qualified, you sign Askable's contract and accept its terms
+                    - listitem [ref=f172e148]: The work is used for AI training. The change and your solution must be your own, and you must be free to license them to us
+                    - listitem [ref=f172e149]: "Don't publish the work anywhere: no public pull request or public fork"
+                  - paragraph [ref=f172e150]
+                  - paragraph [ref=f172e151]: Apply at https://www.askable.com/experts/roles/senior-software-engineer
+                  - heading "Salary and compensation" [level=2] [ref=f172e152]
+                  - text: $10,000 — $10,000/year
+              - link "Apply for this job" [ref=f172e154] [cursor=pointer]:
+                - /url: /l/1137538
+        - row [ref=f172e155]:
+          - cell [ref=f172e156]:
+            - heading "Related jobs" [level=2] [ref=f172e157]
+        - row [ref=f172e158]:
+          - cell [ref=f172e159]
+        - row [ref=f172e160] [cursor=pointer]:
+          - cell [ref=f172e161]:
+            - link [ref=f172e162]:
+              - /url: /remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606
+              - img "Cloudary SAS" [ref=f172e163]
+          - cell "AWS Cloud Solutions Architect Cloudary SAS 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e164]:
+            - link [ref=f172e165]:
+              - /url: /remote-jobs/remote-aws-cloud-solutions-architect-cloudary-sas-1137606
+              - heading "AWS Cloud Solutions Architect" [level=2] [ref=f172e166]
+            - heading "Cloudary SAS" [level=3] [ref=f172e168]
+            - generic [ref=f172e169]: 🌏 Probably worldwide
+            - generic [ref=f172e170]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e171]:
+            - link "Remote Architecture + Developer Jobs" [ref=f172e172]:
+              - /url: /remote-architecture+dev-jobs
+              - heading "Architecture" [level=3] [ref=f172e174]
+            - link "Remote Design + Developer Jobs" [ref=f172e175]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e177]
+            - link "Remote Ansible + Developer Jobs" [ref=f172e178]:
+              - /url: /remote-ansible+dev-jobs
+              - heading "Ansible" [level=3] [ref=f172e180]
+          - cell [ref=f172e181]:
+            - time [ref=f172e182]: 16h
+          - cell [ref=f172e183]:
+            - link "Apply":
+              - /url: /l/1137606
+              - paragraph [ref=f172e185]: Apply
+        - row [ref=f172e186]:
+          - cell [ref=f172e187]
+        - row [ref=f172e188] [cursor=pointer]:
+          - cell [ref=f172e189]:
+            - link [ref=f172e190]:
+              - /url: /remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600
+              - img "Smile Digital Health" [ref=f172e191]
+          - cell "Cloud Engineer Automation Smile Digital Health 🇨🇦 Canada 💰 Upgrade to Premium to see salary" [ref=f172e192]:
+            - link [ref=f172e193]:
+              - /url: /remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600
+              - heading "Cloud Engineer Automation" [level=2] [ref=f172e194]
+            - heading "Smile Digital Health" [level=3] [ref=f172e196]
+            - generic "This job is available for remote workers from Canada. Click to see more remote jobs in Canada" [ref=f172e197]:
+              - link "🇨🇦 Canada" [ref=f172e198]:
+                - /url: /remote-jobs-in-canada
+            - generic [ref=f172e199]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e200]:
+            - link "Remote Design + Developer Jobs" [ref=f172e201]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e203]
+            - link "Remote Developer + Grafana Jobs" [ref=f172e204]:
+              - /url: /remote-dev+grafana-jobs
+              - heading "Grafana" [level=3] [ref=f172e206]
+            - link "Remote Developer + InfoSec Jobs" [ref=f172e207]:
+              - /url: /remote-dev+infosec-jobs
+              - heading "InfoSec" [level=3] [ref=f172e209]
+          - cell [ref=f172e210]:
+            - time [ref=f172e211]: 2d
+          - cell [ref=f172e212]:
+            - link "Apply":
+              - /url: /l/1137600
+              - paragraph [ref=f172e214]: Apply
+        - row [ref=f172e215]:
+          - cell [ref=f172e216]
+        - row [ref=f172e217] [cursor=pointer]:
+          - cell [ref=f172e218]:
+            - link [ref=f172e219]:
+              - /url: /remote-jobs/remote-senior-devops-engineer-lemon-io-1137557
+              - img "Lemon.io" [ref=f172e220]
+          - cell "Senior DevOps Engineer Lemon.io 💃 Latin America 🌎 North America 🇪🇺 Europe 🏄 Oceania 🇯🇵 Japan 🇸🇬 Singapore 🇰🇷 South Korea 🇵🇭 Philippines 🇮🇩 Indonesia 🇲🇾 Malaysia 🇻🇳 Vietnam 🇹🇭 Thailand 🇸🇦 Saudi Arabia 🇮🇱 Israel 🇲🇦 Morocco 🇿🇦 South Africa 💰 $50k - $150k" [ref=f172e221]:
+            - link [ref=f172e222]:
+              - /url: /remote-jobs/remote-senior-devops-engineer-lemon-io-1137557
+              - heading "Senior DevOps Engineer" [level=2] [ref=f172e223]
+            - heading "Lemon.io" [level=3] [ref=f172e225]
+            - generic [ref=f172e226]: 💃 Latin America
+            - generic [ref=f172e227]: 🌎 North America
+            - generic [ref=f172e228]: 🇪🇺 Europe
+            - generic [ref=f172e229]: 🏄 Oceania
+            - generic "This job is available for remote workers from Japan. Click to see more remote jobs in Japan" [ref=f172e230]:
+              - link "🇯🇵 Japan" [ref=f172e231]:
+                - /url: /remote-jobs-in-japan
+            - generic "This job is available for remote workers from Singapore. Click to see more remote jobs in Singapore" [ref=f172e232]:
+              - link "🇸🇬 Singapore" [ref=f172e233]:
+                - /url: /remote-jobs-in-singapore
+            - generic "This job is available for remote workers from South Korea. Click to see more remote jobs in South Korea" [ref=f172e234]:
+              - link "🇰🇷 South Korea" [ref=f172e235]:
+                - /url: /remote-jobs-in-south-korea
+            - generic "This job is available for remote workers from Philippines. Click to see more remote jobs in Philippines" [ref=f172e236]:
+              - link "🇵🇭 Philippines" [ref=f172e237]:
+                - /url: /remote-jobs-in-philippines
+            - generic "This job is available for remote workers from Indonesia. Click to see more remote jobs in Indonesia" [ref=f172e238]:
+              - link "🇮🇩 Indonesia" [ref=f172e239]:
+                - /url: /remote-jobs-in-indonesia
+            - generic "This job is available for remote workers from Malaysia. Click to see more remote jobs in Malaysia" [ref=f172e240]:
+              - link "🇲🇾 Malaysia" [ref=f172e241]:
+                - /url: /remote-jobs-in-malaysia
+            - generic "This job is available for remote workers from Vietnam. Click to see more remote jobs in Vietnam" [ref=f172e242]:
+              - link "🇻🇳 Vietnam" [ref=f172e243]:
+                - /url: /remote-jobs-in-vietnam
+            - generic "This job is available for remote workers from Thailand. Click to see more remote jobs in Thailand" [ref=f172e244]:
+              - link "🇹🇭 Thailand" [ref=f172e245]:
+                - /url: /remote-jobs-in-thailand
+            - generic "This job is available for remote workers from Saudi Arabia. Click to see more remote jobs in Saudi Arabia" [ref=f172e246]:
+              - link "🇸🇦 Saudi Arabia" [ref=f172e247]:
+                - /url: /remote-jobs-in-saudi-arabia
+            - generic "This job is available for remote workers from Israel. Click to see more remote jobs in Israel" [ref=f172e248]:
+              - link "🇮🇱 Israel" [ref=f172e249]:
+                - /url: /remote-jobs-in-israel
+            - generic "This job is available for remote workers from Morocco. Click to see more remote jobs in Morocco" [ref=f172e250]:
+              - link "🇲🇦 Morocco" [ref=f172e251]:
+                - /url: /remote-jobs-in-morocco
+            - generic "This job is available for remote workers from South Africa. Click to see more remote jobs in South Africa" [ref=f172e252]:
+              - link "🇿🇦 South Africa" [ref=f172e253]:
+                - /url: /remote-jobs-in-south-africa
+            - generic [ref=f172e254]: 💰 $50k - $150k
+          - cell [ref=f172e255]:
+            - link "Remote Developer + DevOps Jobs" [ref=f172e256]:
+              - /url: /remote-dev+devops-jobs
+              - heading "DevOps" [level=3] [ref=f172e258]
+            - link "Remote Developer + Engineer Jobs" [ref=f172e259]:
+              - /url: /remote-dev+engineer-jobs
+              - heading "Engineer" [level=3] [ref=f172e261]
+            - link "Remote Developer + Python Jobs" [ref=f172e262]:
+              - /url: /remote-dev+python-jobs
+              - heading "Python" [level=3] [ref=f172e264]
+          - cell [ref=f172e265]:
+            - time [ref=f172e266]: 9d
+          - cell [ref=f172e267]:
+            - link "Apply":
+              - /url: /l/1137557
+              - paragraph [ref=f172e269]: Apply
+        - row [ref=f172e270]:
+          - cell [ref=f172e271]
+        - row [ref=f172e272] [cursor=pointer]:
+          - cell [ref=f172e273]:
+            - link [ref=f172e274]:
+              - /url: /remote-jobs/remote-account-executive-huzzle-1137573
+              - img "Huzzle" [ref=f172e275]
+          - cell "Account Executive Huzzle 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e276]:
+            - link [ref=f172e277]:
+              - /url: /remote-jobs/remote-account-executive-huzzle-1137573
+              - heading "Account Executive" [level=2] [ref=f172e278]
+            - heading "Huzzle" [level=3] [ref=f172e280]
+            - generic [ref=f172e281]: 🌏 Probably worldwide
+            - generic [ref=f172e282]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e283]:
+            - link "Remote Developer + SaaS Jobs" [ref=f172e284]:
+              - /url: /remote-dev+saas-jobs
+              - heading "SaaS" [level=3] [ref=f172e286]
+            - link "Remote Developer + Video Jobs" [ref=f172e287]:
+              - /url: /remote-dev+video-jobs
+              - heading "Video" [level=3] [ref=f172e289]
+            - link "Remote Developer + Finance Jobs" [ref=f172e290]:
+              - /url: /remote-dev+finance-jobs
+              - heading "Finance" [level=3] [ref=f172e292]
+          - cell [ref=f172e293]:
+            - time [ref=f172e294]: 5d
+          - cell [ref=f172e295]:
+            - link "Apply":
+              - /url: /l/1137573
+              - paragraph [ref=f172e297]: Apply
+        - row [ref=f172e298]:
+          - cell [ref=f172e299]
+        - row [ref=f172e300] [cursor=pointer]:
+          - cell [ref=f172e301]:
+            - link [ref=f172e302]:
+              - /url: /remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572
+              - img "Wagmo" [ref=f172e303]
+          - cell "Senior Software Engineer LATAM Wagmo 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e304]:
+            - link [ref=f172e305]:
+              - /url: /remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572
+              - heading "Senior Software Engineer LATAM" [level=2] [ref=f172e306]
+            - heading "Wagmo" [level=3] [ref=f172e308]
+            - generic [ref=f172e309]: 🌏 Probably worldwide
+            - generic [ref=f172e310]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e311]:
+            - link "Remote Design + Developer Jobs" [ref=f172e312]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e314]
+            - link "Remote Developer + React Jobs" [ref=f172e315]:
+              - /url: /remote-dev+react-jobs
+              - heading "React" [level=3] [ref=f172e317]
+            - link "Remote Developer + Sys Admin Jobs" [ref=f172e318]:
+              - /url: /remote-dev+sys-admin-jobs
+              - heading "Sys Admin" [level=3] [ref=f172e320]
+          - cell [ref=f172e321]:
+            - time [ref=f172e322]: 5d
+          - cell [ref=f172e323]:
+            - link "Apply":
+              - /url: /l/1137572
+              - paragraph [ref=f172e325]: Apply
+        - row [ref=f172e326]:
+          - cell [ref=f172e327]
+        - row [ref=f172e328] [cursor=pointer]:
+          - cell [ref=f172e329]:
+            - link [ref=f172e330]:
+              - /url: /remote-jobs/remote-senior-software-engineer-klardaten-1137571
+              - paragraph [ref=f172e332]: K
+          - cell "Senior Software Engineer verified Klardaten 🇩🇪 Germany 🇦🇹 Austria 🇧🇪 Belgium 🇧🇬 Bulgaria 🇭🇷 Croatia 🇨🇾 Cyprus 🇨🇿 Czechia 🇩🇰 Denmark 🇪🇪 Estonia 🇫🇮 Finland 🇫🇷 France 🇬🇷 Greece 🇭🇺 Hungary 🇮🇪 Ireland 🇮🇹 Italy 🇱🇻 Latvia 🇱🇹 Lithuania 🇱🇺 Luxembourg 🇲🇹 Malta 🇳🇱 Netherlands 🇵🇱 Poland 🇵🇹 Portugal 🇷🇴 Romania 🇸🇰 Slovakia 🇸🇮 Slovenia 🇪🇸 Spain 🇸🇪 Sweden 💰 $80k - $100k" [ref=f172e333]:
+            - link [ref=f172e334]:
+              - /url: /remote-jobs/remote-senior-software-engineer-klardaten-1137571
+              - heading "Senior Software Engineer" [level=2] [ref=f172e335]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f172e336]': verified
+            - heading "Klardaten" [level=3] [ref=f172e338]
+            - generic "This job is available for remote workers from Germany. Click to see more remote jobs in Germany" [ref=f172e339]:
+              - link "🇩🇪 Germany" [ref=f172e340]:
+                - /url: /remote-jobs-in-germany
+            - generic "This job is available for remote workers from Austria. Click to see more remote jobs in Austria" [ref=f172e341]:
+              - link "🇦🇹 Austria" [ref=f172e342]:
+                - /url: /remote-jobs-in-austria
+            - generic "This job is available for remote workers from Belgium. Click to see more remote jobs in Belgium" [ref=f172e343]:
+              - link "🇧🇪 Belgium" [ref=f172e344]:
+                - /url: /remote-jobs-in-belgium
+            - generic "This job is available for remote workers from Bulgaria. Click to see more remote jobs in Bulgaria" [ref=f172e345]:
+              - link "🇧🇬 Bulgaria" [ref=f172e346]:
+                - /url: /remote-jobs-in-bulgaria
+            - generic "This job is available for remote workers from Croatia. Click to see more remote jobs in Croatia" [ref=f172e347]:
+              - link "🇭🇷 Croatia" [ref=f172e348]:
+                - /url: /remote-jobs-in-croatia
+            - generic "This job is available for remote workers from Cyprus. Click to see more remote jobs in Cyprus" [ref=f172e349]:
+              - link "🇨🇾 Cyprus" [ref=f172e350]:
+                - /url: /remote-jobs-in-cyprus
+            - generic "This job is available for remote workers from Czechia. Click to see more remote jobs in Czechia" [ref=f172e351]:
+              - link "🇨🇿 Czechia" [ref=f172e352]:
+                - /url: /remote-jobs-in-czechia
+            - generic "This job is available for remote workers from Denmark. Click to see more remote jobs in Denmark" [ref=f172e353]:
+              - link "🇩🇰 Denmark" [ref=f172e354]:
+                - /url: /remote-jobs-in-denmark
+            - generic "This job is available for remote workers from Estonia. Click to see more remote jobs in Estonia" [ref=f172e355]:
+              - link "🇪🇪 Estonia" [ref=f172e356]:
+                - /url: /remote-jobs-in-estonia
+            - generic "This job is available for remote workers from Finland. Click to see more remote jobs in Finland" [ref=f172e357]:
+              - link "🇫🇮 Finland" [ref=f172e358]:
+                - /url: /remote-jobs-in-finland
+            - generic "This job is available for remote workers from France. Click to see more remote jobs in France" [ref=f172e359]:
+              - link "🇫🇷 France" [ref=f172e360]:
+                - /url: /remote-jobs-in-france
+            - generic "This job is available for remote workers from Greece. Click to see more remote jobs in Greece" [ref=f172e361]:
+              - link "🇬🇷 Greece" [ref=f172e362]:
+                - /url: /remote-jobs-in-greece
+            - generic "This job is available for remote workers from Hungary. Click to see more remote jobs in Hungary" [ref=f172e363]:
+              - link "🇭🇺 Hungary" [ref=f172e364]:
+                - /url: /remote-jobs-in-hungary
+            - generic "This job is available for remote workers from Ireland. Click to see more remote jobs in Ireland" [ref=f172e365]:
+              - link "🇮🇪 Ireland" [ref=f172e366]:
+                - /url: /remote-jobs-in-ireland
+            - generic "This job is available for remote workers from Italy. Click to see more remote jobs in Italy" [ref=f172e367]:
+              - link "🇮🇹 Italy" [ref=f172e368]:
+                - /url: /remote-jobs-in-italy
+            - generic "This job is available for remote workers from Latvia. Click to see more remote jobs in Latvia" [ref=f172e369]:
+              - link "🇱🇻 Latvia" [ref=f172e370]:
+                - /url: /remote-jobs-in-latvia
+            - generic "This job is available for remote workers from Lithuania. Click to see more remote jobs in Lithuania" [ref=f172e371]:
+              - link "🇱🇹 Lithuania" [ref=f172e372]:
+                - /url: /remote-jobs-in-lithuania
+            - generic "This job is available for remote workers from Luxembourg. Click to see more remote jobs in Luxembourg" [ref=f172e373]:
+              - link "🇱🇺 Luxembourg" [ref=f172e374]:
+                - /url: /remote-jobs-in-luxembourg
+            - generic "This job is available for remote workers from Malta. Click to see more remote jobs in Malta" [ref=f172e375]:
+              - link "🇲🇹 Malta" [ref=f172e376]:
+                - /url: /remote-jobs-in-malta
+            - generic "This job is available for remote workers from Netherlands. Click to see more remote jobs in Netherlands" [ref=f172e377]:
+              - link "🇳🇱 Netherlands" [ref=f172e378]:
+                - /url: /remote-jobs-in-netherlands
+            - generic "This job is available for remote workers from Poland. Click to see more remote jobs in Poland" [ref=f172e379]:
+              - link "🇵🇱 Poland" [ref=f172e380]:
+                - /url: /remote-jobs-in-poland
+            - generic "This job is available for remote workers from Portugal. Click to see more remote jobs in Portugal" [ref=f172e381]:
+              - link "🇵🇹 Portugal" [ref=f172e382]:
+                - /url: /remote-jobs-in-portugal
+            - generic "This job is available for remote workers from Romania. Click to see more remote jobs in Romania" [ref=f172e383]:
+              - link "🇷🇴 Romania" [ref=f172e384]:
+                - /url: /remote-jobs-in-romania
+            - generic "This job is available for remote workers from Slovakia. Click to see more remote jobs in Slovakia" [ref=f172e385]:
+              - link "🇸🇰 Slovakia" [ref=f172e386]:
+                - /url: /remote-jobs-in-slovakia
+            - generic "This job is available for remote workers from Slovenia. Click to see more remote jobs in Slovenia" [ref=f172e387]:
+              - link "🇸🇮 Slovenia" [ref=f172e388]:
+                - /url: /remote-jobs-in-slovenia
+            - generic "This job is available for remote workers from Spain. Click to see more remote jobs in Spain" [ref=f172e389]:
+              - link "🇪🇸 Spain" [ref=f172e390]:
+                - /url: /remote-jobs-in-spain
+            - generic "This job is available for remote workers from Sweden. Click to see more remote jobs in Sweden" [ref=f172e391]:
+              - link "🇸🇪 Sweden" [ref=f172e392]:
+                - /url: /remote-jobs-in-sweden
+            - generic [ref=f172e393]: 💰 $80k - $100k
+          - cell [ref=f172e394]:
+            - link "Remote Developer + Senior Jobs" [ref=f172e395]:
+              - /url: /remote-dev+senior-jobs
+              - heading "Senior" [level=3] [ref=f172e397]
+            - link "Remote Developer + JavaScript Jobs" [ref=f172e398]:
+              - /url: /remote-dev+javascript-jobs
+              - heading "JavaScript" [level=3] [ref=f172e400]
+            - link "Remote Developer + Typescript Jobs" [ref=f172e401]:
+              - /url: /remote-dev+typescript-jobs
+              - heading "Typescript" [level=3] [ref=f172e403]
+          - cell [ref=f172e404]:
+            - time [ref=f172e405]: 6d
+          - cell [ref=f172e406]:
+            - link "Apply":
+              - /url: /l/1137571
+              - paragraph [ref=f172e408]: Apply
+        - row [ref=f172e409]:
+          - cell [ref=f172e410]
+        - row [ref=f172e411] [cursor=pointer]:
+          - cell [ref=f172e412]:
+            - link [ref=f172e413]:
+              - /url: /remote-jobs/remote-solutions-engineer-onebrief-1137568
+              - img "Onebrief" [ref=f172e414]
+          - cell "Solutions Engineer Onebrief 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e415]:
+            - link [ref=f172e416]:
+              - /url: /remote-jobs/remote-solutions-engineer-onebrief-1137568
+              - heading "Solutions Engineer" [level=2] [ref=f172e417]
+            - heading "Onebrief" [level=3] [ref=f172e419]
+            - generic [ref=f172e420]: 🌏 Probably worldwide
+            - generic [ref=f172e421]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e422]:
+            - link "Remote Design + Developer Jobs" [ref=f172e423]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e425]
+            - link "Remote Ansible + Developer Jobs" [ref=f172e426]:
+              - /url: /remote-ansible+dev-jobs
+              - heading "Ansible" [level=3] [ref=f172e428]
+            - link "Remote Developer + Grafana Jobs" [ref=f172e429]:
+              - /url: /remote-dev+grafana-jobs
+              - heading "Grafana" [level=3] [ref=f172e431]
+          - cell [ref=f172e432]:
+            - time [ref=f172e433]: 7d
+          - cell [ref=f172e434]:
+            - link "Apply":
+              - /url: /l/1137568
+              - paragraph [ref=f172e436]: Apply
+        - row [ref=f172e437]:
+          - cell [ref=f172e438]
+        - row [ref=f172e439] [cursor=pointer]:
+          - cell [ref=f172e440]:
+            - link [ref=f172e441]:
+              - /url: /remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563
+              - img "Huzzle" [ref=f172e442]
+          - cell "Sales Development Representative German Speaking Huzzle 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e443]:
+            - link [ref=f172e444]:
+              - /url: /remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563
+              - heading "Sales Development Representative German Speaking" [level=2] [ref=f172e445]
+            - heading "Huzzle" [level=3] [ref=f172e447]
+            - generic [ref=f172e448]: 🌏 Probably worldwide
+            - generic [ref=f172e449]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e450]:
+            - link "Remote Developer + SaaS Jobs" [ref=f172e451]:
+              - /url: /remote-dev+saas-jobs
+              - heading "SaaS" [level=3] [ref=f172e453]
+            - link "Remote Developer + Sys Admin Jobs" [ref=f172e454]:
+              - /url: /remote-dev+sys-admin-jobs
+              - heading "Sys Admin" [level=3] [ref=f172e456]
+            - link "Remote Developer + Marketing Jobs" [ref=f172e457]:
+              - /url: /remote-dev+marketing-jobs
+              - heading "Marketing" [level=3] [ref=f172e459]
+          - cell [ref=f172e460]:
+            - time [ref=f172e461]: 8d
+          - cell [ref=f172e462]:
+            - link "Apply":
+              - /url: /l/1137563
+              - paragraph [ref=f172e464]: Apply
+        - row [ref=f172e465]:
+          - cell [ref=f172e466]
+        - row [ref=f172e467] [cursor=pointer]:
+          - cell [ref=f172e468]:
+            - link [ref=f172e469]:
+              - /url: /remote-jobs/remote-senior-frontend-engineer-b2spin-1137562
+              - img "B2spin" [ref=f172e470]
+          - cell "Senior Frontend Engineer B2spin 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e471]:
+            - link [ref=f172e472]:
+              - /url: /remote-jobs/remote-senior-frontend-engineer-b2spin-1137562
+              - heading "Senior Frontend Engineer" [level=2] [ref=f172e473]
+            - heading "B2spin" [level=3] [ref=f172e475]
+            - generic [ref=f172e476]: 🌏 Probably worldwide
+            - generic [ref=f172e477]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e478]:
+            - link "Remote Developer + Front End Jobs" [ref=f172e479]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Front End" [level=3] [ref=f172e481]
+            - link "Remote Design + Developer Jobs" [ref=f172e482]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e484]
+            - link "Remote Developer + React Jobs" [ref=f172e485]:
+              - /url: /remote-dev+react-jobs
+              - heading "React" [level=3] [ref=f172e487]
+          - cell [ref=f172e488]:
+            - time [ref=f172e489]: 8d
+          - cell [ref=f172e490]:
+            - link "Apply":
+              - /url: /l/1137562
+              - paragraph [ref=f172e492]: Apply
+        - row [ref=f172e493]:
+          - cell [ref=f172e494]
+        - row [ref=f172e495] [cursor=pointer]:
+          - cell [ref=f172e496]:
+            - link [ref=f172e497]:
+              - /url: /remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556
+              - img "D2B" [ref=f172e498]
+          - cell "Senior Finance Manager Management Accountant D2B 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e499]:
+            - link [ref=f172e500]:
+              - /url: /remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556
+              - heading "Senior Finance Manager Management Accountant" [level=2] [ref=f172e501]
+            - heading "D2B" [level=3] [ref=f172e503]
+            - generic [ref=f172e504]: 🌏 Probably worldwide
+            - generic [ref=f172e505]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e506]:
+            - link "Remote Developer + Executive Jobs" [ref=f172e507]:
+              - /url: /remote-dev+exec-jobs
+              - heading "Executive" [level=3] [ref=f172e509]
+            - link "Remote Accounting + Developer Jobs" [ref=f172e510]:
+              - /url: /remote-accounting+dev-jobs
+              - heading "Accounting" [level=3] [ref=f172e512]
+            - link "Remote Developer + SaaS Jobs" [ref=f172e513]:
+              - /url: /remote-dev+saas-jobs
+              - heading "SaaS" [level=3] [ref=f172e515]
+          - cell [ref=f172e516]:
+            - time [ref=f172e517]: 9d
+          - cell [ref=f172e518]:
+            - link "Apply":
+              - /url: /l/1137556
+              - paragraph [ref=f172e520]: Apply
+        - row [ref=f172e521]:
+          - cell [ref=f172e522]
+        - row [ref=f172e523] [cursor=pointer]:
+          - cell [ref=f172e524]:
+            - link [ref=f172e525]:
+              - /url: /remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555
+              - img "Political Asylum Lawyers" [ref=f172e526]
+          - cell "Accounting & Finance Manager Political Asylum Lawyers 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e527]:
+            - link [ref=f172e528]:
+              - /url: /remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555
+              - heading "Accounting & Finance Manager" [level=2] [ref=f172e529]
+            - heading "Political Asylum Lawyers" [level=3] [ref=f172e531]
+            - generic [ref=f172e532]: 🌏 Probably worldwide
+            - generic [ref=f172e533]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e534]:
+            - link "Remote Developer + Executive Jobs" [ref=f172e535]:
+              - /url: /remote-dev+exec-jobs
+              - heading "Executive" [level=3] [ref=f172e537]
+            - link "Remote Accounting + Developer Jobs" [ref=f172e538]:
+              - /url: /remote-accounting+dev-jobs
+              - heading "Accounting" [level=3] [ref=f172e540]
+            - link "Remote Design + Developer Jobs" [ref=f172e541]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e543]
+          - cell [ref=f172e544]:
+            - time [ref=f172e545]: 9d
+          - cell [ref=f172e546]:
+            - link "Apply":
+              - /url: /l/1137555
+              - paragraph [ref=f172e548]: Apply
+        - row [ref=f172e549]:
+          - cell [ref=f172e550]
+        - row [ref=f172e551] [cursor=pointer]:
+          - cell [ref=f172e552]:
+            - link [ref=f172e553]:
+              - /url: /remote-jobs/remote-software-engineer-c-octo-horizon-1128583
+              - img "Octo Horizon" [ref=f172e554]
+          - cell "Software Engineer C 🎈 verified Octo Horizon 🌏 Worldwide 💰 $120k - $180k" [ref=f172e555]:
+            - link [ref=f172e556]:
+              - /url: /remote-jobs/remote-software-engineer-c-octo-horizon-1128583
+              - heading "Software Engineer C" [level=2] [ref=f172e557]
+            - text: 🎈
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f172e558]': verified
+            - heading "Octo Horizon" [level=3] [ref=f172e560]
+            - generic [ref=f172e561]: 🌏 Worldwide
+            - generic [ref=f172e562]: 💰 $120k - $180k
+          - cell [ref=f172e563]:
+            - link "Remote Developer + Engineer Jobs" [ref=f172e564]:
+              - /url: /remote-dev+engineer-jobs
+              - heading "Engineer" [level=3] [ref=f172e566]
+            - link "Remote Developer + Technical Jobs" [ref=f172e567]:
+              - /url: /remote-dev+technical-jobs
+              - heading "Technical" [level=3] [ref=f172e569]
+            - link "Remote Cloud + Developer Jobs" [ref=f172e570]:
+              - /url: /remote-cloud+dev-jobs
+              - heading "Cloud" [level=3] [ref=f172e572]
+          - cell [ref=f172e573]:
+            - time [ref=f172e574]: 12d
+          - cell [ref=f172e575]:
+            - link "Apply":
+              - /url: /l/1128583
+              - paragraph [ref=f172e577]: Apply
+        - row [ref=f172e578]:
+          - cell [ref=f172e579]
+        - row [ref=f172e580] [cursor=pointer]:
+          - cell [ref=f172e581]:
+            - link [ref=f172e582]:
+              - /url: /remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547
+              - img "SupportYourApp" [ref=f172e583]
+          - cell "Customer Support Consultant hospitality SupportYourApp 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e584]:
+            - link [ref=f172e585]:
+              - /url: /remote-jobs/remote-customer-support-consultant-hospitality-supportyourapp-1137547
+              - heading "Customer Support Consultant hospitality" [level=2] [ref=f172e586]
+            - heading "SupportYourApp" [level=3] [ref=f172e588]
+            - generic [ref=f172e589]: 🌏 Probably worldwide
+            - generic [ref=f172e590]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e591]:
+            - link "Remote Consulting + Developer Jobs" [ref=f172e592]:
+              - /url: /remote-consulting+dev-jobs
+              - heading "Consulting" [level=3] [ref=f172e594]
+            - link "Remote Customer Support + Developer Jobs" [ref=f172e595]:
+              - /url: /remote-customer-support+dev-jobs
+              - heading "Customer Support" [level=3] [ref=f172e597]
+            - link "Remote Developer + SaaS Jobs" [ref=f172e598]:
+              - /url: /remote-dev+saas-jobs
+              - heading "SaaS" [level=3] [ref=f172e600]
+          - cell [ref=f172e601]:
+            - time [ref=f172e602]: 12d
+          - cell [ref=f172e603]:
+            - link "Apply":
+              - /url: /l/1137547
+              - paragraph [ref=f172e605]: Apply
+        - row [ref=f172e606]:
+          - cell [ref=f172e607]
+        - row [ref=f172e608] [cursor=pointer]:
+          - cell [ref=f172e609]:
+            - link [ref=f172e610]:
+              - /url: /remote-jobs/remote-senior-software-engineer-sothebys-1137545
+              - paragraph [ref=f172e612]: S
+          - cell "Senior Software Engineer Sotheby’s 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e613]:
+            - link [ref=f172e614]:
+              - /url: /remote-jobs/remote-senior-software-engineer-sothebys-1137545
+              - heading "Senior Software Engineer" [level=2] [ref=f172e615]
+            - heading "Sotheby’s" [level=3] [ref=f172e617]
+            - generic [ref=f172e618]: 🌏 Probably worldwide
+            - generic [ref=f172e619]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e620]:
+            - link "Remote Developer + Golang Jobs" [ref=f172e621]:
+              - /url: /remote-dev+golang-jobs
+              - heading "Golang" [level=3] [ref=f172e623]
+            - link "Remote Developer + Senior Jobs" [ref=f172e624]:
+              - /url: /remote-dev+senior-jobs
+              - heading "Senior" [level=3] [ref=f172e626]
+            - link "Remote Developer + Sales Jobs" [ref=f172e627]:
+              - /url: /remote-dev+sales-jobs
+              - heading "Sales" [level=3] [ref=f172e629]
+          - cell [ref=f172e630]:
+            - time [ref=f172e631]: 13d
+          - cell [ref=f172e632]:
+            - link "Apply":
+              - /url: /l/1137545
+              - paragraph [ref=f172e634]: Apply
+        - row [ref=f172e635]:
+          - cell [ref=f172e636]
+        - row [ref=f172e637] [cursor=pointer]:
+          - cell [ref=f172e638]:
+            - link [ref=f172e639]:
+              - /url: /remote-jobs/remote-head-of-technology-sanctuary-computer-1137537
+              - img "Sanctuary Computer" [ref=f172e640]
+          - cell "Head of Technology Sanctuary Computer 🌏 Worldwide 💰 $140k - $250k" [ref=f172e641]:
+            - link [ref=f172e642]:
+              - /url: /remote-jobs/remote-head-of-technology-sanctuary-computer-1137537
+              - heading "Head of Technology" [level=2] [ref=f172e643]
+            - heading "Sanctuary Computer" [level=3] [ref=f172e645]
+            - generic [ref=f172e646]: 🌏 Worldwide
+            - generic [ref=f172e647]: 💰 $140k - $250k
+          - cell [ref=f172e648]:
+            - link "Remote Developer + Engineer Jobs" [ref=f172e649]:
+              - /url: /remote-dev+engineer-jobs
+              - heading "Engineer" [level=3] [ref=f172e651]
+            - link "Remote Developer + Senior Jobs" [ref=f172e652]:
+              - /url: /remote-dev+senior-jobs
+              - heading "Senior" [level=3] [ref=f172e654]
+            - link "Remote Developer + Full Stack Jobs" [ref=f172e655]:
+              - /url: /remote-dev+full-stack-jobs
+              - heading "Full Stack" [level=3] [ref=f172e657]
+          - cell [ref=f172e658]:
+            - time [ref=f172e659]: 15d
+          - cell [ref=f172e660]:
+            - link "Apply":
+              - /url: /l/1137537
+              - paragraph [ref=f172e662]: Apply
+        - row [ref=f172e663]:
+          - cell [ref=f172e664]
+        - row [ref=f172e665] [cursor=pointer]:
+          - cell [ref=f172e666]:
+            - link [ref=f172e667]:
+              - /url: /remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536
+              - img "Self Bill Pro" [ref=f172e668]
+          - cell "Director of Product Management and IT Operations verified Self Bill Pro 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e669]:
+            - link [ref=f172e670]:
+              - /url: /remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536
+              - heading "Director of Product Management and IT Operations" [level=2] [ref=f172e671]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f172e672]': verified
+            - heading "Self Bill Pro" [level=3] [ref=f172e674]
+            - generic [ref=f172e675]: 🌏 Probably worldwide
+            - generic [ref=f172e676]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e677]:
+            - link "Remote Developer + Product Manager Jobs" [ref=f172e678]:
+              - /url: /remote-dev+product-manager-jobs
+              - heading "Product Manager" [level=3] [ref=f172e680]
+            - link "Remote Developer + Executive Jobs" [ref=f172e681]:
+              - /url: /remote-dev+exec-jobs
+              - heading "Executive" [level=3] [ref=f172e683]
+            - link "Remote Developer + InfoSec Jobs" [ref=f172e684]:
+              - /url: /remote-dev+infosec-jobs
+              - heading "InfoSec" [level=3] [ref=f172e686]
+          - cell [ref=f172e687]:
+            - time [ref=f172e688]: 15d
+          - cell [ref=f172e689]:
+            - link "Apply":
+              - /url: /l/1137536
+              - paragraph [ref=f172e691]: Apply
+        - row [ref=f172e692]:
+          - cell [ref=f172e693]
+        - row [ref=f172e694] [cursor=pointer]:
+          - cell [ref=f172e695]:
+            - link [ref=f172e696]:
+              - /url: /remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535
+              - paragraph [ref=f172e698]: YR
+          - cell "SAP RE FX Consultant Yopeso Romania SRL 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e699]:
+            - link [ref=f172e700]:
+              - /url: /remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535
+              - heading "SAP RE FX Consultant" [level=2] [ref=f172e701]
+            - heading "Yopeso Romania SRL" [level=3] [ref=f172e703]
+            - generic [ref=f172e704]: 🌏 Probably worldwide
+            - generic [ref=f172e705]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e706]:
+            - link "Remote Consulting + Developer Jobs" [ref=f172e707]:
+              - /url: /remote-consulting+dev-jobs
+              - heading "Consulting" [level=3] [ref=f172e709]
+            - link "Remote Design + Developer Jobs" [ref=f172e710]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e712]
+            - link "Remote Developer + Technical Jobs" [ref=f172e713]:
+              - /url: /remote-dev+technical-jobs
+              - heading "Technical" [level=3] [ref=f172e715]
+          - cell [ref=f172e716]:
+            - time [ref=f172e717]: 15d
+          - cell [ref=f172e718]:
+            - link "Apply":
+              - /url: /l/1137535
+              - paragraph [ref=f172e720]: Apply
+        - row [ref=f172e721]:
+          - cell [ref=f172e722]
+        - row [ref=f172e723] [cursor=pointer]:
+          - cell [ref=f172e724]:
+            - link [ref=f172e725]:
+              - /url: /remote-jobs/remote-apac-python-kodland-1137534
+              - img "Kodland" [ref=f172e726]
+          - cell "APAC Python verified Kodland 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e727]:
+            - link [ref=f172e728]:
+              - /url: /remote-jobs/remote-apac-python-kodland-1137534
+              - heading "APAC Python" [level=2] [ref=f172e729]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f172e730]': verified
+            - heading "Kodland" [level=3] [ref=f172e732]
+            - generic [ref=f172e733]: 🌏 Probably worldwide
+            - generic [ref=f172e734]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e735]:
+            - link "Remote Developer + Python Jobs" [ref=f172e736]:
+              - /url: /remote-dev+python-jobs
+              - heading "Python" [level=3] [ref=f172e738]
+            - link "Remote Developer + Teaching Jobs" [ref=f172e739]:
+              - /url: /remote-dev+teaching-jobs
+              - heading "Teaching" [level=3] [ref=f172e741]
+            - link "Remote Developer + Education Jobs" [ref=f172e742]:
+              - /url: /remote-dev+education-jobs
+              - heading "Edu" [level=3] [ref=f172e744]
+          - cell [ref=f172e745]:
+            - time [ref=f172e746]: 15d
+          - cell [ref=f172e747]:
+            - link "Apply":
+              - /url: /l/1137534
+              - paragraph [ref=f172e749]: Apply
+        - row [ref=f172e750]:
+          - cell [ref=f172e751]
+        - row [ref=f172e752] [cursor=pointer]:
+          - cell [ref=f172e753]:
+            - link [ref=f172e754]:
+              - /url: /remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475
+              - img "Lemon.io" [ref=f172e755]
+          - cell "Senior React Full stack Developer Lemon.io 🇺🇸 United States 🇨🇦 Canada 💃 Latin America 🇪🇺 Europe 🏄 Oceania 🇯🇵 Japan 🇸🇬 Singapore 🇰🇷 South Korea 🇵🇭 Philippines 🇮🇩 Indonesia 🇲🇾 Malaysia 🇻🇳 Vietnam 🇹🇭 Thailand 🇮🇱 Israel 🇲🇦 Morocco 🇿🇦 South Africa 💰 $80k - $200k" [ref=f172e756]:
+            - link [ref=f172e757]:
+              - /url: /remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475
+              - heading "Senior React Full stack Developer" [level=2] [ref=f172e758]
+            - heading "Lemon.io" [level=3] [ref=f172e760]
+            - generic "This job is available for remote workers from United States. Click to see more remote jobs in United States" [ref=f172e761]:
+              - link "🇺🇸 United States" [ref=f172e762]:
+                - /url: /remote-jobs-in-united-states
+            - generic "This job is available for remote workers from Canada. Click to see more remote jobs in Canada" [ref=f172e763]:
+              - link "🇨🇦 Canada" [ref=f172e764]:
+                - /url: /remote-jobs-in-canada
+            - generic [ref=f172e765]: 💃 Latin America
+            - generic [ref=f172e766]: 🇪🇺 Europe
+            - generic [ref=f172e767]: 🏄 Oceania
+            - generic "This job is available for remote workers from Japan. Click to see more remote jobs in Japan" [ref=f172e768]:
+              - link "🇯🇵 Japan" [ref=f172e769]:
+                - /url: /remote-jobs-in-japan
+            - generic "This job is available for remote workers from Singapore. Click to see more remote jobs in Singapore" [ref=f172e770]:
+              - link "🇸🇬 Singapore" [ref=f172e771]:
+                - /url: /remote-jobs-in-singapore
+            - generic "This job is available for remote workers from South Korea. Click to see more remote jobs in South Korea" [ref=f172e772]:
+              - link "🇰🇷 South Korea" [ref=f172e773]:
+                - /url: /remote-jobs-in-south-korea
+            - generic "This job is available for remote workers from Philippines. Click to see more remote jobs in Philippines" [ref=f172e774]:
+              - link "🇵🇭 Philippines" [ref=f172e775]:
+                - /url: /remote-jobs-in-philippines
+            - generic "This job is available for remote workers from Indonesia. Click to see more remote jobs in Indonesia" [ref=f172e776]:
+              - link "🇮🇩 Indonesia" [ref=f172e777]:
+                - /url: /remote-jobs-in-indonesia
+            - generic "This job is available for remote workers from Malaysia. Click to see more remote jobs in Malaysia" [ref=f172e778]:
+              - link "🇲🇾 Malaysia" [ref=f172e779]:
+                - /url: /remote-jobs-in-malaysia
+            - generic "This job is available for remote workers from Vietnam. Click to see more remote jobs in Vietnam" [ref=f172e780]:
+              - link "🇻🇳 Vietnam" [ref=f172e781]:
+                - /url: /remote-jobs-in-vietnam
+            - generic "This job is available for remote workers from Thailand. Click to see more remote jobs in Thailand" [ref=f172e782]:
+              - link "🇹🇭 Thailand" [ref=f172e783]:
+                - /url: /remote-jobs-in-thailand
+            - generic "This job is available for remote workers from Israel. Click to see more remote jobs in Israel" [ref=f172e784]:
+              - link "🇮🇱 Israel" [ref=f172e785]:
+                - /url: /remote-jobs-in-israel
+            - generic "This job is available for remote workers from Morocco. Click to see more remote jobs in Morocco" [ref=f172e786]:
+              - link "🇲🇦 Morocco" [ref=f172e787]:
+                - /url: /remote-jobs-in-morocco
+            - generic "This job is available for remote workers from South Africa. Click to see more remote jobs in South Africa" [ref=f172e788]:
+              - link "🇿🇦 South Africa" [ref=f172e789]:
+                - /url: /remote-jobs-in-south-africa
+            - generic [ref=f172e790]: 💰 $80k - $200k
+          - cell [ref=f172e791]:
+            - link "Remote Developer + Engineer Jobs" [ref=f172e792]:
+              - /url: /remote-dev+engineer-jobs
+              - heading "Engineer" [level=3] [ref=f172e794]
+            - link "Remote Developer + Remote Jobs" [ref=f172e795]:
+              - /url: /remote-dev+remote-jobs
+              - heading "Remote" [level=3] [ref=f172e797]
+            - link "Remote Developer + Python Jobs" [ref=f172e798]:
+              - /url: /remote-dev+python-jobs
+              - heading "Python" [level=3] [ref=f172e800]
+          - cell [ref=f172e801]:
+            - time [ref=f172e802]: 22d
+          - cell [ref=f172e803]:
+            - link "Apply":
+              - /url: /l/1137475
+              - paragraph [ref=f172e805]: Apply
+        - row [ref=f172e806]:
+          - cell [ref=f172e807]
+        - row [ref=f172e808] [cursor=pointer]:
+          - cell [ref=f172e809]:
+            - link [ref=f172e810]:
+              - /url: /remote-jobs/remote-associate-data-scientist-algaecal-1137531
+              - img "AlgaeCal" [ref=f172e811]
+          - cell "Associate Data Scientist AlgaeCal 🇨🇦 Canada 💰 Upgrade to Premium to see salary" [ref=f172e812]:
+            - link [ref=f172e813]:
+              - /url: /remote-jobs/remote-associate-data-scientist-algaecal-1137531
+              - heading "Associate Data Scientist" [level=2] [ref=f172e814]
+            - heading "AlgaeCal" [level=3] [ref=f172e816]
+            - generic "This job is available for remote workers from Canada. Click to see more remote jobs in Canada" [ref=f172e817]:
+              - link "🇨🇦 Canada" [ref=f172e818]:
+                - /url: /remote-jobs-in-canada
+            - generic [ref=f172e819]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e820]:
+            - link "Remote Design + Developer Jobs" [ref=f172e821]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e823]
+            - link "Remote Developer + Python Jobs" [ref=f172e824]:
+              - /url: /remote-dev+python-jobs
+              - heading "Python" [level=3] [ref=f172e826]
+            - link "Remote Customer Support + Developer Jobs" [ref=f172e827]:
+              - /url: /remote-customer-support+dev-jobs
+              - heading "Customer Support" [level=3] [ref=f172e829]
+          - cell [ref=f172e830]:
+            - time [ref=f172e831]: 15d
+          - cell [ref=f172e832]:
+            - link "Apply":
+              - /url: /l/1137531
+              - paragraph [ref=f172e834]: Apply
+        - row [ref=f172e835]:
+          - cell [ref=f172e836]
+        - row [ref=f172e837] [cursor=pointer]:
+          - cell [ref=f172e838]:
+            - link [ref=f172e839]:
+              - /url: /remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530
+              - img "Hippocratic AI" [ref=f172e840]
+          - cell "Director of IT and Workplace Hippocratic AI 🇺🇸 United States 💰 Upgrade to Premium to see salary" [ref=f172e841]:
+            - link [ref=f172e842]:
+              - /url: /remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530
+              - heading "Director of IT and Workplace" [level=2] [ref=f172e843]
+            - heading "Hippocratic AI" [level=3] [ref=f172e845]
+            - generic "This job is available for remote workers from United States. Click to see more remote jobs in United States" [ref=f172e846]:
+              - link "🇺🇸 United States" [ref=f172e847]:
+                - /url: /remote-jobs-in-united-states
+            - generic [ref=f172e848]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e849]:
+            - link "Remote Developer + Executive Jobs" [ref=f172e850]:
+              - /url: /remote-dev+exec-jobs
+              - heading "Executive" [level=3] [ref=f172e852]
+            - link "Remote Developer + SaaS Jobs" [ref=f172e853]:
+              - /url: /remote-dev+saas-jobs
+              - heading "SaaS" [level=3] [ref=f172e855]
+            - link "Remote Developer + InfoSec Jobs" [ref=f172e856]:
+              - /url: /remote-dev+infosec-jobs
+              - heading "InfoSec" [level=3] [ref=f172e858]
+          - cell [ref=f172e859]:
+            - time [ref=f172e860]: 15d
+          - cell [ref=f172e861]:
+            - link "Apply":
+              - /url: /l/1137530
+              - paragraph [ref=f172e863]: Apply
+        - row [ref=f172e864]:
+          - cell [ref=f172e865]
+        - row [ref=f172e866] [cursor=pointer]:
+          - cell [ref=f172e867]:
+            - link [ref=f172e868]:
+              - /url: /remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
+              - img "Wrapbook" [ref=f172e869]
+          - cell "Senior Software Engineer II Applied AI Wrapbook 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f172e870]:
+            - link [ref=f172e871]:
+              - /url: /remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
+              - heading "Senior Software Engineer II Applied AI" [level=2] [ref=f172e872]
+            - heading "Wrapbook" [level=3] [ref=f172e874]
+            - generic [ref=f172e875]: 🌏 Worldwide
+            - generic [ref=f172e876]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e877]:
+            - link "Remote Design + Developer Jobs" [ref=f172e878]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e880]
+            - link "Remote Amazon + Developer Jobs" [ref=f172e881]:
+              - /url: /remote-amazon+dev-jobs
+              - heading "Amazon" [level=3] [ref=f172e883]
+            - link "Remote Developer + Sys Admin Jobs" [ref=f172e884]:
+              - /url: /remote-dev+sys-admin-jobs
+              - heading "Sys Admin" [level=3] [ref=f172e886]
+          - cell [ref=f172e887]:
+            - time [ref=f172e888]: 16d
+          - cell [ref=f172e889]:
+            - link "Apply":
+              - /url: /l/1137527
+              - paragraph [ref=f172e891]: Apply
+        - row [ref=f172e892]:
+          - cell [ref=f172e893]
+        - row [ref=f172e894] [cursor=pointer]:
+          - cell [ref=f172e895]:
+            - link [ref=f172e896]:
+              - /url: /remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525
+              - img "Manila Recruitment" [ref=f172e897]
+          - 'cell "Director US Tax & Accounting #35344 Manila Recruitment 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e898]':
+            - link [ref=f172e899]:
+              - /url: /remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525
+              - 'heading "Director US Tax & Accounting #35344" [level=2] [ref=f172e900]'
+            - heading "Manila Recruitment" [level=3] [ref=f172e902]
+            - generic [ref=f172e903]: 🌏 Probably worldwide
+            - generic [ref=f172e904]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e905]:
+            - link "Remote Developer + Executive Jobs" [ref=f172e906]:
+              - /url: /remote-dev+exec-jobs
+              - heading "Executive" [level=3] [ref=f172e908]
+            - link "Remote Accounting + Developer Jobs" [ref=f172e909]:
+              - /url: /remote-accounting+dev-jobs
+              - heading "Accounting" [level=3] [ref=f172e911]
+            - link "Remote Developer + Education Jobs" [ref=f172e912]:
+              - /url: /remote-dev+education-jobs
+              - heading "Edu" [level=3] [ref=f172e914]
+          - cell [ref=f172e915]:
+            - time [ref=f172e916]: 16d
+          - cell [ref=f172e917]:
+            - link "Apply":
+              - /url: /l/1137525
+              - paragraph [ref=f172e919]: Apply
+        - row [ref=f172e920]:
+          - cell [ref=f172e921]
+        - row [ref=f172e922] [cursor=pointer]:
+          - cell [ref=f172e923]:
+            - link [ref=f172e924]:
+              - /url: /remote-jobs/remote-sr-react-native-somnio-software-1137523
+              - img "Somnio Software" [ref=f172e925]
+          - cell "Sr REACT NATIVE verified Somnio Software 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e926]:
+            - link [ref=f172e927]:
+              - /url: /remote-jobs/remote-sr-react-native-somnio-software-1137523
+              - heading "Sr REACT NATIVE" [level=2] [ref=f172e928]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f172e929]': verified
+            - heading "Somnio Software" [level=3] [ref=f172e931]
+            - generic [ref=f172e932]: 🌏 Probably worldwide
+            - generic [ref=f172e933]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e934]:
+            - link "Remote Developer + React Native Jobs" [ref=f172e935]:
+              - /url: /remote-dev+react-native-jobs
+              - heading "React Native" [level=3] [ref=f172e937]
+            - link "Remote Developer + React Jobs" [ref=f172e938]:
+              - /url: /remote-dev+react-jobs
+              - heading "React" [level=3] [ref=f172e940]
+            - link "Remote Developer + Python Jobs" [ref=f172e941]:
+              - /url: /remote-dev+python-jobs
+              - heading "Python" [level=3] [ref=f172e943]
+          - cell [ref=f172e944]:
+            - time [ref=f172e945]: 16d
+          - cell [ref=f172e946]:
+            - link "Apply":
+              - /url: /l/1137523
+              - paragraph [ref=f172e948]: Apply
+        - row [ref=f172e949]:
+          - cell [ref=f172e950]
+        - row [ref=f172e951] [cursor=pointer]:
+          - cell [ref=f172e952]:
+            - link [ref=f172e953]:
+              - /url: /remote-jobs/remote-principal-software-engineer-vytalize-health-1137508
+              - img "Vytalize Health" [ref=f172e954]
+          - cell "Principal Software Engineer Vytalize Health 🇺🇸 United States 💰 Upgrade to Premium to see salary" [ref=f172e955]:
+            - link [ref=f172e956]:
+              - /url: /remote-jobs/remote-principal-software-engineer-vytalize-health-1137508
+              - heading "Principal Software Engineer" [level=2] [ref=f172e957]
+            - heading "Vytalize Health" [level=3] [ref=f172e959]
+            - generic "This job is available for remote workers from United States. Click to see more remote jobs in United States" [ref=f172e960]:
+              - link "🇺🇸 United States" [ref=f172e961]:
+                - /url: /remote-jobs-in-united-states
+            - generic [ref=f172e962]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e963]:
+            - link "Remote Design + Developer Jobs" [ref=f172e964]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e966]
+            - link "Remote Developer + InfoSec Jobs" [ref=f172e967]:
+              - /url: /remote-dev+infosec-jobs
+              - heading "InfoSec" [level=3] [ref=f172e969]
+            - link "Remote Developer + Python Jobs" [ref=f172e970]:
+              - /url: /remote-dev+python-jobs
+              - heading "Python" [level=3] [ref=f172e972]
+          - cell [ref=f172e973]:
+            - time [ref=f172e974]: 18d
+          - cell [ref=f172e975]:
+            - link "Apply":
+              - /url: /l/1137508
+              - paragraph [ref=f172e977]: Apply
+        - row [ref=f172e978]:
+          - cell [ref=f172e979]
+        - row [ref=f172e980] [cursor=pointer]:
+          - cell [ref=f172e981]:
+            - link [ref=f172e982]:
+              - /url: /remote-jobs/remote-manager-clinical-data-management-edetek-1137481
+              - img "EDETEK" [ref=f172e983]
+          - cell "Manager Clinical Data Management EDETEK 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e984]:
+            - link [ref=f172e985]:
+              - /url: /remote-jobs/remote-manager-clinical-data-management-edetek-1137481
+              - heading "Manager Clinical Data Management" [level=2] [ref=f172e986]
+            - heading "EDETEK" [level=3] [ref=f172e988]
+            - generic [ref=f172e989]: 🌏 Probably worldwide
+            - generic [ref=f172e990]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e991]:
+            - link "Remote Developer + Executive Jobs" [ref=f172e992]:
+              - /url: /remote-dev+exec-jobs
+              - heading "Executive" [level=3] [ref=f172e994]
+            - link "Remote Design + Developer Jobs" [ref=f172e995]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e997]
+            - link "Remote Developer + Sys Admin Jobs" [ref=f172e998]:
+              - /url: /remote-dev+sys-admin-jobs
+              - heading "Sys Admin" [level=3] [ref=f172e1000]
+          - cell [ref=f172e1001]:
+            - time [ref=f172e1002]: 21d
+          - cell [ref=f172e1003]:
+            - link "Apply":
+              - /url: /l/1137481
+              - paragraph [ref=f172e1005]: Apply
+        - row [ref=f172e1006]:
+          - cell [ref=f172e1007]
+        - row [ref=f172e1008] [cursor=pointer]:
+          - cell [ref=f172e1009]:
+            - link [ref=f172e1010]:
+              - /url: /remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478
+              - img "Tether Operations Limited" [ref=f172e1011]
+          - cell "Product Engineering Lead Tether Operations Limited 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e1012]:
+            - link [ref=f172e1013]:
+              - /url: /remote-jobs/remote-product-engineering-lead-tether-operations-limited-1137478
+              - heading "Product Engineering Lead" [level=2] [ref=f172e1014]
+            - heading "Tether Operations Limited" [level=3] [ref=f172e1016]
+            - generic [ref=f172e1017]: 🌏 Probably worldwide
+            - generic [ref=f172e1018]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1019]:
+            - link "Remote Design + Developer Jobs" [ref=f172e1020]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e1022]
+            - link "Remote Bitcoin + Developer Jobs" [ref=f172e1023]:
+              - /url: /remote-bitcoin+dev-jobs
+              - heading "Bitcoin" [level=3] [ref=f172e1025]
+            - link "Remote Developer + React Jobs" [ref=f172e1026]:
+              - /url: /remote-dev+react-jobs
+              - heading "React" [level=3] [ref=f172e1028]
+          - cell [ref=f172e1029]:
+            - time [ref=f172e1030]: 21d
+          - cell [ref=f172e1031]:
+            - link "Apply":
+              - /url: /l/1137478
+              - paragraph [ref=f172e1033]: Apply
+        - row [ref=f172e1034]:
+          - cell [ref=f172e1035]
+        - row [ref=f172e1036] [cursor=pointer]:
+          - cell [ref=f172e1037]:
+            - link [ref=f172e1038]:
+              - /url: /remote-jobs/remote-product-design-lead-fuel50-1137474
+              - img "Fuel50" [ref=f172e1039]
+          - cell "Product Design Lead Fuel50 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e1040]:
+            - link [ref=f172e1041]:
+              - /url: /remote-jobs/remote-product-design-lead-fuel50-1137474
+              - heading "Product Design Lead" [level=2] [ref=f172e1042]
+            - heading "Fuel50" [level=3] [ref=f172e1044]
+            - generic [ref=f172e1045]: 🌏 Probably worldwide
+            - generic [ref=f172e1046]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1047]:
+            - link "Remote Design + Developer Jobs" [ref=f172e1048]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e1050]
+            - link "Remote Developer + SaaS Jobs" [ref=f172e1051]:
+              - /url: /remote-dev+saas-jobs
+              - heading "SaaS" [level=3] [ref=f172e1053]
+            - link "Remote Developer + Sys Admin Jobs" [ref=f172e1054]:
+              - /url: /remote-dev+sys-admin-jobs
+              - heading "Sys Admin" [level=3] [ref=f172e1056]
+          - cell [ref=f172e1057]:
+            - time [ref=f172e1058]: 22d
+          - cell [ref=f172e1059]:
+            - link "Apply":
+              - /url: /l/1137474
+              - paragraph [ref=f172e1061]: Apply
+        - row [ref=f172e1062]:
+          - cell [ref=f172e1063]
+        - row [ref=f172e1064] [cursor=pointer]:
+          - cell [ref=f172e1065]:
+            - link [ref=f172e1066]:
+              - /url: /remote-jobs/remote-software-engineer-prenosis-1137427
+              - paragraph [ref=f172e1068]: P
+          - cell "Software Engineer Prenosis 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e1069]:
+            - link [ref=f172e1070]:
+              - /url: /remote-jobs/remote-software-engineer-prenosis-1137427
+              - heading "Software Engineer" [level=2] [ref=f172e1071]
+            - heading "Prenosis" [level=3] [ref=f172e1073]
+            - generic [ref=f172e1074]: 🌏 Probably worldwide
+            - generic [ref=f172e1075]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1076]:
+            - link "Remote Developer + Golang Jobs" [ref=f172e1077]:
+              - /url: /remote-dev+golang-jobs
+              - heading "Golang" [level=3] [ref=f172e1079]
+            - link "Remote Developer + Engineer Jobs" [ref=f172e1080]:
+              - /url: /remote-dev+engineer-jobs
+              - heading "Engineer" [level=3] [ref=f172e1082]
+          - cell [ref=f172e1083]:
+            - time [ref=f172e1084]: 1mo
+          - cell [ref=f172e1085]:
+            - link "Apply":
+              - /url: /l/1137427
+              - paragraph [ref=f172e1087]: Apply
+        - row [ref=f172e1088]:
+          - cell [ref=f172e1089]
+        - row [ref=f172e1090] [cursor=pointer]:
+          - cell [ref=f172e1091]:
+            - link [ref=f172e1092]:
+              - /url: /remote-jobs/remote-people-operations-coordinator-ashby-1137412
+              - img "Ashby" [ref=f172e1093]
+          - cell "People Operations Coordinator Ashby 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f172e1094]:
+            - link [ref=f172e1095]:
+              - /url: /remote-jobs/remote-people-operations-coordinator-ashby-1137412
+              - heading "People Operations Coordinator" [level=2] [ref=f172e1096]
+            - heading "Ashby" [level=3] [ref=f172e1098]
+            - generic [ref=f172e1099]: 🌏 Worldwide
+            - generic [ref=f172e1100]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1101]:
+            - link "Remote Developer + SaaS Jobs" [ref=f172e1102]:
+              - /url: /remote-dev+saas-jobs
+              - heading "SaaS" [level=3] [ref=f172e1104]
+            - link "Remote Developer + Recruiter Jobs" [ref=f172e1105]:
+              - /url: /remote-dev+recruiter-jobs
+              - heading "Recruiter" [level=3] [ref=f172e1107]
+            - link "Remote Coordinator + Developer Jobs" [ref=f172e1108]:
+              - /url: /remote-coordinator+dev-jobs
+              - heading "Coordinator" [level=3] [ref=f172e1110]
+          - cell [ref=f172e1111]:
+            - time [ref=f172e1112]: 1mo
+          - cell [ref=f172e1113]:
+            - link "Apply":
+              - /url: /l/1137412
+              - paragraph [ref=f172e1115]: Apply
+        - row [ref=f172e1116]:
+          - cell [ref=f172e1117]
+        - row [ref=f172e1118] [cursor=pointer]:
+          - cell [ref=f172e1119]:
+            - link [ref=f172e1120]:
+              - /url: /remote-jobs/remote-vp-pricing-packaging-delinea-1137407
+              - img "Delinea" [ref=f172e1121]
+          - cell "VP Pricing & Packaging Delinea Redwood City 💰 Upgrade to Premium to see salary" [ref=f172e1122]:
+            - link [ref=f172e1123]:
+              - /url: /remote-jobs/remote-vp-pricing-packaging-delinea-1137407
+              - heading "VP Pricing & Packaging" [level=2] [ref=f172e1124]
+            - heading "Delinea" [level=3] [ref=f172e1126]
+            - generic [ref=f172e1127]: Redwood City
+            - generic [ref=f172e1128]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1129]:
+            - link "Remote Design + Developer Jobs" [ref=f172e1130]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e1132]
+            - link "Remote Developer + SaaS Jobs" [ref=f172e1133]:
+              - /url: /remote-dev+saas-jobs
+              - heading "SaaS" [level=3] [ref=f172e1135]
+            - link "Remote Developer + Salesforce Jobs" [ref=f172e1136]:
+              - /url: /remote-dev+salesforce-jobs
+              - heading "Salesforce" [level=3] [ref=f172e1138]
+          - cell [ref=f172e1139]:
+            - time [ref=f172e1140]: 1mo
+          - cell [ref=f172e1141]:
+            - link "Apply":
+              - /url: /l/1137407
+              - paragraph [ref=f172e1143]: Apply
+        - row [ref=f172e1144]:
+          - cell [ref=f172e1145]
+        - row [ref=f172e1146] [cursor=pointer]:
+          - cell [ref=f172e1147]:
+            - link [ref=f172e1148]:
+              - /url: /remote-jobs/remote-software-engineer-mirantis-1137387
+              - paragraph [ref=f172e1150]: M
+          - cell "Software Engineer Mirantis 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e1151]:
+            - link [ref=f172e1152]:
+              - /url: /remote-jobs/remote-software-engineer-mirantis-1137387
+              - heading "Software Engineer" [level=2] [ref=f172e1153]
+            - heading "Mirantis" [level=3] [ref=f172e1155]
+            - generic [ref=f172e1156]: 🌏 Probably worldwide
+            - generic [ref=f172e1157]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1158]:
+            - link "Remote Developer + Golang Jobs" [ref=f172e1159]:
+              - /url: /remote-dev+golang-jobs
+              - heading "Golang" [level=3] [ref=f172e1161]
+            - link "Remote Developer + Engineer Jobs" [ref=f172e1162]:
+              - /url: /remote-dev+engineer-jobs
+              - heading "Engineer" [level=3] [ref=f172e1164]
+          - cell [ref=f172e1165]:
+            - time [ref=f172e1166]: 2mo
+          - cell [ref=f172e1167]:
+            - link "Apply":
+              - /url: /l/1137387
+              - paragraph [ref=f172e1169]: Apply
+        - row [ref=f172e1170]:
+          - cell [ref=f172e1171]
+        - row [ref=f172e1172] [cursor=pointer]:
+          - cell [ref=f172e1173]:
+            - link [ref=f172e1174]:
+              - /url: /remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381
+              - img "Copenhagen Optimization" [ref=f172e1175]
+          - cell "Marketing Student Assistant verified Copenhagen Optimization 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e1176]:
+            - link [ref=f172e1177]:
+              - /url: /remote-jobs/remote-marketing-student-assistant-copenhagen-optimization-1137381
+              - heading "Marketing Student Assistant" [level=2] [ref=f172e1178]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f172e1179]': verified
+            - heading "Copenhagen Optimization" [level=3] [ref=f172e1181]
+            - generic [ref=f172e1182]: 🌏 Probably worldwide
+            - generic [ref=f172e1183]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1184]:
+            - link "Remote Developer + Virtual Assistant Jobs" [ref=f172e1185]:
+              - /url: /remote-dev+virtual-assistant-jobs
+              - heading "Virtual Assistant" [level=3] [ref=f172e1187]
+            - link "Remote Developer + Strategy Jobs" [ref=f172e1188]:
+              - /url: /remote-dev+strategy-jobs
+              - heading "Strategy" [level=3] [ref=f172e1190]
+            - link "Remote Customer Support + Developer Jobs" [ref=f172e1191]:
+              - /url: /remote-customer-support+dev-jobs
+              - heading "Customer Support" [level=3] [ref=f172e1193]
+          - cell [ref=f172e1194]:
+            - time [ref=f172e1195]: 2mo
+          - cell [ref=f172e1196]:
+            - link "Apply":
+              - /url: /l/1137381
+              - paragraph [ref=f172e1198]: Apply
+        - row [ref=f172e1199]:
+          - cell [ref=f172e1200]
+        - row [ref=f172e1201] [cursor=pointer]:
+          - cell [ref=f172e1202]:
+            - link [ref=f172e1203]:
+              - /url: /remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
+              - paragraph [ref=f172e1205]: KN
+          - cell "DESARROLLADOR FULL STACK Kruger NearShore LLC - Rekluti 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e1206]:
+            - link [ref=f172e1207]:
+              - /url: /remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
+              - heading "DESARROLLADOR FULL STACK" [level=2] [ref=f172e1208]
+            - heading "Kruger NearShore LLC - Rekluti" [level=3] [ref=f172e1210]
+            - generic [ref=f172e1211]: 🌏 Probably worldwide
+            - generic [ref=f172e1212]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1213]:
+            - link "Remote Developer + Full Stack Jobs" [ref=f172e1214]:
+              - /url: /remote-dev+full-stack-jobs
+              - heading "Full Stack" [level=3] [ref=f172e1216]
+            - link "Remote Developer + Front End Jobs" [ref=f172e1217]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Front End" [level=3] [ref=f172e1219]
+            - link "Remote Developer + Python Jobs" [ref=f172e1220]:
+              - /url: /remote-dev+python-jobs
+              - heading "Python" [level=3] [ref=f172e1222]
+          - cell [ref=f172e1223]:
+            - time [ref=f172e1224]: 2mo
+          - cell [ref=f172e1225]:
+            - link "Apply":
+              - /url: /l/1137062
+              - paragraph [ref=f172e1227]: Apply
+        - row [ref=f172e1228]:
+          - cell [ref=f172e1229]
+        - row [ref=f172e1230] [cursor=pointer]:
+          - cell [ref=f172e1231]:
+            - link [ref=f172e1232]:
+              - /url: /remote-jobs/remote-data-steward-smartsheet-1137080
+              - img "Smartsheet" [ref=f172e1233]
+          - cell "Data Steward verified Smartsheet 🇨🇷 Costa Rica 💰 Upgrade to Premium to see salary" [ref=f172e1234]:
+            - link [ref=f172e1235]:
+              - /url: /remote-jobs/remote-data-steward-smartsheet-1137080
+              - heading "Data Steward" [level=2] [ref=f172e1236]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f172e1237]': verified
+            - heading "Smartsheet" [level=3] [ref=f172e1239]
+            - generic "This job is available for remote workers from Costa Rica. Click to see more remote jobs in Costa Rica" [ref=f172e1240]:
+              - link "🇨🇷 Costa Rica" [ref=f172e1241]:
+                - /url: /remote-jobs-in-costa-rica
+            - generic [ref=f172e1242]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1243]:
+            - link "Remote Developer + Executive Jobs" [ref=f172e1244]:
+              - /url: /remote-dev+exec-jobs
+              - heading "Executive" [level=3] [ref=f172e1246]
+            - link "Remote Developer + Virtual Assistant Jobs" [ref=f172e1247]:
+              - /url: /remote-dev+virtual-assistant-jobs
+              - heading "Virtual Assistant" [level=3] [ref=f172e1249]
+            - link "Remote Developer + Education Jobs" [ref=f172e1250]:
+              - /url: /remote-dev+education-jobs
+              - heading "Edu" [level=3] [ref=f172e1252]
+          - cell [ref=f172e1253]:
+            - time [ref=f172e1254]: 2mo
+          - cell [ref=f172e1255]:
+            - link "Apply":
+              - /url: /l/1137080
+              - paragraph [ref=f172e1257]: Apply
+        - row [ref=f172e1258]:
+          - cell [ref=f172e1259]
+        - row [ref=f172e1260] [cursor=pointer]:
+          - cell [ref=f172e1261]:
+            - link [ref=f172e1262]:
+              - /url: /remote-jobs/remote-team-lead-education-chaos-1136949
+              - img "Chaos" [ref=f172e1263]
+          - cell "Team Lead Education verified Chaos 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f172e1264]:
+            - link [ref=f172e1265]:
+              - /url: /remote-jobs/remote-team-lead-education-chaos-1136949
+              - heading "Team Lead Education" [level=2] [ref=f172e1266]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f172e1267]': verified
+            - heading "Chaos" [level=3] [ref=f172e1269]
+            - generic [ref=f172e1270]: 🌏 Probably worldwide
+            - generic [ref=f172e1271]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1272]:
+            - link "Remote Design + Developer Jobs" [ref=f172e1273]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e1275]
+            - link "Remote Developer + SaaS Jobs" [ref=f172e1276]:
+              - /url: /remote-dev+saas-jobs
+              - heading "SaaS" [level=3] [ref=f172e1278]
+            - link "Remote Developer + VFX Jobs" [ref=f172e1279]:
+              - /url: /remote-dev+vfx-jobs
+              - heading "VFX" [level=3] [ref=f172e1281]
+          - cell [ref=f172e1282]:
+            - time [ref=f172e1283]: 2mo
+          - cell [ref=f172e1284]:
+            - link "Apply":
+              - /url: /l/1136949
+              - paragraph [ref=f172e1286]: Apply
+        - row [ref=f172e1287]:
+          - cell [ref=f172e1288]
+        - row [ref=f172e1289] [cursor=pointer]:
+          - cell [ref=f172e1290]:
+            - link [ref=f172e1291]:
+              - /url: /remote-jobs/remote-hotline-paralegal-legal-services-nyc-1136861
+              - img "Legal Services NYC" [ref=f172e1292]
+          - cell "Hotline Paralegal Legal Services NYC LSNYC Central Office 💰 Upgrade to Premium to see salary" [ref=f172e1293]:
+            - link [ref=f172e1294]:
+              - /url: /remote-jobs/remote-hotline-paralegal-legal-services-nyc-1136861
+              - heading "Hotline Paralegal" [level=2] [ref=f172e1295]
+            - heading "Legal Services NYC" [level=3] [ref=f172e1297]
+            - generic "LSNYC Central Office" [ref=f172e1298]
+            - generic [ref=f172e1299]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1300]:
+            - link "Remote Developer + InfoSec Jobs" [ref=f172e1301]:
+              - /url: /remote-dev+infosec-jobs
+              - heading "InfoSec" [level=3] [ref=f172e1303]
+            - link "Remote Developer + Education Jobs" [ref=f172e1304]:
+              - /url: /remote-dev+education-jobs
+              - heading "Edu" [level=3] [ref=f172e1306]
+            - link "Remote Developer + Marketing Jobs" [ref=f172e1307]:
+              - /url: /remote-dev+marketing-jobs
+              - heading "Marketing" [level=3] [ref=f172e1309]
+          - cell [ref=f172e1310]:
+            - time [ref=f172e1311]: 2mo
+          - cell [ref=f172e1312]:
+            - link "Apply":
+              - /url: /l/1136861
+              - paragraph [ref=f172e1314]: Apply
+        - row [ref=f172e1315]:
+          - cell [ref=f172e1316]
+        - row [ref=f172e1317] [cursor=pointer]:
+          - cell [ref=f172e1318]:
+            - link [ref=f172e1319]:
+              - /url: /remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798
+              - img "Physical Superintelligence" [ref=f172e1320]
+          - cell "Member of Technical Staff Engineering Physical Superintelligence 🇺🇸 United States 💰 Upgrade to Premium to see salary" [ref=f172e1321]:
+            - link [ref=f172e1322]:
+              - /url: /remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798
+              - heading "Member of Technical Staff Engineering" [level=2] [ref=f172e1323]
+            - heading "Physical Superintelligence" [level=3] [ref=f172e1325]
+            - generic "This job is available for remote workers from United States. Click to see more remote jobs in United States" [ref=f172e1326]:
+              - link "🇺🇸 United States" [ref=f172e1327]:
+                - /url: /remote-jobs-in-united-states
+            - generic [ref=f172e1328]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1329]:
+            - link "Remote Design + Developer Jobs" [ref=f172e1330]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e1332]
+            - link "Remote Developer + InfoSec Jobs" [ref=f172e1333]:
+              - /url: /remote-dev+infosec-jobs
+              - heading "InfoSec" [level=3] [ref=f172e1335]
+            - link "Remote Developer + Technical Jobs" [ref=f172e1336]:
+              - /url: /remote-dev+technical-jobs
+              - heading "Technical" [level=3] [ref=f172e1338]
+          - cell [ref=f172e1339]:
+            - time [ref=f172e1340]: 3mo
+          - cell [ref=f172e1341]:
+            - link "Apply":
+              - /url: /l/1136798
+              - paragraph [ref=f172e1343]: Apply
+        - row [ref=f172e1344]:
+          - cell [ref=f172e1345]
+        - row [ref=f172e1346] [cursor=pointer]:
+          - cell [ref=f172e1347]:
+            - link [ref=f172e1348]:
+              - /url: /remote-jobs/remote-staff-software-development-engineer-sdm-delinea-1136796
+              - img "Delinea" [ref=f172e1349]
+          - cell "Staff Software Development Engineer SDM Delinea Redwood City 💰 Upgrade to Premium to see salary" [ref=f172e1350]:
+            - link [ref=f172e1351]:
+              - /url: /remote-jobs/remote-staff-software-development-engineer-sdm-delinea-1136796
+              - heading "Staff Software Development Engineer SDM" [level=2] [ref=f172e1352]
+            - heading "Delinea" [level=3] [ref=f172e1354]
+            - generic [ref=f172e1355]: Redwood City
+            - generic [ref=f172e1356]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1357]:
+            - link "Remote Design + Developer Jobs" [ref=f172e1358]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e1360]
+            - link "Remote Developer + SaaS Jobs" [ref=f172e1361]:
+              - /url: /remote-dev+saas-jobs
+              - heading "SaaS" [level=3] [ref=f172e1363]
+            - link "Remote Developer + Sys Admin Jobs" [ref=f172e1364]:
+              - /url: /remote-dev+sys-admin-jobs
+              - heading "Sys Admin" [level=3] [ref=f172e1366]
+          - cell [ref=f172e1367]:
+            - time [ref=f172e1368]: 3mo
+          - cell [ref=f172e1369]:
+            - link "Apply":
+              - /url: /l/1136796
+              - paragraph [ref=f172e1371]: Apply
+        - row [ref=f172e1372]:
+          - cell [ref=f172e1373]
+        - row [ref=f172e1374] [cursor=pointer]:
+          - cell [ref=f172e1375]:
+            - link [ref=f172e1376]:
+              - /url: /remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795
+              - img "Pivotal Health" [ref=f172e1377]
+          - cell "Senior Software Engineer Case Execution Pivotal Health 🇺🇸 United States 💰 Upgrade to Premium to see salary" [ref=f172e1378]:
+            - link [ref=f172e1379]:
+              - /url: /remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795
+              - heading "Senior Software Engineer Case Execution" [level=2] [ref=f172e1380]
+            - heading "Pivotal Health" [level=3] [ref=f172e1382]
+            - generic "This job is available for remote workers from United States. Click to see more remote jobs in United States" [ref=f172e1383]:
+              - link "🇺🇸 United States" [ref=f172e1384]:
+                - /url: /remote-jobs-in-united-states
+            - generic [ref=f172e1385]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1386]:
+            - link "Remote Developer + Front End Jobs" [ref=f172e1387]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Front End" [level=3] [ref=f172e1389]
+            - link "Remote Developer + Python Jobs" [ref=f172e1390]:
+              - /url: /remote-dev+python-jobs
+              - heading "Python" [level=3] [ref=f172e1392]
+            - link "Remote Customer Support + Developer Jobs" [ref=f172e1393]:
+              - /url: /remote-customer-support+dev-jobs
+              - heading "Customer Support" [level=3] [ref=f172e1395]
+          - cell [ref=f172e1396]:
+            - time [ref=f172e1397]: 3mo
+          - cell [ref=f172e1398]:
+            - link "Apply":
+              - /url: /l/1136795
+              - paragraph [ref=f172e1400]: Apply
+        - row [ref=f172e1401]:
+          - cell [ref=f172e1402]
+        - row [ref=f172e1403] [cursor=pointer]:
+          - cell [ref=f172e1404]:
+            - link [ref=f172e1405]:
+              - /url: /remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701
+              - img "Ace IT Careers" [ref=f172e1406]
+          - cell "QA Tester Entry Level Ace IT Careers 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f172e1407]:
+            - link [ref=f172e1408]:
+              - /url: /remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701
+              - heading "QA Tester Entry Level" [level=2] [ref=f172e1409]
+            - heading "Ace IT Careers" [level=3] [ref=f172e1411]
+            - generic [ref=f172e1412]: 🌏 Worldwide
+            - generic [ref=f172e1413]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1414]:
+            - link "Remote Developer + Testing Jobs" [ref=f172e1415]:
+              - /url: /remote-dev+testing-jobs
+              - heading "Testing" [level=3] [ref=f172e1417]
+            - link "Remote Analyst + Developer Jobs" [ref=f172e1418]:
+              - /url: /remote-analyst+dev-jobs
+              - heading "Analyst" [level=3] [ref=f172e1420]
+            - link "Remote Developer + Quality Assurance Jobs" [ref=f172e1421]:
+              - /url: /remote-dev+quality-assurance-jobs
+              - heading "Quality Assurance" [level=3] [ref=f172e1423]
+          - cell [ref=f172e1424]:
+            - time [ref=f172e1425]: 3mo
+          - cell [ref=f172e1426]:
+            - link "Apply":
+              - /url: /l/1136701
+              - paragraph [ref=f172e1428]: Apply
+        - row [ref=f172e1429]:
+          - cell [ref=f172e1430]
+        - row [ref=f172e1431] [cursor=pointer]:
+          - cell [ref=f172e1432]:
+            - link [ref=f172e1433]:
+              - /url: /remote-jobs/remote-real-time-drilling-ops-centre-analyst-slb-1136857
+              - img "SLB" [ref=f172e1434]
+          - cell "Real Time Drilling Ops Centre Analyst verified SLB 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f172e1435]:
+            - link [ref=f172e1436]:
+              - /url: /remote-jobs/remote-real-time-drilling-ops-centre-analyst-slb-1136857
+              - heading "Real Time Drilling Ops Centre Analyst" [level=2] [ref=f172e1437]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f172e1438]': verified
+            - heading "SLB" [level=3] [ref=f172e1440]
+            - generic [ref=f172e1441]: 🌏 Worldwide
+            - generic [ref=f172e1442]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1443]:
+            - link "Remote Developer + Testing Jobs" [ref=f172e1444]:
+              - /url: /remote-dev+testing-jobs
+              - heading "Testing" [level=3] [ref=f172e1446]
+            - link "Remote Developer + Golang Jobs" [ref=f172e1447]:
+              - /url: /remote-dev+golang-jobs
+              - heading "Golang" [level=3] [ref=f172e1449]
+            - link "Remote Developer + Non Tech Jobs" [ref=f172e1450]:
+              - /url: /remote-dev+non-tech-jobs
+              - heading "Non Tech" [level=3] [ref=f172e1452]
+          - cell [ref=f172e1453]:
+            - time [ref=f172e1454]: 3mo
+          - cell [ref=f172e1455]:
+            - link "Apply":
+              - /url: /l/1136857
+              - paragraph [ref=f172e1457]: Apply
+        - row [ref=f172e1458]:
+          - cell [ref=f172e1459]
+        - row [ref=f172e1460] [cursor=pointer]:
+          - cell [ref=f172e1461]:
+            - link [ref=f172e1462]:
+              - /url: /remote-jobs/remote-software-engineer-iii-mobile-stone-1136570
+              - img "Stone" [ref=f172e1463]
+          - cell "Software Engineer III Mobile Stone Remoto 💰 Upgrade to Premium to see salary" [ref=f172e1464]:
+            - link [ref=f172e1465]:
+              - /url: /remote-jobs/remote-software-engineer-iii-mobile-stone-1136570
+              - heading "Software Engineer III Mobile" [level=2] [ref=f172e1466]
+            - heading "Stone" [level=3] [ref=f172e1468]
+            - generic [ref=f172e1469]: Remoto
+            - generic [ref=f172e1470]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1471]:
+            - link "Remote Developer + Mobile Jobs" [ref=f172e1472]:
+              - /url: /remote-dev+mobile-jobs
+              - heading "Mobile" [level=3] [ref=f172e1474]
+            - link "Remote Developer + Excel Jobs" [ref=f172e1475]:
+              - /url: /remote-dev+excel-jobs
+              - heading "Excel" [level=3] [ref=f172e1477]
+            - link "Remote Developer + Engineer Jobs" [ref=f172e1478]:
+              - /url: /remote-dev+engineer-jobs
+              - heading "Engineer" [level=3] [ref=f172e1480]
+          - cell [ref=f172e1481]:
+            - time [ref=f172e1482]: 3mo
+          - cell [ref=f172e1483]:
+            - link "Apply":
+              - /url: /l/1136570
+              - paragraph [ref=f172e1485]: Apply
+        - row [ref=f172e1486]:
+          - cell [ref=f172e1487]
+        - row [ref=f172e1488] [cursor=pointer]:
+          - cell [ref=f172e1489]:
+            - link [ref=f172e1490]:
+              - /url: /remote-jobs/remote-software-engineer-ii-golang-stone-1136569
+              - img "Stone" [ref=f172e1491]
+          - cell "Software Engineer II Golang Stone Remoto 💰 Upgrade to Premium to see salary" [ref=f172e1492]:
+            - link [ref=f172e1493]:
+              - /url: /remote-jobs/remote-software-engineer-ii-golang-stone-1136569
+              - heading "Software Engineer II Golang" [level=2] [ref=f172e1494]
+            - heading "Stone" [level=3] [ref=f172e1496]
+            - generic [ref=f172e1497]: Remoto
+            - generic [ref=f172e1498]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1499]:
+            - link "Remote Developer + Excel Jobs" [ref=f172e1500]:
+              - /url: /remote-dev+excel-jobs
+              - heading "Excel" [level=3] [ref=f172e1502]
+            - link "Remote Developer + Golang Jobs" [ref=f172e1503]:
+              - /url: /remote-dev+golang-jobs
+              - heading "Golang" [level=3] [ref=f172e1505]
+            - link "Remote Developer + Engineer Jobs" [ref=f172e1506]:
+              - /url: /remote-dev+engineer-jobs
+              - heading "Engineer" [level=3] [ref=f172e1508]
+          - cell [ref=f172e1509]:
+            - time [ref=f172e1510]: 3mo
+          - cell [ref=f172e1511]:
+            - link "Apply":
+              - /url: /l/1136569
+              - paragraph [ref=f172e1513]: Apply
+        - row [ref=f172e1514]:
+          - cell [ref=f172e1515]
+        - row [ref=f172e1516] [cursor=pointer]:
+          - cell [ref=f172e1517]:
+            - link [ref=f172e1518]:
+              - /url: /remote-jobs/remote-surveyor-i-american-bureau-of-shipping-abs-1136592
+              - img "American Bureau of Shipping (ABS)" [ref=f172e1519]
+          - cell "Surveyor I verified American Bureau of Shipping (ABS) 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f172e1520]:
+            - link [ref=f172e1521]:
+              - /url: /remote-jobs/remote-surveyor-i-american-bureau-of-shipping-abs-1136592
+              - heading "Surveyor I" [level=2] [ref=f172e1522]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f172e1523]': verified
+            - heading "American Bureau of Shipping (ABS)" [level=3] [ref=f172e1525]
+            - generic [ref=f172e1526]: 🌏 Worldwide
+            - generic [ref=f172e1527]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1528]:
+            - link "Remote Developer + Sales Jobs" [ref=f172e1529]:
+              - /url: /remote-dev+sales-jobs
+              - heading "Sales" [level=3] [ref=f172e1531]
+            - link "Remote Developer + Engineer Jobs" [ref=f172e1532]:
+              - /url: /remote-dev+engineer-jobs
+              - heading "Engineer" [level=3] [ref=f172e1534]
+            - link "Remote Developer + Technical Jobs" [ref=f172e1535]:
+              - /url: /remote-dev+technical-jobs
+              - heading "Technical" [level=3] [ref=f172e1537]
+          - cell [ref=f172e1538]:
+            - time [ref=f172e1539]: 3mo
+          - cell [ref=f172e1540]:
+            - link "Apply":
+              - /url: /l/1136592
+              - paragraph [ref=f172e1542]: Apply
+        - row [ref=f172e1543]:
+          - cell [ref=f172e1544]
+        - row [ref=f172e1545] [cursor=pointer]:
+          - cell [ref=f172e1546]:
+            - link [ref=f172e1547]:
+              - /url: /remote-jobs/remote-staff-software-engineer-evolve-1136447
+              - img "Evolve" [ref=f172e1548]
+          - cell "Staff Software Engineer Evolve 🌏 Worldwide 🇺🇸 United States 💰 Upgrade to Premium to see salary" [ref=f172e1549]:
+            - link [ref=f172e1550]:
+              - /url: /remote-jobs/remote-staff-software-engineer-evolve-1136447
+              - heading "Staff Software Engineer" [level=2] [ref=f172e1551]
+            - heading "Evolve" [level=3] [ref=f172e1553]
+            - generic [ref=f172e1554]: 🌏 Worldwide
+            - generic "This job is available for remote workers from United States. Click to see more remote jobs in United States" [ref=f172e1555]:
+              - link "🇺🇸 United States" [ref=f172e1556]:
+                - /url: /remote-jobs-in-united-states
+            - generic [ref=f172e1557]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1558]:
+            - link "Remote Design + Developer Jobs" [ref=f172e1559]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e1561]
+            - link "Remote Developer + Embedded Jobs" [ref=f172e1562]:
+              - /url: /remote-dev+embedded-jobs
+              - heading "Embedded" [level=3] [ref=f172e1564]
+            - link "Remote Developer + Sys Admin Jobs" [ref=f172e1565]:
+              - /url: /remote-dev+sys-admin-jobs
+              - heading "Sys Admin" [level=3] [ref=f172e1567]
+          - cell [ref=f172e1568]:
+            - time [ref=f172e1569]: 3mo
+          - cell [ref=f172e1570]:
+            - link "Apply":
+              - /url: /l/1136447
+              - paragraph [ref=f172e1572]: Apply
+        - row [ref=f172e1573]:
+          - cell [ref=f172e1574]
+        - row [ref=f172e1575] [cursor=pointer]:
+          - cell [ref=f172e1576]:
+            - link [ref=f172e1577]:
+              - /url: /remote-jobs/remote-java-developer-clera-1136188
+              - img "Clera" [ref=f172e1578]
+          - cell "Java Developer Clera 🇺🇸 United States 💰 Upgrade to Premium to see salary" [ref=f172e1579]:
+            - link [ref=f172e1580]:
+              - /url: /remote-jobs/remote-java-developer-clera-1136188
+              - heading "Java Developer" [level=2] [ref=f172e1581]
+            - heading "Clera" [level=3] [ref=f172e1583]
+            - generic "This job is available for remote workers from United States. Click to see more remote jobs in United States" [ref=f172e1584]:
+              - link "🇺🇸 United States" [ref=f172e1585]:
+                - /url: /remote-jobs-in-united-states
+            - generic [ref=f172e1586]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1587]:
+            - link "Remote Design + Developer Jobs" [ref=f172e1588]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e1590]
+            - link "Remote Developer + Education Jobs" [ref=f172e1591]:
+              - /url: /remote-dev+education-jobs
+              - heading "Edu" [level=3] [ref=f172e1593]
+            - link "Remote Developer + Docker Jobs" [ref=f172e1594]:
+              - /url: /remote-dev+docker-jobs
+              - heading "Docker" [level=3] [ref=f172e1596]
+          - cell [ref=f172e1597]:
+            - time [ref=f172e1598]: 3mo
+          - cell [ref=f172e1599]:
+            - link "Apply":
+              - /url: /l/1136188
+              - paragraph [ref=f172e1601]: Apply
+        - row [ref=f172e1602]:
+          - cell [ref=f172e1603]
+        - row [ref=f172e1604] [cursor=pointer]:
+          - cell [ref=f172e1605]:
+            - link [ref=f172e1606]:
+              - /url: /remote-jobs/remote-future-shaprs-shapr3d-1136770
+              - img "Shapr3D" [ref=f172e1607]
+          - cell "Future Shaprs verified Shapr3D 🇭🇺 Hungary 🇪🇺 Europe 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f172e1608]:
+            - link [ref=f172e1609]:
+              - /url: /remote-jobs/remote-future-shaprs-shapr3d-1136770
+              - heading "Future Shaprs" [level=2] [ref=f172e1610]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f172e1611]': verified
+            - heading "Shapr3D" [level=3] [ref=f172e1613]
+            - generic "This job is available for remote workers from Hungary. Click to see more remote jobs in Hungary" [ref=f172e1614]:
+              - link "🇭🇺 Hungary" [ref=f172e1615]:
+                - /url: /remote-jobs-in-hungary
+            - generic [ref=f172e1616]: 🇪🇺 Europe
+            - generic [ref=f172e1617]: 🌏 Worldwide
+            - generic [ref=f172e1618]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1619]:
+            - link "Remote Developer + Testing Jobs" [ref=f172e1620]:
+              - /url: /remote-dev+testing-jobs
+              - heading "Testing" [level=3] [ref=f172e1622]
+            - link "Remote Developer + Education Jobs" [ref=f172e1623]:
+              - /url: /remote-dev+education-jobs
+              - heading "Edu" [level=3] [ref=f172e1625]
+            - link "Remote Customer Support + Developer Jobs" [ref=f172e1626]:
+              - /url: /remote-customer-support+dev-jobs
+              - heading "Customer Support" [level=3] [ref=f172e1628]
+          - cell [ref=f172e1629]:
+            - time [ref=f172e1630]: 3mo
+          - cell [ref=f172e1631]:
+            - link "Apply":
+              - /url: /l/1136770
+              - paragraph [ref=f172e1633]: Apply
+        - row [ref=f172e1634]:
+          - cell [ref=f172e1635]
+        - row [ref=f172e1636] [cursor=pointer]:
+          - cell [ref=f172e1637]:
+            - link [ref=f172e1638]:
+              - /url: /remote-jobs/remote-architectural-designer-sophies-flats-inc-1136192
+              - img "Sophie's Flats Inc." [ref=f172e1639]
+          - cell "Architectural Designer verified Sophie's Flats Inc. 🇨🇦 Canada 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f172e1640]:
+            - link [ref=f172e1641]:
+              - /url: /remote-jobs/remote-architectural-designer-sophies-flats-inc-1136192
+              - heading "Architectural Designer" [level=2] [ref=f172e1642]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f172e1643]': verified
+            - heading "Sophie's Flats Inc." [level=3] [ref=f172e1645]
+            - generic "This job is available for remote workers from Canada. Click to see more remote jobs in Canada" [ref=f172e1646]:
+              - link "🇨🇦 Canada" [ref=f172e1647]:
+                - /url: /remote-jobs-in-canada
+            - generic [ref=f172e1648]: 🌏 Worldwide
+            - generic [ref=f172e1649]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1650]:
+            - link "Remote Design + Developer Jobs" [ref=f172e1651]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e1653]
+            - link "Remote Developer + VFX Jobs" [ref=f172e1654]:
+              - /url: /remote-dev+vfx-jobs
+              - heading "VFX" [level=3] [ref=f172e1656]
+            - link "Remote Designer + Developer Jobs" [ref=f172e1657]:
+              - /url: /remote-designer+dev-jobs
+              - heading "Designer" [level=3] [ref=f172e1659]
+          - cell [ref=f172e1660]:
+            - time [ref=f172e1661]: 3mo
+          - cell [ref=f172e1662]:
+            - link "Apply":
+              - /url: /l/1136192
+              - paragraph [ref=f172e1664]: Apply
+        - row [ref=f172e1665]:
+          - cell [ref=f172e1666]
+        - row [ref=f172e1667] [cursor=pointer]:
+          - cell [ref=f172e1668]:
+            - link [ref=f172e1669]:
+              - /url: /remote-jobs/remote-freelance-designer-control-shift-video-1136213
+              - img "Control Shift Video" [ref=f172e1670]
+          - cell "Freelance Designer verified Control Shift Video 🇺🇸 United States 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f172e1671]:
+            - link [ref=f172e1672]:
+              - /url: /remote-jobs/remote-freelance-designer-control-shift-video-1136213
+              - heading "Freelance Designer" [level=2] [ref=f172e1673]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f172e1674]': verified
+            - heading "Control Shift Video" [level=3] [ref=f172e1676]
+            - generic "This job is available for remote workers from United States. Click to see more remote jobs in United States" [ref=f172e1677]:
+              - link "🇺🇸 United States" [ref=f172e1678]:
+                - /url: /remote-jobs-in-united-states
+            - generic [ref=f172e1679]: 🌏 Worldwide
+            - generic [ref=f172e1680]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f172e1681]:
+            - link "Remote Developer + Executive Jobs" [ref=f172e1682]:
+              - /url: /remote-dev+exec-jobs
+              - heading "Executive" [level=3] [ref=f172e1684]
+            - link "Remote Design + Developer Jobs" [ref=f172e1685]:
+              - /url: /remote-design+dev-jobs
+              - heading "Design" [level=3] [ref=f172e1687]
+            - link "Remote Architecture + Developer Jobs" [ref=f172e1688]:
+              - /url: /remote-architecture+dev-jobs
+              - heading "Architecture" [level=3] [ref=f172e1690]
+          - cell [ref=f172e1691]:
+            - time [ref=f172e1692]: 3mo
+          - cell [ref=f172e1693]:
+            - link "Apply":
+              - /url: /l/1136213
+              - paragraph [ref=f172e1695]: Apply
+        - row [ref=f172e1696]:
+          - cell [ref=f172e1697]
+        - row [ref=f172e1698]:
+          - cell [ref=f172e1699]
+  - generic [ref=f172e1700]:
+    - text: © 2026 Remote OK|
+    - link "Terms of Service" [ref=f172e1701] [cursor=pointer]:
+      - /url: /legal
+    - text: "|"
+    - link "Privacy Policy" [ref=f172e1702] [cursor=pointer]:
+      - /url: /privacy

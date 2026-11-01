@@ -1,0 +1,1550 @@
+- generic [active] [ref=f8e1]:
+  - generic [ref=f8e2]:
+    - link "Global Payroll" [ref=f8e3] [cursor=pointer]:
+      - /url: https://www.toptal.com/hireglobal/remoteok-partnership?utm_source=remoteok&utm_medium=referral&utm_campaign=global_payroll&utm_content=nav
+    - link "Build your resume" [ref=f8e4] [cursor=pointer]:
+      - /url: https://www.toptal.com/resume
+    - link "Health insurance" [ref=f8e6] [cursor=pointer]:
+      - /url: /nomad-health-individual
+    - link "Post a job →" [ref=f8e7] [cursor=pointer]:
+      - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=top
+    - link "Log in" [ref=f8e8] [cursor=pointer]:
+      - /url: /login
+  - generic [ref=f8e10]:
+    - generic [ref=f8e11]:
+      - paragraph [ref=f8e12]:
+        - text: "Post a job to reach 18,100,000+ remote workers on the #1 Remote Job Platform"
+        - generic [ref=f8e13]:
+          - text: You can also
+          - link "hire freelance talent" [ref=f8e14] [cursor=pointer]:
+            - /url: https://www.toptal.com/
+          - text: on demand, pre-screened and thoroughly vetted.
+      - link "Post a remote job →" [ref=f8e15] [cursor=pointer]:
+        - /url: /post-a-job?discount_code=a33f0de8672af573c67e182c72654b41&ref=center
+    - table [ref=f8e17]:
+      - rowgroup [ref=f8e18]:
+        - row [ref=f8e19]:
+          - columnheader "💵 Salary 🎪 Benefits 🦴 Sort by 💼 Executive 🎧 Customer Support 🚥 Marketing ♾️ Ops 👨‍🏫 Education 🚑 Medical 💰 Finance 🤓 Engineer" [ref=f8e20]:
+            - textbox "🔍 Search" [ref=f8e25]
+            - textbox "🌏 Location" [ref=f8e27]
+            - generic [ref=f8e28]: 💵 Salary
+            - generic [ref=f8e30]: 🎪 Benefits
+            - combobox [ref=f8e32]:
+              - option "🦴 Sort by" [selected]
+              - option "🆕 Latest jobs"
+              - option "💵 Highest paid"
+              - option "👀 Most viewed"
+              - option "✅ Most applied"
+              - option "🔥 Hottest"
+              - option "🎪 Most benefits"
+            - generic [ref=f8e33]:
+              - generic [ref=f8e34]: 💼 Executive
+              - generic [ref=f8e35]: 🎧 Customer Support
+              - generic [ref=f8e36]: 🚥 Marketing
+              - generic [ref=f8e37]: ♾️ Ops
+              - generic [ref=f8e38]: 👨‍🏫 Education
+              - generic [ref=f8e39]: 🚑 Medical
+              - generic [ref=f8e40]: 💰 Finance
+              - generic [ref=f8e41]: 🤓 Engineer
+      - rowgroup [ref=f8e42]:
+        - row [ref=f8e43] [cursor=pointer]:
+          - cell [ref=f8e44]:
+            - link [ref=f8e45]:
+              - /url: /remote-jobs/remote-senior-frontend-engineer-b2spin-1137562
+              - img "B2spin" [ref=f8e46]
+          - cell "Senior Frontend Engineer B2spin 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f8e47]:
+            - link [ref=f8e48]:
+              - /url: /remote-jobs/remote-senior-frontend-engineer-b2spin-1137562
+              - heading "Senior Frontend Engineer" [level=2] [ref=f8e49]
+            - heading "B2spin" [level=3] [ref=f8e51]
+            - generic [ref=f8e52]: 🌏 Probably worldwide
+            - generic [ref=f8e53]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e54]:
+            - link "Remote Front End Jobs" [ref=f8e55]:
+              - /url: /remote-front-end-jobs
+              - heading "Front End" [level=3] [ref=f8e57]
+            - link "Remote Design Jobs" [ref=f8e58]:
+              - /url: /remote-design-jobs
+              - heading "Design" [level=3] [ref=f8e60]
+            - link "Remote React Jobs" [ref=f8e61]:
+              - /url: /remote-react-jobs
+              - heading "React" [level=3] [ref=f8e63]
+            - link "Remote Embedded Jobs" [ref=f8e64]:
+              - /url: /remote-embedded-jobs
+              - heading "Embedded" [level=3] [ref=f8e66]
+            - link "Remote Sys Admin Jobs" [ref=f8e67]:
+              - /url: /remote-sys-admin-jobs
+              - heading "Sys Admin" [level=3] [ref=f8e69]
+            - link "Remote Game Developer Jobs" [ref=f8e70]:
+              - /url: /remote-game-dev-jobs
+              - heading "Game Developer" [level=3] [ref=f8e72]
+            - link "Remote Technical Jobs" [ref=f8e73]:
+              - /url: /remote-technical-jobs
+              - heading "Technical" [level=3] [ref=f8e75]
+            - link "Remote Developer Jobs" [ref=f8e76]:
+              - /url: /remote-dev-jobs
+              - heading "Developer" [level=3] [ref=f8e78]
+            - link "Remote Testing Jobs" [ref=f8e79]:
+              - /url: /remote-testing-jobs
+              - heading "Testing" [level=3] [ref=f8e81]
+            - link "Remote Marketing Jobs" [ref=f8e82]:
+              - /url: /remote-marketing-jobs
+              - heading "Marketing" [level=3] [ref=f8e84]
+          - cell [ref=f8e85]:
+            - time [ref=f8e86]: 8d
+        - row [ref=f8e87]:
+          - cell [ref=f8e88]:
+            - generic [ref=f8e89]:
+              - generic [ref=f8e90]:
+                - generic [ref=f8e91]:
+                  - link [ref=f8e92] [cursor=pointer]:
+                    - /url: /company/b2spin
+                    - img "B2spin" [ref=f8e93]
+                  - link [ref=f8e94] [cursor=pointer]:
+                    - /url: /company/b2spin
+                    - heading "B2spin" [level=2] [ref=f8e95]
+                  - link "Apply now" [ref=f8e96] [cursor=pointer]:
+                    - /url: /l/1137562
+                  - paragraph [ref=f8e97]:
+                    - strong [ref=f8e98]: "Share this job:"
+                    - textbox [ref=f8e99]: https://remoteok.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562?ref=sh
+                    - generic [ref=f8e100]:
+                      - text: Get a
+                      - link "rok.co" [ref=f8e101] [cursor=pointer]:
+                        - /url: https://rok.co/hire-remotely
+                      - text: short link
+                - generic [ref=f8e102]:
+                  - text: B2spin is hiring a
+                  - heading "Remote Senior Frontend Engineer" [level=1] [ref=f8e103]
+                - generic [ref=f8e104]:
+                  - paragraph [ref=f8e105]: "About B2Spin We are B2Spin, and we are dedicated to delivering the best Free-to-Play Social Casino and gaming experiences by creating captivating, engaging, and unique products that are accessible to everyone. We have built a team of talented professionals from all over the globe, who are working to continually improve the experiences of our players. We are not looking to just be part of the industry, but to revolutionize it.AI-Driven Engineering CultureWe are actively building an AI-driven engineering organization with a clear and deliberate stance: artificial intelligence is a core part of how we build and deliver software — not an experiment, not a trend, and not an optional add-on."
+                  - paragraph [ref=f8e106]: "AI is embedded into our engineering workflows, from system design and prototyping to refactoring, testing, and code review. We expect engineers to be fully comfortable working in AI-driven environments and to treat AI as a primary productivity multiplier. Strong engineering judgment, architectural ownership, and accountability remain essential—AI amplifies our engineers, it doesn’t replace responsibility for technical decisions.What you will be doing: • Write well-designed, testable, and scalable code that performs flawlessly in production; • Take part in the full development cycle from sprint planning to release cycles; • Ensure smooth development and cooperation between dev teams and product owners; • Build customer-facing consumer web and mobile applications for global audiences; • Implement third-party integrations including external APIs and analytics; • Optimize for SEO performance and PageSpeed improvements.What we are looking for: • Strong commercial experience in React, TypeScript and Next.js; • Motivation to grow into cross-platform development (web and mobile). • End-to-end thinking across frontend, backend, and infrastructure. Willingness to contribute beyond frontend scope when needed. • Solid expertise with HTML/CSS, including responsive and cross-browser development; • Experience with third-party integrations (external APIs, analytics); • Proven track record with SEO optimizations and PageSpeed improvements; • Strong UI/UX experience with Figma; • Good English skills in speaking and writing (B2+).Why you will love it:High Pace, High Growth, Real Impact — You’ll thrive in our culture of rapid development, continuous learning, and meaningful outcomes. Work remotely with full flexibility, enjoy generous leave policies, and be part of company events that build genuine connections. Every line of code you write directly impacts millions of users worldwide, and you’ll see your contributions shape the future of social gaming while advancing your career in a supportive, ego-free environment.Benefits:Generous Leave Policy: Take advantage of paid time off, encompassing both vacation and sick leave, to ensure you can recharge and recover when needed. Take your time on bank holidays as well.Continuously Development: Get an opportunity to join a fast-growing business where the sky’s the limit.Company Events: Engage in our vibrant company culture through a variety of informal events designed to foster camaraderie and teamwork.Full Remote Work: Enjoy the flexibility of working remotely from wherever you feel most productive."
+                  - heading "Benefits" [level=1] [ref=f8e107]
+                  - code [ref=f8e109]: 🏖 Paid time off
+              - link "Apply for this job" [ref=f8e111] [cursor=pointer]:
+                - /url: /l/1137562
+        - row [ref=f8e112]:
+          - cell [ref=f8e113]:
+            - heading "Related jobs" [level=2] [ref=f8e114]
+        - row [ref=f8e115]:
+          - cell [ref=f8e116]
+        - row [ref=f8e117] [cursor=pointer]:
+          - cell [ref=f8e118]:
+            - link [ref=f8e119]:
+              - /url: /remote-jobs/remote-head-of-technology-sanctuary-computer-1137537
+              - img "Sanctuary Computer" [ref=f8e120]
+          - cell "Head of Technology Sanctuary Computer 🌏 Worldwide 💰 $140k - $250k" [ref=f8e121]:
+            - link [ref=f8e122]:
+              - /url: /remote-jobs/remote-head-of-technology-sanctuary-computer-1137537
+              - heading "Head of Technology" [level=2] [ref=f8e123]
+            - heading "Sanctuary Computer" [level=3] [ref=f8e125]
+            - generic [ref=f8e126]: 🌏 Worldwide
+            - generic [ref=f8e127]: 💰 $140k - $250k
+          - cell [ref=f8e128]:
+            - link "Remote Developer + Front End Jobs" [ref=f8e129]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e131]
+            - link "Remote Engineer + Front End Jobs" [ref=f8e132]:
+              - /url: /remote-engineer+front-end-jobs
+              - heading "Engineer" [level=3] [ref=f8e134]
+            - link "Remote Front End + Senior Jobs" [ref=f8e135]:
+              - /url: /remote-front-end+senior-jobs
+              - heading "Senior" [level=3] [ref=f8e137]
+          - cell [ref=f8e138]:
+            - time [ref=f8e139]: 15d
+        - row [ref=f8e140]:
+          - cell [ref=f8e141]
+        - row [ref=f8e142] [cursor=pointer]:
+          - cell [ref=f8e143]:
+            - link [ref=f8e144]:
+              - /url: /remote-jobs/remote-product-design-lead-fuel50-1137474
+              - img "Fuel50" [ref=f8e145]
+          - cell "Product Design Lead Fuel50 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f8e146]:
+            - link [ref=f8e147]:
+              - /url: /remote-jobs/remote-product-design-lead-fuel50-1137474
+              - heading "Product Design Lead" [level=2] [ref=f8e148]
+            - heading "Fuel50" [level=3] [ref=f8e150]
+            - generic [ref=f8e151]: 🌏 Probably worldwide
+            - generic [ref=f8e152]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e153]:
+            - link "Remote Design + Front End Jobs" [ref=f8e154]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e156]
+            - link "Remote Front End + SaaS Jobs" [ref=f8e157]:
+              - /url: /remote-front-end+saas-jobs
+              - heading "SaaS" [level=3] [ref=f8e159]
+            - link "Remote Front End + Sys Admin Jobs" [ref=f8e160]:
+              - /url: /remote-front-end+sys-admin-jobs
+              - heading "Sys Admin" [level=3] [ref=f8e162]
+          - cell [ref=f8e163]:
+            - time [ref=f8e164]: 22d
+        - row [ref=f8e165]:
+          - cell [ref=f8e166]
+        - row [ref=f8e167] [cursor=pointer]:
+          - cell [ref=f8e168]:
+            - link [ref=f8e169]:
+              - /url: /remote-jobs/remote-frontend-engineer-bjak-1137410
+              - img "Bjak" [ref=f8e170]
+          - cell "Frontend Engineer Bjak 🇮🇪 Ireland 🇪🇺 Europe 💰 Upgrade to Premium to see salary" [ref=f8e171]:
+            - link [ref=f8e172]:
+              - /url: /remote-jobs/remote-frontend-engineer-bjak-1137410
+              - heading "Frontend Engineer" [level=2] [ref=f8e173]
+            - heading "Bjak" [level=3] [ref=f8e175]
+            - generic "This job is available for remote workers from Ireland. Click to see more remote jobs in Ireland" [ref=f8e176]:
+              - link "🇮🇪 Ireland" [ref=f8e177]:
+                - /url: /remote-jobs-in-ireland
+            - generic [ref=f8e178]: 🇪🇺 Europe
+            - generic [ref=f8e179]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e180]:
+            - link "Remote Design + Front End Jobs" [ref=f8e181]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e183]
+            - link "Remote Front End + React Jobs" [ref=f8e184]:
+              - /url: /remote-front-end+react-jobs
+              - heading "React" [level=3] [ref=f8e186]
+            - link "Remote Front End + GraphQL Jobs" [ref=f8e187]:
+              - /url: /remote-front-end+graphql-jobs
+              - heading "GraphQL" [level=3] [ref=f8e189]
+          - cell [ref=f8e190]:
+            - time [ref=f8e191]: 1mo
+        - row [ref=f8e192]:
+          - cell [ref=f8e193]
+        - row [ref=f8e194] [cursor=pointer]:
+          - cell [ref=f8e195]:
+            - link [ref=f8e196]:
+              - /url: /remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
+              - paragraph [ref=f8e198]: KN
+          - cell "DESARROLLADOR FULL STACK Kruger NearShore LLC - Rekluti 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f8e199]:
+            - link [ref=f8e200]:
+              - /url: /remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
+              - heading "DESARROLLADOR FULL STACK" [level=2] [ref=f8e201]
+            - heading "Kruger NearShore LLC - Rekluti" [level=3] [ref=f8e203]
+            - generic [ref=f8e204]: 🌏 Probably worldwide
+            - generic [ref=f8e205]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e206]:
+            - link "Remote Front End + Full Stack Jobs" [ref=f8e207]:
+              - /url: /remote-front-end+full-stack-jobs
+              - heading "Full Stack" [level=3] [ref=f8e209]
+            - link "Remote Front End + Python Jobs" [ref=f8e210]:
+              - /url: /remote-front-end+python-jobs
+              - heading "Python" [level=3] [ref=f8e212]
+            - link "Remote Developer + Front End Jobs" [ref=f8e213]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e215]
+          - cell [ref=f8e216]:
+            - time [ref=f8e217]: 2mo
+        - row [ref=f8e218]:
+          - cell [ref=f8e219]
+        - row [ref=f8e220] [cursor=pointer]:
+          - cell [ref=f8e221]:
+            - link [ref=f8e222]:
+              - /url: /remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795
+              - img "Pivotal Health" [ref=f8e223]
+          - cell "Senior Software Engineer Case Execution Pivotal Health 🇺🇸 United States 💰 Upgrade to Premium to see salary" [ref=f8e224]:
+            - link [ref=f8e225]:
+              - /url: /remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795
+              - heading "Senior Software Engineer Case Execution" [level=2] [ref=f8e226]
+            - heading "Pivotal Health" [level=3] [ref=f8e228]
+            - generic "This job is available for remote workers from United States. Click to see more remote jobs in United States" [ref=f8e229]:
+              - link "🇺🇸 United States" [ref=f8e230]:
+                - /url: /remote-jobs-in-united-states
+            - generic [ref=f8e231]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e232]:
+            - link "Remote Developer + Front End Jobs" [ref=f8e233]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e235]
+            - link "Remote Front End + Python Jobs" [ref=f8e236]:
+              - /url: /remote-front-end+python-jobs
+              - heading "Python" [level=3] [ref=f8e238]
+            - link "Remote Customer Support + Front End Jobs" [ref=f8e239]:
+              - /url: /remote-customer-support+front-end-jobs
+              - heading "Customer Support" [level=3] [ref=f8e241]
+          - cell [ref=f8e242]:
+            - time [ref=f8e243]: 3mo
+        - row [ref=f8e244]:
+          - cell [ref=f8e245]
+        - row [ref=f8e246] [cursor=pointer]:
+          - cell [ref=f8e247]:
+            - link [ref=f8e248]:
+              - /url: /remote-jobs/remote-customer-support-specialist-resource-guru-1136066
+              - img "Resource Guru" [ref=f8e249]
+          - cell "Customer Support Specialist verified Resource Guru 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e250]:
+            - link [ref=f8e251]:
+              - /url: /remote-jobs/remote-customer-support-specialist-resource-guru-1136066
+              - heading "Customer Support Specialist" [level=2] [ref=f8e252]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e253]': verified
+            - heading "Resource Guru" [level=3] [ref=f8e255]
+            - generic [ref=f8e256]: 🌏 Worldwide
+            - generic [ref=f8e257]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e258]:
+            - link "Remote Design + Front End Jobs" [ref=f8e259]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e261]
+            - link "Remote Designer + Front End Jobs" [ref=f8e262]:
+              - /url: /remote-designer+front-end-jobs
+              - heading "Designer" [level=3] [ref=f8e264]
+            - link "Remote Developer + Front End Jobs" [ref=f8e265]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e267]
+          - cell [ref=f8e268]:
+            - time [ref=f8e269]: 3mo
+        - row [ref=f8e270]:
+          - cell [ref=f8e271]
+        - row [ref=f8e272] [cursor=pointer]:
+          - cell [ref=f8e273]:
+            - link [ref=f8e274]:
+              - /url: /remote-jobs/remote-compliance-administrator-work-force-nexus-1135325
+              - paragraph [ref=f8e276]: WF
+          - cell "Compliance Administrator verified Work Force Nexus 🇬🇧 United Kingdom 💰 Upgrade to Premium to see salary" [ref=f8e277]:
+            - link [ref=f8e278]:
+              - /url: /remote-jobs/remote-compliance-administrator-work-force-nexus-1135325
+              - heading "Compliance Administrator" [level=2] [ref=f8e279]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e280]': verified
+            - heading "Work Force Nexus" [level=3] [ref=f8e282]
+            - generic "This job is available for remote workers from United Kingdom. Click to see more remote jobs in United Kingdom" [ref=f8e283]:
+              - link "🇬🇧 United Kingdom" [ref=f8e284]:
+                - /url: /remote-jobs-in-united-kingdom
+            - generic [ref=f8e285]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e286]:
+            - link "Remote Design + Front End Jobs" [ref=f8e287]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e289]
+            - link "Remote Designer + Front End Jobs" [ref=f8e290]:
+              - /url: /remote-designer+front-end-jobs
+              - heading "Designer" [level=3] [ref=f8e292]
+            - link "Remote Front End + Part Time Jobs" [ref=f8e293]:
+              - /url: /remote-front-end+part-time-jobs
+              - heading "Part Time" [level=3] [ref=f8e295]
+          - cell [ref=f8e296]:
+            - time [ref=f8e297]: 3mo
+        - row [ref=f8e298]:
+          - cell [ref=f8e299]
+        - row [ref=f8e300] [cursor=pointer]:
+          - cell [ref=f8e301]:
+            - link [ref=f8e302]:
+              - /url: /remote-jobs/remote-performance-marketing-lead-get-in-good-nick-1135323
+              - img "Get In Good Nick" [ref=f8e303]
+          - cell "Performance Marketing Lead verified Get In Good Nick 🇬🇧 United Kingdom 💰 Upgrade to Premium to see salary" [ref=f8e304]:
+            - link [ref=f8e305]:
+              - /url: /remote-jobs/remote-performance-marketing-lead-get-in-good-nick-1135323
+              - heading "Performance Marketing Lead" [level=2] [ref=f8e306]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e307]': verified
+            - heading "Get In Good Nick" [level=3] [ref=f8e309]
+            - generic "This job is available for remote workers from United Kingdom. Click to see more remote jobs in United Kingdom" [ref=f8e310]:
+              - link "🇬🇧 United Kingdom" [ref=f8e311]:
+                - /url: /remote-jobs-in-united-kingdom
+            - generic [ref=f8e312]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e313]:
+            - link "Remote Design + Front End Jobs" [ref=f8e314]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e316]
+            - link "Remote Designer + Front End Jobs" [ref=f8e317]:
+              - /url: /remote-designer+front-end-jobs
+              - heading "Designer" [level=3] [ref=f8e319]
+            - link "Remote Front End + Part Time Jobs" [ref=f8e320]:
+              - /url: /remote-front-end+part-time-jobs
+              - heading "Part Time" [level=3] [ref=f8e322]
+          - cell [ref=f8e323]:
+            - time [ref=f8e324]: 3mo
+        - row [ref=f8e325]:
+          - cell [ref=f8e326]
+        - row [ref=f8e327] [cursor=pointer]:
+          - cell [ref=f8e328]:
+            - link [ref=f8e329]:
+              - /url: /remote-jobs/remote-business-development-manager-temu-1135291
+              - img "Temu" [ref=f8e330]
+          - cell "Business Development Manager verified Temu 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e331]:
+            - link [ref=f8e332]:
+              - /url: /remote-jobs/remote-business-development-manager-temu-1135291
+              - heading "Business Development Manager" [level=2] [ref=f8e333]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e334]': verified
+            - heading "Temu" [level=3] [ref=f8e336]
+            - generic [ref=f8e337]: 🌏 Worldwide
+            - generic [ref=f8e338]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e339]:
+            - link "Remote Front End + React Jobs" [ref=f8e340]:
+              - /url: /remote-front-end+react-jobs
+              - heading "React" [level=3] [ref=f8e342]
+            - link "Remote Developer + Front End Jobs" [ref=f8e343]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e345]
+            - link "Remote Design + Front End Jobs" [ref=f8e346]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e348]
+          - cell [ref=f8e349]:
+            - time [ref=f8e350]: 3mo
+        - row [ref=f8e351]:
+          - cell [ref=f8e352]
+        - row [ref=f8e353] [cursor=pointer]:
+          - cell [ref=f8e354]:
+            - link [ref=f8e355]:
+              - /url: /remote-jobs/remote-business-development-executive-outsource-access-careers-1135287
+              - img "Outsource Access Careers" [ref=f8e356]
+          - cell "Business Development Executive verified Outsource Access Careers 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e357]:
+            - link [ref=f8e358]:
+              - /url: /remote-jobs/remote-business-development-executive-outsource-access-careers-1135287
+              - heading "Business Development Executive" [level=2] [ref=f8e359]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e360]': verified
+            - heading "Outsource Access Careers" [level=3] [ref=f8e362]
+            - generic [ref=f8e363]: 🌏 Worldwide
+            - generic [ref=f8e364]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e365]:
+            - link "Remote Front End + React Jobs" [ref=f8e366]:
+              - /url: /remote-front-end+react-jobs
+              - heading "React" [level=3] [ref=f8e368]
+            - link "Remote Developer + Front End Jobs" [ref=f8e369]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e371]
+            - link "Remote Design + Front End Jobs" [ref=f8e372]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e374]
+          - cell [ref=f8e375]:
+            - time [ref=f8e376]: 3mo
+        - row [ref=f8e377]:
+          - cell [ref=f8e378]
+        - row [ref=f8e379] [cursor=pointer]:
+          - cell [ref=f8e380]:
+            - link [ref=f8e381]:
+              - /url: /remote-jobs/remote-data-entry-specialist-morgan-mckinley-1135273
+              - img "Morgan McKinley" [ref=f8e382]
+          - cell "Data Entry Specialist verified Morgan McKinley 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e383]:
+            - link [ref=f8e384]:
+              - /url: /remote-jobs/remote-data-entry-specialist-morgan-mckinley-1135273
+              - heading "Data Entry Specialist" [level=2] [ref=f8e385]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e386]': verified
+            - heading "Morgan McKinley" [level=3] [ref=f8e388]
+            - generic [ref=f8e389]: 🌏 Worldwide
+            - generic [ref=f8e390]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e391]:
+            - link "Remote Education + Front End Jobs" [ref=f8e392]:
+              - /url: /remote-education+front-end-jobs
+              - heading "Edu" [level=3] [ref=f8e394]
+            - link "Remote Customer Support + Front End Jobs" [ref=f8e395]:
+              - /url: /remote-customer-support+front-end-jobs
+              - heading "Customer Support" [level=3] [ref=f8e397]
+            - link "Remote Executive + Front End Jobs" [ref=f8e398]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e400]
+          - cell [ref=f8e401]:
+            - time [ref=f8e402]: 3mo
+        - row [ref=f8e403]:
+          - cell [ref=f8e404]
+        - row [ref=f8e405] [cursor=pointer]:
+          - cell [ref=f8e406]:
+            - link [ref=f8e407]:
+              - /url: /remote-jobs/remote-concept-artist-youtooz-1135294
+              - img "Youtooz" [ref=f8e408]
+          - cell "Concept Artist verified Youtooz 🇨🇦 Canada 💰 Upgrade to Premium to see salary" [ref=f8e409]:
+            - link [ref=f8e410]:
+              - /url: /remote-jobs/remote-concept-artist-youtooz-1135294
+              - heading "Concept Artist" [level=2] [ref=f8e411]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e412]': verified
+            - heading "Youtooz" [level=3] [ref=f8e414]
+            - generic "This job is available for remote workers from Canada. Click to see more remote jobs in Canada" [ref=f8e415]:
+              - link "🇨🇦 Canada" [ref=f8e416]:
+                - /url: /remote-jobs-in-canada
+            - generic [ref=f8e417]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e418]:
+            - link "Remote Developer + Front End Jobs" [ref=f8e419]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e421]
+            - link "Remote Design + Front End Jobs" [ref=f8e422]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e424]
+            - link "Remote Front End + Web3 Jobs" [ref=f8e425]:
+              - /url: /remote-front-end+web3-jobs
+              - heading "Web3" [level=3] [ref=f8e427]
+          - cell [ref=f8e428]:
+            - time [ref=f8e429]: 3mo
+        - row [ref=f8e430]:
+          - cell [ref=f8e431]
+        - row [ref=f8e432] [cursor=pointer]:
+          - cell [ref=f8e433]:
+            - link [ref=f8e434]:
+              - /url: /remote-jobs/remote-backend-developer-bjak-1135217
+              - img "Bjak" [ref=f8e435]
+          - cell "Backend Developer Bjak 🇮🇳 India 💰 Upgrade to Premium to see salary" [ref=f8e436]:
+            - link [ref=f8e437]:
+              - /url: /remote-jobs/remote-backend-developer-bjak-1135217
+              - heading "Backend Developer" [level=2] [ref=f8e438]
+            - heading "Bjak" [level=3] [ref=f8e440]
+            - generic "This job is available for remote workers from India. Click to see more remote jobs in India" [ref=f8e441]:
+              - link "🇮🇳 India" [ref=f8e442]:
+                - /url: /remote-jobs-in-india
+            - generic [ref=f8e443]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e444]:
+            - link "Remote Developer + Front End Jobs" [ref=f8e445]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e447]
+            - link "Remote Design + Front End Jobs" [ref=f8e448]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e450]
+            - link "Remote Front End + Sys Admin Jobs" [ref=f8e451]:
+              - /url: /remote-front-end+sys-admin-jobs
+              - heading "Sys Admin" [level=3] [ref=f8e453]
+          - cell [ref=f8e454]:
+            - time [ref=f8e455]: 3mo
+        - row [ref=f8e456]:
+          - cell [ref=f8e457]
+        - row [ref=f8e458] [cursor=pointer]:
+          - cell [ref=f8e459]:
+            - link [ref=f8e460]:
+              - /url: /remote-jobs/remote-junior-designer-v-i-r-t-r-i-o-1135327
+              - img "𝗩 𝗜 𝗥 𝗧 𝗥 𝗜 𝗢" [ref=f8e461]
+          - cell "Junior Designer verified 𝗩 𝗜 𝗥 𝗧 𝗥 𝗜 𝗢 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e462]:
+            - link [ref=f8e463]:
+              - /url: /remote-jobs/remote-junior-designer-v-i-r-t-r-i-o-1135327
+              - heading "Junior Designer" [level=2] [ref=f8e464]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e465]': verified
+            - heading "𝗩 𝗜 𝗥 𝗧 𝗥 𝗜 𝗢" [level=3] [ref=f8e467]
+            - generic [ref=f8e468]: 🌏 Worldwide
+            - generic [ref=f8e469]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e470]:
+            - link "Remote Design + Front End Jobs" [ref=f8e471]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e473]
+            - link "Remote Designer + Front End Jobs" [ref=f8e474]:
+              - /url: /remote-designer+front-end-jobs
+              - heading "Designer" [level=3] [ref=f8e476]
+            - link "Remote Front End + Part Time Jobs" [ref=f8e477]:
+              - /url: /remote-front-end+part-time-jobs
+              - heading "Part Time" [level=3] [ref=f8e479]
+          - cell [ref=f8e480]:
+            - time [ref=f8e481]: 3mo
+        - row [ref=f8e482]:
+          - cell [ref=f8e483]
+        - row [ref=f8e484] [cursor=pointer]:
+          - cell [ref=f8e485]:
+            - link [ref=f8e486]:
+              - /url: /remote-jobs/remote-python-developer-astrolite-tech-solutions-llc-1135319
+              - img "Astrolite Tech Solutions LLC" [ref=f8e487]
+          - cell "Python Developer verified Astrolite Tech Solutions LLC 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e488]:
+            - link [ref=f8e489]:
+              - /url: /remote-jobs/remote-python-developer-astrolite-tech-solutions-llc-1135319
+              - heading "Python Developer" [level=2] [ref=f8e490]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e491]': verified
+            - heading "Astrolite Tech Solutions LLC" [level=3] [ref=f8e493]
+            - generic [ref=f8e494]: 🌏 Worldwide
+            - generic [ref=f8e495]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e496]:
+            - link "Remote Design + Front End Jobs" [ref=f8e497]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e499]
+            - link "Remote Designer + Front End Jobs" [ref=f8e500]:
+              - /url: /remote-designer+front-end-jobs
+              - heading "Designer" [level=3] [ref=f8e502]
+            - link "Remote Front End + Part Time Jobs" [ref=f8e503]:
+              - /url: /remote-front-end+part-time-jobs
+              - heading "Part Time" [level=3] [ref=f8e505]
+          - cell [ref=f8e506]:
+            - time [ref=f8e507]: 3mo
+        - row [ref=f8e508]:
+          - cell [ref=f8e509]
+        - row [ref=f8e510] [cursor=pointer]:
+          - cell [ref=f8e511]:
+            - link [ref=f8e512]:
+              - /url: /remote-jobs/
+              - img "Inspiration Commerce Group" [ref=f8e513]
+          - cell "Customer Support Agent · � verified Inspiration Commerce Group 🇭🇷 Croatia 🇪🇺 Europe 💰 Upgrade to Premium to see salary" [ref=f8e514]:
+            - link [ref=f8e515]:
+              - /url: /remote-jobs/
+              - heading "Customer Support Agent · �" [level=2] [ref=f8e516]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e517]': verified
+            - heading "Inspiration Commerce Group" [level=3] [ref=f8e519]
+            - generic "This job is available for remote workers from Croatia. Click to see more remote jobs in Croatia" [ref=f8e520]:
+              - link "🇭🇷 Croatia" [ref=f8e521]:
+                - /url: /remote-jobs-in-croatia
+            - generic [ref=f8e522]: 🇪🇺 Europe
+            - generic [ref=f8e523]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e524]:
+            - link "Remote Design + Front End Jobs" [ref=f8e525]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e527]
+            - link "Remote Designer + Front End Jobs" [ref=f8e528]:
+              - /url: /remote-designer+front-end-jobs
+              - heading "Designer" [level=3] [ref=f8e530]
+            - link "Remote Front End + Part Time Jobs" [ref=f8e531]:
+              - /url: /remote-front-end+part-time-jobs
+              - heading "Part Time" [level=3] [ref=f8e533]
+          - cell [ref=f8e534]:
+            - time [ref=f8e535]: 3mo
+        - row [ref=f8e536]:
+          - cell [ref=f8e537]
+        - row [ref=f8e538] [cursor=pointer]:
+          - cell [ref=f8e539]:
+            - link [ref=f8e540]:
+              - /url: /remote-jobs/remote-tutors-needed-for-online-and-person-tutoring-school-is-easy-calgary-1135293
+              - img "School is Easy - Calgary" [ref=f8e541]
+          - cell "Tutors Needed for Online and Person Tutoring verified School is Easy - Calgary 🇨🇦 Canada 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e542]:
+            - link [ref=f8e543]:
+              - /url: /remote-jobs/remote-tutors-needed-for-online-and-person-tutoring-school-is-easy-calgary-1135293
+              - heading "Tutors Needed for Online and Person Tutoring" [level=2] [ref=f8e544]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e545]': verified
+            - heading "School is Easy - Calgary" [level=3] [ref=f8e547]
+            - generic "This job is available for remote workers from Canada. Click to see more remote jobs in Canada" [ref=f8e548]:
+              - link "🇨🇦 Canada" [ref=f8e549]:
+                - /url: /remote-jobs-in-canada
+            - generic [ref=f8e550]: 🌏 Worldwide
+            - generic [ref=f8e551]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e552]:
+            - link "Remote Developer + Front End Jobs" [ref=f8e553]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e555]
+            - link "Remote Design + Front End Jobs" [ref=f8e556]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e558]
+            - link "Remote Front End + Web3 Jobs" [ref=f8e559]:
+              - /url: /remote-front-end+web3-jobs
+              - heading "Web3" [level=3] [ref=f8e561]
+          - cell [ref=f8e562]:
+            - time [ref=f8e563]: 3mo
+        - row [ref=f8e564]:
+          - cell [ref=f8e565]
+        - row [ref=f8e566] [cursor=pointer]:
+          - cell [ref=f8e567]:
+            - link [ref=f8e568]:
+              - /url: /remote-jobs/remote-data-analyst-assistant-blue-oak-consulting-1135326
+              - img "Blue Oak Consulting" [ref=f8e569]
+          - cell "Data Analyst Assistant verified Blue Oak Consulting Roma, Roma, Lazio, Italia 💰 Upgrade to Premium to see salary" [ref=f8e570]:
+            - link [ref=f8e571]:
+              - /url: /remote-jobs/remote-data-analyst-assistant-blue-oak-consulting-1135326
+              - heading "Data Analyst Assistant" [level=2] [ref=f8e572]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e573]': verified
+            - heading "Blue Oak Consulting" [level=3] [ref=f8e575]
+            - generic "Roma, Roma, Lazio, Italia" [ref=f8e576]
+            - generic [ref=f8e577]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e578]:
+            - link "Remote Design + Front End Jobs" [ref=f8e579]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e581]
+            - link "Remote Designer + Front End Jobs" [ref=f8e582]:
+              - /url: /remote-designer+front-end-jobs
+              - heading "Designer" [level=3] [ref=f8e584]
+            - link "Remote Front End + Part Time Jobs" [ref=f8e585]:
+              - /url: /remote-front-end+part-time-jobs
+              - heading "Part Time" [level=3] [ref=f8e587]
+          - cell [ref=f8e588]:
+            - time [ref=f8e589]: 3mo
+        - row [ref=f8e590]:
+          - cell [ref=f8e591]
+        - row [ref=f8e592] [cursor=pointer]:
+          - cell [ref=f8e593]:
+            - link [ref=f8e594]:
+              - /url: /remote-jobs/remote-python-developer-remoto-infortec-consultores-1135320
+              - img "Infortec Consultores" [ref=f8e595]
+          - cell "PYTHON DEVELOPER REMOTO verified Infortec Consultores 🇪🇸 Spain 🇪🇺 Europe 💰 Upgrade to Premium to see salary" [ref=f8e596]:
+            - link [ref=f8e597]:
+              - /url: /remote-jobs/remote-python-developer-remoto-infortec-consultores-1135320
+              - heading "PYTHON DEVELOPER REMOTO" [level=2] [ref=f8e598]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e599]': verified
+            - heading "Infortec Consultores" [level=3] [ref=f8e601]
+            - generic "This job is available for remote workers from Spain. Click to see more remote jobs in Spain" [ref=f8e602]:
+              - link "🇪🇸 Spain" [ref=f8e603]:
+                - /url: /remote-jobs-in-spain
+            - generic [ref=f8e604]: 🇪🇺 Europe
+            - generic [ref=f8e605]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e606]:
+            - link "Remote Design + Front End Jobs" [ref=f8e607]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e609]
+            - link "Remote Designer + Front End Jobs" [ref=f8e610]:
+              - /url: /remote-designer+front-end-jobs
+              - heading "Designer" [level=3] [ref=f8e612]
+            - link "Remote Front End + Part Time Jobs" [ref=f8e613]:
+              - /url: /remote-front-end+part-time-jobs
+              - heading "Part Time" [level=3] [ref=f8e615]
+          - cell [ref=f8e616]:
+            - time [ref=f8e617]: 3mo
+        - row [ref=f8e618]:
+          - cell [ref=f8e619]
+        - row [ref=f8e620] [cursor=pointer]:
+          - cell [ref=f8e621]:
+            - link [ref=f8e622]:
+              - /url: /remote-jobs/remote-data-quality-analyst-owl-co-1135274
+              - img "Owl.co" [ref=f8e623]
+          - cell "Data Quality Analyst verified Owl.co 🇨🇦 Canada 💰 Upgrade to Premium to see salary" [ref=f8e624]:
+            - link [ref=f8e625]:
+              - /url: /remote-jobs/remote-data-quality-analyst-owl-co-1135274
+              - heading "Data Quality Analyst" [level=2] [ref=f8e626]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e627]': verified
+            - heading "Owl.co" [level=3] [ref=f8e629]
+            - generic "This job is available for remote workers from Canada. Click to see more remote jobs in Canada" [ref=f8e630]:
+              - link "🇨🇦 Canada" [ref=f8e631]:
+                - /url: /remote-jobs-in-canada
+            - generic [ref=f8e632]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e633]:
+            - link "Remote Education + Front End Jobs" [ref=f8e634]:
+              - /url: /remote-education+front-end-jobs
+              - heading "Edu" [level=3] [ref=f8e636]
+            - link "Remote Customer Support + Front End Jobs" [ref=f8e637]:
+              - /url: /remote-customer-support+front-end-jobs
+              - heading "Customer Support" [level=3] [ref=f8e639]
+            - link "Remote Executive + Front End Jobs" [ref=f8e640]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e642]
+          - cell [ref=f8e643]:
+            - time [ref=f8e644]: 3mo
+        - row [ref=f8e645]:
+          - cell [ref=f8e646]
+        - row [ref=f8e647] [cursor=pointer]:
+          - cell [ref=f8e648]:
+            - link [ref=f8e649]:
+              - /url: /remote-jobs/remote-analyst-leadership-connect-1135270
+              - img "Leadership Connect" [ref=f8e650]
+          - cell "Analyst verified Leadership Connect 🇨🇦 Canada 💰 Upgrade to Premium to see salary" [ref=f8e651]:
+            - link [ref=f8e652]:
+              - /url: /remote-jobs/remote-analyst-leadership-connect-1135270
+              - heading "Analyst" [level=2] [ref=f8e653]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e654]': verified
+            - heading "Leadership Connect" [level=3] [ref=f8e656]
+            - generic "This job is available for remote workers from Canada. Click to see more remote jobs in Canada" [ref=f8e657]:
+              - link "🇨🇦 Canada" [ref=f8e658]:
+                - /url: /remote-jobs-in-canada
+            - generic [ref=f8e659]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e660]:
+            - link "Remote Education + Front End Jobs" [ref=f8e661]:
+              - /url: /remote-education+front-end-jobs
+              - heading "Edu" [level=3] [ref=f8e663]
+            - link "Remote Customer Support + Front End Jobs" [ref=f8e664]:
+              - /url: /remote-customer-support+front-end-jobs
+              - heading "Customer Support" [level=3] [ref=f8e666]
+            - link "Remote Executive + Front End Jobs" [ref=f8e667]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e669]
+          - cell [ref=f8e670]:
+            - time [ref=f8e671]: 3mo
+        - row [ref=f8e672]:
+          - cell [ref=f8e673]
+        - row [ref=f8e674] [cursor=pointer]:
+          - cell [ref=f8e675]:
+            - link [ref=f8e676]:
+              - /url: /remote-jobs/remote-auxiliar-assistente-financeiro-remoto-panrotas-1135328
+              - img "PANROTAS" [ref=f8e677]
+          - cell "Auxiliar Assistente Financeiro Remoto verified PANROTAS 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e678]:
+            - link [ref=f8e679]:
+              - /url: /remote-jobs/remote-auxiliar-assistente-financeiro-remoto-panrotas-1135328
+              - heading "Auxiliar Assistente Financeiro Remoto" [level=2] [ref=f8e680]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e681]': verified
+            - heading "PANROTAS" [level=3] [ref=f8e683]
+            - generic [ref=f8e684]: 🌏 Worldwide
+            - generic [ref=f8e685]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e686]:
+            - link "Remote Design + Front End Jobs" [ref=f8e687]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e689]
+            - link "Remote Designer + Front End Jobs" [ref=f8e690]:
+              - /url: /remote-designer+front-end-jobs
+              - heading "Designer" [level=3] [ref=f8e692]
+            - link "Remote Front End + Part Time Jobs" [ref=f8e693]:
+              - /url: /remote-front-end+part-time-jobs
+              - heading "Part Time" [level=3] [ref=f8e695]
+          - cell [ref=f8e696]:
+            - time [ref=f8e697]: 3mo
+        - row [ref=f8e698]:
+          - cell [ref=f8e699]
+        - row [ref=f8e700] [cursor=pointer]:
+          - cell [ref=f8e701]:
+            - link [ref=f8e702]:
+              - /url: /remote-jobs/remote-full-stack-developer-elite-worldgroup-inc-1135288
+              - img "Elite Worldgroup Inc." [ref=f8e703]
+          - cell "Full Stack Developer verified Elite Worldgroup Inc. 🇵🇭 Philippines 💰 Upgrade to Premium to see salary" [ref=f8e704]:
+            - link [ref=f8e705]:
+              - /url: /remote-jobs/remote-full-stack-developer-elite-worldgroup-inc-1135288
+              - heading "Full Stack Developer" [level=2] [ref=f8e706]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e707]': verified
+            - heading "Elite Worldgroup Inc." [level=3] [ref=f8e709]
+            - generic "This job is available for remote workers from Philippines. Click to see more remote jobs in Philippines" [ref=f8e710]:
+              - link "🇵🇭 Philippines" [ref=f8e711]:
+                - /url: /remote-jobs-in-philippines
+            - generic [ref=f8e712]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e713]:
+            - link "Remote Front End + React Jobs" [ref=f8e714]:
+              - /url: /remote-front-end+react-jobs
+              - heading "React" [level=3] [ref=f8e716]
+            - link "Remote Developer + Front End Jobs" [ref=f8e717]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e719]
+            - link "Remote Design + Front End Jobs" [ref=f8e720]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e722]
+          - cell [ref=f8e723]:
+            - time [ref=f8e724]: 3mo
+        - row [ref=f8e725]:
+          - cell [ref=f8e726]
+        - row [ref=f8e727] [cursor=pointer]:
+          - cell [ref=f8e728]:
+            - link [ref=f8e729]:
+              - /url: /remote-jobs/remote-junior-operations-support-specialist-guesty-1135271
+              - img "Guesty" [ref=f8e730]
+          - cell "Junior Operations Support Specialist verified Guesty Greater Montreal Metropolitan Area 💰 Upgrade to Premium to see salary" [ref=f8e731]:
+            - link [ref=f8e732]:
+              - /url: /remote-jobs/remote-junior-operations-support-specialist-guesty-1135271
+              - heading "Junior Operations Support Specialist" [level=2] [ref=f8e733]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e734]': verified
+            - heading "Guesty" [level=3] [ref=f8e736]
+            - generic "Greater Montreal Metropolitan Area" [ref=f8e737]
+            - generic [ref=f8e738]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e739]:
+            - link "Remote Education + Front End Jobs" [ref=f8e740]:
+              - /url: /remote-education+front-end-jobs
+              - heading "Edu" [level=3] [ref=f8e742]
+            - link "Remote Customer Support + Front End Jobs" [ref=f8e743]:
+              - /url: /remote-customer-support+front-end-jobs
+              - heading "Customer Support" [level=3] [ref=f8e745]
+            - link "Remote Executive + Front End Jobs" [ref=f8e746]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e748]
+          - cell [ref=f8e749]:
+            - time [ref=f8e750]: 3mo
+        - row [ref=f8e751]:
+          - cell [ref=f8e752]
+        - row [ref=f8e753] [cursor=pointer]:
+          - cell [ref=f8e754]:
+            - link [ref=f8e755]:
+              - /url: /remote-jobs/remote-executive-assistant-f-h-bull-1135322
+              - img "Bull" [ref=f8e756]
+          - cell "Executive Assistant F H verified Bull 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e757]:
+            - link [ref=f8e758]:
+              - /url: /remote-jobs/remote-executive-assistant-f-h-bull-1135322
+              - heading "Executive Assistant F H" [level=2] [ref=f8e759]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e760]': verified
+            - heading "Bull" [level=3] [ref=f8e762]
+            - generic [ref=f8e763]: 🌏 Worldwide
+            - generic [ref=f8e764]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e765]:
+            - link "Remote Design + Front End Jobs" [ref=f8e766]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e768]
+            - link "Remote Designer + Front End Jobs" [ref=f8e769]:
+              - /url: /remote-designer+front-end-jobs
+              - heading "Designer" [level=3] [ref=f8e771]
+            - link "Remote Front End + Part Time Jobs" [ref=f8e772]:
+              - /url: /remote-front-end+part-time-jobs
+              - heading "Part Time" [level=3] [ref=f8e774]
+          - cell [ref=f8e775]:
+            - time [ref=f8e776]: 3mo
+        - row [ref=f8e777]:
+          - cell [ref=f8e778]
+        - row [ref=f8e779] [cursor=pointer]:
+          - cell [ref=f8e780]:
+            - link [ref=f8e781]:
+              - /url: /remote-jobs/remote-front-end-developer-acro-commerce-1135269
+              - img "Acro Commerce" [ref=f8e782]
+          - cell "Front End Developer verified Acro Commerce 🇨🇦 Canada 💰 Upgrade to Premium to see salary" [ref=f8e783]:
+            - link [ref=f8e784]:
+              - /url: /remote-jobs/remote-front-end-developer-acro-commerce-1135269
+              - heading "Front End Developer" [level=2] [ref=f8e785]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e786]': verified
+            - heading "Acro Commerce" [level=3] [ref=f8e788]
+            - generic "This job is available for remote workers from Canada. Click to see more remote jobs in Canada" [ref=f8e789]:
+              - link "🇨🇦 Canada" [ref=f8e790]:
+                - /url: /remote-jobs-in-canada
+            - generic [ref=f8e791]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e792]:
+            - link "Remote Education + Front End Jobs" [ref=f8e793]:
+              - /url: /remote-education+front-end-jobs
+              - heading "Edu" [level=3] [ref=f8e795]
+            - link "Remote Customer Support + Front End Jobs" [ref=f8e796]:
+              - /url: /remote-customer-support+front-end-jobs
+              - heading "Customer Support" [level=3] [ref=f8e798]
+            - link "Remote Executive + Front End Jobs" [ref=f8e799]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e801]
+          - cell [ref=f8e802]:
+            - time [ref=f8e803]: 3mo
+        - row [ref=f8e804]:
+          - cell [ref=f8e805]
+        - row [ref=f8e806] [cursor=pointer]:
+          - cell [ref=f8e807]:
+            - link [ref=f8e808]:
+              - /url: /remote-jobs/remote-junior-front-end-developer-pulse-mena-1135285
+              - img "PULSE (MENA)" [ref=f8e809]
+          - cell "Junior Front End Developer verified PULSE (MENA) الرياض, الرياض الرياض السعودية 💰 Upgrade to Premium to see salary" [ref=f8e810]:
+            - link [ref=f8e811]:
+              - /url: /remote-jobs/remote-junior-front-end-developer-pulse-mena-1135285
+              - heading "Junior Front End Developer" [level=2] [ref=f8e812]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e813]': verified
+            - heading "PULSE (MENA)" [level=3] [ref=f8e815]
+            - generic "الرياض, الرياض الرياض السعودية" [ref=f8e816]
+            - generic [ref=f8e817]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e818]:
+            - link "Remote Front End + React Jobs" [ref=f8e819]:
+              - /url: /remote-front-end+react-jobs
+              - heading "React" [level=3] [ref=f8e821]
+            - link "Remote Developer + Front End Jobs" [ref=f8e822]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e824]
+            - link "Remote Design + Front End Jobs" [ref=f8e825]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e827]
+          - cell [ref=f8e828]:
+            - time [ref=f8e829]: 3mo
+        - row [ref=f8e830]:
+          - cell [ref=f8e831]
+        - row [ref=f8e832] [cursor=pointer]:
+          - cell [ref=f8e833]:
+            - link [ref=f8e834]:
+              - /url: /remote-jobs/remote-backend-engineer-openverse-1135477
+              - img "Openverse" [ref=f8e835]
+          - cell "Backend Engineer verified Openverse 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e836]:
+            - link [ref=f8e837]:
+              - /url: /remote-jobs/remote-backend-engineer-openverse-1135477
+              - heading "Backend Engineer" [level=2] [ref=f8e838]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e839]': verified
+            - heading "Openverse" [level=3] [ref=f8e841]
+            - generic [ref=f8e842]: 🌏 Worldwide
+            - generic [ref=f8e843]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e844]:
+            - link "Remote Design + Front End Jobs" [ref=f8e845]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e847]
+            - link "Remote Front End + Web3 Jobs" [ref=f8e848]:
+              - /url: /remote-front-end+web3-jobs
+              - heading "Web3" [level=3] [ref=f8e850]
+            - link "Remote Ethereum + Front End Jobs" [ref=f8e851]:
+              - /url: /remote-ethereum+front-end-jobs
+              - heading "Ethereum" [level=3] [ref=f8e853]
+          - cell [ref=f8e854]:
+            - time [ref=f8e855]: 4mo
+        - row [ref=f8e856]:
+          - cell [ref=f8e857]
+        - row [ref=f8e858] [cursor=pointer]:
+          - cell [ref=f8e859]:
+            - link [ref=f8e860]:
+              - /url: /remote-jobs/remote-frontend-developer-openverse-1135292
+              - img "Openverse" [ref=f8e861]
+          - cell "Frontend Developer verified Openverse 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e862]:
+            - link [ref=f8e863]:
+              - /url: /remote-jobs/remote-frontend-developer-openverse-1135292
+              - heading "Frontend Developer" [level=2] [ref=f8e864]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e865]': verified
+            - heading "Openverse" [level=3] [ref=f8e867]
+            - generic [ref=f8e868]: 🌏 Worldwide
+            - generic [ref=f8e869]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e870]:
+            - link "Remote Developer + Front End Jobs" [ref=f8e871]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e873]
+            - link "Remote Design + Front End Jobs" [ref=f8e874]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e876]
+            - link "Remote Front End + Web3 Jobs" [ref=f8e877]:
+              - /url: /remote-front-end+web3-jobs
+              - heading "Web3" [level=3] [ref=f8e879]
+          - cell [ref=f8e880]:
+            - time [ref=f8e881]: 4mo
+        - row [ref=f8e882]:
+          - cell [ref=f8e883]
+        - row [ref=f8e884] [cursor=pointer]:
+          - cell [ref=f8e885]:
+            - link [ref=f8e886]:
+              - /url: /remote-jobs/remote-full-stack-developer-fastlane-group-1135286
+              - img "FastLane Group" [ref=f8e887]
+          - cell "Full Stack Developer verified FastLane Group 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e888]:
+            - link [ref=f8e889]:
+              - /url: /remote-jobs/remote-full-stack-developer-fastlane-group-1135286
+              - heading "Full Stack Developer" [level=2] [ref=f8e890]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e891]': verified
+            - heading "FastLane Group" [level=3] [ref=f8e893]
+            - generic [ref=f8e894]: 🌏 Worldwide
+            - generic [ref=f8e895]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e896]:
+            - link "Remote Front End + React Jobs" [ref=f8e897]:
+              - /url: /remote-front-end+react-jobs
+              - heading "React" [level=3] [ref=f8e899]
+            - link "Remote Developer + Front End Jobs" [ref=f8e900]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e902]
+            - link "Remote Design + Front End Jobs" [ref=f8e903]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e905]
+          - cell [ref=f8e906]:
+            - time [ref=f8e907]: 4mo
+        - row [ref=f8e908]:
+          - cell [ref=f8e909]
+        - row [ref=f8e910] [cursor=pointer]:
+          - cell [ref=f8e911]:
+            - link [ref=f8e912]:
+              - /url: /remote-jobs/remote-youtube-video-editor-fresher-dreamscribe-brands-1135290
+              - img "Dreamscribe Brands" [ref=f8e913]
+          - cell "YouTube Video Editor Fresher verified Dreamscribe Brands 🇮🇳 India 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e914]:
+            - link [ref=f8e915]:
+              - /url: /remote-jobs/remote-youtube-video-editor-fresher-dreamscribe-brands-1135290
+              - heading "YouTube Video Editor Fresher" [level=2] [ref=f8e916]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e917]': verified
+            - heading "Dreamscribe Brands" [level=3] [ref=f8e919]
+            - generic "This job is available for remote workers from India. Click to see more remote jobs in India" [ref=f8e920]:
+              - link "🇮🇳 India" [ref=f8e921]:
+                - /url: /remote-jobs-in-india
+            - generic [ref=f8e922]: 🌏 Worldwide
+            - generic [ref=f8e923]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e924]:
+            - link "Remote Front End + React Jobs" [ref=f8e925]:
+              - /url: /remote-front-end+react-jobs
+              - heading "React" [level=3] [ref=f8e927]
+            - link "Remote Developer + Front End Jobs" [ref=f8e928]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e930]
+            - link "Remote Design + Front End Jobs" [ref=f8e931]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e933]
+          - cell [ref=f8e934]:
+            - time [ref=f8e935]: 4mo
+        - row [ref=f8e936]:
+          - cell [ref=f8e937]
+        - row [ref=f8e938] [cursor=pointer]:
+          - cell [ref=f8e939]:
+            - link [ref=f8e940]:
+              - /url: /remote-jobs/remote-future-openings-project-management-sparkgeo-applied-geospatial-1135272
+              - img "Sparkgeo - Applied Geospatial" [ref=f8e941]
+          - cell "Future Openings Project Management verified Sparkgeo - Applied Geospatial 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e942]:
+            - link [ref=f8e943]:
+              - /url: /remote-jobs/remote-future-openings-project-management-sparkgeo-applied-geospatial-1135272
+              - heading "Future Openings Project Management" [level=2] [ref=f8e944]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e945]': verified
+            - heading "Sparkgeo - Applied Geospatial" [level=3] [ref=f8e947]
+            - generic [ref=f8e948]: 🌏 Worldwide
+            - generic [ref=f8e949]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e950]:
+            - link "Remote Education + Front End Jobs" [ref=f8e951]:
+              - /url: /remote-education+front-end-jobs
+              - heading "Edu" [level=3] [ref=f8e953]
+            - link "Remote Customer Support + Front End Jobs" [ref=f8e954]:
+              - /url: /remote-customer-support+front-end-jobs
+              - heading "Customer Support" [level=3] [ref=f8e956]
+            - link "Remote Executive + Front End Jobs" [ref=f8e957]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e959]
+          - cell [ref=f8e960]:
+            - time [ref=f8e961]: 4mo
+        - row [ref=f8e962]:
+          - cell [ref=f8e963]
+        - row [ref=f8e964] [cursor=pointer]:
+          - cell [ref=f8e965]:
+            - link [ref=f8e966]:
+              - /url: /remote-jobs/remote-project-manager-empire-life-1134867
+              - img "Empire Life" [ref=f8e967]
+          - cell "Project Manager verified Empire Life 🌏 Probably worldwide 💰 Upgrade to Premium to see salary" [ref=f8e968]:
+            - link [ref=f8e969]:
+              - /url: /remote-jobs/remote-project-manager-empire-life-1134867
+              - heading "Project Manager" [level=2] [ref=f8e970]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e971]': verified
+            - heading "Empire Life" [level=3] [ref=f8e973]
+            - generic [ref=f8e974]: 🌏 Probably worldwide
+            - generic [ref=f8e975]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e976]:
+            - link "Remote Front End + Speech Jobs" [ref=f8e977]:
+              - /url: /remote-front-end+speech-jobs
+              - heading "Speech" [level=3] [ref=f8e979]
+            - link "Remote Executive + Front End Jobs" [ref=f8e980]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e982]
+            - link "Remote Content Writing + Front End Jobs" [ref=f8e983]:
+              - /url: /remote-content-writing+front-end-jobs
+              - heading "Content Writing" [level=3] [ref=f8e985]
+          - cell [ref=f8e986]:
+            - time [ref=f8e987]: 4mo
+        - row [ref=f8e988]:
+          - cell [ref=f8e989]
+        - row [ref=f8e990] [cursor=pointer]:
+          - cell [ref=f8e991]:
+            - link [ref=f8e992]:
+              - /url: /remote-jobs/remote-programa-de-estagio-formacao-em-vendas-sdr-remoto-nibo-1134841
+              - paragraph [ref=f8e994]: "N"
+          - cell "Programa de Estágio Formação em Vendas SDR Remoto verified Nibo 🇧🇷 Brazil 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e995]:
+            - link [ref=f8e996]:
+              - /url: /remote-jobs/remote-programa-de-estagio-formacao-em-vendas-sdr-remoto-nibo-1134841
+              - heading "Programa de Estágio Formação em Vendas SDR Remoto" [level=2] [ref=f8e997]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e998]': verified
+            - heading "Nibo" [level=3] [ref=f8e1000]
+            - generic "This job is available for remote workers from Brazil. Click to see more remote jobs in Brazil" [ref=f8e1001]:
+              - link "🇧🇷 Brazil" [ref=f8e1002]:
+                - /url: /remote-jobs-in-brazil
+            - generic [ref=f8e1003]: 🌏 Worldwide
+            - generic [ref=f8e1004]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1005]:
+            - link "Remote Executive + Front End Jobs" [ref=f8e1006]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e1008]
+            - link "Remote Design + Front End Jobs" [ref=f8e1009]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e1011]
+            - link "Remote Front End + React Jobs" [ref=f8e1012]:
+              - /url: /remote-front-end+react-jobs
+              - heading "React" [level=3] [ref=f8e1014]
+          - cell [ref=f8e1015]:
+            - time [ref=f8e1016]: 4mo
+        - row [ref=f8e1017]:
+          - cell [ref=f8e1018]
+        - row [ref=f8e1019] [cursor=pointer]:
+          - cell [ref=f8e1020]:
+            - link [ref=f8e1021]:
+              - /url: /remote-jobs/remote-tecnico-de-estudos-e-propostas-wikibuild-s-a-1134929
+              - img "Wikibuild S.A" [ref=f8e1022]
+          - cell "Técnico De Estudos E Propostas verified Wikibuild S.A 🇵🇹 Portugal 🇪🇺 Europe 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e1023]:
+            - link [ref=f8e1024]:
+              - /url: /remote-jobs/remote-tecnico-de-estudos-e-propostas-wikibuild-s-a-1134929
+              - heading "Técnico De Estudos E Propostas" [level=2] [ref=f8e1025]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1026]': verified
+            - heading "Wikibuild S.A" [level=3] [ref=f8e1028]
+            - generic "This job is available for remote workers from Portugal. Click to see more remote jobs in Portugal" [ref=f8e1029]:
+              - link "🇵🇹 Portugal" [ref=f8e1030]:
+                - /url: /remote-jobs-in-portugal
+            - generic [ref=f8e1031]: 🇪🇺 Europe
+            - generic [ref=f8e1032]: 🌏 Worldwide
+            - generic [ref=f8e1033]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1034]:
+            - link "Remote Front End + Mobile Jobs" [ref=f8e1035]:
+              - /url: /remote-front-end+mobile-jobs
+              - heading "Mobile" [level=3] [ref=f8e1037]
+            - link "Remote Engineer + Front End Jobs" [ref=f8e1038]:
+              - /url: /remote-engineer+front-end-jobs
+              - heading "Engineer" [level=3] [ref=f8e1040]
+            - link "Remote Executive + Front End Jobs" [ref=f8e1041]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e1043]
+          - cell [ref=f8e1044]:
+            - time [ref=f8e1045]: 4mo
+        - row [ref=f8e1046]:
+          - cell [ref=f8e1047]
+        - row [ref=f8e1048] [cursor=pointer]:
+          - cell [ref=f8e1049]:
+            - link [ref=f8e1050]:
+              - /url: /remote-jobs/remote-customer-success-manager-enterprise-pointclickcare-1134869
+              - img "PointClickCare" [ref=f8e1051]
+          - cell "Customer Success Manager Enterprise verified PointClickCare 🇨🇦 Canada 💰 Upgrade to Premium to see salary" [ref=f8e1052]:
+            - link [ref=f8e1053]:
+              - /url: /remote-jobs/remote-customer-success-manager-enterprise-pointclickcare-1134869
+              - heading "Customer Success Manager Enterprise" [level=2] [ref=f8e1054]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1055]': verified
+            - heading "PointClickCare" [level=3] [ref=f8e1057]
+            - generic "This job is available for remote workers from Canada. Click to see more remote jobs in Canada" [ref=f8e1058]:
+              - link "🇨🇦 Canada" [ref=f8e1059]:
+                - /url: /remote-jobs-in-canada
+            - generic [ref=f8e1060]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1061]:
+            - link "Remote Front End + Speech Jobs" [ref=f8e1062]:
+              - /url: /remote-front-end+speech-jobs
+              - heading "Speech" [level=3] [ref=f8e1064]
+            - link "Remote Executive + Front End Jobs" [ref=f8e1065]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e1067]
+            - link "Remote Content Writing + Front End Jobs" [ref=f8e1068]:
+              - /url: /remote-content-writing+front-end-jobs
+              - heading "Content Writing" [level=3] [ref=f8e1070]
+          - cell [ref=f8e1071]:
+            - time [ref=f8e1072]: 4mo
+        - row [ref=f8e1073]:
+          - cell [ref=f8e1074]
+        - row [ref=f8e1075] [cursor=pointer]:
+          - cell [ref=f8e1076]:
+            - link [ref=f8e1077]:
+              - /url: /remote-jobs/remote-client-success-manager-nyc-fully-the-reed-corporation-1134779
+              - paragraph [ref=f8e1079]: TR
+          - cell "Client Success Manager NYC Fully verified The Reed Corporation 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e1080]:
+            - link [ref=f8e1081]:
+              - /url: /remote-jobs/remote-client-success-manager-nyc-fully-the-reed-corporation-1134779
+              - heading "Client Success Manager NYC Fully" [level=2] [ref=f8e1082]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1083]': verified
+            - heading "The Reed Corporation" [level=3] [ref=f8e1085]
+            - generic [ref=f8e1086]: 🌏 Worldwide
+            - generic [ref=f8e1087]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1088]:
+            - link "Remote Coordinator + Front End Jobs" [ref=f8e1089]:
+              - /url: /remote-coordinator+front-end-jobs
+              - heading "Coordinator" [level=3] [ref=f8e1091]
+            - link "Remote Front End + Ops Jobs" [ref=f8e1092]:
+              - /url: /remote-front-end+ops-jobs
+              - heading "Ops" [level=3] [ref=f8e1094]
+            - link "Remote Executive + Front End Jobs" [ref=f8e1095]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e1097]
+          - cell [ref=f8e1098]:
+            - time [ref=f8e1099]: 4mo
+        - row [ref=f8e1100]:
+          - cell [ref=f8e1101]
+        - row [ref=f8e1102] [cursor=pointer]:
+          - cell [ref=f8e1103]:
+            - link [ref=f8e1104]:
+              - /url: /remote-jobs/remote-software-developmentfrontend-developer-defdone-1134928
+              - img "defdone" [ref=f8e1105]
+          - cell "Software development Frontend Developer verified defdone 🇵🇱 Poland 🇪🇺 Europe 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e1106]:
+            - link [ref=f8e1107]:
+              - /url: /remote-jobs/remote-software-developmentfrontend-developer-defdone-1134928
+              - heading "Software development Frontend Developer" [level=2] [ref=f8e1108]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1109]': verified
+            - heading "defdone" [level=3] [ref=f8e1111]
+            - generic "This job is available for remote workers from Poland. Click to see more remote jobs in Poland" [ref=f8e1112]:
+              - link "🇵🇱 Poland" [ref=f8e1113]:
+                - /url: /remote-jobs-in-poland
+            - generic [ref=f8e1114]: 🇪🇺 Europe
+            - generic [ref=f8e1115]: 🌏 Worldwide
+            - generic [ref=f8e1116]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1117]:
+            - link "Remote Front End + Mobile Jobs" [ref=f8e1118]:
+              - /url: /remote-front-end+mobile-jobs
+              - heading "Mobile" [level=3] [ref=f8e1120]
+            - link "Remote Engineer + Front End Jobs" [ref=f8e1121]:
+              - /url: /remote-engineer+front-end-jobs
+              - heading "Engineer" [level=3] [ref=f8e1123]
+            - link "Remote Executive + Front End Jobs" [ref=f8e1124]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e1126]
+          - cell [ref=f8e1127]:
+            - time [ref=f8e1128]: 4mo
+        - row [ref=f8e1129]:
+          - cell [ref=f8e1130]
+        - row [ref=f8e1131] [cursor=pointer]:
+          - cell [ref=f8e1132]:
+            - link [ref=f8e1133]:
+              - /url: /remote-jobs/remote-jr-creative-strategist-trivium-group-1134870
+              - img "Trivium Group" [ref=f8e1134]
+          - cell "Jr Creative Strategist verified Trivium Group 🇨🇦 Canada 💰 Upgrade to Premium to see salary" [ref=f8e1135]:
+            - link [ref=f8e1136]:
+              - /url: /remote-jobs/remote-jr-creative-strategist-trivium-group-1134870
+              - heading "Jr Creative Strategist" [level=2] [ref=f8e1137]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1138]': verified
+            - heading "Trivium Group" [level=3] [ref=f8e1140]
+            - generic "This job is available for remote workers from Canada. Click to see more remote jobs in Canada" [ref=f8e1141]:
+              - link "🇨🇦 Canada" [ref=f8e1142]:
+                - /url: /remote-jobs-in-canada
+            - generic [ref=f8e1143]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1144]:
+            - link "Remote Front End + Speech Jobs" [ref=f8e1145]:
+              - /url: /remote-front-end+speech-jobs
+              - heading "Speech" [level=3] [ref=f8e1147]
+            - link "Remote Executive + Front End Jobs" [ref=f8e1148]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e1150]
+            - link "Remote Content Writing + Front End Jobs" [ref=f8e1151]:
+              - /url: /remote-content-writing+front-end-jobs
+              - heading "Content Writing" [level=3] [ref=f8e1153]
+          - cell [ref=f8e1154]:
+            - time [ref=f8e1155]: 4mo
+        - row [ref=f8e1156]:
+          - cell [ref=f8e1157]
+        - row [ref=f8e1158] [cursor=pointer]:
+          - cell [ref=f8e1159]:
+            - link [ref=f8e1160]:
+              - /url: /remote-jobs/remote-ux-ui-designer-palerto-studio-1134780
+              - img "Palerto Studio" [ref=f8e1161]
+          - cell "UX UI Designer verified Palerto Studio 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e1162]:
+            - link [ref=f8e1163]:
+              - /url: /remote-jobs/remote-ux-ui-designer-palerto-studio-1134780
+              - heading "UX UI Designer" [level=2] [ref=f8e1164]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1165]': verified
+            - heading "Palerto Studio" [level=3] [ref=f8e1167]
+            - generic [ref=f8e1168]: 🌏 Worldwide
+            - generic [ref=f8e1169]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1170]:
+            - link "Remote Coordinator + Front End Jobs" [ref=f8e1171]:
+              - /url: /remote-coordinator+front-end-jobs
+              - heading "Coordinator" [level=3] [ref=f8e1173]
+            - link "Remote Front End + Ops Jobs" [ref=f8e1174]:
+              - /url: /remote-front-end+ops-jobs
+              - heading "Ops" [level=3] [ref=f8e1176]
+            - link "Remote Executive + Front End Jobs" [ref=f8e1177]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e1179]
+          - cell [ref=f8e1180]:
+            - time [ref=f8e1181]: 4mo
+        - row [ref=f8e1182]:
+          - cell [ref=f8e1183]
+        - row [ref=f8e1184] [cursor=pointer]:
+          - cell [ref=f8e1185]:
+            - link [ref=f8e1186]:
+              - /url: /remote-jobs/remote-social-media-coordinator-digital-style-house-1134743
+              - img "Digital Style House" [ref=f8e1187]
+          - cell "Social Media Coordinator verified Digital Style House 🇺🇸 United States 💰 Upgrade to Premium to see salary" [ref=f8e1188]:
+            - link [ref=f8e1189]:
+              - /url: /remote-jobs/remote-social-media-coordinator-digital-style-house-1134743
+              - heading "Social Media Coordinator" [level=2] [ref=f8e1190]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1191]': verified
+            - heading "Digital Style House" [level=3] [ref=f8e1193]
+            - generic "This job is available for remote workers from United States. Click to see more remote jobs in United States" [ref=f8e1194]:
+              - link "🇺🇸 United States" [ref=f8e1195]:
+                - /url: /remote-jobs-in-united-states
+            - generic [ref=f8e1196]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1197]:
+            - link "Remote C + Front End Jobs" [ref=f8e1198]:
+              - /url: /remote-c+front-end-jobs
+              - heading "C" [level=3] [ref=f8e1200]
+            - link "Remote Front End + Music Jobs" [ref=f8e1201]:
+              - /url: /remote-front-end+music-jobs
+              - heading "Music" [level=3] [ref=f8e1203]
+            - link "Remote Front End + Game Developer Jobs" [ref=f8e1204]:
+              - /url: /remote-front-end+game-dev-jobs
+              - heading "Game Developer" [level=3] [ref=f8e1206]
+          - cell [ref=f8e1207]:
+            - time [ref=f8e1208]: 4mo
+        - row [ref=f8e1209]:
+          - cell [ref=f8e1210]
+        - row [ref=f8e1211] [cursor=pointer]:
+          - cell [ref=f8e1212]:
+            - link [ref=f8e1213]:
+              - /url: /remote-jobs/remote-assistente-de-qualidade-sicoob-1134842
+              - img "Sicoob" [ref=f8e1214]
+          - cell "Assistente de Qualidade verified Sicoob 🇧🇷 Brazil 💰 Upgrade to Premium to see salary" [ref=f8e1215]:
+            - link [ref=f8e1216]:
+              - /url: /remote-jobs/remote-assistente-de-qualidade-sicoob-1134842
+              - heading "Assistente de Qualidade" [level=2] [ref=f8e1217]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1218]': verified
+            - heading "Sicoob" [level=3] [ref=f8e1220]
+            - generic "This job is available for remote workers from Brazil. Click to see more remote jobs in Brazil" [ref=f8e1221]:
+              - link "🇧🇷 Brazil" [ref=f8e1222]:
+                - /url: /remote-jobs-in-brazil
+            - generic [ref=f8e1223]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1224]:
+            - link "Remote Executive + Front End Jobs" [ref=f8e1225]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e1227]
+            - link "Remote Design + Front End Jobs" [ref=f8e1228]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e1230]
+            - link "Remote Front End + React Jobs" [ref=f8e1231]:
+              - /url: /remote-front-end+react-jobs
+              - heading "React" [level=3] [ref=f8e1233]
+          - cell [ref=f8e1234]:
+            - time [ref=f8e1235]: 4mo
+        - row [ref=f8e1236]:
+          - cell [ref=f8e1237]
+        - row [ref=f8e1238] [cursor=pointer]:
+          - cell [ref=f8e1239]:
+            - link [ref=f8e1240]:
+              - /url: /remote-jobs/remote-docente-tiempo-parcial-lenguaje-visual-remoto-universidad-privada-del-norte-1134840
+              - img "Universidad Privada del Norte" [ref=f8e1241]
+          - cell "Docente Tiempo Parcial Lenguaje Visual Remoto verified Universidad Privada del Norte 🇵🇪 Peru 💰 Upgrade to Premium to see salary" [ref=f8e1242]:
+            - link [ref=f8e1243]:
+              - /url: /remote-jobs/remote-docente-tiempo-parcial-lenguaje-visual-remoto-universidad-privada-del-norte-1134840
+              - heading "Docente Tiempo Parcial Lenguaje Visual Remoto" [level=2] [ref=f8e1244]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1245]': verified
+            - heading "Universidad Privada del Norte" [level=3] [ref=f8e1247]
+            - generic "This job is available for remote workers from Peru. Click to see more remote jobs in Peru" [ref=f8e1248]:
+              - link "🇵🇪 Peru" [ref=f8e1249]:
+                - /url: /remote-jobs-in-peru
+            - generic [ref=f8e1250]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1251]:
+            - link "Remote Executive + Front End Jobs" [ref=f8e1252]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e1254]
+            - link "Remote Design + Front End Jobs" [ref=f8e1255]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e1257]
+            - link "Remote Front End + React Jobs" [ref=f8e1258]:
+              - /url: /remote-front-end+react-jobs
+              - heading "React" [level=3] [ref=f8e1260]
+          - cell [ref=f8e1261]:
+            - time [ref=f8e1262]: 4mo
+        - row [ref=f8e1263]:
+          - cell [ref=f8e1264]
+        - row [ref=f8e1265] [cursor=pointer]:
+          - cell [ref=f8e1266]:
+            - link [ref=f8e1267]:
+              - /url: /remote-jobs/remote-desenvolvedor-front-end-junior-cakto-1134839
+              - img "Cakto" [ref=f8e1268]
+          - cell "Desenvolvedor Front end Júnior verified Cakto 🇧🇷 Brazil 💰 Upgrade to Premium to see salary" [ref=f8e1269]:
+            - link [ref=f8e1270]:
+              - /url: /remote-jobs/remote-desenvolvedor-front-end-junior-cakto-1134839
+              - heading "Desenvolvedor Front end Júnior" [level=2] [ref=f8e1271]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1272]': verified
+            - heading "Cakto" [level=3] [ref=f8e1274]
+            - generic "This job is available for remote workers from Brazil. Click to see more remote jobs in Brazil" [ref=f8e1275]:
+              - link "🇧🇷 Brazil" [ref=f8e1276]:
+                - /url: /remote-jobs-in-brazil
+            - generic [ref=f8e1277]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1278]:
+            - link "Remote Executive + Front End Jobs" [ref=f8e1279]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e1281]
+            - link "Remote Design + Front End Jobs" [ref=f8e1282]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e1284]
+            - link "Remote Front End + React Jobs" [ref=f8e1285]:
+              - /url: /remote-front-end+react-jobs
+              - heading "React" [level=3] [ref=f8e1287]
+          - cell [ref=f8e1288]:
+            - time [ref=f8e1289]: 4mo
+        - row [ref=f8e1290]:
+          - cell [ref=f8e1291]
+        - row [ref=f8e1292] [cursor=pointer]:
+          - cell [ref=f8e1293]:
+            - link [ref=f8e1294]:
+              - /url: /remote-jobs/remote-freelance-editor-a-de-video-casos-de-exito-intagono-agencia-digital-1134843
+              - 'img "Intagono: Agencia Digital" [ref=f8e1295]'
+          - 'cell "Freelance Editor a de Video Casos de éxito verified Intagono: Agencia Digital 🇲🇽 Mexico 💰 Upgrade to Premium to see salary" [ref=f8e1296]':
+            - link [ref=f8e1297]:
+              - /url: /remote-jobs/remote-freelance-editor-a-de-video-casos-de-exito-intagono-agencia-digital-1134843
+              - heading "Freelance Editor a de Video Casos de éxito" [level=2] [ref=f8e1298]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1299]': verified
+            - 'heading "Intagono: Agencia Digital" [level=3] [ref=f8e1301]'
+            - generic "This job is available for remote workers from Mexico. Click to see more remote jobs in Mexico" [ref=f8e1302]:
+              - link "🇲🇽 Mexico" [ref=f8e1303]:
+                - /url: /remote-jobs-in-mexico
+            - generic [ref=f8e1304]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1305]:
+            - link "Remote Executive + Front End Jobs" [ref=f8e1306]:
+              - /url: /remote-exec+front-end-jobs
+              - heading "Executive" [level=3] [ref=f8e1308]
+            - link "Remote Design + Front End Jobs" [ref=f8e1309]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e1311]
+            - link "Remote Front End + React Jobs" [ref=f8e1312]:
+              - /url: /remote-front-end+react-jobs
+              - heading "React" [level=3] [ref=f8e1314]
+          - cell [ref=f8e1315]:
+            - time [ref=f8e1316]: 4mo
+        - row [ref=f8e1317]:
+          - cell [ref=f8e1318]
+        - row [ref=f8e1319] [cursor=pointer]:
+          - cell [ref=f8e1320]:
+            - link [ref=f8e1321]:
+              - /url: /remote-jobs/remote-junior-product-designer-wealthcounsel-llc-1134407
+              - img "WealthCounsel, LLC" [ref=f8e1322]
+          - cell "Junior Product Designer verified WealthCounsel, LLC 🇺🇸 United States 💰 Upgrade to Premium to see salary" [ref=f8e1323]:
+            - link [ref=f8e1324]:
+              - /url: /remote-jobs/remote-junior-product-designer-wealthcounsel-llc-1134407
+              - heading "Junior Product Designer" [level=2] [ref=f8e1325]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1326]': verified
+            - heading "WealthCounsel, LLC" [level=3] [ref=f8e1328]
+            - generic "This job is available for remote workers from United States. Click to see more remote jobs in United States" [ref=f8e1329]:
+              - link "🇺🇸 United States" [ref=f8e1330]:
+                - /url: /remote-jobs-in-united-states
+            - generic [ref=f8e1331]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1332]:
+            - link "Remote Front End + Salesforce Jobs" [ref=f8e1333]:
+              - /url: /remote-front-end+salesforce-jobs
+              - heading "Salesforce" [level=3] [ref=f8e1335]
+            - link "Remote Education + Front End Jobs" [ref=f8e1336]:
+              - /url: /remote-education+front-end-jobs
+              - heading "Edu" [level=3] [ref=f8e1338]
+            - link "Remote Customer Support + Front End Jobs" [ref=f8e1339]:
+              - /url: /remote-customer-support+front-end-jobs
+              - heading "Customer Support" [level=3] [ref=f8e1341]
+          - cell [ref=f8e1342]:
+            - time [ref=f8e1343]: 4mo
+        - row [ref=f8e1344]:
+          - cell [ref=f8e1345]
+        - row [ref=f8e1346] [cursor=pointer]:
+          - cell [ref=f8e1347]:
+            - link [ref=f8e1348]:
+              - /url: /remote-jobs/remote-customer-support-specialist-indrive-1134519
+              - img "inDrive" [ref=f8e1349]
+          - cell "Customer Support Specialist verified inDrive 🇱🇦 Laos 💰 Upgrade to Premium to see salary" [ref=f8e1350]:
+            - link [ref=f8e1351]:
+              - /url: /remote-jobs/remote-customer-support-specialist-indrive-1134519
+              - heading "Customer Support Specialist" [level=2] [ref=f8e1352]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1353]': verified
+            - heading "inDrive" [level=3] [ref=f8e1355]
+            - generic "This job is available for remote workers from Laos. Click to see more remote jobs in Laos" [ref=f8e1356]:
+              - link "🇱🇦 Laos" [ref=f8e1357]:
+                - /url: /remote-jobs-in-laos
+            - generic [ref=f8e1358]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1359]:
+            - link "Remote Developer + Front End Jobs" [ref=f8e1360]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e1362]
+            - link "Remote Design + Front End Jobs" [ref=f8e1363]:
+              - /url: /remote-design+front-end-jobs
+              - heading "Design" [level=3] [ref=f8e1365]
+            - link "Remote Front End + React Jobs" [ref=f8e1366]:
+              - /url: /remote-front-end+react-jobs
+              - heading "React" [level=3] [ref=f8e1368]
+          - cell [ref=f8e1369]:
+            - time [ref=f8e1370]: 4mo
+        - row [ref=f8e1371]:
+          - cell [ref=f8e1372]
+        - row [ref=f8e1373] [cursor=pointer]:
+          - cell [ref=f8e1374]:
+            - link [ref=f8e1375]:
+              - /url: /remote-jobs/remote-frontend-engineer-over99-1136165
+              - img "over99" [ref=f8e1376]
+          - cell "Frontend Engineer verified over99 🌏 Worldwide 💰 Upgrade to Premium to see salary" [ref=f8e1377]:
+            - link [ref=f8e1378]:
+              - /url: /remote-jobs/remote-frontend-engineer-over99-1136165
+              - heading "Frontend Engineer" [level=2] [ref=f8e1379]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1380]': verified
+            - heading "over99" [level=3] [ref=f8e1382]
+            - generic [ref=f8e1383]: 🌏 Worldwide
+            - generic [ref=f8e1384]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1385]:
+            - link "Remote Crypto + Front End Jobs" [ref=f8e1386]:
+              - /url: /remote-crypto+front-end-jobs
+              - heading "Crypto" [level=3] [ref=f8e1388]
+            - link "Remote Front End + React Jobs" [ref=f8e1389]:
+              - /url: /remote-front-end+react-jobs
+              - heading "React" [level=3] [ref=f8e1391]
+            - link "Remote Front End + Redis Jobs" [ref=f8e1392]:
+              - /url: /remote-front-end+redis-jobs
+              - heading "Redis" [level=3] [ref=f8e1394]
+          - cell [ref=f8e1395]:
+            - time [ref=f8e1396]: 4mo
+        - row [ref=f8e1397]:
+          - cell [ref=f8e1398]
+        - row [ref=f8e1399] [cursor=pointer]:
+          - cell [ref=f8e1400]:
+            - link [ref=f8e1401]:
+              - /url: /remote-jobs/remote-frontend-developer-junior-universia-peru-1134158
+              - img "Universia Perú" [ref=f8e1402]
+          - cell "Frontend Developer Junior verified Universia Perú 🇵🇪 Peru 💰 Upgrade to Premium to see salary" [ref=f8e1403]:
+            - link [ref=f8e1404]:
+              - /url: /remote-jobs/remote-frontend-developer-junior-universia-peru-1134158
+              - heading "Frontend Developer Junior" [level=2] [ref=f8e1405]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1406]': verified
+            - heading "Universia Perú" [level=3] [ref=f8e1408]
+            - generic "This job is available for remote workers from Peru. Click to see more remote jobs in Peru" [ref=f8e1409]:
+              - link "🇵🇪 Peru" [ref=f8e1410]:
+                - /url: /remote-jobs-in-peru
+            - generic [ref=f8e1411]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1412]:
+            - link "Remote Developer + Front End Jobs" [ref=f8e1413]:
+              - /url: /remote-dev+front-end-jobs
+              - heading "Developer" [level=3] [ref=f8e1415]
+            - link "Remote Front End + Web Developer Jobs" [ref=f8e1416]:
+              - /url: /remote-front-end+web-dev-jobs
+              - heading "Web Developer" [level=3] [ref=f8e1418]
+            - link "Remote Front End + JavaScript Jobs" [ref=f8e1419]:
+              - /url: /remote-front-end+javascript-jobs
+              - heading "JavaScript" [level=3] [ref=f8e1421]
+          - cell [ref=f8e1422]:
+            - time [ref=f8e1423]: 4mo
+        - row [ref=f8e1424]:
+          - cell [ref=f8e1425]
+        - row [ref=f8e1426] [cursor=pointer]:
+          - cell [ref=f8e1427]:
+            - link [ref=f8e1428]:
+              - /url: /remote-jobs/remote-ux-ui-designer-siroko-1134233
+              - img "Siroko" [ref=f8e1429]
+          - cell "UX UI Designer verified Siroko 🇪🇸 Spain 🇪🇺 Europe 💰 Upgrade to Premium to see salary" [ref=f8e1430]:
+            - link [ref=f8e1431]:
+              - /url: /remote-jobs/remote-ux-ui-designer-siroko-1134233
+              - heading "UX UI Designer" [level=2] [ref=f8e1432]
+            - 'generic "Verified listing: this job is posted from a verified source and is trustworthy" [ref=f8e1433]': verified
+            - heading "Siroko" [level=3] [ref=f8e1435]
+            - generic "This job is available for remote workers from Spain. Click to see more remote jobs in Spain" [ref=f8e1436]:
+              - link "🇪🇸 Spain" [ref=f8e1437]:
+                - /url: /remote-jobs-in-spain
+            - generic [ref=f8e1438]: 🇪🇺 Europe
+            - generic [ref=f8e1439]: 💰 Upgrade to Premium to see salary
+          - cell [ref=f8e1440]:
+            - link "Remote Amazon + Front End Jobs" [ref=f8e1441]:
+              - /url: /remote-amazon+front-end-jobs
+              - heading "Amazon" [level=3] [ref=f8e1443]
+            - link "Remote Front End + Sys Admin Jobs" [ref=f8e1444]:
+              - /url: /remote-front-end+sys-admin-jobs
+              - heading "Sys Admin" [level=3] [ref=f8e1446]
+            - link "Remote Front End + Python Jobs" [ref=f8e1447]:
+              - /url: /remote-front-end+python-jobs
+              - heading "Python" [level=3] [ref=f8e1449]
+          - cell [ref=f8e1450]:
+            - time [ref=f8e1451]: 4mo
+        - row [ref=f8e1452]:
+          - cell [ref=f8e1453]
+        - row [ref=f8e1454]:
+          - cell [ref=f8e1455]
+  - generic [ref=f8e1456]:
+    - text: © 2026 Remote OK|
+    - link "Terms of Service" [ref=f8e1457] [cursor=pointer]:
+      - /url: /legal
+    - text: "|"
+    - link "Privacy Policy" [ref=f8e1458] [cursor=pointer]:
+      - /url: /privacy

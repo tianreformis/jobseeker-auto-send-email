@@ -1,0 +1,392 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e4]:
+      - link "KR" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e6]:
+        - link "Beranda" [ref=e7] [cursor=pointer]:
+          - /url: /
+        - link "Tentang" [ref=e8] [cursor=pointer]:
+          - /url: /#about
+        - link "Project" [ref=e9] [cursor=pointer]:
+          - /url: /#projects
+        - link "Blog" [ref=e10] [cursor=pointer]:
+          - /url: /blog
+        - link "Kontak" [ref=e11] [cursor=pointer]:
+          - /url: /#contact
+        - 'button "Theme: System (click to cycle)" [ref=e12]'
+        - button "EN" [ref=e15]
+  - main [ref=e20]:
+    - generic [ref=e21]:
+      - generic [ref=e26]:
+        - generic [ref=e27]: Tersedia untuk freelance
+        - heading "Hai, saya Kristian Reformis" [level=1] [ref=e29]
+        - paragraph [ref=e30]: Fullstack Developer yang berspesialisasi dalam membangun aplikasi web modern, integrasi AI, dan otomasi cerdas.
+        - paragraph [ref=e31]: Saya membangun aplikasi yang scalable, cepat, dan indah dengan arsitektur bersih — dari web app hingga AI-powered solutions.
+        - generic [ref=e32]:
+          - link "Lihat Project" [ref=e33] [cursor=pointer]:
+            - /url: "#projects"
+          - link "Hubungi Saya" [ref=e34] [cursor=pointer]:
+            - /url: "#contact"
+        - generic [ref=e35]:
+          - link [ref=e36] [cursor=pointer]:
+            - /url: https://github.com/tianreformis
+          - link [ref=e39] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/kristian-reformis-1148291b2/
+          - link [ref=e44] [cursor=pointer]:
+            - /url: mailto:tianreformis.work@gmail.com
+          - button "EN" [ref=e48]
+      - link [ref=e54] [cursor=pointer]:
+        - /url: "#about"
+    - generic [ref=e58]:
+      - heading "Tentang Saya" [level=2] [ref=e60]
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - paragraph [ref=e63]: Developer berpengalaman dengan keahlian di Next.js, React, TypeScript, dan ekosistem modern web development. Saya juga memiliki spesialisasi dalam integrasi AI (OpenRouter/GPT API), AI-powered automation (workflow otomatis, auto analysis, decision support), prompt engineering, pembuatan AI agent, dan pengembangan aplikasi berbasis AI untuk analisis data, trading, dan sistem rekomendasi.
+          - paragraph [ref=e64]: Perjalanan saya di dunia pengembangan software dimulai dari rasa ingin tahu tentang cara kerja website, dan berkembang menjadi karir membangun aplikasi kompleks untuk klien di seluruh dunia. Saya terus belajar dan beradaptasi dengan teknologi baru.
+        - generic [ref=e65]:
+          - heading "Apa yang Saya Kerjakan" [level=3] [ref=e66]
+          - list [ref=e67]:
+            - listitem [ref=e68]: Pengembangan Aplikasi Web
+            - listitem [ref=e70]: Desain & Pengembangan API
+            - listitem [ref=e72]: Arsitektur Database
+            - listitem [ref=e74]: Implementasi UI/UX
+            - listitem [ref=e76]: Optimasi Performa
+            - listitem [ref=e78]: Konsultasi Teknis
+            - listitem [ref=e80]: Integrasi AI & Otomasi
+      - generic [ref=e82]:
+        - generic [ref=e83]:
+          - generic [ref=e84]: Keahlian
+          - heading "Skill & Teknologi" [level=3] [ref=e88]
+          - paragraph [ref=e89]: Teknologi dan tools yang saya gunakan sehari-hari untuk membangun aplikasi modern.
+        - generic [ref=e90]:
+          - generic [ref=e91]:
+            - paragraph [ref=e97]: AI & Automation
+            - generic [ref=e98]: 88% avg
+          - generic [ref=e104]:
+            - paragraph [ref=e110]: Backend Development
+            - generic [ref=e111]: 84% avg
+          - generic [ref=e117]:
+            - paragraph [ref=e124]: Database & ORM
+            - generic [ref=e125]: 83% avg
+          - generic [ref=e131]:
+            - paragraph [ref=e136]: DevOps & Deployment
+            - generic [ref=e137]: 78% avg
+          - generic [ref=e143]:
+            - paragraph [ref=e149]: Frontend Development
+            - generic [ref=e150]: 91% avg
+        - generic [ref=e156]:
+          - generic [ref=e157]:
+            - heading "AI & Automation" [level=4] [ref=e162]
+            - generic [ref=e163]: 5 tools
+          - generic [ref=e164]:
+            - generic [ref=e171]:
+              - generic [ref=e172]: Prompt Engineering
+              - generic [ref=e173]: 92%
+            - generic [ref=e182]:
+              - generic [ref=e183]: AI Integration
+              - generic [ref=e184]: 90%
+            - generic [ref=e193]:
+              - generic [ref=e194]: OpenAI
+              - generic [ref=e195]: 88%
+            - generic [ref=e204]:
+              - generic [ref=e205]: AI Automation
+              - generic [ref=e206]: 87%
+            - generic [ref=e215]:
+              - generic [ref=e216]: OpenRouter
+              - generic [ref=e217]: 85%
+        - generic [ref=e220]:
+          - generic [ref=e221]:
+            - heading "Backend Development" [level=4] [ref=e226]
+            - generic [ref=e227]: 5 tools
+          - generic [ref=e228]:
+            - generic [ref=e235]:
+              - generic [ref=e236]: Node.js
+              - generic [ref=e237]: 88%
+            - generic [ref=e246]:
+              - generic [ref=e247]: Python
+              - generic [ref=e248]: 85%
+            - generic [ref=e257]:
+              - generic [ref=e258]: Node.js
+              - generic [ref=e259]: 85%
+            - generic [ref=e268]:
+              - generic [ref=e269]: FastAPI
+              - generic [ref=e270]: 80%
+            - generic [ref=e279]:
+              - generic [ref=e280]: Python
+              - generic [ref=e281]: 80%
+        - generic [ref=e284]:
+          - generic [ref=e285]:
+            - heading "Database & ORM" [level=4] [ref=e291]
+            - generic [ref=e292]: 7 tools
+          - generic [ref=e293]:
+            - generic [ref=e300]:
+              - generic [ref=e301]: PostgreSQL
+              - generic [ref=e302]: 88%
+            - generic [ref=e311]:
+              - generic [ref=e312]: Prisma
+              - generic [ref=e313]: 88%
+            - generic [ref=e322]:
+              - generic [ref=e323]: Supabase
+              - generic [ref=e324]: 85%
+            - generic [ref=e333]:
+              - generic [ref=e334]: SQLite
+              - generic [ref=e335]: 82%
+            - generic [ref=e344]:
+              - generic [ref=e345]: PostgreSQL
+              - generic [ref=e346]: 82%
+            - generic [ref=e355]:
+              - generic [ref=e356]: MongoDB
+              - generic [ref=e357]: 78%
+            - generic [ref=e366]:
+              - generic [ref=e367]: MongoDB
+              - generic [ref=e368]: 78%
+        - generic [ref=e371]:
+          - generic [ref=e372]:
+            - heading "DevOps & Deployment" [level=4] [ref=e376]
+            - generic [ref=e377]: 6 tools
+          - generic [ref=e378]:
+            - generic [ref=e385]:
+              - generic [ref=e386]: Vercel
+              - generic [ref=e387]: 90%
+            - generic [ref=e396]:
+              - generic [ref=e397]: Netlify
+              - generic [ref=e398]: 82%
+            - generic [ref=e407]:
+              - generic [ref=e408]: Docker
+              - generic [ref=e409]: 78%
+            - generic [ref=e418]:
+              - generic [ref=e419]: Docker
+              - generic [ref=e420]: 75%
+            - generic [ref=e429]:
+              - generic [ref=e430]: Cloudinary
+              - generic [ref=e431]: 75%
+            - generic [ref=e437]:
+              - generic [ref=e438]: AWS
+              - generic [ref=e439]: 70%
+        - generic [ref=e442]:
+          - generic [ref=e443]:
+            - heading "Frontend Development" [level=4] [ref=e448]
+            - generic [ref=e449]: 9 tools
+          - generic [ref=e450]:
+            - generic [ref=e457]:
+              - generic [ref=e458]: React
+              - generic [ref=e459]: 95%
+            - generic [ref=e468]:
+              - generic [ref=e469]: Next.js
+              - generic [ref=e470]: 95%
+            - generic [ref=e479]:
+              - generic [ref=e480]: Tailwind CSS
+              - generic [ref=e481]: 93%
+            - generic [ref=e490]:
+              - generic [ref=e491]: React
+              - generic [ref=e492]: 92%
+            - generic [ref=e501]:
+              - generic [ref=e502]: Next.js
+              - generic [ref=e503]: 92%
+            - generic [ref=e512]:
+              - generic [ref=e513]: TypeScript
+              - generic [ref=e514]: 90%
+            - generic [ref=e523]:
+              - generic [ref=e524]: TypeScript
+              - generic [ref=e525]: 90%
+            - generic [ref=e534]:
+              - generic [ref=e535]: Shadcn UI
+              - generic [ref=e536]: 88%
+            - generic [ref=e545]:
+              - generic [ref=e546]: Framer Motion
+              - generic [ref=e547]: 85%
+    - generic [ref=e551]:
+      - generic [ref=e552]:
+        - heading "Project Unggulan" [level=2] [ref=e553]
+        - paragraph [ref=e554]: Pilihan project terbaru saya meliputi aplikasi web, project AI, dan aplikasi mobile.
+      - generic [ref=e555]:
+        - button "Semua" [ref=e556]
+        - button "Web" [ref=e557]
+        - button "HTML5Game" [ref=e558]
+      - generic [ref=e559]:
+        - article [ref=e561]:
+          - link [ref=e562] [cursor=pointer]:
+            - /url: /projects/cms-smp-sanjaya-banjarbaru
+            - img "CMS SMP Sanjaya Banjarbaru" [ref=e564]
+          - generic [ref=e566]:
+            - link [ref=e567] [cursor=pointer]:
+              - /url: /projects/cms-smp-sanjaya-banjarbaru
+              - heading "CMS SMP Sanjaya Banjarbaru" [level=3] [ref=e568]
+            - paragraph [ref=e569]: Website resmi SMP Sanjaya Banjarbaru dengan CMS, sehingga pihak sekolah bisa mengelola berita, pengumuman, dan profil sekolah sendiri tanpa bantuan developer.
+            - generic [ref=e570]:
+              - generic [ref=e571]: Next.js
+              - generic [ref=e572]: TypeScript
+              - generic [ref=e573]: Sqlite
+            - generic [ref=e574]:
+              - generic [ref=e575]:
+                - generic [ref=e576]: "3"
+                - generic [ref=e580]: "0"
+              - link "View live demo" [ref=e584] [cursor=pointer]:
+                - /url: https://smpsanjayabanjarbaru.sch.id
+        - article [ref=e590]:
+          - link [ref=e591] [cursor=pointer]:
+            - /url: /projects/word-slash-html-5-game
+            - img "Word Slash HTML 5 Game" [ref=e593]
+          - generic [ref=e595]:
+            - link [ref=e596] [cursor=pointer]:
+              - /url: /projects/word-slash-html-5-game
+              - heading "Word Slash HTML 5 Game" [level=3] [ref=e597]
+            - paragraph [ref=e598]: Word Slash adalah sebuah eksperimen game berbasis HTML5 Canvas yang menggabungkan elemen edukasi mengetik dengan mekanik aksi yang adiktif. Dikembangkan menggunakan teknologi web murni (Vanilla JavaScript), game ini menantang pemain untuk menghancurkan kata-kata yang muncul di layar dengan cara mengetiknya secara cepat—mirip dengan sensasi menebas buah di Fruit Ninja. Proyek ini mendemonstrasikan kemampuan teknis dalam mengelola real-time rendering, sistem leveling dinamis, dan deteksi input yang presisi, menjadikannya bukti kemahiran dalam membangun aplikasi interaktif yang ringan namun berperforma tinggi tanpa bantuan library eksternal.
+            - generic [ref=e599]:
+              - generic [ref=e600]:
+                - generic [ref=e601]: "15"
+                - generic [ref=e605]: "0"
+              - generic [ref=e608]:
+                - link "View source code" [ref=e609] [cursor=pointer]:
+                  - /url: https://github.com/tianreformis/word-slash
+                - link "View live demo" [ref=e612] [cursor=pointer]:
+                  - /url: https://wordslash.vercel.app/
+        - article [ref=e618]:
+          - link [ref=e619] [cursor=pointer]:
+            - /url: /projects/sd-kudangan-2-learning-management-system
+            - img "SD Kudangan 2 - Learning Management System" [ref=e621]
+          - generic [ref=e623]:
+            - link [ref=e624] [cursor=pointer]:
+              - /url: /projects/sd-kudangan-2-learning-management-system
+              - heading "SD Kudangan 2 - Learning Management System" [level=3] [ref=e625]
+            - paragraph [ref=e626]: SD Kudangan 2 Learning & School Management System adalah platform digital terintegrasi yang dirancang untuk mentransformasi tata kelola administrasi dan kegiatan belajar mengajar di tingkat sekolah dasar. Proyek ini menggabungkan fitur Learning Management System (LMS) dengan sistem manajemen sekolah untuk menciptakan ekosistem pendidikan yang efisien dan terpusat. Dikembangkan dengan fokus pada pengalaman pengguna (UX) bagi guru dan staf, aplikasi ini bertujuan untuk mendigitalisasi pencatatan data akademik, distribusi materi pembelajaran, dan efisiensi alur kerja administratif melalui teknologi web modern yang cepat dan aman.
+            - generic [ref=e627]:
+              - generic [ref=e628]: Next.js
+              - generic [ref=e629]: Node.js
+              - generic [ref=e630]: PostgreSQL
+              - generic [ref=e631]: PrismaORM
+            - generic [ref=e632]:
+              - generic [ref=e633]:
+                - generic [ref=e634]: "16"
+                - generic [ref=e638]: "0"
+              - link "View live demo" [ref=e642] [cursor=pointer]:
+                - /url: https://dev-sdkudangan2.vercel.app/list/ppdb
+        - article [ref=e648]:
+          - link [ref=e649] [cursor=pointer]:
+            - /url: /projects/kok
+            - img "Cryptonexus" [ref=e651]
+          - generic [ref=e653]:
+            - link [ref=e654] [cursor=pointer]:
+              - /url: /projects/kok
+              - heading "Cryptonexus" [level=3] [ref=e655]
+            - paragraph [ref=e656]: A cryptocurrency analysis and monitoring platform built with Next.js, deployed on Cloudflare Workers with D1 database.
+            - generic [ref=e657]:
+              - generic [ref=e658]:
+                - generic [ref=e659]: "7"
+                - generic [ref=e663]: "0"
+              - generic [ref=e666]:
+                - link "View source code" [ref=e667] [cursor=pointer]:
+                  - /url: https://github.com/tianreformis/com.tianreformis.cryptonexus
+                - link "View live demo" [ref=e670] [cursor=pointer]:
+                  - /url: https://cryptonexus.tianreformis.workers.dev
+        - article [ref=e676]:
+          - link [ref=e677] [cursor=pointer]:
+            - /url: /projects/solana-trade-bot
+            - img "Solana Trade Bot" [ref=e679]
+          - generic [ref=e681]:
+            - link [ref=e682] [cursor=pointer]:
+              - /url: /projects/solana-trade-bot
+              - heading "Solana Trade Bot" [level=3] [ref=e683]
+            - paragraph [ref=e684]: Bot trading otomatis Solana DEX dengan dashboard full-stack Next.js. Mendukung Raydium, Jupiter, dan Pump.fun dengan strategi trading multi-guna, screening anti-rugpull, dan manajemen posisi real-time.
+            - generic [ref=e685]:
+              - generic [ref=e686]: Next.js
+              - generic [ref=e687]: TypeScript
+              - generic [ref=e688]: Node.js
+              - generic [ref=e689]: Sqlite
+              - generic [ref=e690]: "+3"
+            - generic [ref=e691]:
+              - generic [ref=e692]:
+                - generic [ref=e693]: "9"
+                - generic [ref=e697]: "0"
+              - link "View source code" [ref=e701] [cursor=pointer]:
+                - /url: https://github.com/tianreformis/solana.tradebot.web
+        - article [ref=e705]:
+          - link [ref=e706] [cursor=pointer]:
+            - /url: /projects/cryptonexus
+            - img "Trademind" [ref=e708]
+          - generic [ref=e710]:
+            - link [ref=e711] [cursor=pointer]:
+              - /url: /projects/cryptonexus
+              - heading "Trademind" [level=3] [ref=e712]
+            - paragraph [ref=e713]: A production-ready SaaS web application for tracking, analyzing, and improving your trading performance with AI-powered insights.
+            - generic [ref=e714]:
+              - generic [ref=e715]: Next.js
+              - generic [ref=e716]: TypeScript
+              - generic [ref=e717]: Node.js
+              - generic [ref=e718]: React
+              - generic [ref=e719]: "+1"
+            - generic [ref=e720]:
+              - generic [ref=e721]:
+                - generic [ref=e722]: "10"
+                - generic [ref=e726]: "0"
+              - link "View source code" [ref=e730] [cursor=pointer]:
+                - /url: https://github.com/tianreformis/trademind-ai
+    - generic [ref=e734]:
+      - generic [ref=e735]:
+        - heading "Artikel Terbaru" [level=2] [ref=e736]
+        - paragraph [ref=e737]: Pemikiran, tutorial, dan wawasan tentang pengembangan web dan teknologi.
+      - generic [ref=e738]:
+        - article [ref=e740]:
+          - link [ref=e741] [cursor=pointer]:
+            - /url: /blog/the-hidden-journey-of-a-prompt-where-the-electricity-goes
+            - 'img "The Hidden Journey of a Prompt: Where the Electricity Goes" [ref=e743]'
+            - generic [ref=e745]:
+              - 'heading "The Hidden Journey of a Prompt: Where the Electricity Goes" [level=3] [ref=e746]'
+              - paragraph [ref=e747]: You type a sentence, press Enter, and an answer appears in two seconds. It feels weightless, like thinking out loud. It is not. Behind that tidy littl...
+              - generic [ref=e748]:
+                - generic [ref=e749]: Oct 30, 2026
+                - generic [ref=e752]: "1"
+        - article [ref=e757]:
+          - link [ref=e758] [cursor=pointer]:
+            - /url: /blog/three-myths-about-ai-in-the-classroom-from-a-teacher-who-teaches-code
+            - img "Three Myths About AI in the Classroom, From a Teacher Who Teaches Code" [ref=e760]
+            - generic [ref=e762]:
+              - heading "Three Myths About AI in the Classroom, From a Teacher Who Teaches Code" [level=3] [ref=e763]
+              - paragraph [ref=e764]: Every few months, someone tells me that AI will either save education or ruin it. After teaching informatics for years, I have learned to distrust bot...
+              - generic [ref=e765]:
+                - generic [ref=e766]: Oct 30, 2026
+                - generic [ref=e769]: "0"
+        - article [ref=e774]:
+          - link [ref=e775] [cursor=pointer]:
+            - /url: /blog/your-ai-can-now-place-the-trade-should-you-let-it
+            - img "Your AI Can Now Place the Trade. Should You Let It?" [ref=e777]
+            - generic [ref=e779]:
+              - heading "Your AI Can Now Place the Trade. Should You Let It?" [level=3] [ref=e780]
+              - paragraph [ref=e781]: "Picture a regular evening. You open a chat window and type: \"Review my portfolio, tell me where I'm overexposed, and show me what buying more of my fa..."
+              - generic [ref=e782]:
+                - generic [ref=e783]: Oct 30, 2026
+                - generic [ref=e786]: "1"
+      - link "Lihat Semua Artikel" [ref=e791] [cursor=pointer]:
+        - /url: /blog
+    - generic [ref=e793]:
+      - generic [ref=e794]:
+        - heading "Hubungi Saya" [level=2] [ref=e795]
+        - paragraph [ref=e796]: Punya project yang ingin dikerjakan atau ingin berkolaborasi? Jangan ragu untuk menghubungi saya.
+      - generic [ref=e799]:
+        - generic [ref=e800]:
+          - generic [ref=e801]: Nama
+          - textbox "Nama" [ref=e806]:
+            - /placeholder: Nama Anda
+        - generic [ref=e807]:
+          - generic [ref=e808]: Email
+          - textbox "Email" [ref=e813]:
+            - /placeholder: email@anda.com
+        - generic [ref=e814]:
+          - generic [ref=e815]: Pesan
+          - textbox "Pesan" [ref=e819]:
+            - /placeholder: Ceritakan tentang project Anda...
+        - button "Kirim Pesan" [ref=e820]
+  - contentinfo [ref=e824]:
+    - generic [ref=e826]:
+      - paragraph [ref=e827]: © 2026 Tian Reformis. All rights reserved.
+      - generic [ref=e828]:
+        - link "GitHub" [ref=e829] [cursor=pointer]:
+          - /url: https://github.com/tianreformis
+        - link "Twitter" [ref=e832] [cursor=pointer]:
+          - /url: https://twitter.com
+        - link "LinkedIn" [ref=e835] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/kristian-reformis-1148291b2/
+        - link "Email" [ref=e840] [cursor=pointer]:
+          - /url: mailto:tianreformis.work@gmail.com
+  - alert [ref=e844]

@@ -1,0 +1,1 @@
+[     839ms] [WARNING] browserTracingIntegration is not fully compatible with @sentry/react-router. Please use reactRouterTracingIntegration instead. @ https://leanpub.com/assets/entry.client-B6ZZg4Jn.js:24

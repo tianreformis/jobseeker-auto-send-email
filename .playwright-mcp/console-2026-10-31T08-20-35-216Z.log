@@ -1,0 +1,11 @@
+[     848ms] [LOG] [NAV] Script loaded and running @ :0
+[    1000ms] [WARNING] [Meta Pixel] - Invalid parameter format for currency. Please refer https://developers.facebook.com/docs/meta-pixel/reference/ for valid parameter specifications. @ https://connect.facebook.net/en_US/fbevents.js:205
+[    1114ms] [WARNING] [TikTok Pixel] - Invalid Event Name Format
+Issue: 1 event name was rejected for not following TikTok format requirements.
+Suggestion: Go to your source code and update these event types according to TikTok format requirements. See https://ads.tiktok.com/help/article/custom-events?lang=en for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MTJjYzk1MmQ1MQ.js:0
+[    1255ms] [WARNING] [TikTok Pixel] - Invalid Event Name Format
+Issue: 1 event name was rejected for not following TikTok format requirements.
+Suggestion: Go to your source code and update these event types according to TikTok format requirements. See https://ads.tiktok.com/help/article/custom-events?lang=en for more information. @ https://analytics.tiktok.com/i18n/pixel/static/main.MTJjYzk1MmQ1MQ.js:0
+[    1258ms] [LOG] Job details pushed to dataLayer: [Object, Object, Arguments(3), Object, Arguments(3), Arguments(3), Object, Object] @ :2
+[    1375ms] [ERROR] Not signed in with the identity provider. @ https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect:0
+[    2108ms] [ERROR] Failed to load resource: net::ERR_CERT_COMMON_NAME_INVALID @ https://ps.eyeota.net/match?bid=d9gd6vu&uid=1e4839c3835048fbfa4a4f1c489f65cd&gdpr=0&gdpr_consent=:0

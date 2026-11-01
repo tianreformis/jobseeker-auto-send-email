@@ -1,0 +1,53 @@
+{
+  "name": "Kristian Reformis",
+  "title": "Full-Stack Developer & AI Integration Engineer",
+  "location": "Banjarmasin, Indonesia (remote)",
+  "email": "tianreformis@gmail.com",
+  "links": {
+    "portfolio": "https://tianreformis.web.id",
+    "github": "https://github.com/tianreformis",
+    "linkedin": "https://www.linkedin.com/in/kristian-reformis-1148291b2/",
+    "leanpub": "https://leanpub.com/u/tianreformis"
+  },
+  "summary": "Full-stack developer (9+ yrs) specializing in React, TypeScript, Next.js, Node.js, Python and LLM integration (RAG, agentic workflows, prompt engineering). Ships end-to-end SaaS and AI products from design to deployment; open to remote worldwide.",
+  "phone": "+62 852-4703-7566",
+  "rate": { "currency": "USD", "hourlyMin": 6, "projectMin": 40 },
+  "languages": ["Indonesian (native)", "English (professional working proficiency)"],
+  "skills": {
+    "web": ["React", "TypeScript", "Next.js", "Tailwind CSS", "Node.js", "Express", "REST API", "PostgreSQL", "Prisma", "Docker", "SQLite", "MySQL", "Supabase", "Vercel", "Git/GitHub", "Shadcn UI", "FastAPI", "PHP (Laravel)"],
+    "ai": ["LLM API integration (OpenAI, Gemini, OpenRouter)", "RAG", "prompt engineering", "agentic workflows", "AI automation", "chatbot development", "Python (Pandas, Scikit-learn)"]
+  },
+  "projects": [
+    { "name": "SD Kudangan 2 LMS", "track": "web", "desc": "School LMS + management platform (Next.js, Prisma, PostgreSQL), live at dev-sdkudangan2.vercel.app", "result": "Digitized academic records and learning materials for the school" },
+    { "name": "CMS SMP Sanjaya Banjarbaru", "track": "web", "desc": "School website + Payload CMS (Next.js, TypeScript, PostgreSQL), VPS deployment", "result": "School staff publish news/announcements independently without a developer" },
+    { "name": "Trademind", "track": "ai", "desc": "AI-powered trading journal SaaS with OpenRouter analysis, NextAuth, Xendit billing", "result": "Production-ready SaaS with free/pro plans" },
+    { "name": "Solana Trade Bot", "track": "ai", "desc": "Automated Solana DEX trading bot (Raydium, Jupiter, Pump.fun) + Next.js dashboard with anti-rugpull screening", "result": "Multi-strategy: sniper, copy trading, RSI scalping" },
+    { "name": "Cryptonexus", "track": "web", "desc": "Crypto analytics platform (Next.js 14, Cloudflare Workers + D1, CoinGecko API), 90+ coins", "result": "Real-time dashboard with sentiment analysis and subscriptions" },
+    { "name": "Word Slash HTML5 Game", "track": "web", "desc": "Action typing game on HTML5 Canvas, dependency-free Vanilla JavaScript", "result": "github.com/tianreformis/word-slash" },
+    { "name": "TianEduAI", "track": "ai", "desc": "AI study assistant for education (school subjects, science, programming), live at https://tianeduaiv1.vercel.app/", "result": "Verified live via Playwright 2026-10-31; no public user metrics shown on site" },
+    { "name": "Pedago.ai", "track": "ai", "desc": "Automatic lesson-plan (RPP/Prota/Prosem) generator in Kemendikdasmen format with Word/PDF export, live at https://pedagoai.web.id/ (formerly Leksika AI)", "result": "Verified live via Playwright 2026-10-31; landing page shows 1K+ lesson plans, 100+ teachers, 34 provinces (site claim, not independently audited)" }
+  ],
+  "experience": [
+    { "role": "Freelance Full-Stack Developer", "org": "Remote, project-based", "period": "2017 - present" },
+    { "role": "Informatics Teacher & Head of Computer Lab", "org": "Kanaan Christian School, Banjarmasin", "period": "Jun 2022 - present" },
+    { "role": "Computer Lab Assistant", "org": "STMIK Indonesia Banjarmasin", "period": "Jun 2019 - Jun 2021" }
+  ],
+  "education": [{ "degree": "S.Kom Informatics Engineering", "org": "STMIK Indonesia Banjarmasin", "period": "2017 - 2021", "detail": "GPA 3.5/4.0" }],
+  "publications": [
+    "The Agents.md Cookbook: Rules Files for AI Coding Agents — Leanpub, 100% complete (2026-10-17) — https://leanpub.com/the-agents-md-cookbook",
+    "The Agentic Security Playbook: Securing AI Coding Agents and the Software They Ship — Leanpub, 100% complete (2026-10-17) — https://leanpub.com/the-agentic-security-playbook",
+    "Ship It for Clients: A Practical Guide to Delivering AI-Built Software Professionally — Leanpub, 100% complete (2026-10-17) — https://leanpub.com/shipit-for-clients",
+    "The AI-Driven Educator: A Step-by-Step Guide for Teachers to Automate Administration and Inspire Learning — Leanpub, 100% complete (2026-10-16) — https://leanpub.com/the-ai-driven-educator",
+    "Supply Chain Security for Solo Builders: Protect Your Dependencies, Secrets and Deployment — Leanpub, 100% complete (2026-10-15) — https://leanpub.com/supplychain-security-for-solo-builders",
+    "Build Your Own Finance Tracker: A Mobile Budgeting and Portfolio App with Flutter and AI — Leanpub, 100% complete (2026-10-15) — https://leanpub.com/buildyourownfinancetracker",
+    "The AI Coding Failure Casebook: Agent-Built Apps Break, and How to Fix Them — Leanpub, 100% complete (2026-10-15) — https://leanpub.com/the-ai-coding-failure-casebook",
+    "Build Your School's Software with AI: LMS, Inventory System, and Admin Tools with Vibe Coding — Leanpub (2026) — https://leanpub.com/buildyourschoolssoftwarewithai",
+    "Vibe Coding with OpenCode: From Beginner to Pro — Leanpub, 100% complete (2026-10-09) — https://leanpub.com/vibecoding-with-opencode-from-beginner-to-pro",
+    "Python Era AI (Full Cookbook): Mastering Web, Desktop, and Data Science — Leanpub, 40% complete (2026-02-18, Bahasa Indonesia) — https://leanpub.com/pythoneraaifullcookbook",
+    "Learn JavaScript in 30 Days: Projects-Based Approach — Leanpub, 100% complete (2026-02-15) — https://leanpub.com/learnjavascriptin30daysprojects-basedapproach",
+    "Cyber Security Basic: Protect Yourself Online — Leanpub, 100% complete (2026-02-15) — https://leanpub.com/cybersecuritybasicprotectyourselfonline",
+    "Blog tianreformis.web.id: The Hidden Journey of a Prompt; Three Myths About AI in the Classroom; Your AI Can Now Place the Trade; The Complete Guide to Supabase; Mastering TypeScript for React Developers; Building Scalable APIs with Next.js 14"
+  ],
+  "availability": "24/7 (UTC+8)",
+  "doNotClaim": ["pengalaman enterprise skala besar", "sertifikasi yang tidak tercantum"]
+}
